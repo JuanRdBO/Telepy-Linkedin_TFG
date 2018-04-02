@@ -26,7 +26,6 @@ make it for python programmers easy to use.
     * [HTTP API example](#http)
     * [Developer Authentication](#dev)
     * [Production Authentication](#prod)
-    * [Quick Usage From Python Interpreter](#quick)
     * [Profile API](#profile)
 * [Connections API](#connections)
 * [Search API](#search)
@@ -128,15 +127,6 @@ from linkedin import linkedin
 application = linkedin.LinkedInApplication(token='###################################')
 ```
 
-### <a name="quick"></a>Quick Usage From Python Interpreter
-
-For testing the library using an interpreter, you can benefit from the test server.
-
-```python
-from linkedin import server
-application = server.quick_api(KEY, SECRET)
-```
-This will print the authorization url to the screen. Go into that URL using a browser to grant access to the application. After you do so, the method will return with an API object you can now use.
 
 ### <a name="profile"></a>Profile API
 

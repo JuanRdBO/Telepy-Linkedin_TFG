@@ -7,6 +7,9 @@ Telepy-LinkedIn
 
 Python interface to the LinkedIn API
 
+*Communication campus - Poblenou*
+
+
 This library provides a pure Python interface to the LinkedIn
 **Profile**, **Group**, **Company**, **Jobs**, **Search**, **Share**,
 **Network** and **Invitation** REST APIs.
@@ -16,6 +19,13 @@ lets people bring their LinkedIn profiles and networks with them to your
 site or application via their OAuth based API. This library provides a
 lightweight interface over a complicated LinkedIn OAuth based API to
 make it for python programmers easy to use.
+
+
+  
+  
+# Table of contents
+
+
 
 
 

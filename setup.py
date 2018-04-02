@@ -8,7 +8,7 @@ except ImportError:
 
 from linkedin import __version__
 
-with open(os.path.join(os.path.dirname(__file__), 'README.rst')) as readme:
+with open(os.path.join(os.path.dirname(__file__), 'README.md')) as readme:
       long_description = readme.read()
 
       setup(name='Telepy3-linkedin',

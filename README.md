@@ -41,20 +41,14 @@ make it for python programmers easy to use.
 
 ## <a name="install"></a>Installation
 
-Available with the Python Package Index: https://pypi.python.org/pypi/python3-linkedin
-
-```shell
-pip install python3-linkedin
-```
-
-If prefered, the library can be compiled with following commands:
+The library can be compiled with following commands:
 
 ```shell
 ## First clone the repository
-git clone https://github.com/DEKHTIARJonathan/python3-linkedin.git
+git clone https://github.com/JuanRdBO/Telepy-linkedin.git
 
 ## Then install the library
-python setup.py install
+python tele.py -i
 ```
 
 ## <a name="auth"></a>Authentification

@@ -1,9 +1,14 @@
-Python3-LinkedIn
+<a href="https://www.upf.edu/pra/en/3375/21626.html">
+    <img src="https://user-images.githubusercontent.com/28183468/31711907-e5e3bc2e-b3f9-11e7-9035-dcc3f094a502.png" alt="UPF logo_" title="UPF_" align="right" height="100" />
+</a>
+
+Telepy-LinkedIn
 ================
 
-|LinkedIn| |Build Status| |PyPI version|
-
 Python interface to the LinkedIn API
+
+*Communication campus - Poblenou*
+
 
 This library provides a pure Python interface to the LinkedIn
 **Profile**, **Group**, **Company**, **Jobs**, **Search**, **Share**,
@@ -15,61 +20,9 @@ site or application via their OAuth based API. This library provides a
 lightweight interface over a complicated LinkedIn OAuth based API to
 make it for python programmers easy to use.
 
-Contributing guidelines
-=======================
 
-Please have a look to the `Contributing Guidelines <CONTRIBUTING.md>`__
-first.
 
-We follow the "fork-and-pull" Git workflow.
 
-1. **Fork** the repo on GitHub
-2. **Clone** the project to your own machine
-3. **Commit** changes to your own branch
-4. **Push** your work back up to your fork
-5. Submit a **Pull request** so that we can review your changes
-
-NOTE: Be sure to merge the latest from "upstream" before making a pull
-request!
-
-Acknowledgement
----------------
-
--  This library was created by `Ozgur
-   Vatansever <https://github.com/ozgur>`__.
--  In 2016, the library was converted to Python 3 by `Marshall
-   Lusher <https://github.com/marshalllusher>`__
-
-Maintainer : `Jonathan Dekhtiar <https://github.com/DEKHTIARJonathan>`__
-
-Contributors: \* `Ozgur Vatansever <https://github.com/ozgur>`__ \*
-`Marshall Lusher <https://github.com/marshalllusher>`__ \* `Jonathan
-Dekhtiar <https://github.com/DEKHTIARJonathan>`__ \* `Abraham
-Williams <https://github.com/abraham>`__ \* `Matthew A.
-Russell <https://github.com/ptwobrussell>`__ \* `Samuel
-Marks <https://github.com/SamuelMarks>`__ \* `Emlyn
-Clay <https://github.com/EmlynC>`__ \* `Ivan
-Kravets <https://github.com/ivankravets>`__ \* `Devin
-Barry <https://github.com/devinbarry>`__ \* `Josh
-Owen <https://github.com/joshowen>`__ \* `Chengxin
-Cai <https://github.com/iacxc>`__ \* `Yuri
-Prezument <https://github.com/yprez>`__ \* `Jay
-Zeng <https://github.com/jayzeng>`__ \* `Julien
-Muniak <https://github.com/Darune>`__ \* `John
-Franey <https://github.com/johnfraney>`__ \* `Adrian
-Sgn <https://github.com/adrian-sgn>`__ \* `Luca Adalberto
-Vandro <https://github.com/lucavandro>`__ \*
-`Jack <https://github.com/mclate>`__ \* `Scotty
-Delta <https://github.com/scottydelta>`__ \* `Michael
-Blakeley <https://github.com/mblakele>`__ \* `Song
-Zhen-Gang <https://github.com/lyroge>`__ \* `Ismail
-Coskuner <https://github.com/ismix>`__ \*
-`Marshyang <https://github.com/marshyang>`__ \* `Iurii
-Kudriavtsev <https://github.com/ikudriavtsev>`__ \* `Kartik
-Ayyar <https://github.com/ayyar>`__ \* `Kit
-Sunde <https://github.com/kitsunde>`__ \* `Patrick
-Müssig <https://github.com/b3nelof0n>`__ \* `Aurélien
-Grosdidier <https://github.com/aurelg>`__
 
 Installation
 ------------

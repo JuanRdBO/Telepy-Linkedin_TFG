@@ -118,7 +118,7 @@ def parse_company_data(company_data_url):
 
 fetch_company_dir = fetch_request('https://www.linkedin.com/directory/companies/')
 if fetch_company_dir:
-    print 'Starting Company Url Scraping'
+    print 'Starting Company url Scraping'
     print '-----------------------------'
     sel = lxml.html.fromstring(fetch_company_dir.content)
     SUB_PAGES_XPATH = '//div[@class="bucket-list-container"]/ol/li/a/@href'

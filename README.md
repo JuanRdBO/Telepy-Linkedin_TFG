@@ -22,6 +22,7 @@ make it for python programmers easy to use.
 
 # Table of contents
 * [Installation](#install)
+* [Usage of tele.py](#usage)
 * [Authentification](#auth)
     * [HTTP API example](#http)
     * [Developer Authentication](#dev)
@@ -48,6 +49,22 @@ git clone https://github.com/JuanRdBO/Telepy-linkedin.git
 
 ## Then install the library
 python tele.py -i
+```
+## <a name="usage"></a>Usage of tele.py
+
+For now, the program has the following options to choose from when interactiong with the LinkedIn API. 
+
+**Disclaimer:** This python interface is ment to be used to search for company data.
+
+```shell
+Usage: tele.py [options] Company to be searched
+
+Options:
+  -h, --help     show this help message and exit
+  -f, --file     write report to a file, with name of the searched company
+  -e, --export   export .json file to a .csv readable one. (only with -f flag)
+  -a, --args     open a webbrowser to show relevant search arguments.
+  -i, --install  execute to install all dependencies
 ```
 
 ## <a name="auth"></a>Authentification

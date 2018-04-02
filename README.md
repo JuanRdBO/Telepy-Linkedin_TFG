@@ -1,11 +1,25 @@
-# Python3-LinkedIn
+<a href="https://www.upf.edu/pra/en/3375/21626.html">
+    <img src="https://user-images.githubusercontent.com/28183468/31711907-e5e3bc2e-b3f9-11e7-9035-dcc3f094a502.png" alt="UPF logo_" title="UPF_" align="right" height="100" />
+</a>
 
+Telepy-LinkedIn
+================
 
 Python interface to the LinkedIn API
 
-This library provides a pure Python interface to the LinkedIn **Profile**, **Group**, **Company**, **Jobs**, **Search**, **Share**, **Network** and **Invitation** REST APIs.
+*Communication campus - Poblenou*
 
-[LinkedIn](https://developer.linkedin.com) provides a service that lets people bring their LinkedIn profiles and networks with them to your site or application via their OAuth based API. This library provides a lightweight interface over a complicated LinkedIn OAuth based API to make it for python programmers easy to use.
+
+This library provides a pure Python interface to the LinkedIn
+**Profile**, **Group**, **Company**, **Jobs**, **Search**, **Share**,
+**Network** and **Invitation** REST APIs.
+
+`LinkedIn <https://developer.linkedin.com>`__ provides a service that
+lets people bring their LinkedIn profiles and networks with them to your
+site or application via their OAuth based API. This library provides a
+lightweight interface over a complicated LinkedIn OAuth based API to
+make it for python programmers easy to use.
+
 
 
 ## Installation

@@ -22,7 +22,21 @@ make it for python programmers easy to use.
 
 # Table of contents
 * [Installation](#install)
-
+* [Authentification](#auth)
+    * [HTTP API example](#http)
+    * [Developer Authentication](#dev)
+    * [Production Authentication](#prod)
+    * [Quick Usage From Python Interpreter](#quick)
+    * [Profile API](#profile)
+* [Connections API](#connections)
+* [Search API](#search)
+* [Group API](#group)
+* [Company API](#company)
+* [Job API](#job)
+* [Share API](#share)
+* [Network API](#network)
+* [Invitation API](#invitation)
+* [Throttle Limits](#throttle)
 
 
 ## <a name="install"></a>Installation
@@ -43,11 +57,11 @@ git clone https://github.com/DEKHTIARJonathan/python3-linkedin.git
 python setup.py install
 ```
 
-## Authentication
+## <a name="auth"></a>Authentification
 
 The LinkedIn REST API now supports the **OAuth 2.0** protocol for authentication. This package provides a full OAuth 2.0 implementation for connecting to LinkedIn as well as an option for using an OAuth 1.0a flow that can be helpful for development purposes or just accessing your own data.
 
-### HTTP API example
+### <a name="http"></a>HTTP API example
 
 Please declare and setup a new application on the [LinkedIn Developer Console](https://www.linkedin.com/developer/apps). Note your `Client ID` and `Client secret`. Configure it to redirect to `http://localhost:8080/code/` (or to whatever local URL you decide, as long as you change it in all `examples` as well).
 
@@ -58,7 +72,8 @@ Set `Client ID` and `Client secret` in `examples/http_api.py`, then execute:
   2. A tab in your browser will open up
   3. You'll then be presented with a list of available routes, hit any
 
-### Developer Authentication
+### <a name="dev"></a>Developer Authentication
+
 
 To connect to LinkedIn as a developer or just to access your own data, you don't even have to implement an OAuth 2.0 flow that involves redirects. You can simply use the 4 credentials that are provided to you in your LinkedIn appliation as part of an OAuth 1.0a flow and immediately access your data. Here's how:
 
@@ -95,8 +110,9 @@ application = linkedin.LinkedInApplication(authentication)
 application.get_profile()
 ```
 
+ 
+### <a name="prod"></a>Production Authentication
 
-### Production Authentication
 
 You may want to read the [LinkedIn documentation about the OAuth2 authentication process](https://developer.linkedin.com/docs/oauth2) first.
 
@@ -118,7 +134,7 @@ from linkedin import linkedin
 application = linkedin.LinkedInApplication(token='###################################')
 ```
 
-## Quick Usage From Python Interpreter
+### <a name="quick"></a>Quick Usage From Python Interpreter
 
 For testing the library using an interpreter, you can benefit from the test server.
 
@@ -128,7 +144,8 @@ application = server.quick_api(KEY, SECRET)
 ```
 This will print the authorization url to the screen. Go into that URL using a browser to grant access to the application. After you do so, the method will return with an API object you can now use.
 
-## Profile API
+### <a name="profile"></a>Profile API
+
 The Profile API returns a member's LinkedIn profile. You can use this call to return one of two versions of a user's profile which are **public profile** and **standard profile**. For more information, check out the [documentation](https://developers.linkedin.com/documents/profile-api).
 
 ```python
@@ -160,7 +177,8 @@ application.get_profile(selectors=['id', 'first-name', 'last-name', 'location', 
  u'numConnections': 13}
 ```
 
-## Connections API
+## <a name="connections"></a>Connections API
+
 The Connections API returns a list of **1st degree** connections for a user who has granted access to their account. For more information, you check out its [documentation](https://developers.linkedin.com/documents/connections-api).
 
 To fetch your connections, you simply call **.get_connections()** method with proper GET querystring:
@@ -183,7 +201,8 @@ application.get_connections()
 application.get_connections(selectors=['headline', 'first-name', 'last-name'], params={'start':10, 'count':5})
 ```
 
-## Search API
+## <a name="search"></a>Search API
+
 There are 3 types of Search APIs. One is the **People Search** API, second one is the **Company Search** API and the last one is **Jobs Search** API.
 
 The People Search API returns information about people. It lets you implement most of what shows up when you do a search for "People" in the top right box on LinkedIn.com.
@@ -258,7 +277,8 @@ application.search_job(selectors=[{'jobs': ['id', 'customer-job-code', 'posting-
     u'postingDate': {u'day': 21, u'month': 3, u'year': 2013}}]}}
 ```
 
-## Group API
+## <a name="group"></a>Group API
+
 The Groups API provides rich access to read and interact with LinkedIn’s groups functionality. You can get more information from [here](https://developers.linkedin.com/documents/groups-api). By the help of the interface, you can fetch group details, get your group memberships as well as your posts for a specific group which you are a member of.
 
 ```python
@@ -296,7 +316,9 @@ description = 'It is a great book for the keen beginners. Check it out!'
 application.submit_group_post(41001, title, summary, submitted_url, submitted_image_url, description)
 ```
 
-## Company API
+
+## <a name="company"></a>Company API
+
 The Company API:
  * Retrieves and displays one or more company profiles based on the company ID or universal name.
  * Returns basic company profile data, such as name, website, and industry.
@@ -362,7 +384,8 @@ application.unfollow_company(1035)
 True
 ```
 
-## Job API
+## <a name="job"></a>Job API
+
 The Jobs APIs provide access to view jobs and job data. You can get more information from its [documentation](https://developers.linkedin.com/documents/job-lookup-api-and-fields).
 
 ```python
@@ -382,7 +405,8 @@ application.get_job_bookmarks()
 {u'_total': 0}
 ```
 
-## Share API
+## <a name="share"></a>Share API
+
 Network updates serve as one of the core experiences on LinkedIn, giving users the ability to share rich content to their professional network. You can get more information from [here](https://developers.linkedin.com/documents/share-api).
 
 ```
@@ -391,7 +415,9 @@ application.submit_share('Posting from the API using JSON', 'A title for your sh
  'updateURL': 'https://www.linkedin.com/updates?discuss=&amp;scope=8219502&amp;stype=M&amp;topic=5705061301949063168&amp;type=U&amp;a=aovi'}
 ```
 
-## Network API
+
+## <a name="network"></a>Network API
+
 The Get Network Updates API returns the users network updates, which is the LinkedIn term for the user's feed. This call returns most of what shows up in the middle column of the LinkedIn.com home page, either for the member or the member's connections. You can get more information from [here](https://developers.linkedin.com/documents/get-network-updates-and-statistics-api).
 
 There are many network update types. You can look at them by importing **NETWORK_UPDATES** enumeration.
@@ -432,7 +458,9 @@ application.get_network_updates(update_types)
    u'updateType': u'SHAR'}]}
 ```
 
-## Invitation API
+
+## <a name="invitation"></a>Invitation API
+
 The Invitation API allows your users to invite people they find in your application to their LinkedIn network. You can get more information from [here](https://developers.linkedin.com/documents/invitation-api).
 
 ```python
@@ -456,6 +484,8 @@ application.send_invitation(invitation)
 True
 ```
 
-## Throttle Limits
+## <a name="throttle"></a>Throttle Limits
+
+
 
 LinkedIn API keys are throttled by default. You should take a look at the [Throttle Limits Documentation](https://developer.linkedin.com/documents/throttle-limits) to get more information about it.

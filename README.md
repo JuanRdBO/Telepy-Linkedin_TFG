@@ -1,8 +1,5 @@
 # Python3-LinkedIn
 
-[![LinkedIn](https://img4.hostingpics.net/pics/514667Capture.png)](http://developer.linkedin.com)
-[![Build Status](https://travis-ci.org/DEKHTIARJonathan/python3-linkedin.svg?branch=master)](https://travis-ci.org/DEKHTIARJonathan/python3-linkedin)
-[![PyPI version](https://badge.fury.io/py/python3-linkedin.svg)](https://badge.fury.io/py/python3-linkedin)
 
 Python interface to the LinkedIn API
 
@@ -10,56 +7,6 @@ This library provides a pure Python interface to the LinkedIn **Profile**, **Gro
 
 [LinkedIn](https://developer.linkedin.com) provides a service that lets people bring their LinkedIn profiles and networks with them to your site or application via their OAuth based API. This library provides a lightweight interface over a complicated LinkedIn OAuth based API to make it for python programmers easy to use.
 
-# Contributing guidelines
-
-Please have a look to the [Contributing Guidelines](CONTRIBUTING.md) first.
-
-We follow the "fork-and-pull" Git workflow.
-
-1. **Fork** the repo on GitHub
-2. **Clone** the project to your own machine
-3. **Commit** changes to your own branch
-4. **Push** your work back up to your fork
-5. Submit a **Pull request** so that we can review your changes
-
-NOTE: Be sure to merge the latest from "upstream" before making a pull request!
-
-## Acknowledgement
-
-* This library was created by [Ozgur Vatansever](https://github.com/ozgur).
-* In 2016, the library was converted  to Python 3 by [Marshall Lusher](https://github.com/marshalllusher)
-
-Maintainer : [Jonathan Dekhtiar](https://github.com/DEKHTIARJonathan)
-
-Contributors:
-* [Ozgur Vatansever](https://github.com/ozgur)
-* [Marshall Lusher](https://github.com/marshalllusher)
-* [Jonathan Dekhtiar](https://github.com/DEKHTIARJonathan)
-* [Abraham Williams](https://github.com/abraham)
-* [Matthew A. Russell](https://github.com/ptwobrussell)
-* [Samuel Marks](https://github.com/SamuelMarks)
-* [Emlyn Clay](https://github.com/EmlynC)
-* [Ivan Kravets](https://github.com/ivankravets)
-* [Devin Barry](https://github.com/devinbarry)
-* [Josh Owen](https://github.com/joshowen)
-* [Chengxin Cai](https://github.com/iacxc)
-* [Yuri Prezument](https://github.com/yprez)
-* [Jay Zeng](https://github.com/jayzeng)
-* [Julien Muniak](https://github.com/Darune)
-* [John Franey](https://github.com/johnfraney)
-* [Adrian Sgn](https://github.com/adrian-sgn)
-* [Luca Adalberto Vandro](https://github.com/lucavandro)
-* [Jack](https://github.com/mclate)
-* [Scotty Delta](https://github.com/scottydelta)
-* [Michael Blakeley](https://github.com/mblakele)
-* [Song Zhen-Gang](https://github.com/lyroge)
-* [Ismail Coskuner](https://github.com/ismix)
-* [Marshyang](https://github.com/marshyang)
-* [Iurii Kudriavtsev](https://github.com/ikudriavtsev)
-* [Kartik Ayyar](https://github.com/ayyar)
-* [Kit Sunde](https://github.com/kitsunde)
-* [Patrick Müssig](https://github.com/b3nelof0n)
-* [Aurélien Grosdidier](https://github.com/aurelg)
 
 ## Installation
 

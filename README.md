@@ -67,6 +67,8 @@ Options:
   -i, --install  execute to install all dependencies
 ```
 
+**The following sections provide more info and important insights to the usage of this repository.**
+
 ## <a name="auth"></a>Authentification
 
 The LinkedIn REST API now supports the **OAuth 2.0** protocol for authentication. This package provides a full OAuth 2.0 implementation for connecting to LinkedIn as well as an option for using an OAuth 1.0a flow that can be helpful for development purposes or just accessing your own data.

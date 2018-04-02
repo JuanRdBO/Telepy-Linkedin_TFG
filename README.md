@@ -20,9 +20,12 @@ site or application via their OAuth based API. This library provides a
 lightweight interface over a complicated LinkedIn OAuth based API to
 make it for python programmers easy to use.
 
+# Table of contents
+* [Installation](#install)
 
 
-## Installation
+
+## <a name="install"></a>Installation
 
 Available with the Python Package Index: https://pypi.python.org/pypi/python3-linkedin
 

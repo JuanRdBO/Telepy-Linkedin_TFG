@@ -21,31 +21,33 @@ lightweight interface over a complicated LinkedIn OAuth based API to
 make it for python programmers easy to use.
 
 
-  
-  
-# Table of contents
-
-
 
 
 
 Installation
 ------------
 
-The library can be compiled with following commands:
+Available with the Python Package Index:
+https://pypi.python.org/pypi/python3-linkedin
+
+.. code:: shell
+
+    pip install python3-linkedin
+
+If prefered, the library can be compiled with following commands:
 
 .. code:: shell
 
     ## First clone the repository
-    git clone https://github.com/JuanRdBO/Telepy-linkedin.git
+    git clone https://github.com/DEKHTIARJonathan/python3-linkedin.git
 
     ## Then install the library
-    python tele.py -i
+    python setup.py install
 
 Authentication
 --------------
 
-The LinkedIn REST API supports the **OAuth 2.0** protocol for
+The LinkedIn REST API now supports the **OAuth 2.0** protocol for
 authentication. This package provides a full OAuth 2.0 implementation
 for connecting to LinkedIn as well as an option for using an OAuth 1.0a
 flow that can be helpful for development purposes or just accessing your

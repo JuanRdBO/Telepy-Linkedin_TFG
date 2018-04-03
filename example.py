@@ -96,7 +96,7 @@ class Entry(Frame):
 
     def on_button_click(self):
         if var.get()==1:
-            print("sudo python tele.py -f -e " + self.entry.get()+".csv")
+            print("sudo python tele.py -f -e " + self.entry.get())
             os.system("sudo python tele.py -f -e " + self.entry.get())
         else:
             os.system("sudo python tele.py -l -f -e " + self.entry.get())

@@ -19,9 +19,11 @@ parser.add_option("-f","--file", action="store_true",dest="SAVETOFILE",help="wri
 parser.add_option("-e","--export", action="store_true",dest="EXPORTCSV",help="export .json file to a .csv readable one. (only with -f flag)")
 parser.add_option("-a","--args", action="store_true",dest="ARGUMENTS",help="open a webbrowser to show relevant search arguments.")
 parser.add_option("-i","--install", action="store_true",dest="INSTALL",help="execute to install all dependencies")
-if len(sys.argv)==1:
-    parser.print_help(sys.stderr)
-    sys.exit(1)
+parser.add_option("-l","--location", action="store_true",dest="LOCATION",help="to search by location. Search by name is default")
+
+# if len(sys.argv)==1:
+#     parser.print_help(sys.stderr)
+#     sys.exit(1)
 
 # ejecuta función de input
 (options, args) = parser.parse_args()
@@ -44,7 +46,11 @@ if options.INSTALL==True:
 # función de printeo de empresa
 def printCompanyInfo(company):
 	# Se ejecuta el script de linkedin provisto en el repositorio con search company
-	print_json = application.search_company(selectors=[{'companies': ['name', 'website-url','employee-count-range']}], params={'keywords': company})
+	if options.LOCATION==True:
+		print_json = application.search_company(selectors=[{'companies': ['name', 'website-url','employee-count-range','locations']}], params={'facet': 'location,'+company})
+	else: 
+		print_json = application.search_company(selectors=[{'companies': ['name', 'website-url','employee-count-range','locations']}], params={'keywords': company})
+
 
 	if options.SAVETOFILE==True:
 		if not os.path.exists(os.path.dirname("output/json/"+company)):
@@ -91,14 +97,14 @@ printCompanyInfo(''.join(args))
 
 
 # ¿Otra query?
-while True: 
-	var = input("Do you want to search for another company? [y/n] ")
-	if str(var)=="y":
-		var_2 = input("Which company? ")
-		printCompanyInfo(str(var_2))
-		continue
-	else:
-		print("Exiting")
-		quit()
+# while True: 
+# 	var = input("Do you want to search for a company? [y/n] ")
+# 	if str(var)=="y":
+# 		var_2 = input("Which company? ")
+# 		printCompanyInfo(str(var_2))
+# 		continue
+# 	else:
+# 		print("Exiting")
+# 		quit()
 		
 

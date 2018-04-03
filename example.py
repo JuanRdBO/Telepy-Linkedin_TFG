@@ -7,8 +7,12 @@ import tkinter
 from PIL import Image, ImageTk
 import os
 #from tele.py import printCompanyInfo
+from tkinter import filedialog
+from tkinter import ttk
+from tkinter.scrolledtext import ScrolledText
 
 
+root = Tk()
 
 class ABC(Frame):
     def __init__(self,parent=None):
@@ -42,7 +46,6 @@ def sel():
     selection = "You selected to search by " + text
     label.config(text = selection)
 
-root = Tk()
 
 text = StringVar()
 E1 = StringVar()
@@ -88,10 +91,39 @@ class Entry(Frame):
         button = tkinter.Button(text="Search", command=self.on_button_click)
         button.pack(fill=tkinter.BOTH, expand=0)
 
-        button_2 = tkinter.Button(text="Show CSV", command=self.on_button_click_show)
+        button_2 = tkinter.Button(text="Show CSV", command=self.on_button_click_show_csv)
         button_2.pack(fill=tkinter.BOTH, expand=0)
 
-    def on_button_click_show(self):
+        self.NewWindow = tkinter.Button(self.master, 
+                                text="Show Json", 
+                                command=self.on_button_click_show_json)
+        self.NewWindow.pack(fill=tkinter.BOTH, expand=0)
+        
+        
+
+
+    def on_button_click_show_json(self):
+        self.root = tkinter.Toplevel()
+        self.root.title("Showing: "+self.entry.get()+".json")
+        
+    
+        # self.txt = ScrolledText(self.root, undo=True)
+        # self.txt['font'] = ('consolas', '12')
+        # self.txt.pack(expand=True, fill='both')
+        
+        scrollbar = Scrollbar(self.root)
+        scrollbar.pack( side = RIGHT, fill = Y )
+        mylist = Listbox(self.root, yscrollcommand = scrollbar.set )
+
+        with open("output/json/"+self.entry.get()+".json", "r") as f:
+            Label(self.root, text=f.read()).pack()
+
+        mylist.pack( side = LEFT, fill = BOTH )
+        scrollbar.config( command = mylist.yview )
+
+        
+
+    def on_button_click_show_csv(self):
         os.system("open 'output/csv/'"+self.entry.get()+".csv")
 
     def on_button_click(self):

@@ -2,24 +2,96 @@
         "values": [
             {
                 "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "name": "Reed Recruiting Group is now apart of Apple & Assocsiates",
+                "websiteUrl": "http://www.appleassoc.com/"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "name": "Talgo",
+                "websiteUrl": "www.talgo.com"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "name": "TechJini",
+                "websiteUrl": "http://www.techjini.com"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "name": "Vibes",
+                "websiteUrl": "www.vibes.com"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "name": "Magzter",
+                "websiteUrl": "www.magzter.com"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "name": "Payscape",
+                "websiteUrl": "www.payscape.com"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "name": "All About Apple",
+                "websiteUrl": "www.allaboutapple.com"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "name": "NH Learning Solutions Corporation",
+                "websiteUrl": "www.nhls.com"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "name": "Go To Travel Guides - Travel Apps for iPhone, iPad, Android, Apple TV & Amazon Fire TV Stick",
+                "websiteUrl": "http://www.gototravelguides.net"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "name": "Other World Computing",
+                "websiteUrl": "http://www.macsales.com"
+            }
+        ]
+    }
+{
+    "companies": {
+        "_count": 10,
+        "_start": 0,
+        "_total": 26692,
+        "values": [
+            {
+                "employeeCountRange": {
                     "code": "I",
                     "name": "10001+"
-                },
-                "locations": {
-                    "_total": 1,
-                    "values": [
-                        {
-                            "address": {
-                                "city": "Cupertino",
-                                "postalCode": "95014",
-                                "street1": "1 Infinite Loop"
-                            },
-                            "contactInfo": {
-                                "fax": "",
-                                "phone1": "408-974-1010"
-                            }
-                        }
-                    ]
                 },
                 "name": "Apple",
                 "websiteUrl": "http://www.apple.com/"
@@ -29,22 +101,6 @@
                     "code": "B",
                     "name": "2-10"
                 },
-                "locations": {
-                    "_total": 1,
-                    "values": [
-                        {
-                            "address": {
-                                "city": "Mountain View",
-                                "postalCode": "94040",
-                                "street1": "150"
-                            },
-                            "contactInfo": {
-                                "fax": "",
-                                "phone1": ""
-                            }
-                        }
-                    ]
-                },
                 "name": "Apple Basic",
                 "websiteUrl": "http://www.applebasic.com"
             },
@@ -52,50 +108,6 @@
                 "employeeCountRange": {
                     "code": "D",
                     "name": "51-200"
-                },
-                "locations": {
-                    "_total": 5,
-                    "values": [
-                        {
-                            "address": {
-                                "city": "Barcelona",
-                                "postalCode": "08003",
-                                "street1": "Avinguda Marqu\u00e8s de l'Argentera, 17"
-                            },
-                            "contactInfo": {}
-                        },
-                        {
-                            "address": {
-                                "city": "Madrid",
-                                "postalCode": "28004",
-                                "street1": "Argensola 2, 2\u00ba izq"
-                            },
-                            "contactInfo": {}
-                        },
-                        {
-                            "address": {
-                                "city": "London",
-                                "postalCode": "EC1N 8SS",
-                                "street1": "24 Greville Street Farringdon"
-                            },
-                            "contactInfo": {}
-                        },
-                        {
-                            "address": {
-                                "city": "Bogot\u00e1",
-                                "street1": "Calle 93 B, 13-30"
-                            },
-                            "contactInfo": {}
-                        },
-                        {
-                            "address": {
-                                "city": "Ciudad de M\u00e9xico",
-                                "postalCode": "06700",
-                                "street1": "Colima 380"
-                            },
-                            "contactInfo": {}
-                        }
-                    ]
                 },
                 "name": "apple tree communications",
                 "websiteUrl": "http://www.appletreecommunications.com/"
@@ -105,22 +117,6 @@
                     "code": "C",
                     "name": "11-50"
                 },
-                "locations": {
-                    "_total": 1,
-                    "values": [
-                        {
-                            "address": {
-                                "city": "Chapin",
-                                "postalCode": "29036",
-                                "street1": "P.O. Box 996"
-                            },
-                            "contactInfo": {
-                                "fax": "803-932-2006",
-                                "phone1": "800-326-8490"
-                            }
-                        }
-                    ]
-                },
                 "name": "Apple & Associates",
                 "websiteUrl": "www.appleassoc.com"
             },
@@ -128,33 +124,6 @@
                 "employeeCountRange": {
                     "code": "F",
                     "name": "501-1000"
-                },
-                "locations": {
-                    "_total": 2,
-                    "values": [
-                        {
-                            "address": {
-                                "city": "Newtown Square",
-                                "postalCode": "19073",
-                                "street1": "7 Campus Blvd"
-                            },
-                            "contactInfo": {
-                                "fax": "",
-                                "phone1": "610.359.6500"
-                            }
-                        },
-                        {
-                            "address": {
-                                "city": "Elk Grove Village",
-                                "postalCode": "60007",
-                                "street1": "101 Northwest Point Blvd"
-                            },
-                            "contactInfo": {
-                                "fax": "",
-                                "phone1": "847.640.1150"
-                            }
-                        }
-                    ]
                 },
                 "name": "Apple Vacations",
                 "websiteUrl": "www.applevacations.com"
@@ -164,22 +133,6 @@
                     "code": "I",
                     "name": "10001+"
                 },
-                "locations": {
-                    "_total": 1,
-                    "values": [
-                        {
-                            "address": {
-                                "city": "Newtown Square",
-                                "postalCode": "19073",
-                                "street1": "7 Campus Boulevard"
-                            },
-                            "contactInfo": {
-                                "fax": "",
-                                "phone1": "6103598130"
-                            }
-                        }
-                    ]
-                },
                 "name": "Apple Leisure Group",
                 "websiteUrl": "https://www.algdevelopment.com"
             },
@@ -187,22 +140,6 @@
                 "employeeCountRange": {
                     "code": "I",
                     "name": "10001+"
-                },
-                "locations": {
-                    "_total": 1,
-                    "values": [
-                        {
-                            "address": {
-                                "city": "Independence",
-                                "postalCode": "44131",
-                                "street1": "6200 Oak Tree Blvd."
-                            },
-                            "contactInfo": {
-                                "fax": "216-328-1864",
-                                "phone1": "216-525-2775"
-                            }
-                        }
-                    ]
                 },
                 "name": "Apple American Group LLC",
                 "websiteUrl": "www.appleamerican.com"
@@ -216,17 +153,6 @@
                     "code": "C",
                     "name": "11-50"
                 },
-                "locations": {
-                    "_total": 1,
-                    "values": [
-                        {
-                            "address": {
-                                "postalCode": "2610-171"
-                            },
-                            "contactInfo": {}
-                        }
-                    ]
-                },
                 "name": "Apple Authorised Distributor Portugal",
                 "websiteUrl": "www.interlog.pt"
             },
@@ -235,24 +161,184 @@
                     "code": "B",
                     "name": "2-10"
                 },
-                "locations": {
-                    "_total": 1,
-                    "values": [
-                        {
-                            "address": {
-                                "city": "Dubai",
-                                "postalCode": "0",
-                                "street1": "Knowledge Village"
-                            },
-                            "contactInfo": {
-                                "fax": "",
-                                "phone1": ""
-                            }
-                        }
-                    ]
-                },
                 "name": "Apple Search & Selection",
                 "websiteUrl": "www.appleselection.com"
             }
         ]
     }
+}
+{
+    "companies": {
+        "_count": 10,
+        "_start": 20,
+        "_total": 26692,
+        "values": [
+            {
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "name": "Apple Rock Displays",
+                "websiteUrl": "www.AppleRock.com"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "name": "Apple International",
+                "websiteUrl": "www.appleindia.in"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "name": "Apple Federal Credit Union",
+                "websiteUrl": "www.applefcu.org"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "name": "Apple Rubber",
+                "websiteUrl": "www.applerubber.com"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "name": "Apple Bank",
+                "websiteUrl": "www.applebank.com"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "name": "Apple Physical Therapy",
+                "websiteUrl": "www.applept.com"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "name": "Apple Daily"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "name": "Apple One Temporary Employment"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "name": "APPLE RETAIL FRANCE EURL",
+                "websiteUrl": "www.apple.fr"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "name": "Apple REIT Companies",
+                "websiteUrl": "http://www.applereitcompanies.com"
+            }
+        ]
+    }
+}
+{
+    "companies": {
+        "_count": 10,
+        "_start": 40,
+        "_total": 26692,
+        "values": [
+            {
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "name": "Apple Premium Reseller Offi",
+                "websiteUrl": "www.offi.es"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "name": "Apple Nieuws Vlaanderen",
+                "websiteUrl": "https://www.a-n-v.be"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "name": "Apple Recruit",
+                "websiteUrl": "www.applerecruit.com"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "name": "Apple Music Inc"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "name": "Apple and Pear Australia Limited (APAL)",
+                "websiteUrl": "www.apal.org.au"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "name": "Apple Inc. Kuwait",
+                "websiteUrl": "www.icityq8.com"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "name": "Apple Crumble",
+                "websiteUrl": "www.apple-crumble.co.uk"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "name": "Apple Unlimited, Inc",
+                "websiteUrl": "http://www.appleunlimited.net/"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "name": "Apple Tree Partners",
+                "websiteUrl": "www.appletreepartners.com"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "name": "Apple Valley Medical Center",
+                "websiteUrl": "applevalleymedicalcenter.com"
+            }
+        ]
+    }
+}

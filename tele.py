@@ -23,6 +23,9 @@ parser.add_option("-e","--export", action="store_true",dest="EXPORTCSV",help="ex
 parser.add_option("-a","--args", action="store_true",dest="ARGUMENTS",help="open a webbrowser to show relevant search arguments.")
 parser.add_option("-i","--install", action="store_true",dest="INSTALL",help="execute to install all dependencies")
 parser.add_option("-l","--location", action="store_true",dest="LOCATION",help="to search by location. Search by name is default")
+parser.add_option("-s","--start", action="store_true",dest="START",help="to return the result from the point specified by the user")
+parser.add_option("-c","--complete", action="store_true",dest="COMPLETE",help="return complete dataset from selection. (only with -f flag)")
+
 
 # if len(sys.argv)==1:
 #     parser.print_help(sys.stderr)
@@ -47,56 +50,92 @@ if options.INSTALL==True:
 	
 
 # función de printeo de empresa
-def printCompanyInfo(company):
+def printCompanyInfo(company, starting_point, all_info):
 	# Se ejecuta el script de linkedin provisto en el repositorio con search company
 	if options.LOCATION==True:
-		print_json = application.search_company(selectors=[{'companies': ['name', 'website-url','employee-count-range','locations']}], params={'facet': 'location,'+company})
+		print_json = application.search_company(selectors=[{'companies': ['name', 'website-url','employee-count-range']}], params={'facet': 'location,'+company, 'start': starting_point})
 	else: 
-		print_json = application.search_company(selectors=[{'companies': ['name', 'website-url','employee-count-range','locations']}], params={'keywords': company})
+		print_json = application.search_company(selectors=[{'companies': ['name', 'website-url','employee-count-range']}], params={'keywords': company, 'start': starting_point})
 
 
 	if options.SAVETOFILE==True:
+
 		if not os.path.exists(os.path.dirname("output/json/"+company)):
-		    try:
-		        os.makedirs(os.path.dirname("output/json/"+company))
-		    except OSError as exc: # Guard against race condition
-		        if exc.errno != errno.EEXIST:
-		            raise
-		# Se guarda en un fichero y se formatea
-		with open("output/json/"+company+".json", 'w') as f:
-			print(json.dumps(print_json, sort_keys=True,indent=4, separators=(',', ': ')),file=f)
-
-		if options.EXPORTCSV==True:
-			lines = []
-
-			with open("output/json/"+company+".json", 'r') as f:
-			    lines = f.readlines()
-			    lines = lines[:-1]
-
-
-			with open("output/json/"+company+".json", 'w') as f:
-			    f.writelines(lines[:1] + lines[5:]) # This will skip the second line
-
-			with open("output/json/"+company+".json") as fi:
-			    data = json.load(fi)
-			    df = pd.DataFrame(data=data['values'])
-			    print(df)
-
-			if not os.path.exists(os.path.dirname("output/csv/")):
 			    try:
-			        os.makedirs(os.path.dirname("output/csv/"))
+			        os.makedirs(os.path.dirname("output/json/"+company))
 			    except OSError as exc: # Guard against race condition
 			        if exc.errno != errno.EEXIST:
 			            raise
+		if all_info==1:
+			with open("output/json/"+company+".json", 'a') as f:
+				print(json.dumps(print_json, sort_keys=True,indent=4, separators=(',', ': ')),file=f)
+		else:
+			# Se guarda en un fichero y se formatea
+			with open("output/json/"+company+".json", 'w') as f:
+				print(json.dumps(print_json, sort_keys=True,indent=4, separators=(',', ': ')),file=f)
 
-			df.to_csv("output/csv/"+company+".csv", index=False)
+
 
 	# Se envia a stdout para usuario.
 	print(json.dumps(print_json, sort_keys=True,indent=4, separators=(',', ': ')))
 
-
+starting_point=0
+if options.START==True:
+	starting_point = args[1]
+#print(starting_point)
 # se llama a la función con el primer argumento de la función
-printCompanyInfo(''.join(args))
+
+counter = 0
+all_info = 0
+
+if options.COMPLETE==True:
+	
+	company_input = ''.join(args[0])
+	for index in range(0,3):
+
+		if counter ==1:
+			printCompanyInfo(''.join(args[0]), starting_point, all_info)
+		else:
+			all_info = 1
+			printCompanyInfo(company_input, starting_point, all_info)
+		
+		starting_point = starting_point + 20
+		counter = counter +1
+		print("Done round number: " + str(counter))
+
+else:
+	printCompanyInfo(''.join(args[0]), starting_point,all_info)
+
+
+if options.EXPORTCSV==True:
+	lines = []
+	company = ''.join(args[0])
+	print(company)
+	with open("output/json/"+company+".json", 'r') as f:
+	    lines = f.readlines()
+	    lines = lines[:-1]
+
+	# if all_info==1:
+	# 	with open("output/json/"+company+".json", 'a') as f:
+	# 	    f.writelines(lines[:1] + lines[5:]) # This will skip the second line
+	# else:
+	# Se guarda en un fichero y se formatea
+	with open("output/json/"+company+".json", 'w') as f:
+		f.writelines(lines[:1] + lines[5:]) # This will skip the second line
+
+	with open("output/json/"+company+".json") as fi:
+	    data = json.load(fi)
+	    df = pd.DataFrame(data=data['values'])
+	    #print(df)
+
+	if not os.path.exists(os.path.dirname("output/csv/")):
+	    try:
+	        os.makedirs(os.path.dirname("output/csv/"))
+	    except OSError as exc: # Guard against race condition
+	        if exc.errno != errno.EEXIST:
+	            raise
+
+	df.to_csv("output/csv/"+company+".csv", index=False)
 
 
 # ¿Otra query?

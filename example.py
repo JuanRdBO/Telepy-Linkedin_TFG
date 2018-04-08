@@ -106,9 +106,13 @@ R1 = Radiobutton(root, text = "Search by Name     ", variable = var, value = 1, 
 R1.pack( side="left", in_=container )
 R1.config(font=("Helvetica", 15))
 
-R3 = Radiobutton(root, text = "Retrieve all data", variable = var_data, value = 2, command=combine_funcs( disableEntry,sel))
+R3 = Radiobutton(root, text = "Retrieve all data. Iterations:", variable = var_data, value = 2, command=combine_funcs( disableEntry,sel))
 R3.pack( side="left",in_=container )
 R3.config(font=("Helvetica", 15))
+
+entry_data_all = Entry(root, width=5)
+entry_data_all.pack(side="left",in_=container )
+entry_data_all.config(font=("Helvetica", 15))
 
 container.pack(side="top", fill="x")
 
@@ -193,7 +197,7 @@ class Entry(Frame):
         output, errors = p.communicate()
 
         text = Text(self.root)
-        text.pack()
+        text.pack(side=LEFT, fill=BOTH, expand = YES)
         text.insert(END, output)
     
         # self.txt = ScrolledText(self.root, undo=True)
@@ -221,35 +225,36 @@ class Entry(Frame):
         output, errors = p.communicate()
 
         text = Text(self.root)
-        text.pack()
+        text.pack(side=LEFT, fill=BOTH, expand = YES)
         text.insert(END, output)
 
     def on_button_click_search(self):
         self.root = tkinter.Toplevel()
         self.root.title("Showing: "+self.entry.get()+".json - Searched by Name")
+        self.root.geometry('600x500')
         
         if var.get()==1:
             if var_data.get()==1:
                 print("sudo python tele.py -f -e -s " + self.entry.get() + " "+ entry_data.get())
                 p = sub.Popen(['python','tele.py', '-f','-e', '-s', self.entry.get(), entry_data.get()],stdout=sub.PIPE,stderr=sub.PIPE)
             else:
-                print("sudo python tele.py -f -c " + self.entry.get())
-                p = sub.Popen(['python','tele.py', '-f','-c', self.entry.get()],stdout=sub.PIPE,stderr=sub.PIPE)
+                print("sudo python tele.py -f -e -c -r " + self.entry.get() +" "+ entry_data_all.get())
+                p = sub.Popen(['python','tele.py', '-f','-c','-e','-r', self.entry.get(), entry_data_all.get()],stdout=sub.PIPE,stderr=sub.PIPE)
             
         else:
             if var_data.get()==1:
                 print("sudo python tele.py -f -e -s -l " + self.entry.get() + " "+ entry_data.get())
                 p = sub.Popen(['python','tele.py','-l', '-f','-e','-s', self.entry.get(), entry_data.get()],stdout=sub.PIPE,stderr=sub.PIPE)
             else:
-                print("sudo python tele.py -f -e -l " + self.entry.get())
-                p = sub.Popen(['python','tele.py', '-f','-e','-c', self.entry.get()],stdout=sub.PIPE,stderr=sub.PIPE)
+                print("sudo python tele.py -f -e -l -c -r " + self.entry.get()+" "+ entry_data_all.get())
+                p = sub.Popen(['python','tele.py', '-f','-e','-c','-r','-l', self.entry.get(), entry_data_all.get()],stdout=sub.PIPE,stderr=sub.PIPE)
             
 
         
         output, errors = p.communicate()
 
         text = Text(self.root)
-        text.pack()
+        text.pack(side=LEFT, fill=BOTH, expand = YES)
         text.insert(END, output)
         
 

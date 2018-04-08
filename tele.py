@@ -198,13 +198,13 @@ if options.COMPLETE==True:
 
 		current_round = index
 		final_round = rangeList[-1]
-		print(str(current_round)+'and'+str(final_round))
+		#print(str(current_round)+'and'+str(final_round))
 
 		printCompanyInfo(company_input, starting_point, all_info, current_round, final_round)
 		
 		starting_point = starting_point + 20
 		counter = counter +1
-		print("Done round number: " + str(counter))
+		#print("Done round number: " + str(counter))
 
 else:
 	printCompanyInfo(''.join(args[0]), starting_point,all_info, current_round, final_round)
@@ -213,13 +213,7 @@ else:
 if options.EXPORTCSV==True:
 	lines = []
 	company = ''.join(args[0])
-	print(company)
-	# with open("output/json/"+company+".json", 'r') as f:
-	#     lines = f.readlines()
-	#     lines = lines[:-1]
-
-	# with open("output/json/"+company+".json", 'w') as f:
-	# 	f.writelines(lines[:1] + lines[5:]) # This will skip the second line
+	#print(company)
 
 	with open("output/json/"+company+".json") as fi:
 	    data = json.load(fi)

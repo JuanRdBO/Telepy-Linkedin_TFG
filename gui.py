@@ -15,17 +15,28 @@ import subprocess as sub
 
 
 root = Tk()
-root.geometry('600x500')
+root.geometry('1000x600')
 
 
-C = Canvas(root, bg="blue", height=250, width=300)
-im = Image.open("tlf.png")
-image = im.resize((400,200),Image.ANTIALIAS)
+C = Canvas(root,height=50, width=300)
+im = Image.open("background.png")
+image = im.resize((1000,1500),Image.ANTIALIAS)
 filename = ImageTk.PhotoImage(image)
 background_label = Label(root, image=filename)
-background_label.place(x=0, y=-100, relwidth=1, relheight=1)
+background_label.place(x=0, y=0, relwidth=1, relheight=1)
 C.pack()
 
+
+# im_2 = Image.open("background.png")
+# im_2 = im_2.resize((800,400),Image.ANTIALIAS)
+# tkimage_2 = ImageTk.PhotoImage(im_2)
+# tkinter.Label(root,image = tkimage_2).pack()
+
+im = Image.open("tlf.png")
+im = im.resize((400,200),Image.ANTIALIAS)
+tkimage = ImageTk.PhotoImage(im)
+#tkimage.config(highlightthickness=0)
+tkinter.Label(root,image = tkimage, relief=FLAT,highlightbackground='grey').pack()
 
 
 class ABC(Frame):
@@ -89,21 +100,23 @@ text = StringVar()
 E1 = StringVar()
 var = IntVar()
 var_data = IntVar()
+var_csv_show = IntVar()
 
 
 L1 = Label(root, text="Welcome to the search tool. How do you want to query?")
 L1.config(font=("Helvetica", 20))
-L1.pack( anchor = W )
+L1.pack( anchor = "center" )
 
 
+L2 = Label(root)
+L2.pack(anchor = "center" )
 
-L2 = Label(root, text=" ")
-L2.pack( anchor = W )
+container_radiobuttons = tkinter.Frame()
 
 container = tkinter.Frame()
 
 R1 = Radiobutton(root, text = "Search by Name     ", variable = var, value = 1, command = sel)
-R1.pack( side="left", in_=container )
+R1.pack( side="left", in_=container)
 R1.config(font=("Helvetica", 15))
 
 R3 = Radiobutton(root, text = "Retrieve all data. Iterations:", variable = var_data, value = 2, command=combine_funcs( disableEntry,sel))
@@ -114,7 +127,11 @@ entry_data_all = Entry(root, width=5)
 entry_data_all.pack(side="left",in_=container )
 entry_data_all.config(font=("Helvetica", 15))
 
-container.pack(side="top", fill="x")
+L_entry = Label(root, text=" (Default is 3 iterations)")
+L_entry.pack(side="left",in_=container )
+L_entry.config(font=("Helvetica", 15))
+
+container.pack(side="top", fill="x", in_=container_radiobuttons)
 
 container = tkinter.Frame()
 
@@ -130,30 +147,11 @@ entry_data = Entry(root, width=5)
 entry_data.pack(side="left",in_=container )
 entry_data.config(font=("Helvetica", 15))
 
-container.pack(side="top", fill="x")
+container.pack(side="top", fill="x", in_=container_radiobuttons)
+
+container_radiobuttons.pack(anchor = "center" )
 
 
-# C = Canvas(root, bg = "blue", height = 250, width = 300)
-# coord = 10, 50, 240, 210
-# arc = C.create_arc(coord, start = 0, extent = 150, fill = "red")
-# line = C.create_line(10,10,200,200,fill = 'white')
-
-
-# ------ Menubutton -----
-# mb =  Menubutton ( root, text = "Search by...", relief = RAISED )
-# mb.menu  =  Menu ( mb, tearoff = 10 )
-# mb["menu"]  =  mb.menu
-    
-# name_search  = IntVar()
-# location_search = IntVar()
-
-# mb.menu.add_checkbutton ( label = "Name", variable = name_search )
-# mb.menu.add_checkbutton ( label = "Location", variable = location_search )
-
-# mb.pack(side="bottom", fill='both', expand=False, padx=2, pady=2)
-
-
-#C.pack()
 class Entry(Frame):
     def __init__(self,parent=None):
         Frame.__init__(self,parent)
@@ -168,17 +166,41 @@ class Entry(Frame):
         L2.config(font=("Helvetica", 15))        
 
         self.entry = tkinter.Entry( width=55)
-        self.entry.pack( in_=container, side="left", expand=True)
+        self.entry.pack( in_=container, side="left", expand=False)
 
-        container.pack(side="top", fill="x")
+        container.pack(anchor = "center")
 
         button = tkinter.Button(text="Search", command=self.on_button_click_search)
         button.pack(expand=0)
         button.config(font=("Helvetica", 15))
 
+        container_csv = tkinter.Frame()
+
+        L2 = Label(root, text="                                               ")
+        L2.pack(side="left",in_=container_csv)
+
         button_2 = tkinter.Button(text="Show CSV", command=self.on_button_click_show_csv)
-        button_2.pack( expand=0)
+        button_2.pack( expand=0,side="left",in_=container_csv)
         button_2.config(font=("Helvetica", 15))
+
+        container_csv_sel = tkinter.Frame()
+
+        R_csv_native = Radiobutton(root, text = "Open natively ", variable = var_csv_show, value = 1, command = sel)
+        R_csv_native.pack( side="top",in_=container_csv_sel )
+        R_csv_native.config(font=("Helvetica", 10))
+
+        container_button_not_aligned = tkinter.Frame()
+
+        L2 = Label(root, text="           ")
+        L2.pack(side="left",in_=container_button_not_aligned)
+
+        R_csv_excel = Radiobutton(root, text = "Open in external program", variable = var_csv_show, value = 2, command = sel)
+        R_csv_excel.pack( side="right",in_=container_csv_sel )
+        R_csv_excel.config(font=("Helvetica", 10))
+        
+        container_button_not_aligned.pack(side="bottom",in_=container_csv_sel)
+        container_csv_sel.pack(side="left",in_=container_csv)
+        container_csv.pack()
 
         self.NewWindow = tkinter.Button(self.master, 
                                 text="Show Json", 
@@ -192,7 +214,9 @@ class Entry(Frame):
     def on_button_click_show_json(self):
         self.root = tkinter.Toplevel()
         self.root.title("Showing: "+self.entry.get()+".json - Searched by Name")
+        self.root.geometry('1000x600')
         
+
         p = sub.Popen(['python','show_json.py',self.entry.get()],stdout=sub.PIPE,stderr=sub.PIPE)
         output, errors = p.communicate()
 
@@ -217,21 +241,30 @@ class Entry(Frame):
         
 
     def on_button_click_show_csv(self):
-        # os.system("open 'output/csv/'"+self.entry.get()+".csv")
-        self.root = tkinter.Toplevel()
-        self.root.title("Showing: "+self.entry.get()+".json - Searched by Name")
-        
-        p = sub.Popen(['python','show_csv.py',self.entry.get()],stdout=sub.PIPE,stderr=sub.PIPE)
-        output, errors = p.communicate()
 
-        text = Text(self.root)
-        text.pack(side=LEFT, fill=BOTH, expand = YES)
-        text.insert(END, output)
+
+        if var_csv_show.get() == 1:
+            
+            self.root = tkinter.Toplevel()
+            self.root.title("Showing: "+self.entry.get()+".json - Searched by Name")
+            self.root.geometry('1000x600')
+
+            print('python'+' show_csv.py '+self.entry.get()+' 1')
+            p = sub.Popen(['python','show_csv.py',self.entry.get(),'1'],stdout=sub.PIPE,stderr=sub.PIPE)
+            output, errors = p.communicate()
+
+            text = Text(self.root)
+            text.pack(side=LEFT, fill=BOTH, expand = YES)
+            text.insert(END, output)
+
+        else:
+            p = sub.Popen(['python','show_csv.py',self.entry.get(),'2'],stdout=sub.PIPE,stderr=sub.PIPE)
+            output, errors = p.communicate()
 
     def on_button_click_search(self):
         self.root = tkinter.Toplevel()
         self.root.title("Showing: "+self.entry.get()+".json - Searched by Name")
-        self.root.geometry('600x500')
+        self.root.geometry('1000x600')
         
         if var.get()==1:
             if var_data.get()==1:

@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Author: Juan Ruiz
 import json
 import requests
 import re

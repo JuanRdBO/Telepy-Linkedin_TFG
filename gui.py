@@ -53,7 +53,7 @@ class ABC(Frame):
     def make_widgets(self):
         # don't assume that self.parent is a root window.
         # instead, call `winfo_toplevel to get the root window
-        self.winfo_toplevel().title("Telepy search tool")
+        self.winfo_toplevel().title("Telepy search tool v.0.01")
 
         # this adds something to the frame, otherwise the default
         # size of the window will be very small
@@ -91,8 +91,10 @@ def sel():
     else:
         text_data=" & full data results"
 
-
-    selection = "\nYou selected to search by " + text + text_data
+    if var.get() and var_data.get():
+        selection = "\nYou selected to search by " + text + text_data
+    else:
+        selection = ""
     label.config(text = selection)
 
 
@@ -119,7 +121,7 @@ R1 = Radiobutton(root, text = "Search by Name     ", variable = var, value = 1, 
 R1.pack( side="left", in_=container)
 R1.config(font=("Helvetica", 15))
 
-R3 = Radiobutton(root, text = "Retrieve all data. Iterations:", variable = var_data, value = 2, command=combine_funcs( disableEntry,sel))
+R3 = Radiobutton(root, text = "Retrieve with Iterations:", variable = var_data, value = 2, command=combine_funcs( disableEntry,sel))
 R3.pack( side="left",in_=container )
 R3.config(font=("Helvetica", 15))
 
@@ -127,9 +129,21 @@ entry_data_all = Entry(root, width=5)
 entry_data_all.pack(side="left",in_=container )
 entry_data_all.config(font=("Helvetica", 15))
 
-L_entry = Label(root, text=" (Default is 3 iterations)")
+L_entry = Label(root, text="Start : ")
 L_entry.pack(side="left",in_=container )
 L_entry.config(font=("Helvetica", 15))
+
+entry_data_all_start = Entry(root, width=5)
+entry_data_all_start.pack(side="left",in_=container )
+entry_data_all_start.config(font=("Helvetica", 15))
+
+L_entry = Label(root, text=" # entries: ")
+L_entry.pack(side="left",in_=container )
+L_entry.config(font=("Helvetica", 15))
+
+entry_data_all_count = Entry(root, width=5)
+entry_data_all_count.pack(side="left",in_=container )
+entry_data_all_count.config(font=("Helvetica", 15))
 
 container.pack(side="top", fill="x", in_=container_radiobuttons)
 
@@ -146,6 +160,14 @@ R4.config(font=("Helvetica", 15))
 entry_data = Entry(root, width=5)
 entry_data.pack(side="left",in_=container )
 entry_data.config(font=("Helvetica", 15))
+
+L_entry = Label(root, text=" # entries: ")
+L_entry.pack(side="left",in_=container )
+L_entry.config(font=("Helvetica", 15))
+
+entry_data_count = Entry(root, width=5)
+entry_data_count.pack(side="left",in_=container )
+entry_data_count.config(font=("Helvetica", 15))
 
 container.pack(side="top", fill="x", in_=container_radiobuttons)
 
@@ -169,6 +191,9 @@ class Entry(Frame):
         self.entry.pack( in_=container, side="left", expand=False)
 
         container.pack(anchor = "center")
+        L_entry = Label(root, text=" ")
+        L_entry.pack()
+        L_entry.config(font=("Helvetica", 3))
 
         button = tkinter.Button(text="Search", command=self.on_button_click_search)
         button.pack(expand=0)
@@ -258,6 +283,7 @@ class Entry(Frame):
             text.insert(END, output)
 
         else:
+            print('python'+' show_csv.py '+self.entry.get()+' 2')
             p = sub.Popen(['python','show_csv.py',self.entry.get(),'2'],stdout=sub.PIPE,stderr=sub.PIPE)
             output, errors = p.communicate()
 
@@ -268,19 +294,19 @@ class Entry(Frame):
         
         if var.get()==1:
             if var_data.get()==1:
-                print("sudo python tele.py -f -e -s " + self.entry.get() + " "+ entry_data.get())
-                p = sub.Popen(['python','tele.py', '-f','-e', '-s', self.entry.get(), entry_data.get()],stdout=sub.PIPE,stderr=sub.PIPE)
+                print("sudo python tele.py -f -e -s -n " + self.entry.get() + " "+ entry_data.get()+" "+entry_data_count.get())
+                p = sub.Popen(['python','tele.py', '-f','-e', '-s','-n', self.entry.get(), entry_data.get(), entry_data_count.get()],stdout=sub.PIPE,stderr=sub.PIPE)
             else:
-                print("sudo python tele.py -f -e -c -r " + self.entry.get() +" "+ entry_data_all.get())
-                p = sub.Popen(['python','tele.py', '-f','-c','-e','-r', self.entry.get(), entry_data_all.get()],stdout=sub.PIPE,stderr=sub.PIPE)
+                print("sudo python tele.py -f -e -c -r -s " + self.entry.get() +" "+ entry_data_all.get()+" "+entry_data_all_start.get()+" "+entry_data_all_count.get())
+                p = sub.Popen(['python','tele.py', '-f','-c','-e','-r','-s','-n', self.entry.get(), entry_data_all.get(),entry_data_all_start.get(),entry_data_all_count.get()],stdout=sub.PIPE,stderr=sub.PIPE)
             
         else:
             if var_data.get()==1:
-                print("sudo python tele.py -f -e -s -l " + self.entry.get() + " "+ entry_data.get())
-                p = sub.Popen(['python','tele.py','-l', '-f','-e','-s', self.entry.get(), entry_data.get()],stdout=sub.PIPE,stderr=sub.PIPE)
+                print("sudo python tele.py -f -e -s -l -n " + self.entry.get() + " "+ entry_data.get()+ " " + entry_data_count.get())
+                p = sub.Popen(['python','tele.py','-l', '-f','-e','-s','-n', self.entry.get(), entry_data.get(),entry_data_count.get()],stdout=sub.PIPE,stderr=sub.PIPE)
             else:
-                print("sudo python tele.py -f -e -l -c -r " + self.entry.get()+" "+ entry_data_all.get())
-                p = sub.Popen(['python','tele.py', '-f','-e','-c','-r','-l', self.entry.get(), entry_data_all.get()],stdout=sub.PIPE,stderr=sub.PIPE)
+                print("sudo python tele.py -f -e -l -c -r -s " + self.entry.get()+" "+ entry_data_all.get() + " " +entry_data_all_start.get())
+                p = sub.Popen(['python','tele.py', '-f','-e','-c','-r','-l','-s','-n', self.entry.get(), entry_data_all.get(),entry_data_all_start.get(),entry_data_all_count.get()],stdout=sub.PIPE,stderr=sub.PIPE)
             
 
         

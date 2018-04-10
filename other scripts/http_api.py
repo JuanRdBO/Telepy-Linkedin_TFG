@@ -21,8 +21,8 @@ PORT = 8080
 # ============ Client Application Credentials ============ #
 # Can be found here: https://www.linkedin.com/developer/apps
 
-CLIENT_ID = '<your Client ID>'
-CLIENT_SECRET = '<Your Client secret>'
+CLIENT_ID = '78942etf4507oi'
+CLIENT_SECRET = 'qqH69nZ28paVFyIR'
 
 
 class LinkedInWrapper(object):

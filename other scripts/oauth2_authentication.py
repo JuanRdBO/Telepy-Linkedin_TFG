@@ -3,18 +3,15 @@ from linkedin.linkedin import (LinkedInAuthentication, LinkedInApplication,
 
 if __name__ == '__main__':
 
-    CLIENT_ID = '<Your Client ID>'
-    CLIENT_SECRET = '<Your Client secret>'
+    CLIENT_ID = '77ptq4iasj89wa'
+    CLIENT_SECRET = 'XB2vH79xARyCuLmJ'
     RETURN_URL = 'http://localhost:8080/code/'
 
     authentication = LinkedInAuthentication(
                         CLIENT_ID,
                         CLIENT_SECRET,
                         RETURN_URL,
-                        permissions=['r_basicprofile',
-                                     'r_emailaddress',
-                                     'rw_company_admin',
-                                     'w_share']
+                        permissions=['r_basicprofile']
                     )
 
     # Note: edit permissions according to what you defined in the linkedin

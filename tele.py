@@ -11,6 +11,7 @@ import errno
 import pandas as pd
 import webbrowser
 
+DEBUG = True
 
 # define parser
 parser = OptionParser()
@@ -25,9 +26,9 @@ parser.add_option("-i","--install", action="store_true",dest="INSTALL",help="exe
 parser.add_option("-l","--location", action="store_true",dest="LOCATION",help="to search by location. Search by name is default")
 parser.add_option("-s","--start", action="store_true",dest="START",help="to return the result from the point specified by the user")
 parser.add_option("-c","--complete", action="store_true",dest="COMPLETE",help="return complete dataset from selection. (only with -f flag)")
-parser.add_option("-r","--recursive", action="store_true",dest="RECURSIVE",help="sets how many recursions to be done on 'all data' option. (only with -c flag)")
-
-
+parser.add_option("-r","--recursive", action="store_true",dest="RECURSIVE",help="sets how many recursions to be done on 'all data' option. Always 2rd argument. (only with -c flag)")
+parser.add_option("-n","--number", action="store_true",dest="NUMBER",help="sets how many companies to be returned. Always 3rd argument. (does not work with -c flag)")
+#parser.add_option("-d","--debug", action="store_true",dest="DEBUG",help="sets how many companies to be returned. Always 3rd argument. (does not work with -c flag)")
 # if len(sys.argv)==1:
 #     parser.print_help(sys.stderr)
 #     sys.exit(1)
@@ -35,8 +36,12 @@ parser.add_option("-r","--recursive", action="store_true",dest="RECURSIVE",help=
 # ejecuta función de input
 (options, args) = parser.parse_args()
 
-# Se define el access token
-application = linkedin.LinkedInApplication(token='AQV48ylIhFTFtAazTsszjj6wIpx1c0B004m5hleCSaqlWPUxEXe7QVLxtzvUNnl_aAsX27ABK4j1uXLxcLnmb4M179xH06nSpDy7Eeahg9gdWLrhzjgB2sY2fQ4mU0Nk1Rs5KQ3FAaifqju9ry08WoCZk04sQ181WqsLXPm5JvHL0TY20THdvQff4KGA_GZznN-uyNNOlqDwMZ1HBm6UkuKARGN1CtjBaHuGgeVK0D2F2P38gjwG0KH_RO5uXFp_4sWFWggtNptY1zXHb1vHcFOOBSTQG_EjN58bjiHVPeMPYRuE1AyiWsFCqBxhKCMR-qCs40iH7hkBYeyXAv8gk7VFrR93aA')
+# Se define el access token para Telepy
+#application = linkedin.LinkedInApplication(token='AQWfQl1JrdtLTLhEXGQI3DnNte281j2pHJWmNg8D54Nz7KaTOKPEHFxt_g6ocKSKq9ef4vRFs5yPOtcrmWSxM1DPHDu3j9GH5YOTLH3xkKxOT-srbWujtFLFyCmKbpKUu-1VxBpOG9x3RIydWt-REqIwsPs3SM6hn_aXbxaVqMw4Nzj9VYBo15nYjPsXts--eLlBQpXJ7rMSY-B4WdFiN9NpWBF3up4UCbnNkbk4F1bAVr5d4OjX_Xbgg2NKnBtL_nuP2t_NQ1Z-0TgaJJy99nBF_-fiR25Dae0eAwgA2_nAqHevfg89c2uCRcKmwqSUPSPppRFwSW75mjRHcW08IAHmS_nRWA')
+
+
+# Se define el access token para Telepy_2
+application = linkedin.LinkedInApplication(token='AQVUPB3mM8mRIut0XK5i_XOm1oVAgMvpxx-uJR8zOXAbr9JNJhyzJJKSlqxXyIZCTYYnhQx3Ydg2-jJwpsA5AiRMqu0L50JTBr0ckJgVPo9WPIabhjUaCK9e_NMxZ8wRu4wgBYrHdW2mt4xOZhpgA0zJrN9DBBVw_Qef3c-clzJKCQYfIkgn5dCqUdTVES_848CobzgEeN8mj8OjYEscQGv8iKAaj55EQELsfDvAzTKYXa--ciiCTzS2NbsQnq5H8vb7XeGV3MF4LFs79hUf80bSzuL01u3eLK25rkPi7QU1cMoCl9gwetM3r0Wxc-99I8FcSWv9KCwWi_bAW9EfIZlx8p--mw')
 
 
 
@@ -51,12 +56,12 @@ if options.INSTALL==True:
 	
 
 # función de printeo de empresa
-def printCompanyInfo(company, starting_point, all_info, current_round, final_round):
+def printCompanyInfo(company, starting_point, all_info, current_round, final_round, count):
 	# Se ejecuta el script de linkedin provisto en el repositorio con search company
 	if options.LOCATION==True:
-		print_json = application.search_company(selectors=[{'companies': ['name', 'website-url','employee-count-range']}], params={'facet': 'location,'+company, 'start': starting_point, 'count': 20})
+		print_json = application.search_company(selectors=[{'companies': ['name', 'website-url','employee-count-range','locations','num-followers','specialties']}], params={'facet': 'location,'+company, 'start': starting_point, 'count': count})
 	else: 
-		print_json = application.search_company(selectors=[{'companies': ['name', 'website-url','employee-count-range']}], params={'keywords': company, 'start': starting_point, 'count': 20})
+		print_json = application.search_company(selectors=[{'companies': ['name', 'website-url','employee-count-range']}], params={'keywords': company, 'start': starting_point, 'count': count})
 
 
 	if options.SAVETOFILE==True:
@@ -80,43 +85,52 @@ def printCompanyInfo(company, starting_point, all_info, current_round, final_rou
 
 				with open("output/json/"+company+".json", 'w') as f:
 					print(json.dumps(print_json, sort_keys=True,indent=4, separators=(',', ': ')),file=f)
-
+					f.close()
 				with open("output/json/"+company+".json", 'r') as f:
 				    lines = f.readlines()
 				    lines = lines[:-3]
-			    
+				    f.close()
 				with open("output/json/"+company+".json", 'w') as f:
 					f.writelines(lines[:1] + lines[5:]) # This will skip the second line
+					f.close()
+				with open("output/json/"+company+".json", 'a') as f:
+					f.write(',\n')
+					f.close()
 
-				with open("output/json/"+company+".json", 'rb+') as f:
-					f.seek(-1,2)
-					f.write(',\n'.encode())
+				# with open("output/json/"+company+".json", 'rb+') as f:
+				# 	f.seek(-1,2)
+				# 	f.write(',\n'.encode())
+				# 	f.close()
 			
 			elif current_round != final_round:
 
-				if not os.path.exists(os.path.dirname("output/json/"+company)):
+				if not os.path.exists(os.path.dirname("output/json/"+company+"_number_"+str(current_round)+".json")):
 				    try:
-				        os.makedirs(os.path.dirname("output/json/"+company))
+				        os.makedirs(os.path.dirname("output/json/"+company+"_number_"+str(current_round)+".json"))
 				    except OSError as exc: # Guard against race condition
 				        if exc.errno != errno.EEXIST:
 				            raise
 
-				with open("output/json/"+company+"inbetween"+".json", 'w') as f:				
+				with open("output/json/"+company+"_number_"+str(current_round)+".json", 'w') as f:				
 					print(json.dumps(print_json, sort_keys=True,indent=4, separators=(',', ': ')),file=f)
-
-				with open("output/json/"+company+"inbetween"+".json", 'r') as f:
+				f.close()
+				with open("output/json/"+company+"_number_"+str(current_round)+".json", 'r') as f:
 				    lines = f.readlines()
 				    lines = lines[:-3]
-			    
-				with open("output/json/"+company+"inbetween"+".json", 'w') as f:
+				    f.close()
+				with open("output/json/"+company+"_number_"+str(current_round)+".json", 'w') as f:
 					f.writelines(lines[6:]) # This will skip the second line
-
-				with open("output/json/"+company+"inbetween"+".json", 'rb+') as f:
-					f.seek(-1,2)
-					f.write(',\n'.encode())
-
+					f.close()
+				with open("output/json/"+company+"_number_"+str(current_round)+".json", 'a') as f:
+					f.write(',\n')
+					f.close()    
+				
+				# with open("output/json/"+company+"_number_"+str(current_round)+".json", 'rb+') as f:
+				# 	f.seek(-1,2)
+				# 	f.write(',\n'.encode())
+				# 	f.close()
 				f_start = open("output/json/"+company+".json", 'a')
-				f_append = open("output/json/"+company+"inbetween"+".json",'r')
+				f_append = open("output/json/"+company+"_number_"+str(current_round)+".json",'r')
 				contents_append = f_append.read()
 				f_start.write(contents_append)
 
@@ -131,16 +145,19 @@ def printCompanyInfo(company, starting_point, all_info, current_round, final_rou
 				            raise
 
 				with open("output/json/"+company+"final"+".json", 'w') as f:	
-					print('FINAL ROUND')			
+					
+					if DEBUG == True:
+						print('DEBUG: Final round')			
+					
 					print(json.dumps(print_json, sort_keys=True,indent=4, separators=(',', ': ')),file=f)
-
+					f.close()
 				with open("output/json/"+company+"final"+".json", 'r') as f:
 				    lines = f.readlines()
 				    lines = lines[:-1]
-			    
+				    f.close()
 				with open("output/json/"+company+"final"+".json", 'w') as f:
 					f.writelines(lines[6:]) # This will skip the second line
-
+					f.close()
 				f_start = open("output/json/"+company+".json", 'a')
 				f_append = open("output/json/"+company+"final"+".json",'r')
 				contents_append = f_append.read()
@@ -150,14 +167,14 @@ def printCompanyInfo(company, starting_point, all_info, current_round, final_rou
 			# Se guarda en un fichero y se formatea
 			with open("output/json/"+company+".json", 'w') as f:
 				print(json.dumps(print_json, sort_keys=True,indent=4, separators=(',', ': ')),file=f)
-
+				f.close()
 			with open("output/json/"+company+".json", 'r') as f:
 			    lines = f.readlines()
 			    lines = lines[:-1]
-			    
+			    f.close()
 			with open("output/json/"+company+".json", 'w') as f:
 				f.writelines(lines[:1] + lines[4:]) # This will skip the second line
-
+				f.close()
 			# with open("output/json/"+company+".json") as fi:
 			#     data = json.load(fi)
 			#     df = pd.DataFrame(data=data['values'])
@@ -171,7 +188,19 @@ def printCompanyInfo(company, starting_point, all_info, current_round, final_rou
 
 starting_point=0
 if options.START==True:
-	starting_point = args[1]
+	if options.COMPLETE==True:
+		if len(args) > 2:
+			starting_point = int(args[2])
+	else:
+		starting_point = int(args[1])
+
+count = 20
+if options.NUMBER == True:
+	if options.COMPLETE==True:
+		if len(args) > 3:
+			count = int(args[3]) 
+	else:
+		count = int(args[2])
 #print(starting_point)
 # se llama a la función con el primer argumento de la función
 
@@ -198,16 +227,20 @@ if options.COMPLETE==True:
 
 		current_round = index
 		final_round = rangeList[-1]
-		#print(str(current_round)+'and'+str(final_round))
-
-		printCompanyInfo(company_input, starting_point, all_info, current_round, final_round)
 		
-		starting_point = starting_point + 20
+		if DEBUG == True:
+			print('DEBUG: Round '+ str(current_round)+' from '+str(final_round)+ ' starting at '+str(starting_point) + ' returning ' +str(count) + ' hit(s)')
+
+		printCompanyInfo(company_input, starting_point, all_info, current_round, final_round, count)
+		
+		starting_point = starting_point + count
 		counter = counter +1
 		#print("Done round number: " + str(counter))
 
 else:
-	printCompanyInfo(''.join(args[0]), starting_point,all_info, current_round, final_round)
+	if DEBUG == True:
+			print('DEBUG: Round '+ str(current_round)+' from '+str(final_round)+ ' starting at '+str(starting_point) + ' returning ' +str(count) + ' hit(s)')
+	printCompanyInfo(''.join(args[0]), starting_point,all_info, current_round, final_round, count)
 
 
 if options.EXPORTCSV==True:
@@ -219,7 +252,7 @@ if options.EXPORTCSV==True:
 	    data = json.load(fi)
 	    df = pd.DataFrame(data=data['values'])
 	    #print(df)
-
+	    fi.close()
 	if not os.path.exists(os.path.dirname("output/csv/")):
 	    try:
 	        os.makedirs(os.path.dirname("output/csv/"))
@@ -229,7 +262,7 @@ if options.EXPORTCSV==True:
 
 	df.to_csv("output/csv/"+company+".csv", index=False)
 
-print(recursive_rounds)
+#print(recursive_rounds)
 
 # ¿Otra query?
 # while True: 

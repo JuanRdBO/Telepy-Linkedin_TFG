@@ -74,6 +74,11 @@ Options:
   -n, --number     sets how many companies to be returned. Always 3rd
                    argument. (does not work with -c flag)
 ```
+To make things easiert, there is also a GUI to interact with the program, which is executed by simply running 
+
+```shell
+python gui.py
+```
 
 **The following sections provide more info and important insights to the usage of this repository.**
 

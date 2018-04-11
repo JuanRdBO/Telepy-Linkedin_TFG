@@ -74,7 +74,7 @@ Options:
   -n, --number     sets how many companies to be returned. Always 3rd
                    argument. (does not work with -c flag)
 ```
-To make things easiert, there is also a GUI to interact with the program, which is executed by simply running 
+To make things easier, there is also a GUI to interact with the program, which is executed by simply running 
 
 ```shell
 python gui.py

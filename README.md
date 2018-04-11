@@ -60,11 +60,19 @@ For now, the program has the following options to choose from when interactiong 
 Usage: tele.py [options] Company to be searched
 
 Options:
-  -h, --help     show this help message and exit
-  -f, --file     write report to a file, with name of the searched company
-  -e, --export   export .json file to a .csv readable one. (only with -f flag)
-  -a, --args     open a webbrowser to show relevant search arguments.
-  -i, --install  execute to install all dependencies
+  -h, --help       show this help message and exit
+  -f, --file       write report to a file, with name of the searched company
+  -e, --export     export .json file to a .csv readable one. (only with -f
+                   flag)
+  -a, --args       open a webbrowser to show relevant search arguments.
+  -i, --install    execute to install all dependencies
+  -l, --location   to search by location. Search by name is default
+  -s, --start      to return the result from the point specified by the user
+  -c, --complete   return complete dataset from selection. (only with -f flag)
+  -r, --recursive  sets how many recursions to be done on 'all data' option.
+                   Always 2rd argument. (only with -c flag)
+  -n, --number     sets how many companies to be returned. Always 3rd
+                   argument. (does not work with -c flag)
 ```
 
 **The following sections provide more info and important insights to the usage of this repository.**

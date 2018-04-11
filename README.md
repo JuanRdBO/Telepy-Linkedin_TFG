@@ -79,6 +79,15 @@ To make things easiert, there is also a GUI to interact with the program, which 
 ```shell
 python gui.py
 ```
+Which produces the following GUI. The options are self-explanatory.
+
+<a href="https://www.upf.edu/pra/en/3375/21626.html">
+    <img src="https://user-images.githubusercontent.com/28183468/38603070-dc2f8f30-3d6c-11e8-94f3-a8f92f28de8f.png" alt="telepy_gui_" title="GUI_" align="center" height="400" />
+</a>
+
+<br/>
+<br/>
+<br/>
 
 **The following sections provide more info and important insights to the usage of this repository.**
 

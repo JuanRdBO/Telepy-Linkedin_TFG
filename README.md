@@ -60,12 +60,34 @@ For now, the program has the following options to choose from when interactiong 
 Usage: tele.py [options] Company to be searched
 
 Options:
-  -h, --help     show this help message and exit
-  -f, --file     write report to a file, with name of the searched company
-  -e, --export   export .json file to a .csv readable one. (only with -f flag)
-  -a, --args     open a webbrowser to show relevant search arguments.
-  -i, --install  execute to install all dependencies
+  -h, --help       show this help message and exit
+  -f, --file       write report to a file, with name of the searched company
+  -e, --export     export .json file to a .csv readable one. (only with -f
+                   flag)
+  -a, --args       open a webbrowser to show relevant search arguments.
+  -i, --install    execute to install all dependencies
+  -l, --location   to search by location. Search by name is default
+  -s, --start      to return the result from the point specified by the user
+  -c, --complete   return complete dataset from selection. (only with -f flag)
+  -r, --recursive  sets how many recursions to be done on 'all data' option.
+                   Always 2rd argument. (only with -c flag)
+  -n, --number     sets how many companies to be returned. Always 3rd
+                   argument. (does not work with -c flag)
 ```
+To make things easier, there is also a GUI to interact with the program, which is executed by simply running 
+
+```shell
+python gui.py
+```
+Which produces the following GUI. The options are self-explanatory.
+
+<a href="https://www.upf.edu/pra/en/3375/21626.html">
+    <img src="https://user-images.githubusercontent.com/28183468/38603070-dc2f8f30-3d6c-11e8-94f3-a8f92f28de8f.png" alt="telepy_gui_" title="GUI_" align="center" height="400" />
+</a>
+
+<br/>
+<br/>
+<br/>
 
 **The following sections provide more info and important insights to the usage of this repository.**
 

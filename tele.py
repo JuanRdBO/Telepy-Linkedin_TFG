@@ -41,7 +41,7 @@ parser.add_option("-n","--number", action="store_true",dest="NUMBER",help="sets 
 
 
 # Se define el access token para Telepy_2
-application = linkedin.LinkedInApplication(token='AQVUPB3mM8mRIut0XK5i_XOm1oVAgMvpxx-uJR8zOXAbr9JNJhyzJJKSlqxXyIZCTYYnhQx3Ydg2-jJwpsA5AiRMqu0L50JTBr0ckJgVPo9WPIabhjUaCK9e_NMxZ8wRu4wgBYrHdW2mt4xOZhpgA0zJrN9DBBVw_Qef3c-clzJKCQYfIkgn5dCqUdTVES_848CobzgEeN8mj8OjYEscQGv8iKAaj55EQELsfDvAzTKYXa--ciiCTzS2NbsQnq5H8vb7XeGV3MF4LFs79hUf80bSzuL01u3eLK25rkPi7QU1cMoCl9gwetM3r0Wxc-99I8FcSWv9KCwWi_bAW9EfIZlx8p--mw')
+application = linkedin.LinkedInApplication(token='AQXWdiJB4MvBnA0CB3FHKr6nP34FgdmNG-Y6zXhiLG_RENU9JmvcduIUXZQp9cAy6xRiKh-Qypw0jwh4MLEV4U_dE4OwK1jcEKsEOrXoSgiNganZzMTjkazbmhlcZQupTtQlfFAoqikwsrnoOkgqQmFMfvhKa-86WHYGwP_mQ_a-Pg2NQKw6ZDto-4xZOl3f13GdWOl2EKsqHIHWzo1ZfPZ2x_JZLwvaCXWBF1EYFA3uQKGLcBOrL00yfXNYMvyyXI7dlg-3v7dIgwiwiSXSBQqUCjupbAmfZEasysn1kmGdVyLGY3gBMmLneQucWPDCtSnfs4xQv_m61TtZ-fOSEy7QEEceZA')
 
 
 
@@ -59,7 +59,7 @@ if options.INSTALL==True:
 def printCompanyInfo(company, starting_point, all_info, current_round, final_round, count):
 	# Se ejecuta el script de linkedin provisto en el repositorio con search company
 	if options.LOCATION==True:
-		print_json = application.search_company(selectors=[{'companies': ['name', 'website-url','employee-count-range','locations','num-followers','specialties']}], params={'facet': 'location,'+company, 'start': starting_point, 'count': count})
+		print_json = application.search_company(selectors=[{'companies': ['name', 'website-url','employee-count-range']}], params={'facet': 'location,'+company, 'start': starting_point, 'count': count})
 	else: 
 		print_json = application.search_company(selectors=[{'companies': ['name', 'website-url','employee-count-range']}], params={'keywords': company, 'start': starting_point, 'count': count})
 
@@ -173,7 +173,7 @@ def printCompanyInfo(company, starting_point, all_info, current_round, final_rou
 			    lines = lines[:-1]
 			    f.close()
 			with open("output/json/"+company+".json", 'w') as f:
-				f.writelines(lines[:1] + lines[4:]) # This will skip the second line
+				f.writelines(lines[:1] + lines[5:]) # This will skip the second line
 				f.close()
 			# with open("output/json/"+company+".json") as fi:
 			#     data = json.load(fi)
@@ -236,6 +236,7 @@ if options.COMPLETE==True:
 		starting_point = starting_point + count
 		counter = counter +1
 		#print("Done round number: " + str(counter))
+	os.system('rm output/json/*number*.json output/json/*final.json')
 
 else:
 	if DEBUG == True:

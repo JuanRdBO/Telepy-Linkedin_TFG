@@ -2,72 +2,36 @@
         "values": [
             {
                 "employeeCountRange": {
-                    "code": "E",
-                    "name": "201-500"
+                    "code": "I",
+                    "name": "10001+"
                 },
-                "locations": {
-                    "_total": 1,
-                    "values": [
-                        {
-                            "address": {
-                                "city": "Madrid",
-                                "postalCode": "28046",
-                                "street1": "Paseo de la Castellana 280"
-                            },
-                            "contactInfo": {
-                                "fax": "",
-                                "phone1": "912184613"
-                            }
-                        }
-                    ]
-                },
-                "name": "Aliseda Inmobiliaria",
-                "numFollowers": 3941,
-                "websiteUrl": "https://www.alisedainmobiliaria.com"
+                "name": "Banco Santander",
+                "websiteUrl": "www.santander.com"
             },
             {
                 "employeeCountRange": {
-                    "code": "C",
-                    "name": "11-50"
+                    "code": "I",
+                    "name": "10001+"
                 },
-                "locations": {
-                    "_total": 2,
-                    "values": [
-                        {
-                            "address": {
-                                "city": "Burgos",
-                                "postalCode": "09007",
-                                "street1": "Edificio CEEI, m\u00f3dulo 5 - Aer\u00f3dromo de Villafr\u00eda"
-                            },
-                            "contactInfo": {
-                                "fax": "947 04 74 04",
-                                "phone1": "947 04 74 04"
-                            }
-                        },
-                        {
-                            "address": {
-                                "city": "Madrid",
-                                "postalCode": "28030",
-                                "street1": "Avda. Dr. Garc\u00eda Tapia, n\u00ba 64, 5\u00ba C"
-                            },
-                            "contactInfo": {
-                                "fax": "",
-                                "phone1": "676 98 95 21"
-                            }
-                        }
-                    ]
-                },
-                "name": "Albera Medio Ambiente, S.L.",
-                "numFollowers": 4260,
-                "specialties": {
-                    "_total": 4,
-                    "values": [
-                        "Ingenier\u00eda Forestal y Medioambiental",
-                        "Prevenci\u00f3n Ambiental y Sostenibilidad",
-                        "Divulgaci\u00f3n y Uso P\u00fablico",
-                        "Topograf\u00eda y Cartograf\u00eda"
-                    ]
-                },
-                "websiteUrl": "www.alberamedioambiente.com"
+                "name": "Inditex",
+                "websiteUrl": "http://www.inditex.com"
             }
 ,
+            {
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "name": "Indra",
+                "websiteUrl": "www.indracompany.com"
+            },
+            {
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "name": "Repsol",
+                "websiteUrl": "www.repsol.com"
+            }
+        ]
+    }

@@ -11,12 +11,41 @@ from tkinter import filedialog
 from tkinter import ttk
 from tkinter.scrolledtext import ScrolledText
 import subprocess as sub
+import csv
+from tkinter import filedialog
+import webbrowser
+from tkinter import ttk
 
 
 
 root = Tk()
-root.geometry('1000x600')
+root.geometry('1000x590')
 
+
+
+# ttk.Style().configure('green/black.TButton', foreground='green', background='white', font=("Helvetica", 9), width=15, height=6)
+# github_btn = ttk.Button(text="Open Github", command=lambda: self.open_website(1), style='green/black.TButton')   
+# github_btn.pack(side="left")
+# devel_website_btn = ttk.Button(text="Open LinkedIn Dev.", command=lambda: self.open_website(2), style='green/black.TButton')   
+# devel_website_btn.pack(side="left")
+# search_link_btn = ttk.Button(text="Open Query Param.", command=lambda: self.open_website(3), style='green/black.TButton')   
+# search_link_btn.pack(side="left")
+
+# menu causes cmd+w to fail
+menu = Menu(root)
+root.config(menu=menu)
+filemenu = Menu(menu)
+menu.add_cascade(label="Websites of interest", menu=filemenu)
+filemenu.add_command(label="Open Github",command=lambda: Entry.open_website(1))
+filemenu.add_command(label="Open LinkedIn Developer Console", command=lambda: Entry.open_website(2))
+filemenu.add_command(label="Open Query Parameters", command=lambda: Entry.open_website(3))
+filemenu.add_separator()
+filemenu.add_command(label="Exit", command=lambda: quit())
+
+
+helpmenu = Menu(menu)
+menu.add_cascade(label="Help", menu=helpmenu)
+helpmenu.add_command(label="About...", command=lambda: webbrowser.open('https://github.com/JuanRdBO/Telepy-linkedin/blob/master/README.md'))
 
 C = Canvas(root,height=50, width=300)
 im = Image.open("background.png")
@@ -88,8 +117,10 @@ def sel():
     if var_data.get()==1:
         text_data=" & partial data results"
         #starting_data = ". Starting from " + entry_data.get()
-    else:
+    elif var_data.get()==2:
         text_data=" & full data results"
+    else:
+        text_data=" & full data results via provided CSV"
 
     if var.get() and var_data.get():
         selection = "\nYou selected to search by " + text + text_data
@@ -171,7 +202,10 @@ entry_data_count.config(font=("Helvetica", 15))
 
 container.pack(side="top", fill="x", in_=container_radiobuttons)
 
+
 container_radiobuttons.pack(anchor = "center" )
+
+
 
 
 class Entry(Frame):
@@ -179,13 +213,12 @@ class Entry(Frame):
         Frame.__init__(self,parent)
         #self.title("Entry")
 
-        
 
         container = tkinter.Frame()
 
         L2 = Label(text="Query input: ")
         L2.pack(in_=container, side="left")
-        L2.config(font=("Helvetica", 15))        
+        L2.config(font=("Helvetica", 15))    
 
         self.entry = tkinter.Entry( width=55)
         self.entry.pack( in_=container, side="left", expand=False)
@@ -232,13 +265,68 @@ class Entry(Frame):
                                 command=self.on_button_click_show_json)
         self.NewWindow.pack( expand=0)
         self.NewWindow.config(font=("Helvetica", 15))
+
+        L2 = Label(root, text="\n ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ")
+        L2.pack()
+        L2.config(font=("Helvetica", 2))
+
+        button_search_csv = tkinter.Button(text="Search by imported CSV", command=self.import_csv_file)
+        button_search_csv.pack(expand=0)
+        button_search_csv.config(font=("Helvetica", 15))
+
+
+
+
+
+
+
+
+
+    def open_website(website):
+
+        if website == 1:
+            webbrowser.open('https://github.com/JuanRdBO/Telepy-linkedin', new=2)
+            print('wow')
+        elif website ==2:
+            webbrowser.open('https://www.linkedin.com/developer/apps', new=2)
+        else:
+            webbrowser.open('https://developer.linkedin.com/docs/fields/company-profile', new=2)
+
+
+
+    def import_csv_file(self):
+
+        FILE =  filedialog.askopenfilename(initialdir = "/",title = "Select a file to allow for multiple searches",filetypes = (("csv files","*.csv"),("all files","*.*")))
+        print(FILE)
+
+        with open(FILE) as csvfile:
+            readCSV = csv.reader(csvfile, delimiter=',')
+            for row in readCSV:
+                self.entry.delete(0,'end')
+                self.entry.insert(END,''.join(row))
+                self.on_button_click_search()
+                self.entry.delete(0,'end')
+                
+
+        # self.root = tkinter.Toplevel()
+        # self.root.title("Showing: "+self.entry.get()+".json - Searched by Name")
+        # self.root.geometry('1000x600')
         
-        
+
+        # p = sub.Popen(['python','show_json.py',self.entry.get()],stdout=sub.PIPE,stderr=sub.PIPE)
+        # output, errors = p.communicate()
+
+        # text = Text(self.root)
+        # text.pack(side=LEFT, fill=BOTH, expand = YES)
+        # text.insert(END, output)
 
 
     def on_button_click_show_json(self):
         self.root = tkinter.Toplevel()
-        self.root.title("Showing: "+self.entry.get()+".json - Searched by Name")
+        if var.get()==1:
+            self.root.title("Showing: "+self.entry.get()+".json - Searched by Name")
+        else:
+            self.root.title("Showing: "+self.entry.get()+".json - Searched by Location")
         self.root.geometry('1000x600')
         
 
@@ -271,7 +359,10 @@ class Entry(Frame):
         if var_csv_show.get() == 1:
             
             self.root = tkinter.Toplevel()
-            self.root.title("Showing: "+self.entry.get()+".json - Searched by Name")
+            if var.get()==1:
+                self.root.title("Showing: "+self.entry.get()+".json - Searched by Name")
+            else:
+                self.root.title("Showing: "+self.entry.get()+".json - Searched by Location")
             self.root.geometry('1000x600')
 
             print('python'+' show_csv.py '+self.entry.get()+' 1')
@@ -287,9 +378,13 @@ class Entry(Frame):
             p = sub.Popen(['python','show_csv.py',self.entry.get(),'2'],stdout=sub.PIPE,stderr=sub.PIPE)
             output, errors = p.communicate()
 
+
     def on_button_click_search(self):
         self.root = tkinter.Toplevel()
-        self.root.title("Showing: "+self.entry.get()+".json - Searched by Name")
+        if var.get()==1:
+            self.root.title("Showing: "+self.entry.get()+".json - Searched by Name")
+        else:
+            self.root.title("Showing: "+self.entry.get()+".json - Searched by Location")
         self.root.geometry('1000x600')
         
         if var.get()==1:

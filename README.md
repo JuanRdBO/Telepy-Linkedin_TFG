@@ -82,7 +82,7 @@ python gui.py
 Which produces the following GUI. The options are self-explanatory.
 
 <a href="https://www.upf.edu/pra/en/3375/21626.html">
-    <img src="https://user-images.githubusercontent.com/28183468/38603070-dc2f8f30-3d6c-11e8-94f3-a8f92f28de8f.png" alt="telepy_gui_" title="GUI_" align="center" height="400" />
+    <img src="https://user-images.githubusercontent.com/28183468/38617276-dff8681a-3d96-11e8-868b-5d24b6596fc8.png" alt="telepy_gui_" title="GUI_" align="center" height="400" />
 </a>
 
 <br/>

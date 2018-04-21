@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2003,
+                "id": 2723310,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Traunstein",
+                                "postalCode": "83278",
+                                "street1": "Obere Bichlstr. 6"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0049 (0)89 3807 8025"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Munich",
+                                "postalCode": "81541",
+                                "street1": "Bruennsteinstr. 5"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0049 (0)89 3807 8025"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Namensentwicklung Werner Brandl",
+                "numFollowers": 22,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Brand name development",
+                        "Portfolio naming strategies",
+                        "Naming services",
+                        "Name tests and checks",
+                        "Name consulting"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.werner-brandl.de"
+            }
+        ]
+    }
+}

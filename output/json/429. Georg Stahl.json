@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1934,
+                "id": 5068695,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "56",
+                            "name": "Miner\u00eda y metalurgia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Obersch\u00f6na / OT Kleinschirma",
+                                "postalCode": "09600",
+                                "street1": "Freiberger Str. 46"
+                            },
+                            "contactInfo": {
+                                "fax": "+493731765488",
+                                "phone1": "+49373174910"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Georg Herrmann Metallgie\u00dferei GmbH",
+                "numFollowers": 17,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Aluminiumguss",
+                        "Sandguss",
+                        "Prototypen",
+                        "Modellbau",
+                        "Kokillenguss",
+                        "Kunstguss"
+                    ]
+                },
+                "status": {
+                    "code": "ACQ",
+                    "name": "Acquired"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ghm-aluguss.de"
+            }
+        ]
+    }
+}

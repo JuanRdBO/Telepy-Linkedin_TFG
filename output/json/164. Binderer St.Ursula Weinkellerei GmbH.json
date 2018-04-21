@@ -1,0 +1,46 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 5988594,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "142",
+                            "name": "Vino y licor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bingen",
+                                "postalCode": "55411",
+                                "street1": "Mainzer Str. 186"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 672170"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Binderer St. Ursula Weinkellerei GmbH",
+                "numFollowers": 42,
+                "websiteUrl": "http://www.binderer.de"
+            }
+        ]
+    }
+}

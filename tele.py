@@ -10,6 +10,9 @@ import os
 import errno
 import pandas as pd
 import webbrowser
+import csv
+from pathlib import Path
+
 
 DEBUG = True
 
@@ -28,6 +31,7 @@ parser.add_option("-s","--start", action="store_true",dest="START",help="to retu
 parser.add_option("-c","--complete", action="store_true",dest="COMPLETE",help="return complete dataset from selection. (only with -f flag)")
 parser.add_option("-r","--recursive", action="store_true",dest="RECURSIVE",help="sets how many recursions to be done on 'all data' option. Always 2rd argument. (only with -c flag)")
 parser.add_option("-n","--number", action="store_true",dest="NUMBER",help="sets how many companies to be returned. Always 3rd argument. (does not work with -c flag)")
+parser.add_option("-v","--various", action="store_true",dest="VARIOUS",help="Gives the output files a number to know which row of the input file is being processed. (works only when imput csv is active.)")
 #parser.add_option("-d","--debug", action="store_true",dest="DEBUG",help="sets how many companies to be returned. Always 3rd argument. (does not work with -c flag)")
 # if len(sys.argv)==1:
 #     parser.print_help(sys.stderr)
@@ -41,7 +45,7 @@ parser.add_option("-n","--number", action="store_true",dest="NUMBER",help="sets 
 
 
 # Se define el access token para Telepy_2
-application = linkedin.LinkedInApplication(token='AQXWdiJB4MvBnA0CB3FHKr6nP34FgdmNG-Y6zXhiLG_RENU9JmvcduIUXZQp9cAy6xRiKh-Qypw0jwh4MLEV4U_dE4OwK1jcEKsEOrXoSgiNganZzMTjkazbmhlcZQupTtQlfFAoqikwsrnoOkgqQmFMfvhKa-86WHYGwP_mQ_a-Pg2NQKw6ZDto-4xZOl3f13GdWOl2EKsqHIHWzo1ZfPZ2x_JZLwvaCXWBF1EYFA3uQKGLcBOrL00yfXNYMvyyXI7dlg-3v7dIgwiwiSXSBQqUCjupbAmfZEasysn1kmGdVyLGY3gBMmLneQucWPDCtSnfs4xQv_m61TtZ-fOSEy7QEEceZA')
+application = linkedin.LinkedInApplication(token='AQVoNmf6QZ8vLYkUHR5sVB5MT1Db4cjRfaSCowl8uK4QqIxp5Ttf_H-kTb_Ymoobp_dVp3v7MKiXjsLtOs438aqw6TbFe8JU75XWZYsbNZA7dT2-Ha6XlhpxrL-9NfKbj8_w72_08kqZa1G6d4YzG_LAHl-MgkW9aNaORFknn4Srsh56slOhXng5EeJ_ORSDb16PjYy8Vl4-oNZVuSbTgRAQrVP7buEzko_-DuKhlxDd8RhAFMJK31P3bOXsL6PNDYFv8n6z5Yc-wuac_-tPMQze9bORiqyg9iCqW3GEMndxMWNGGh_oNtElcQUF4D2_ViXqsN7qTlJQkEUobyybpIYex3L_7w')
 
 
 
@@ -53,16 +57,28 @@ if options.ARGUMENTS==True:
 if options.INSTALL==True:
 	os.system("sudo python setup.py install")
 	quit()
-	
+
+if options.VARIOUS == True:
+	number, company = args[0].split('..')
+	print('A: '+number+' And B: '+company )
+	company = ""+company+""
+else:
+	company = ""+args[0]+""
+
+
 
 # función de printeo de empresa
 def printCompanyInfo(company, starting_point, all_info, current_round, final_round, count):
 	# Se ejecuta el script de linkedin provisto en el repositorio con search company
 	if options.LOCATION==True:
-		print_json = application.search_company(selectors=[{'companies': ['name', 'website-url','employee-count-range']}], params={'facet': 'location,'+company, 'start': starting_point, 'count': count})
+		print_json = application.search_company(selectors=[{'companies': ['name', 'website-url','employee-count-range','specialties','locations','founded-year','num-followers']}], params={'facet': 'location,'+company, 'start': starting_point, 'count': count})
 	else: 
-		print_json = application.search_company(selectors=[{'companies': ['name', 'website-url','employee-count-range']}], params={'keywords': company, 'start': starting_point, 'count': count})
+		print_json = application.search_company(selectors=[{'companies': ['id','name','email-domains','company-type','website-url','industries','status','twitter-id','employee-count-range','locations:(is-headquarters,is-active,address,contact-info)','founded-year','end-year','num-followers','specialties']}], params={'keywords': company, 'start': starting_point, 'count': count})
+																			# 
+																			#  ,'employee-count-range','website-url','founded-year','num-followers','locations','specialties'
+																			# 
 
+	company = number+ ". "+company
 
 	if options.SAVETOFILE==True:
 
@@ -73,8 +89,6 @@ def printCompanyInfo(company, starting_point, all_info, current_round, final_rou
 			        if exc.errno != errno.EEXIST:
 			            raise
 		if all_info==1:
-
-
 			if current_round == 0:
 				if not os.path.exists(os.path.dirname("output/json/"+company)):
 				    try:
@@ -168,13 +182,13 @@ def printCompanyInfo(company, starting_point, all_info, current_round, final_rou
 			with open("output/json/"+company+".json", 'w') as f:
 				print(json.dumps(print_json, sort_keys=True,indent=4, separators=(',', ': ')),file=f)
 				f.close()
-			with open("output/json/"+company+".json", 'r') as f:
-			    lines = f.readlines()
-			    lines = lines[:-1]
-			    f.close()
-			with open("output/json/"+company+".json", 'w') as f:
-				f.writelines(lines[:1] + lines[5:]) # This will skip the second line
-				f.close()
+			# with open("output/json/"+company+".json", 'r') as f:
+			#     lines = f.readlines()
+			#     lines = lines[:-1]
+			#     f.close()
+			# with open("output/json/"+company+".json", 'w') as f:
+			# 	f.writelines(lines[:1] + lines[5:]) # This will skip the second line
+			# 	f.close()
 			# with open("output/json/"+company+".json") as fi:
 			#     data = json.load(fi)
 			#     df = pd.DataFrame(data=data['values'])
@@ -219,8 +233,9 @@ final_round = 0
 if options.COMPLETE==True:
 	
 	all_info = 1
-	company_input = ''.join(args[0])
-
+	#company_input = ''.join(args[0])
+	#company_input = "'"+args[0]+"'"
+	company_input = company
 	rangeList = range(0,int(recursive_rounds))
 	
 	for index in rangeList:
@@ -241,19 +256,17 @@ if options.COMPLETE==True:
 else:
 	if DEBUG == True:
 			print('DEBUG: Round '+ str(current_round)+' from '+str(final_round)+ ' starting at '+str(starting_point) + ' returning ' +str(count) + ' hit(s)')
-	printCompanyInfo(''.join(args[0]), starting_point,all_info, current_round, final_round, count)
+	#company = ""+args[0]+""
+	printCompanyInfo(company, starting_point,all_info, current_round, final_round, count)
 
 
 if options.EXPORTCSV==True:
 	lines = []
-	company = ''.join(args[0])
-	#print(company)
+	#company = args[0]
 
-	with open("output/json/"+company+".json") as fi:
-	    data = json.load(fi)
-	    df = pd.DataFrame(data=data['values'])
-	    #print(df)
-	    fi.close()
+	company = "'"+number+ ". "+company+"'"
+	print('this is company: '+company)
+
 	if not os.path.exists(os.path.dirname("output/csv/")):
 	    try:
 	        os.makedirs(os.path.dirname("output/csv/"))
@@ -261,7 +274,89 @@ if options.EXPORTCSV==True:
 	        if exc.errno != errno.EEXIST:
 	            raise
 
-	df.to_csv("output/csv/"+company+".csv", index=False)
+	# if not os.path.exists(os.path.dirname("output/csv/total_search.csv")):
+	#     try:
+	#         os.makedirs(os.path.dirname("output/csv/total_search.csv"))
+	#     except OSError as exc: # Guard against race condition
+	#         if exc.errno != errno.EEXIST:
+	#             raise
+	
+	if not os.path.exists(os.path.dirname("output/csv/final_company.csv")):
+	    try:
+	        os.makedirs(os.path.dirname("output/csv/final_company.csv"))
+	    except OSError as exc: # Guard against race condition
+	        if exc.errno != errno.EEXIST:
+	            raise
+
+	
+
+	command = 'python -m libjson2csv.json_2_csv'+ " output/json/"+company+".json" + " output/csv/"+company+".csv"
+
+	os.system(command)
+
+	company = company.strip("'")
+
+	#company = number+ ". "+company
+
+	# with open("output/csv/total_search.csv", "a") as f_total:
+	# 	writer = csv.writer(f_total, delimiter=',')
+	# 	with open("output/csv/"+company+".csv", "r") as f_company:
+	# 		reader = csv.reader(f_company)
+	# 		for row in reader:
+	# 			print(" ".join(row))
+	# 			writer.writerow(row)
+
+	if not Path("output/csv/final_company.csv").is_file():
+		#print("\nBANZAAAAAAAI")
+		company_csv = pd.read_csv("output/csv/"+company+".csv")
+		company_csv.to_csv("output/csv/final_company.csv", index=False)
+	else:
+		#print("\nHELL NO")
+		company_csv = pd.read_csv("output/csv/final_company.csv")
+		pandas_csv = pd.read_csv("output/csv/"+company+".csv")
+		concat_csv = [company_csv, pandas_csv]
+		final_company = pd.concat(concat_csv)
+		final_company.to_csv("output/csv/final_company.csv", index=False)
+
+
+	# company_csv = open("output/csv/"+company+".csv",'r')
+	# company_csv_read = csv.reader(company_csv)
+	# fd.write(df_read)
+	# fd.close()
+
+	# reader = csv.reader(open("output/csv/total_search.csv", 'rb'))
+	# reader1 = csv.reader(open("output/csv/"+company+".csv", 'rb'))
+	# writer = csv.writer(open('output/csv/appended_output.csv', 'wb'))
+	# for row in reader:
+	#     writer.writerow(row)
+
+	# with open("output/json/"+company+".json") as fi:
+	#     data = json.load(fi)
+	#     df = pd.DataFrame(data=data['values'][0]['locations']['values'])
+	#     #print(df)
+	#     fi.close()
+	# if not os.path.exists(os.path.dirname("output/csv/")):
+	#     try:
+	#         os.makedirs(os.path.dirname("output/csv/"))
+	#     except OSError as exc: # Guard against race condition
+	#         if exc.errno != errno.EEXIST:
+	#             raise
+
+	# if not os.path.exists(os.path.dirname("output/csv/total_search.csv")):
+	#     try:
+	#         os.makedirs(os.path.dirname("output/csv/total_search.csv"))
+	#     except OSError as exc: # Guard against race condition
+	#         if exc.errno != errno.EEXIST:
+	#             raise
+
+	# df.to_csv("output/csv/"+company+".csv", index=False)
+
+	# # df_read = pd.read_csv("output/csv/"+company+".csv",skiprows=1)
+	# df.to_csv("output/csv/total_search.csv", mode='a', header=False, index=False)
+
+	# correct too but with more lines.
+	# with open("output/csv/total_search.csv", 'a') as f:
+	# 	df.to_csv(f, header=False)
 
 #print(recursive_rounds)
 

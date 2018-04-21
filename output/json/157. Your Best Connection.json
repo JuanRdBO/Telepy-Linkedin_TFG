@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2408,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1991,
+                "id": 85683,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "104",
+                            "name": "Dotaci\u00f3n y selecci\u00f3n de personal"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bromsgrove",
+                                "postalCode": "B61 0GD",
+                                "street1": "Unit 1 Topaz Business Park, Topaz Way,"
+                            },
+                            "contactInfo": {
+                                "fax": "0121 504 4152",
+                                "phone1": "0121 504 3000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "The Best Connection",
+                "numFollowers": 5594,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Temporary Labour - Driving",
+                        "Temporary Labour - Warehouse and Distribution",
+                        "Temporary Labour - Industrial",
+                        "Temporary Labour - Retail",
+                        "Temporary Labour - Local Authority",
+                        "Temporary Labour - Automotive",
+                        "Recruitment",
+                        "Staffing",
+                        "Driving Recruitment"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.thebestconnection.co.uk"
+            }
+        ]
+    }
+}

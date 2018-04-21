@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7324874,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "76",
+                            "name": "Oficina ejecutiva"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bremerhaven",
+                                "postalCode": "27576",
+                                "street1": "31 Hinrich-Schmalfeldt-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "04719530"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ortspolizeibeh\u00f6rde Bremerhaven",
+                "numFollowers": 5,
+                "websiteUrl": "polizei.bremerhaven.de"
+            }
+        ]
+    }
+}

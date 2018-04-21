@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1992,
+                "id": 10513730,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "T\u00fcbingen",
+                                "postalCode": "72076",
+                                "street1": "Paul-Ehrlich-Strasse 5"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 7071 976190",
+                                "phone1": "+49 7071 9711"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "HB Technologies AG",
+                "numFollowers": 43,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Bioinformatik",
+                        "Softwareentwicklung",
+                        "C#",
+                        "Laborautomatisierung",
+                        "Big Data Analytics",
+                        "Peptide"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.h-net.com"
+            }
+        ]
+    }
+}

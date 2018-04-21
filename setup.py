@@ -8,7 +8,10 @@ except ImportError:
 
 from linkedin import __version__
 
+
 os.system('pip3 install requests requests_oauthlib')
+#needed to format .json
+os.system('pip install libjson2csv==0.0.6')
 
 with open(os.path.join(os.path.dirname(__file__), 'README.md')) as readme:
       long_description = readme.read()

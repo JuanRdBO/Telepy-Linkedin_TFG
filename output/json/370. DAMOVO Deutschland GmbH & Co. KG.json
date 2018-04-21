@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 2016,
+                "id": 17910527,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40231",
+                                "street1": "K\u00f6nigsberger Strasse 1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 211 93676-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {},
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Innovation Alliance (Deutschland)",
+                "numFollowers": 54,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Digitalisiserung",
+                        "Gesch\u00e4ftsergebnisse optimieren",
+                        "Digitaler Wandel",
+                        "Digitale Transformation",
+                        "Mittelstand",
+                        "Automatisierung",
+                        "Industrie 4.0",
+                        "Smart Retail",
+                        "Vertrieb 4.0",
+                        "IoT",
+                        "Connected ",
+                        "Cloud Services"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.InnovationAlliance.de"
+            }
+        ]
+    }
+}

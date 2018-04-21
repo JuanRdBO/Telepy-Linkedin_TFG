@@ -1,0 +1,125 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2001,
+                "id": 124076,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "119",
+                            "name": "Tecnolog\u00eda inal\u00e1mbrica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Munich",
+                                "postalCode": "81671",
+                                "street1": "Rosenheimer Str. 139"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Duvvada, Visakhapatnam",
+                                "postalCode": "530046",
+                                "street1": "18-B/1, SDF-I Building"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Amsterdam",
+                                "postalCode": "",
+                                "street1": "."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Madrid",
+                                "postalCode": "",
+                                "street1": "."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "WebToGo Group",
+                "numFollowers": 612,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Software development",
+                        "Connectivity Solutions",
+                        "Mobile Internet",
+                        "Mobile Broadband",
+                        "Diagnostics Solutions",
+                        "WiFi handover",
+                        "Smartphone Apps",
+                        "Self-Diagnostics",
+                        "Self-Service Customer care",
+                        "Home Network Diagnostics",
+                        "Mobile Diagnostics for Corporations",
+                        "Router Diagnostics"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.webtogo.de"
+            }
+        ]
+    }
+}

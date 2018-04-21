@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 138,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "H",
+                    "name": "5001-10000"
+                },
+                "foundedYear": 1483,
+                "id": 140883,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "41",
+                            "name": "Actividades bancarias"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Genova",
+                                "postalCode": "16123",
+                                "street1": "Via Cassa di Risparmio 15"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Banca Carige spa",
+                "numFollowers": 16698,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Conti Correnti",
+                        "Investimenti",
+                        "Finanziamenti",
+                        "Servizi Assicurativi",
+                        "Credito al consumo",
+                        "Private Banking",
+                        "Arte e Territorio",
+                        "Cultura e Territorio",
+                        "Professioni e Territorio"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.carige.it"
+            }
+        ]
+    }
+}

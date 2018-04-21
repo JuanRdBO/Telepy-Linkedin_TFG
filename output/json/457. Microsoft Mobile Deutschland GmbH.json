@@ -1,0 +1,155 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 15,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1967,
+                "id": 1956,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 8,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "92136",
+                                "street1": "24, rue du Gouverneur G\u00e9n\u00e9ral Ebou\u00e9"
+                            },
+                            "contactInfo": {
+                                "fax": "+33 (0)1 58 44 55 70",
+                                "phone1": "+33 (0)1 58 44 55 66"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "VIANEN",
+                                "postalCode": "4131 NJ",
+                                "street1": "Lange Dreef 17"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+31886606600"
+                            },
+                            "isActive": false,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Dayton",
+                                "postalCode": "45459",
+                                "street1": "7735 Paragon Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+1-937-433-3334"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Evere",
+                                "postalCode": "1140",
+                                "street1": "Avenue Jules Bordet 160"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "00 32 2 538 92 92"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Issy les Moulineaux",
+                                "postalCode": "92130",
+                                "street1": "22-24, rue du gouverneur G\u00e9n\u00e9ral Ebou\u00e9"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "01 55 00 12 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Indianapolis",
+                                "postalCode": "46240",
+                                "street1": "8395 Keystone Crossing"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Dublin",
+                                "street1": "Haymarket"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bridgewater",
+                                "postalCode": "08807",
+                                "street1": "200 Somerset Corporate Blvd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Sogeti",
+                "numFollowers": 127686,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Application Services",
+                        "High-Tech Engineering",
+                        "Testing",
+                        "Infrastructure Services",
+                        "Business Intelligence",
+                        "Design and Engineering",
+                        "Web Content Management",
+                        "Security",
+                        "Mobile",
+                        "Cloud"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.sogeti.com"
+            }
+        ]
+    }
+}

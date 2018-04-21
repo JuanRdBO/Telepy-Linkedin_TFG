@@ -1,0 +1,503 @@
+companies._count,companies._start,companies._total,companies.values[0].companyType.code,companies.values[0].companyType.name,companies.values[0].emailDomains._total,companies.values[0].employeeCountRange.code,companies.values[0].employeeCountRange.name,companies.values[0].foundedYear,companies.values[0].id,companies.values[0].industries._total,companies.values[0].industries.values[0].code,companies.values[0].industries.values[0].name,companies.values[0].locations._total,companies.values[0].locations.values[0].address.city,companies.values[0].locations.values[0].address.postalCode,companies.values[0].locations.values[0].address.street1,companies.values[0].locations.values[0].contactInfo.fax,companies.values[0].locations.values[0].contactInfo.phone1,companies.values[0].locations.values[0].isActive,companies.values[0].locations.values[0].isHeadquarters,companies.values[0].locations.values[1].address.city,companies.values[0].locations.values[1].address.postalCode,companies.values[0].locations.values[1].address.street1,companies.values[0].locations.values[1].contactInfo.fax,companies.values[0].locations.values[1].contactInfo.phone1,companies.values[0].locations.values[1].isActive,companies.values[0].locations.values[1].isHeadquarters,companies.values[0].locations.values[2].address.city,companies.values[0].locations.values[2].address.postalCode,companies.values[0].locations.values[2].address.street1,companies.values[0].locations.values[2].contactInfo.fax,companies.values[0].locations.values[2].contactInfo.phone1,companies.values[0].locations.values[2].isActive,companies.values[0].locations.values[2].isHeadquarters,companies.values[0].locations.values[3].address.city,companies.values[0].locations.values[3].address.postalCode,companies.values[0].locations.values[3].address.street1,companies.values[0].locations.values[3].contactInfo.fax,companies.values[0].locations.values[3].contactInfo.phone1,companies.values[0].locations.values[3].isActive,companies.values[0].locations.values[3].isHeadquarters,companies.values[0].locations.values[4].address.city,companies.values[0].locations.values[4].address.postalCode,companies.values[0].locations.values[4].address.street1,companies.values[0].locations.values[4].contactInfo.fax,companies.values[0].locations.values[4].contactInfo.phone1,companies.values[0].locations.values[4].isActive,companies.values[0].locations.values[4].isHeadquarters,companies.values[0].locations.values[5].address.city,companies.values[0].locations.values[5].address.postalCode,companies.values[0].locations.values[5].address.street1,companies.values[0].locations.values[5].contactInfo.fax,companies.values[0].locations.values[5].contactInfo.phone1,companies.values[0].locations.values[5].isActive,companies.values[0].locations.values[5].isHeadquarters,companies.values[0].locations.values[6].address.city,companies.values[0].locations.values[6].address.street1,companies.values[0].locations.values[6].isActive,companies.values[0].locations.values[6].isHeadquarters,companies.values[0].locations.values[7].address.city,companies.values[0].locations.values[7].address.postalCode,companies.values[0].locations.values[7].address.street1,companies.values[0].locations.values[7].isActive,companies.values[0].locations.values[7].isHeadquarters,companies.values[0].name,companies.values[0].numFollowers,companies.values[0].specialties._total,companies.values[0].specialties.values[0],companies.values[0].specialties.values[10],companies.values[0].specialties.values[11],companies.values[0].specialties.values[12],companies.values[0].specialties.values[13],companies.values[0].specialties.values[14],companies.values[0].specialties.values[15],companies.values[0].specialties.values[1],companies.values[0].specialties.values[2],companies.values[0].specialties.values[3],companies.values[0].specialties.values[4],companies.values[0].specialties.values[5],companies.values[0].specialties.values[6],companies.values[0].specialties.values[7],companies.values[0].specialties.values[8],companies.values[0].specialties.values[9],companies.values[0].status.code,companies.values[0].status.name,companies.values[0].twitterId,companies.values[0].websiteUrl
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,P,Privately Held,0.0,F,501-1000,1912.0,6253626.0,1.0,117.0,Plásticos,5.0,Herzebrock-Clarholz,33442.0,Brocker Straße 1,,+49 5245430,True,True,Liptovský Mikuláš,031 04,Priemyselná zóna Okolicné,,+421 44 54759-11,True,False,Telford,TF1 7GN,Craemer House,,+44 1952 6078-00,True,False,Attendorn,57439.0,Benzstraße 22,,+49 2722 9545-0,True,False,Montreuil,,Tour Orion,,+33 1 55861065,True,False,,,,,,,,,,,,,,,,,Paul Craemer GmbH,124.0,3.0,Metal Forming,,,,,,,Plastics Processing,Tool Making,,,,,,,,OPR,Operating,,www.craemer.com
+,,1,,,0.0,D,51-200,,9896047.0,,,,1.0,M?nster,48155.0,Rms 1.06 - 1.10 2nd Floor Haferlandweg 8 Section C1 & C2,,+49 6196999,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,QUALCOMM CDMA Technologies GmbH,134.0,,,,,,,,,,,,,,,,,,,,,http://www.qualcomm.de
+,,1,,,0.0,,,,9584108.0,1.0,59.0,Servicios públicos,1.0,Erlangen-Innenstadt,91052.0,Schubertstr. 14,,+49 9131714,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gesundheitsamt Erlangen-Höchstadt,2.0,,,,,,,,,,,,,,,,,,,,,http://www.erlangen-hoechstadt.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,2,,,0.0,,,,12217276.0,1.0,122.0,Servicios infraestructurales,1.0,Erfurt,99092.0,70 Blumenstraße,,+49 3616639855,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tip-Top Dienstleistungen GmbH,6.0,,,,,,,,,,,,,,,,,,,,,http://www.tip-top-erfurt.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,113,P,Privately Held,0.0,C,11-50,1964.0,2321426.0,1.0,128.0,Bienes inmuebles comerciales,1.0,Dallas,75207.0,1350 Manufacturing St.,214 7415020,214 7415018,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Jim Lake Companies,156.0,6.0,Adaptive Urban Redevelopment,,,,,,,Lofts in Dallas,Office/Showrooms/Warehouses in Dallas,Bishop Arts District,Dallas Design District,Live/Work Studios in Dallas,,,,,OPR,Operating,thedallasdd,http://www.jimlakeco.com
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,2,,,0.0,,,,1315094.0,1.0,43.0,Servicios financieros,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MLP Finanzdienstleistungen AG,512.0,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,2,,,0.0,,,,12869881.0,,,,1.0,Teltow,14513.0,3 Potsdamer Str.,,+49 332841420,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Feuerwehr Teltow,2.0,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,7,,,0.0,,,,12485949.0,1.0,115.0,Música,1.0,Roßdorf,64380.0,47 Darmstädter Str.,,+49 61545766230,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Musikschule Darmstadt-Dieburg,2.0,,,,,,,,,,,,,,,,,,,,,http://www.musikschule-darmstadt-dieburg.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,P,Privately Held,0.0,D,51-200,1984.0,3911295.0,1.0,55.0,Maquinaria,1.0,Melle,49324.0,Maschweg 70,+49 5422 60507-101,+49 5422 60507-0,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,iNOEX GmbH,125.0,1.0,Mess- und Regelungstechnik,,,,,,,,,,,,,,,,OPR,Operating,,http://www.inoex.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,4,P,Privately Held,0.0,E,201-500,1997.0,677769.0,1.0,96.0,Servicios y tecnología de la información ,4.0,Erkrath,40699.0,Bessemerstraße 2-4,+49 211 88 26 10 00,+49 211 88 26 0,True,True,Ústí nad Labem,40001,Klíšská 977/77,+420 474 74 51 06,+420 474 74 51 01,True,False,Piła,64-920,ul. Motylewska 24,+48 67 352 15 02,+48 67 352 15 01,True,False,Székesfehérvár,8000.0,Aszalvölgyi u. 5.,+36 22 51 59 55,+36 22 51 59 50,True,False,,,,,,,,,,,,,,,,,,,,,,,,TimoCom Soft- und Hardware GmbH,2023.0,15.0,freight and vehicle exchange,freight exchange,electronic freight tendering,free loads,online marketplace,freight quotes,,freight purchasing,tendering platform,transportation,logistics,IT solution,Transport IT,esourcing,e-sourcing,scm,OPR,Operating,http://twitter.com/TimoCom,www.timocom.com
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,2,,,0.0,C,11-50,,3852943.0,,,,1.0,Berlin,10557.0,"Europaplatz 1. Berlin,  10557. Germany",,+49 3029768141,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DB Station & Service AG,501.0,,,,,,,,,,,,,,,,,,,,,http://www.dbnetze.com
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,30,P,Privately Held,0.0,I,10001+,,14407.0,1.0,49.0,Materiales de construcción,2.0,Cotia,6713250.0,Rua Adolf Wurth 557,,551146131900,True,True,,,,,,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wurth do Brasil Peças de Fixação Ltda.,19751.0,,,,,,,,,,,,,,,,,,OPR,Operating,,www.wurth.com.br
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,5,,,0.0,,,,12771099.0,1.0,44.0,Bienes inmobiliarios,1.0,Stade,21682.0,2 Hökerstraße,,+49 4141401,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Projektentwicklung Stade GmbH & Co.KG,4.0,,,,,,,,,,,,,,,,,,,,,http://www.projektentwicklung-stade.de
+1.0,0.0,33408,P,Privately Held,0.0,D,51-200,1991.0,118595.0,1.0,135.0,Ingeniería industrial o mecánica,5.0,Lincoln,68504.0,2820 N 48th Street,,4024643833,True,True,Omaha,68114,8040 Davenport Street,,4023342155,True,False,Overland Park,66210,7400 College Boulevard,913 491 1838,913 951 8311,True,False,Pittsburgh,15212.0,100 S. Commons,,412.727.8388,True,False,Denver,80202.0,717 17th Street,,3033821920,True,False,,,,,,,,,,,,,,,,,M.E. GROUP,9915.0,9.0,MEP/T Design,,,,,,,Building Physics,Design Build,Commissioning,Retro-Commissioning,Occupant Experience,Building Simulations & Analysis,Certifications,Technology + Acoustics,,OPR,Operating,@megroup,www.megroup.com
+1.0,0.0,2,P,Privately Held,0.0,E,201-500,2000.0,289314.0,1.0,8.0,Telecomunicaciones,1.0,New Delhi,110020.0,"Phase 1, Okhla Industrial Area",,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Clay Telecom,3006.0,10.0,International SIM Cards,,,,,,,Global Prepaid SIM Card,Country-specific Postpaid SIM Cards,Country-specific and World Data Cards,Country-specific and Global Mi-Fi Services,VAT Reclaim,Calling Apps,Broadcast Pro App,Country Specific Prepaid SIM,Travel Insurance,OPR,Operating,,www.claytelecom.com
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,12228316.0,,,,1.0,Raesfeld,46348.0,7 Silvesterstraße,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Silvesterschule Erle,0.0,,,,,,,,,,,,,,,,,,,,,http://www.silvesterschule.de
+1.0,0.0,2408,P,Privately Held,0.0,F,501-1000,1991.0,85683.0,1.0,104.0,Dotación y selección de personal,1.0,Bromsgrove,B61 0GD,"Unit 1 Topaz Business Park, Topaz Way,",0121 504 4152,0121 504 3000,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The Best Connection,5594.0,9.0,Temporary Labour - Driving,,,,,,,Temporary Labour - Warehouse and Distribution,Temporary Labour - Industrial,Temporary Labour - Retail,Temporary Labour - Local Authority,Temporary Labour - Automotive,Recruitment,Staffing,Driving Recruitment,,OPR,Operating,,www.thebestconnection.co.uk
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,12343525.0,,,,1.0,Rosenheim,83022,16 Hechtseestraße,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Aicovo Gmbh,1.0,,,,,,,,,,,,,,,,,,,,,http://www.aicovo.com
+1.0,0.0,36,C,Public Company,0.0,D,51-200,1991.0,45188.0,1.0,96.0,Servicios y tecnología de la información ,1.0,München,81249,Clarita-Bernhard-Straße 27,+4989747257-900,+4989747257-0,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SHS VIVEON AG,1142.0,11.0,Customer Management,Vertriebssteuerung,,,,,,Customer Risk Management,Credit Management,CRM,Risk Management,Digital Marketing,Fraud Prevention,Microsoft Dynamics 365,Adobe Campaign,Marketing Automation,OPR,Operating,SHS_VIVEON,www.shs-viveon.com
+1.0,0.0,8,,,0.0,B,2-10,,5981789.0,1.0,48.0,Construcción,1.0,,,,,,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vinci Deutschland Gmbh,16.0,,,,,,,,,,,,,,,,,,,,,http://vinci-deutschland.de
+,,1,O,Self Owned,0.0,C,11-50,1992.0,6123669.0,1.0,96.0,Servicios y tecnología de la información ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Team Harant GmbH & Co KG,11.0,5.0,Print-Management,,,,,,,Xerox Vertrieb,Xerox Printsysteme im B2B-Bereich,Managed Print Services,Service & Vertrieb digitale Produktionssysteme,,,,,,OPR,Operating,,www.team-harant.de
+,,1,,,0.0,C,11-50,,5988594.0,1.0,142.0,Vino y licor,1.0,Bingen,55411,Mainzer Str. 186,,+49 672170,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Binderer St. Ursula Weinkellerei GmbH,42.0,,,,,,,,,,,,,,,,,,,,,http://www.binderer.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,4,P,Privately Held,0.0,D,51-200,,628370.0,1.0,96.0,Servicios y tecnología de la información ,1.0,,,,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cancom on line GmbH,91.0,,,,,,,,,,,,,,,,,,OPR,Operating,,www.cancom.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,D,Educational,0.0,G,1001-5000,2017.0,11285886.0,1.0,68.0,Enseñanza superior,1.0,Saarbrücken,66123,Saarland Informatics Campus E1.7,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Saarland Informatics Campus,5.0,,,,,,,,,,,,,,,,,,,,,https://saarland-informatics-campus.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,428,,,0.0,,,,7330373.0,,,,1.0,Ober-Ramstadt,64372,15 Grafengasse,,615463575,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Evangelische Kirchengemeinde,18.0,,,,,,,,,,,,,,,,,,,,,evkgor.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,1500,P,Privately Held,0.0,D,51-200,1986.0,942925.0,1.0,28.0,Entretenimiento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,hoffmann,888.0,,,,,,,,,,,,,,,,,,OPR,Operating,,http://www.hoffmann.com/
+1.0,0.0,6,,,0.0,,,,7037804.0,1.0,30.0,Ocio y viajes,1.0,,,,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Stadt Annaberg-Buchholz,6.0,,,,,,,,,,,,,,,,,,,,,annaberg-buchholz.de
+1.0,0.0,2,P,Privately Held,0.0,C,11-50,1999.0,2909764.0,1.0,101.0,Recaudación de fondos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GPS Gesellschaft für Produktionssysteme GmbH,22.0,4.0,Innovation Management,,,,,,,Technology Management,Innovation Assessment,Project Management,,,,,,,OPR,Operating,,http://www.gps-stuttgart.de
+,,1,,,0.0,,,,12278716.0,1.0,134.0,Importar y exportar,1.0,Bremen,28217,Am Waller Freihafen,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Faby Fruchtgroßhandel GmbH & Co. KG,2.0,,,,,,,,,,,,,,,,,,,,,http://www.faby-frucht.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,24,P,Privately Held,0.0,F,501-1000,1997.0,759926.0,1.0,96.0,Servicios y tecnología de la información ,5.0,Wiesbaden,65205,Borsigstraße 14,,,True,True,Stuttgart,70173,Bolzstraße 7,,,True,False,Dresden,1067,Freiberger Straße 39,,,True,False,Schwerte,58239.0,Konrad-Zuse-Straße 14,,,True,False,Berlin,10178.0,Monbijouplatz 10,,,True,False,,,,,,,,,,,,,,,,,SVA System Vertrieb Alexander GmbH,881.0,13.0,Hochverfügbarkeits-Architekturen,Big Data & Analytics,End User Computing,Hyperconverged Solutions,,,,Archivierungslösungen,SAN-Architekturen,Datensicherung und Disaster Recovery Lösungen,On-Site und Remote Services,"Virtualisierung Server, Desktop und Storage",IT-Security-Lösungen,Cloud-Lösungen,Software Defined Data Center,Business Continuity,OPR,Operating,,www.sva.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,2,E,Self Employed,0.0,A,myself only,2014.0,9258489.0,1.0,11.0,Consultoría de estrategia y operaciones,1.0,Neustadt an der Weinstrasse,67433,Lindenstrasse 13,,+49 (0)6321 996 45 98,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BOSCH | VAN DER MEULEN Unternehmensberatung,67.0,4.0,Strategy consulting,,,,,,,Technology,Sales & Marketing,Germany,,,,,,,OPR,Operating,,www.boschvandermeulen.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,B,2-10,,9907521.0,1.0,53.0,Sector automovilístico,1.0,Donauwörth,86609,Nürnberger Str. 20,,+49 9067066,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Auto König GmbH & Co. KG,3.0,,,,,,,,,,,,,,,,,,,,,http://www.linder-gerstmeier.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,310,P,Privately Held,0.0,D,51-200,1991.0,776299.0,1.0,55.0,Maquinaria,5.0,Stoney Creek,L8E 5X9,42 Pinelands Ave.,604-575-5437,604-575-5438,True,True,St-Laurent,H4T 1E5,"6557, Cote de Liesse",514-335-2903,514-335-2953,True,False,Bolton,L7E 1M3,12343 Highway 50,905-857-8774,905-857-5200,True,False,Sherbrooke,J1N 3K4,6895 Boulevard Bourque,819-612-5439,819-612-5438,True,False,Surrey,V3S 5V2,17567 55B Avenue,604-575-5437,604-575-5438,True,False,,,,,,,,,,,,,,,,,Top Lift Enterprises Inc.,244.0,4.0,Supply of Intermodal Container Handlers,,,,,,,Supply of Construction Equipment,Service and Parts,Maintenance Contracts,,,,,,,OPR,Operating,,www.toplift.com
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,9,N,Non Profit,0.0,G,1001-5000,,8140034.0,1.0,14.0,Atención sanitaria y hospitalaria,1.0,Hanau,63450,Leimenstrasse 20,,+49 61812560,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Klinikum Stadt Hanau,46.0,,,,,,,,,,,,,,,,,,OPR,Operating,,http://www.klinikum-hanau.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,12354223.0,1.0,133.0,Venta al por mayor,1.0,Berlin,10967,45 Hasenheide,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Horst Lehmann Getränke GmbH,2.0,,,,,,,,,,,,,,,,,,,,,http://www.horst-lehmann.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,8603,P,Privately Held,0.0,C,11-50,1994.0,2226378.0,1.0,42.0,Seguros,1.0,West Malling,ME19 6QL,Malling House,08453 888801,08453 888810,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Claims Management & Adjusting Ltd,377.0,8.0,Theft investigation,,,,,,,RTA investigation,TP Damage and fire investigation,Fraud investigation,Pre and post litigation support,Street property damage and Highways Agency claims,Witness trace and statement taking,Asset ID and recovery,,,OPR,Operating,cmaclaims,www.cmaclaims.co.uk
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,12337889.0,1.0,75.0,Administración gubernamental,1.0,Lübow,23972,28 Dorfstraße,,+49 384178300,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zweckverband Wismar,1.0,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,N,Non Profit,0.0,F,501-1000,1969.0,1073842.0,1.0,69.0,Gestión educativa,6.0,Memmingen,87700,Don-Bosco-Weg 5,08331/69490,08331/97680,True,False,Donauwörth,86609,Adolph-Kolping-Straße 2,0906/70685-48,0906/70685-11,True,False,Landsberg,86899,Adolph-Kolping-Straße 130c,08191/9464-94,08191/9464-0,True,False,Augsburg,86152,Frauentorstraße 29,0821/3443-175,0821/3443-0,True,True,Neu-Ulm,89231,Reuttier Straße 41,0731/97480-40,0731/97480-0,True,False,Kaufbeuren,87600.0,Adolph-Kolping-Straße 2a,08341/96621-55,08341/96621-0,True,False,,,,,,,,,,Kolping-Bildungswerk in der Diözese Augsburg e.V.,123.0,,,,,,,,,,,,,,,,,,OPR,Operating,,http//www.kolpingbildungswerk.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,8862,,,0.0,,,,12852103.0,,,,1.0,"Heppenheim, Bergstraße",64646,1 Erbisgasse,,+49 585960090,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dienstleistungen Aller Art,99.0,,,,,,,,,,,,,,,,,,,,,http://www.dienstleistungen-rechel.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,542,,,0.0,,,,12746286.0,,,,1.0,Meppen,49716,1 Berghamsweg,,+49 59318836195,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Versicherungsagentur Martina Bode,1.0,,,,,,,,,,,,,,,,,,,,,http://www.versicherungsagentur-meppen.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,3,C,Public Company,0.0,H,5001-10000,,2112310.0,1.0,8.0,Telecomunicaciones,1.0,München,80992,Georg-Brauchle-Ring 50,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Telefónica Germany,10346.0,1.0,Telekomunikation,,,,,,,,,,,,,,,,OPR,Operating,,https://jobs.telefonica.com/?locale=de_DE
+1.0,0.0,12271,C,Public Company,0.0,I,10001+,2007.0,164150.0,1.0,133.0,Venta al por mayor,1.0,Atlanta,30339,3100 Cumberland Blvd,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HD Supply,34440.0,1.0,Industrial Distribution Company,,,,,,,,,,,,,,,,OPR,Operating,,www.hdsupply.com
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,12312010.0,1.0,96.0,Servicios y tecnología de la información ,1.0,München,81541,55 Balanstrasse,,+49 8989067880,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Icebit Consulting Gmbh,0.0,,,,,,,,,,,,,,,,,,,,,http://www.icebit.com
+1.0,0.0,2,O,Self Owned,0.0,C,11-50,1999.0,7567223.0,1.0,96.0,Servicios y tecnología de la información ,1.0,Erfurt,99084,Fischmarkt 5,,2117886844,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TecArt GmbH,47.0,5.0,CRM-Software,,,,,,,Business Software,Faktura Software,Groupware,SaaS,,,,,,,,,http://www.tecart.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,304,C,Public Company,0.0,I,10001+,,5537.0,1.0,41.0,Actividades bancarias,1.0,Ballsbridge,,Bankcentre,,+353 (0) 1 6600311,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AIB,39608.0,4.0,Retail Banking,,,,,,,Business Banking,Mortgages,Insurance,,,,,,,OPR,Operating,,personal.aib.ie
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,25,C,Public Company,0.0,I,10001+,1967.0,1956.0,1.0,96.0,Servicios y tecnología de la información ,8.0,Paris,92136,"24, rue du Gouverneur Général Eboué",+33 (0)1 58 44 55 70,+33 (0)1 58 44 55 66,True,True,VIANEN,4131 NJ,Lange Dreef 17,,31886606600,False,False,Dayton,45459,7735 Paragon Road,,+1-937-433-3334,True,False,Evere,1140,Avenue Jules Bordet 160,,00 32 2 538 92 92,True,False,Issy les Moulineaux,92130,"22-24, rue du gouverneur Général Eboué",,01 55 00 12 00,True,False,Indianapolis,46240.0,8395 Keystone Crossing,,,True,False,Dublin,Haymarket,True,False,Bridgewater,8807.0,200 Somerset Corporate Blvd,True,False,Sogeti,127657.0,10.0,Application Services,,,,,,,High-Tech Engineering,Testing,Infrastructure Services,Business Intelligence,Design and Engineering,Web Content Management,Security,Mobile,Cloud,OPR,Operating,,http://www.sogeti.com
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,4,O,Self Owned,0.0,G,1001-5000,,15264156.0,1.0,34.0,Alimentación y bebidas,1.0,上海,200020,黄浦区淮海中路381号,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Godiva Greater China,3447.0,,,,,,,,,,,,,,,,,,,,,http://www.godiva.cn/
+1.0,0.0,2,,,0.0,,,,12499178.0,,,,1.0,Hachenburg,57627,10 Steinweg,,+49 26627512,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dr. Stefan Braun,0.0,,,,,,,,,,,,,,,,,,,,,http://braun.notare-net.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,7,P,Privately Held,0.0,D,51-200,2010.0,8154477.0,1.0,96.0,Servicios y tecnología de la información ,1.0,Singapore,349245,"158 Kallang Way, #03-05",+65 68484284,+65 68484984,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Firstcom Solutions Pte Ltd,107.0,13.0,Web Design & Develpment,M1 Services,Search Engine Optimization (SEO),Search Engine Marketing (SEM),,,,Web Hosting,Content Mangement System,Web Maintenance,E-Commerce,Web Application,Photography,Copy Writing,Online Marketing Solutions,Branding & Design,OPR,Operating,,http://www.firstcom.com.sg
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,15,,,0.0,,,,12504583.0,,,,1.0,Stuttgart,70597,30 Jahnstr.,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cura Familia,1.0,,,,,,,,,,,,,,,,,,,,,http://www.curafamilia.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,815,,,0.0,D,51-200,,8672902.0,1.0,48.0,Construcción,1.0,Planegg,,,,+49 8985602270,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Müller-BBM GmbH,160.0,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,12226655.0,,,,1.0,Gemmingen,75050,2 Robert-Bosch-Straße,,+49 72679122,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Max Dörr GmbH,1.0,,,,,,,,,,,,,,,,,,,,,http://www.max-doerr.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,6,,,0.0,,,,12373822.0,,,,1.0,Berlin,13053,29 Rüdickenstr.,,+49 20102011,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Michael Pohl,2.0,,,,,,,,,,,,,,,,,,,,,http://www.michaelpohl.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,7232234.0,1.0,48.0,Construcción,1.0,,,,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Leopold Feuerstein Holztechnik GmbH,2.0,,,,,,,,,,,,,,,,,,,,,holztechnik-feuerstein.de
+,,1,,,0.0,,,,2096375.0,1.0,75.0,Administración gubernamental,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Institut für Medizinische Mikrobiologie, Immunologie und Hygiene",76.0,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,E,Self Employed,0.0,B,2-10,2013.0,3133928.0,1.0,13.0,Profesiones médicas,2.0,Stuttgart,70565,Schönbuchstraße 17,,+49 711 656 20 8 20,True,True,Stuttgart,70565,Rathausstraße 5L,,,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Dr. Alexander Röhlich, Zahnarzt",48.0,,,,,,,,,,,,,,,,,,OPR,Operating,,http://www.roehlich.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,P,Privately Held,0.0,B,2-10,2006.0,436807.0,1.0,98.0,Relaciones públicas,1.0,Pless,87773,Memminger Str. 26,,+49.8335.989941,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Operation: PR,3.0,7.0,public relations,,,,,,,social media,media relations,consulting,strategy,technology,arts and culture,,,,OPR,Operating,,www.operationpr.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,2006,E,Self Employed,0.0,A,myself only,2000.0,489136.0,1.0,125.0,Medicina alternativa,1.0,,16556,,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Naturheilpraxis,686.0,5.0,Sanfte Körpertherapie,,,,,,,Strukturelle und Energiearbeit,Seminare Körpertherapie,Naturmeditation,Kräuterheilkunde,,,,,,OPR,Operating,,www.naturheilpraxis-marit-uhlig.com
+1.0,0.0,1238,P,Privately Held,0.0,G,1001-5000,1987.0,10289.0,1.0,96.0,Servicios y tecnología de la información ,2.0,,,,,,True,True,,,,,,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TCM - Technology Corporate Management,1563.0,6.0,End User Computing,,,,,,,Managed Print Services,Networking Services,Datacentre Services,Disaster Recovery & Business Continuity,Value Added Services,,,,,,,,http://www.tcm.co.za
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,3,,,0.0,,,,7418986.0,1.0,48.0,Construcción,1.0,Wiehe,6571,120 Leopold-von-Ranke-Straße,,3467291210,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Jens Böhme Trockenbau Brandschutz,0.0,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,12,P,Privately Held,0.0,G,1001-5000,1946.0,945469.0,1.0,119.0,Tecnología inalámbrica,4.0,München,80335,Erzgiessereistr. 33,,,True,True,Wien,1230,Triester Straße 190,,,True,False,"Shanghai 201613,",,351 Lian Yang Road,,,True,False,Szekszárd,7100,Selyem Utca 2,,,True,False,,,,,,,,,,,,,,,,,,,,,,,,SPINNER GmbH,375.0,4.0,Communication,,,,,,,Radar & Satellite,Test & Measurement,Broadcast,,,,,,,OPR,Operating,,www.spinner-group.com
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,2,P,Privately Held,0.0,D,51-200,,8828322.0,1.0,112.0,Manufactura eléctrica y electrónica,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bosch Sicherheitssysteme GmbH,1390.0,,,,,,,,,,,,,,,,,,OPR,Operating,,http://de.boschbuildingsecurity.com/
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,12194721.0,1.0,33.0,Deportes,1.0,Fleckenberg,57392,,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FC Fleckenberg-Grafschaft E.V. 04,0.0,,,,,,,,,,,,,,,,,,,,,http://www.fc-fleckenberg-grafschaft.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,12487938.0,,,,1.0,Bremervörde,27432,57 Neue Str.,,+49 4161596819,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Brotstern GmbH,0.0,,,,,,,,,,,,,,,,,,,,,http://www.brotstern.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,5,P,Privately Held,0.0,G,1001-5000,1826.0,8892187.0,1.0,34.0,Alimentación y bebidas,1.0,Hamburg,20359,Zirkusweg 2,,+49 40 44194 100,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zertus GmbH,49.0,,,,,,,,,,,,,,,,,,OPR,Operating,,http://www.zertus.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,P,Privately Held,0.0,F,501-1000,2010.0,18121393.0,1.0,112.0,Manufactura eléctrica y electrónica,1.0,Unterensingen,72669,Kelterstraße 67,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SWARCO Traffic Systems GmbH,62.0,,,,,,,,,,,,,,,,,,,,,https://www.swarco.com/sts
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,12757963.0,,,,1.0,Taufkirchen,82024,10 Wettersteinstraße,,+49 81226112,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Geochemie Sanierungssysteme GmbH,0.0,,,,,,,,,,,,,,,,,,,,,http://www.tubogel.de
+1.0,0.0,4,,,0.0,,,,22445258.0,1.0,27.0,Venta al por menor,1.0,DRØBAK,1446,Skogveien 18,,,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KARIN BJELLAND DAHL,0.0,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,2,,,0.0,,,,7490472.0,1.0,144.0,Energía renovable y medio ambiente,1.0,Eisenberg (Pfalz),67304,18 Schulstraße,,6351407100,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Verbandsgemeindewerke Eisenberg,0.0,,,,,,,,,,,,,,,,,,,,,vgwerke-eisenberg.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,2,,,0.0,,,,6858984.0,1.0,9.0,Derecho,1.0,,,,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Johannes Wesling Klinikum Minden,30.0,,,,,,,,,,,,,,,,,,,,,klinikum-minden.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,2,,,0.0,,,,12273276.0,,,,1.0,Wiesbaden,65197,10 Geisenheimer Str.,,+49 6118472301,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dr. Med. Peer Joechel,1.0,,,,,,,,,,,,,,,,,,,,,http://www.dr-joechel.de
+1.0,0.0,269,N,Non Profit,0.0,C,11-50,1975.0,3007026.0,1.0,139.0,Atención a la salud mental,4.0,Lansdale,19446,109 Jenkins Ave,(215) 362-8894,(215) 362-2887,True,True,Abington,19001,1920 Old York Rd,(215) 659-5755,(215) 659-2453,True,False,Blue Bell,19422,1717 Swede St,,,True,False,Colmar,18915,2506 N Broad St,2674771071,2674771070,True,False,,,,,,,,,,,,,,,,,,,,,,,,"Hedwig House, Inc.",83.0,3.0,Psychiatric Rehabilitation,,,,,,,Intensive Psychiatric Rehabilitation,Housing Subsidy Programs,,,,,,,,OPR,Operating,,www.hedwighouse.org
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,5,,,0.0,,,,12473869.0,,,,1.0,Warstein,59581,6 Pankratiusstraße,,+49 290271037,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matthias Hoffmann,0.0,,,,,,,,,,,,,,,,,,,,,http://www.friseur-hoffmann.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,12713220.0,,,,1.0,Ottweiler,66564,16 Auguste-Renoir-Straße,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Jürgen Dörr,0.0,,,,,,,,,,,,,,,,,,,,,http://www.steuerdoerr.de
+1.0,0.0,3,,,0.0,,,,7279526.0,1.0,23.0,Producción alimentaria,1.0,,,,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Juchem GmbH,3.0,,,,,,,,,,,,,,,,,,,,,juchem.de
+1.0,0.0,2,,,0.0,,,,7379704.0,1.0,75.0,Administración gubernamental,1.0,Mammendorf,82291,12 Augsburger Straße,,81458423,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Verwaltungsgemeinschaft Mammendorf,0.0,,,,,,,,,,,,,,,,,,,,,vgmammendorf.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,2,,,0.0,B,2-10,,6059065.0,1.0,112.0,Manufactura eléctrica y electrónica,1.0,Bocholt,46397,M?nsterstr. 135-137,,+49 4902871930,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BENNING Elektrotechnik und Elektronik GmbH & Co. KG,55.0,,,,,,,,,,,,,,,,,,,,,http://de.benning.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,2,,,0.0,,,,7416835.0,,,,1.0,Gilching,82205,5 Marktstraße,,8105777667,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fahrschule Leitner GmbH,1.0,,,,,,,,,,,,,,,,,,,,,fahrschule-leitner.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,C,Public Company,0.0,B,2-10,2000.0,1964797.0,1.0,115.0,Música,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pluxemburg,40.0,,,,,,,,,,,,,,,,,,OPR,Operating,,www.pluxemburg.com
+,,1,E,Self Employed,0.0,B,2-10,2017.0,17922236.0,1.0,34.0,Alimentación y bebidas,1.0,Markkleeberg,4416,Zoebigkerstr. 113,,+49 1578 933 42 14,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Food Consulting Network,20.0,16.0,consultancy,business development,recruiting,individual coaching,personnel,product innovation,retail,interim & change management,food beverage,flavour fragrance,pharma supplements,purchasing,value chain & market analysis,consumer research,operations,quality,OPR,Operating,,www.food-consulting-network.com
+1.0,0.0,2,P,Privately Held,0.0,D,51-200,1964.0,22310933.0,1.0,92.0,Transporte por carretera o ferrocarril,1.0,Pianezza,10044,Via Signagatta 17,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mantoan Trasporti Srl,15.0,10.0,Trasporti Terrestri,,,,,,,Trasporti Eccezionali,Spedizioni Marittime,Spedizioni Aeree,Project Cargo,Warehouse & Distributions,Magazzini,Trasporti Speciali,Time Critical,Foreign Relationships,,,,http://www.mantoantrasporti.it/
+,,1,C,Public Company,0.0,H,5001-10000,2000.0,27130.0,1.0,36.0,Medios de difusión,2.0,Unterföhring,85774,Medienallee 7,,,True,True,Unterfohring,85774,Medienallee 7,,,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ProSiebenSat.1 Media SE,12200.0,,,,,,,,,,,,,,,,,,OPR,Operating,,http://www.fascinating-people.com/
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,P,Privately Held,0.0,C,11-50,,502391.0,1.0,36.0,Medios de difusión,1.0,,1000,,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ANTENNA 5 RADIO NETWORK,98.0,,,,,,,,,,,,,,,,,,,,,www.antenna5.fm
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,B,2-10,,3916622.0,1.0,15.0,Industria farmacéutica,1.0,Bedburg-Hau,47551,Enggasse 1,,+49 2227921310,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Roha Apothekendienste Gmbh,7.0,,,,,,,,,,,,,,,,,,,,,http://www.roha-apd.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,B,2-10,,8420935.0,1.0,70.0,Investigación,1.0,Diez,65582,Industriestr. 17,,+49 643210,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Uriel Papierrohstoffe GmbH,1.0,,,,,,,,,,,,,,,,,,,,,http://www.uriel-recycling.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,4,P,Privately Held,0.0,H,5001-10000,2002.0,469976.0,1.0,56.0,Minería y metalurgia,1.0,Kassel,34131,Bertha-von-Suttner-Str. 7,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,K+S KALI GmbH,1934.0,11.0,Düngemittel,Industry,,,,,,Rohstoff,Bergbau,Kali- und Magnesiumprodukte,Industrie,Kali und Salz,Potash,Fertilizer,Mining,Agriculture,OPR,Operating,,www.kali-gmbh.com
+1.0,0.0,2,,,0.0,,,,1315094.0,1.0,43.0,Servicios financieros,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MLP Finanzdienstleistungen AG,512.0,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,15,C,Public Company,0.0,I,10001+,1967.0,1956.0,1.0,96.0,Servicios y tecnología de la información ,8.0,Paris,92136,"24, rue du Gouverneur Général Eboué",+33 (0)1 58 44 55 70,+33 (0)1 58 44 55 66,True,True,VIANEN,4131 NJ,Lange Dreef 17,,31886606600,False,False,Dayton,45459,7735 Paragon Road,,+1-937-433-3334,True,False,Evere,1140,Avenue Jules Bordet 160,,00 32 2 538 92 92,True,False,Issy les Moulineaux,92130,"22-24, rue du gouverneur Général Eboué",,01 55 00 12 00,True,False,Indianapolis,46240.0,8395 Keystone Crossing,,,True,False,Dublin,Haymarket,True,False,Bridgewater,8807.0,200 Somerset Corporate Blvd,True,False,Sogeti,127657.0,10.0,Application Services,,,,,,,High-Tech Engineering,Testing,Infrastructure Services,Business Intelligence,Design and Engineering,Web Content Management,Security,Mobile,Cloud,OPR,Operating,,http://www.sogeti.com
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,16,,,0.0,,,,1461698.0,1.0,110.0,Servicios de eventos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EOY,21.0,,,,,,,,,,,,,,,,,,,,,http://www.theeoy.com
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,2,,,0.0,,,,12776910.0,1.0,17.0,Dispositivos médicos,1.0,Buxtehude,21614,26 Lüneburger Schanze,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Implantcast GmbH,76.0,,,,,,,,,,,,,,,,,,,,,http://www.implantcast.info
+1.0,0.0,2,,,0.0,B,2-10,,6204738.0,1.0,51.0,Ingeniería civil,1.0,Aachen,52066,Oranienstr. 27-31,,+49 241518080,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Derichs u Konertz GmbH u Co KG,13.0,,,,,,,,,,,,,,,,,,,,,http://www.derichsukonertz.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,12401700.0,,,,1.0,Dortmund,44147,6 Bülowstraße,,+49 4251560,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Spodeck FassadenProfi GmbH,0.0,,,,,,,,,,,,,,,,,,,,,http://www.spodeck-fassadenprofi.de
+,,1,,,0.0,B,2-10,,6236635.0,1.0,92.0,Transporte por carretera o ferrocarril,1.0,Schleswig,24837,Heinrich-Hertz-Straße 16,,+49 46215460,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Karl Jürgensen Autofernverkehr und Spedition KG,11.0,,,,,,,,,,,,,,,,,,,,,http://www.k-juergensen.de
+,,1,,,0.0,C,11-50,,8853588.0,1.0,61.0,Productos de papel y forestales,1.0,Isernhagen,30916,Großhorst 24,,+49 36427874100,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kartonfabrik Porstendorf GmbH,12.0,,,,,,,,,,,,,,,,,,,,,http://www.kartonfabrik.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,C,Public Company,0.0,D,51-200,2003.0,1261089.0,1.0,80.0,Marketing y publicidad,2.0,Hamburg,20354,Neuer Wall 10,,(0)40 881414-10,True,True,Bad Homburg,61352,Im Atzelnest 3,,,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYZYGY Media GmbH (former uniquedigital GmbH),150.0,12.0,SEO,Web Analytics,Programmatic,,,,,SEA,Affiliate Marketing,Display Advertising,Real Time Advertising,Mobile Marketing,Cross Channel Management,Social Media Marketing,Retargeting,Data Driven Attribution,OPR,Operating,,http://www.syzygy-media.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,12869494.0,,,,1.0,Erfurt,99084,156 Johannesstraße,,+49 36143067040,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAILCATS OHG,1.0,,,,,,,,,,,,,,,,,,,,,http://www.mailcats.de
+,,1,C,Public Company,0.0,C,11-50,1992.0,10513730.0,1.0,96.0,Servicios y tecnología de la información ,1.0,Tübingen,72076,Paul-Ehrlich-Strasse 5,+49 7071 976190,+49 7071 9711,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HB Technologies AG,43.0,6.0,Bioinformatik,,,,,,,Softwareentwicklung,C#,Laborautomatisierung,Big Data Analytics,Peptide,,,,,OPR,Operating,,www.h-net.com
+,,1,,,0.0,,,,12350222.0,,,,1.0,Oberhausen-Rheinhausen,68794,28 Karlstraße,,+49 72544995,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Conspeed Transport GmbH,0.0,,,,,,,,,,,,,,,,,,,,,http://www.conspeed.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,3,,,0.0,B,2-10,,6743841.0,1.0,17.0,Dispositivos médicos,1.0,Linz,4020,17 Estermannstr.,,,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Alere GmbH,40.0,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,2,,,0.0,,,,12696189.0,,,,1.0,Wesseling,50389,65 Kölner Str.,,+49 2236943040,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kiel Montagebau GmbH,38.0,,,,,,,,,,,,,,,,,,,,,http://www.montagebau-kiel.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,2,,,0.0,,,,8555655.0,1.0,55.0,Maquinaria,1.0,Forchheim,91301,Breitweidig 2,,+49 9191340,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Heinrich Ziegler GmbH,3.0,,,,,,,,,,,,,,,,,,,,,http://www.technischesysteme.com
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,7534658.0,,,,1.0,Trier,54292,18 An Der Hospitalsmühle,,65113295,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blumen Freis GmbH,0.0,,,,,,,,,,,,,,,,,,,,,blumen-freis.de
+,,1,P,Privately Held,0.0,E,201-500,1998.0,640503.0,1.0,31.0,Hostelería,1.0,Wiesbaden,65185,Bahnhofstr. 67,+49 611 44760044,+49 611 4476000,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bierwirth & Kluth Hotel Management GmbH,234.0,5.0,Hotel Operation,,,,,,,Hotel Development,Turnaround Management,Hotel Consulting,Asset Management,,,,,,OPR,Operating,,www.bierwirth-kluth.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,12732025.0,,,,1.0,Hamburg,20095,5 Mönckebergstraße,,+49 403233450,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,COMMERZ KONTOR GmbH,0.0,,,,,,,,,,,,,,,,,,,,,http://www.commerz-kontor.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,32,,,0.0,E,201-500,,9572264.0,,,,1.0,Mönchengladbach,41063,Hohenzollernstr. 214,,+49 21611798,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Deutsches Rotes Kreuz,686.0,,,,,,,,,,,,,,,,,,,,,http://www.drk-mg.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,12843205.0,,,,1.0,Hof,95030,20 Hohe Str.,,+49 928167479,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fleischer-Innung Hof,0.0,,,,,,,,,,,,,,,,,,,,,http://www.fleischer-innung-hof-wunsiedel.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,S,Partnership,0.0,D,51-200,2016.0,15178025.0,1.0,34.0,Alimentación y bebidas,1.0,Mainz,55120,Rheinallee 88,61316235611,61316235612,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CapVie Drinks/Visions/Distribution,6.0,9.0,Vodka,,,,,,,Gin,Kornbrände,Kräuterliköre,Kümmel/Aquavit,Liköre,Rum,Sambuca,Cocktails,,OPR,Operating,,capvie.de
+,,1,,,0.0,,,,12414272.0,1.0,146.0,"Embalaje y contenedores
+",1.0,Chemnitz,9130,79 Zeisigwaldstraße,,+49 371444380,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hellbut & Co. GmbH,3.0,,,,,,,,,,,,,,,,,,,,,http://www.hellbut.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,12747397.0,,,,1.0,Bergisch Gladbach,51465,5 Paffrather Str.,,+49 2202108529,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Raphael Katholische Seelsorge,0.0,,,,,,,,,,,,,,,,,,,,,http://www.raphael-seelsorge.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,12395214.0,1.0,43.0,Servicios financieros,1.0,Köln,50670,7 Krefelder Str.,,+49 8935827190,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ISAR E.V. Lohnsteuerhilfeverein,1.0,,,,,,,,,,,,,,,,,,,,,http://www.isar-ev.com
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,264,P,Privately Held,0.0,B,2-10,,1009896.0,1.0,80.0,Marketing y publicidad,1.0,,,,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mudra,1746.0,,,,,,,,,,,,,,,,,,,,,www.mudra.cl
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,7535615.0,,,,1.0,München,80333,40 Schleißheimer Straße,,895231299,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Neuner Graf Ingenieurgesellschaft MbH,0.0,,,,,,,,,,,,,,,,,,,,,neuner-graf.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,5,P,Privately Held,0.0,H,5001-10000,1928.0,2414525.0,1.0,48.0,Construcción,4.0,Köln,50735,Emdener Str. 278,+49 (0)221 7077 338,+49 (0)221 7177 600,True,True,GLASGOW,G21 2QA,331 Charles Street,+44 141 553 4049,+44 141 553 4040,True,False,Cairo,,"4 Ebad Al Rahman St.,",+20 2 22674907,+20 2 22674902,True,False,Shanghai,200025,Room 706-707,+86 21 6473739,+86 21 64724736,True,False,,,,,,,,,,,,,,,,,,,,,,,,XERVON GmbH,4023.0,7.0,Scaffolding,,,,,,,Full service maintenance,Insulation,Shutdown management,Surface technology,Building Preservation & Construction Finishes,Piping,,,,OPR,Operating,,www.xervon.com
+1.0,0.0,1061,,,0.0,,,,12858928.0,,,,1.0,"Beilstein , Württ",71717,,,+49 70626749,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IN TRADE GmbH,0.0,,,,,,,,,,,,,,,,,,,,,http://www.intrade-online.com
+1.0,0.0,2,,,0.0,C,11-50,,24513308.0,,,,1.0,Vitória,29056-905,Avenida Nossa Senhora da Penha 1495,,+55 2732359199,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Avitures-Ag De Viag E Turismo Espirito Santense,0.0,,,,,,,,,,,,,,,,,,,,,avitures.com.br
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,7405955.0,,,,1.0,Friedrichsdorf,61381,3 Dieselstraße,,60077011,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wehrheim August,0.0,,,,,,,,,,,,,,,,,,,,,august-wehrheim.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,170,E,Self Employed,0.0,A,myself only,1979.0,684607.0,1.0,126.0,Producción multimedia,1.0,,30324,,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Freelance Video Professional,3569.0,6.0,Documentary production,,,,,,,EFP/ENG,Personality Packages,VNR's,shooting,editing and foreign travel,,,,,OPR,Operating,,davidhinshaw.com
+1.0,0.0,2,C,Public Company,0.0,I,10001+,,5358860.0,1.0,54.0,Productos químicos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Thermo Fisher Scientific Germany,981.0,5.0,Analytische Geräte,,,,,,,Spezialdiagnostik,Life Science,Laborprodukte,Biopharma Dienstleistungen,,,,,,OPR,Operating,,www.karriere-thermofisher.com
+,,1,O,Self Owned,0.0,E,201-500,1981.0,481866.0,1.0,80.0,Marketing y publicidad,1.0,Osnabrueck,49078,Blumenhaller Weg 88,,0541 - 4084 0,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Intan Media Service,61.0,5.0,•Adressgewinnung und -qualifizierung,,,,,,,•Zielgruppenanalyse und -segmentierung,•Produkt- und Angebotskonzeption,•Online & Offline-Distribution Ihrer Werbebotschaft,•Response-Annahme über alle Kanäle,,,,,,OPR,Operating,,www.Intan.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,18,,,0.0,,,,7460563.0,,,,1.0,Sankt Wendel,66606,5-7 Wendalinusstraße,,68519398450,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Prof. Maurer Partner,1.0,,,,,,,,,,,,,,,,,,,,,mp-kieferchirurgie.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,2,,,0.0,,,,12361011.0,1.0,43.0,Servicios financieros,1.0,Hamburg,20535,41 Caspar-Voght-Straße,,+49 4068919832,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lohnsteuerhilfeverein Vereinigte Lohnsteuerhilfe,7.0,,,,,,,,,,,,,,,,,,,,,http://www.hamburg-lohnsteuerhilfeverein.de
+,,1,,,0.0,,,,7460487.0,1.0,80.0,Marketing y publicidad,1.0,Hamburg,22767,59 Ehrenbergstraße,,403909742,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kirsch Unternehmensberatung,1.0,,,,,,,,,,,,,,,,,,,,,claudiakirsch.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,D,Educational,0.0,B,2-10,2000.0,18584719.0,1.0,105.0,Formación profesional,1.0,Münster,48163,Brockmannstraße 208,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bremer Institut für Pädagogik und Psychologie - bipp,0.0,3.0,Evidenzbasierten Sozial- und Verhaltenstrainings,,,,,,,Fortbildungen ,Präventionsprogramme,,,,,,,,,,,www.bipp-bremen.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,8,,,0.0,,,,12692108.0,,,,1.0,Hatzenport,56332,70 Moselstraße,,+49 2605952371,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gietzen,0.0,,,,,,,,,,,,,,,,,,,,,http://www.winzerhof-gietzen.com
+1.0,0.0,5,,,0.0,,,,7344591.0,,,,1.0,Schneeberg,8289,1 Zwickauer Straße,,377228507,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Frank Krause,3.0,,,,,,,,,,,,,,,,,,,,,uhren-schmuckhaus-moeckel.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,O,Self Owned,0.0,A,myself only,2003.0,2723310.0,1.0,80.0,Marketing y publicidad,2.0,Traunstein,83278,Obere Bichlstr. 6,,0049 (0)89 3807 8025,True,True,Munich,81541,Bruennsteinstr. 5,,0049 (0)89 3807 8025,True,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Namensentwicklung Werner Brandl,22.0,5.0,Brand name development,,,,,,,Portfolio naming strategies,Naming services,Name tests and checks,Name consulting,,,,,,OPR,Operating,,http://www.werner-brandl.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,7381724.0,1.0,16.0,Veterinaria,1.0,Neukirchen/Pleiße,8459,7 Kurt-Große-Straße,,376244656,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tierarztpraxis Dr. Martin Petzold,0.0,,,,,,,,,,,,,,,,,,,,,tierarzt-petzold.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,7490156.0,1.0,142.0,Vino y licor,1.0,Wiesentheid,97353,10 Am Bahnhof,,9383800,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sägewerk Graf Von Schönborn KG,1.0,,,,,,,,,,,,,,,,,,,,,schoenborn.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,12424096.0,,,,1.0,Mülhofen,56170,4 Am Hängelbach,,+49 262290490,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scheidweiler W. GmbH,1.0,,,,,,,,,,,,,,,,,,,,,http://www.scheidweiler-spedition.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,7550191.0,1.0,98.0,Relaciones públicas,1.0,Tübingen,72074,2 Bei Der Kirche,,7071989840,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RSPS Agentur Für Kommunikation GmbH,0.0,,,,,,,,,,,,,,,,,,,,,rsps.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,C,11-50,,22334556.0,1.0,98.0,Relaciones públicas,1.0,,,,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Political Marketing Forum,10.0,,,,,,,,,,,,,,,,,,,,,https://www.facebook.com/PoliticalMarketingForum/
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,2,,,0.0,,,,12423139.0,,,,1.0,Möglingen,71696,10 Haydnstraße,,,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Stuck-Schulz GmbH,0.0,,,,,,,,,,,,,,,,,,,,,http://www.stuck-schulz-gmbh.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,,,0.0,,,,12710977.0,,,,1.0,Wachtberg,53343,2 Berliner Str.,,+49 2289108502,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Heike Wegener,1.0,,,,,,,,,,,,,,,,,,,,,http://www.wegener-pr.de
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0,0.0,36,S,Partnership,0.0,F,501-1000,2007.0,10249090.0,1.0,96.0,Servicios y tecnología de la información ,1.0,Suzhou,215000,Suzhou SIP1,0512-62962202,0512-62962201,True,True,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Unionsoft Consulting Co., Ltd.",260.0,10.0,Management consulting,,,,,,,service outsourcing,SAP training,SAP implementation,business process optimization,mobile Internet technology,O2O,APP,business process reengineering,Enterprise Resource Planning,OPR,Operating,,http://www.unionsoft-i.com
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

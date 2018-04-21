@@ -296,21 +296,40 @@ class Entry(Frame):
 
     def import_csv_file(self):
 
-        FILE =  filedialog.askopenfilename(initialdir = "/",title = "Select a file to allow for multiple searches",filetypes = (("csv files","*.csv"),("all files","*.*")))
+        FILE =  filedialog.askopenfilename(initialdir = "./",title = "Select a file to allow for multiple searches",filetypes = (("csv files","*.csv"),("all files","*.*")))
         print(FILE)
+
+        counter_csv = 0
 
         with open(FILE) as csvfile:
             readCSV = csv.reader(csvfile, delimiter=',')
             for row in readCSV:
-                self.entry.delete(0,'end')
-                self.entry.insert(END,''.join(row))
-                self.on_button_click_search()
-                self.entry.delete(0,'end')
-                
-
+                # self.entry.delete(0,'end')
+                # self.entry.insert(END,''.join(row))
+                # self.on_button_click_search()
+                # self.entry.delete(0,'end')
+                String = ''.join(row)
+                company_TBS = ""+str(counter_csv)+".."+String+""
+                if var.get()==1:
+                    if var_data.get()==1:
+                        print(str(counter_csv) + " -> sudo python tele.py -v -f -e -s -n " + company_TBS + " "+ entry_data.get()+" "+entry_data_count.get())
+                        p = sub.Popen(['python','tele.py', '-f','-e', '-s','-n','-v', company_TBS, entry_data.get(), entry_data_count.get()],stdout=sub.PIPE,stderr=sub.PIPE)
+                    else:
+                        print(str(counter_csv) + " -> sudo python tele.py -v -f -e -c -r -s " + company_TBS +" "+ entry_data_all.get()+" "+entry_data_all_start.get()+" "+entry_data_all_count.get())
+                        p = sub.Popen(['python','tele.py', '-f','-c','-e','-r','-s','-n','-v', company_TBS, entry_data_all.get(),entry_data_all_start.get(),entry_data_all_count.get()],stdout=sub.PIPE,stderr=sub.PIPE)
+                    
+                else:
+                    if var_data.get()==1:
+                        print(str(counter_csv) + " -> sudo python tele.py -v -f -e -s -l -n " + company_TBS + " "+ entry_data.get()+ " " + entry_data_count.get())
+                        p = sub.Popen(['python','tele.py','-l', '-f','-e','-s','-n','-v', company_TBS, entry_data.get(),entry_data_count.get()],stdout=sub.PIPE,stderr=sub.PIPE)
+                    else:
+                        print(str(counter_csv) + " -> sudo python tele.py -v -f -e -l -c -r -s " + company_TBS+" "+ entry_data_all.get() + " " +entry_data_all_start.get())
+                        p = sub.Popen(['python','tele.py', '-f','-e','-c','-r','-l','-s','-n','-v', company_TBS, entry_data_all.get(),entry_data_all_start.get(),entry_data_all_count.get()],stdout=sub.PIPE,stderr=sub.PIPE)
+                output, errors = p.communicate()
+                counter_csv = counter_csv + 1
         # self.root = tkinter.Toplevel()
         # self.root.title("Showing: "+self.entry.get()+".json - Searched by Name")
-        # self.root.geometry('1000x600')
+        # self.root.geometry('1000x6--00')
         
 
         # p = sub.Popen(['python','show_json.py',self.entry.get()],stdout=sub.PIPE,stderr=sub.PIPE)

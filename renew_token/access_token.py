@@ -79,7 +79,7 @@ class ACCESS_TOKEN:
         s.write(self.app, 2, self.app_access_token)
         wb.save('/Users/juanruizdebustillo/GitHub/Telepy-Linkedin_TFG/renew_token/secrets.xls')
         
-        #print("\nAccess Token:", result.access_token+'\n')
+        print("\nAccess Token:", result.access_token+'\n')
         #print("Expires in (seconds):", result.expires_in,'\n')
 
         driver.quit()
@@ -91,11 +91,18 @@ class ACCESS_TOKEN:
 # print(token_juan.read_csv(3))
 
 
+
 # token_juan = ACCESS_TOKEN(1)
 # token_juan.register()
 # print('SUCCESS '+token_juan.return_access_token())
 
-# for i in range(1,5):
-#     token_juan = ACCESS_TOKEN(i)
-#     token_juan.register()
+
+
+# Use this for renewing tokens 
+wb = xlrd.open_workbook("/Users/juanruizdebustillo/GitHub/Telepy-Linkedin_TFG/renew_token/secrets.xls")
+sheet = wb.sheet_by_index(0)
+
+for i in range(1,sheet.nrows):
+    token_juan = ACCESS_TOKEN(i)
+    token_juan.register()
 

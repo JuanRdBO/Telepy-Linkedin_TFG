@@ -13,6 +13,10 @@ import webbrowser
 import csv
 from pathlib import Path
 
+# sys.path.insert(0, '/Users/juanruizdebustillo/GitHub/Telepy-Linkedin_TFG/renew_token')
+# import access_token
+
+from renew_token.access_token import ACCESS_TOKEN
 
 DEBUG = True
 
@@ -32,6 +36,7 @@ parser.add_option("-c","--complete", action="store_true",dest="COMPLETE",help="r
 parser.add_option("-r","--recursive", action="store_true",dest="RECURSIVE",help="sets how many recursions to be done on 'all data' option. Always 2rd argument. (only with -c flag)")
 parser.add_option("-n","--number", action="store_true",dest="NUMBER",help="sets how many companies to be returned. Always 3rd argument. (does not work with -c flag)")
 parser.add_option("-v","--various", action="store_true",dest="VARIOUS",help="Gives the output files a number to know which row of the input file is being processed. (works only when imput csv is active.)")
+parser.add_option("-t","--token", action="store_true",dest="TOKEN",help="renew token")
 #parser.add_option("-d","--debug", action="store_true",dest="DEBUG",help="sets how many companies to be returned. Always 3rd argument. (does not work with -c flag)")
 # if len(sys.argv)==1:
 #     parser.print_help(sys.stderr)
@@ -43,10 +48,21 @@ parser.add_option("-v","--various", action="store_true",dest="VARIOUS",help="Giv
 # Se define el access token para Telepy
 #application = linkedin.LinkedInApplication(token='AQWfQl1JrdtLTLhEXGQI3DnNte281j2pHJWmNg8D54Nz7KaTOKPEHFxt_g6ocKSKq9ef4vRFs5yPOtcrmWSxM1DPHDu3j9GH5YOTLH3xkKxOT-srbWujtFLFyCmKbpKUu-1VxBpOG9x3RIydWt-REqIwsPs3SM6hn_aXbxaVqMw4Nzj9VYBo15nYjPsXts--eLlBQpXJ7rMSY-B4WdFiN9NpWBF3up4UCbnNkbk4F1bAVr5d4OjX_Xbgg2NKnBtL_nuP2t_NQ1Z-0TgaJJy99nBF_-fiR25Dae0eAwgA2_nAqHevfg89c2uCRcKmwqSUPSPppRFwSW75mjRHcW08IAHmS_nRWA')
 
+print(args)
 
 # Se define el access token para Telepy_2
-application = linkedin.LinkedInApplication(token='AQVoNmf6QZ8vLYkUHR5sVB5MT1Db4cjRfaSCowl8uK4QqIxp5Ttf_H-kTb_Ymoobp_dVp3v7MKiXjsLtOs438aqw6TbFe8JU75XWZYsbNZA7dT2-Ha6XlhpxrL-9NfKbj8_w72_08kqZa1G6d4YzG_LAHl-MgkW9aNaORFknn4Srsh56slOhXng5EeJ_ORSDb16PjYy8Vl4-oNZVuSbTgRAQrVP7buEzko_-DuKhlxDd8RhAFMJK31P3bOXsL6PNDYFv8n6z5Yc-wuac_-tPMQze9bORiqyg9iCqW3GEMndxMWNGGh_oNtElcQUF4D2_ViXqsN7qTlJQkEUobyybpIYex3L_7w')
+token = 2
+if options.TOKEN == True:
+	token = int(args[3])
+	print('passed argument is: ' + args[3])
 
+token_juan = ACCESS_TOKEN(token)
+token_juan.read_csv(token)
+print('Access Token SUCCESS: '+token_juan.read_csv(token)+'\n\n')
+
+application = linkedin.LinkedInApplication(token=token_juan.read_csv(token))
+
+#application = linkedin.LinkedInApplication(token='AQVoNmf6QZ8vLYkUHR5sVB5MT1Db4cjRfaSCowl8uK4QqIxp5Ttf_H-kTb_Ymoobp_dVp3v7MKiXjsLtOs438aqw6TbFe8JU75XWZYsbNZA7dT2-Ha6XlhpxrL-9NfKbj8_w72_08kqZa1G6d4YzG_LAHl-MgkW9aNaORFknn4Srsh56slOhXng5EeJ_ORSDb16PjYy8Vl4-oNZVuSbTgRAQrVP7buEzko_-DuKhlxDd8RhAFMJK31P3bOXsL6PNDYFv8n6z5Yc-wuac_-tPMQze9bORiqyg9iCqW3GEMndxMWNGGh_oNtElcQUF4D2_ViXqsN7qTlJQkEUobyybpIYex3L_7w')
 
 
 if options.ARGUMENTS==True:

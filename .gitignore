@@ -1,6 +1,11 @@
 #Ignore .DS_STORE from macOS fs
 .DS_Store
 
+#ignore datasets
+DATA_*
+*.xlsx
+*.csv
+
 #Ignore old backups
 *.bak
 

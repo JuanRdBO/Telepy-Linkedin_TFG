@@ -48,7 +48,7 @@ menu.add_cascade(label="Help", menu=helpmenu)
 helpmenu.add_command(label="About...", command=lambda: webbrowser.open('https://github.com/JuanRdBO/Telepy-linkedin/blob/master/README.md'))
 
 C = Canvas(root,height=50, width=300)
-im = Image.open("background.png")
+im = Image.open("miscellaneous/images_gui/background.png")
 image = im.resize((1000,1500),Image.ANTIALIAS)
 filename = ImageTk.PhotoImage(image)
 background_label = Label(root, image=filename)
@@ -61,7 +61,7 @@ C.pack()
 # tkimage_2 = ImageTk.PhotoImage(im_2)
 # tkinter.Label(root,image = tkimage_2).pack()
 
-im = Image.open("tlf.png")
+im = Image.open("miscellaneous/images_gui/tlf.png")
 im = im.resize((400,200),Image.ANTIALIAS)
 tkimage = ImageTk.PhotoImage(im)
 #tkimage.config(highlightthickness=0)
@@ -300,33 +300,51 @@ class Entry(Frame):
         print(FILE)
 
         counter_csv = 0
+        app = 2
 
         with open(FILE) as csvfile:
             readCSV = csv.reader(csvfile, delimiter=',')
             for row in readCSV:
-                # self.entry.delete(0,'end')
-                # self.entry.insert(END,''.join(row))
-                # self.on_button_click_search()
-                # self.entry.delete(0,'end')
-                String = ''.join(row)
-                company_TBS = ""+str(counter_csv)+".."+String+""
-                if var.get()==1:
-                    if var_data.get()==1:
-                        print(str(counter_csv) + " -> sudo python tele.py -v -f -e -s -n " + company_TBS + " "+ entry_data.get()+" "+entry_data_count.get())
-                        p = sub.Popen(['python','tele.py', '-f','-e', '-s','-n','-v', company_TBS, entry_data.get(), entry_data_count.get()],stdout=sub.PIPE,stderr=sub.PIPE)
-                    else:
-                        print(str(counter_csv) + " -> sudo python tele.py -v -f -e -c -r -s " + company_TBS +" "+ entry_data_all.get()+" "+entry_data_all_start.get()+" "+entry_data_all_count.get())
-                        p = sub.Popen(['python','tele.py', '-f','-c','-e','-r','-s','-n','-v', company_TBS, entry_data_all.get(),entry_data_all_start.get(),entry_data_all_count.get()],stdout=sub.PIPE,stderr=sub.PIPE)
+    
+                while True:
+                    String = ''.join(row)
+                    company_TBS = ""+str(counter_csv)+".."+String+""
+                
+                    try:
+                        if var.get()==1:
+                            if var_data.get()==1:
+                                #print(str(counter_csv) + " -> sudo python tele.py -v -f -e -s -n " + company_TBS + " "+ entry_data.get()+" "+entry_data_count.get())
+                                print(str(counter_csv) + " -> Processing "+ String)
+                                p = sub.Popen(['python','tele.py','-f','-e', '-s','-n','-v','-t', company_TBS, entry_data.get(), entry_data_count.get(), str(app)],stdout=sub.PIPE,stderr=sub.PIPE)
+                            else:
+                                #print(str(counter_csv) + " -> sudo python tele.py -v -f -e -c -r -s " + company_TBS +" "+ entry_data_all.get()+" "+entry_data_all_start.get()+" "+entry_data_all_count.get())
+                                print(str(counter_csv) + " -> Processing "+ String)
+                                p = sub.Popen(['python','tele.py', '-f','-c','-e','-r','-s','-n','-v','-t', company_TBS, entry_data_all.get(),entry_data_all_start.get(),entry_data_all_count.get(), str(app)],stdout=sub.PIPE,stderr=sub.PIPE)
+                            
+                        else:
+                            if var_data.get()==1:
+                                #print(str(counter_csv) + " -> sudo python tele.py -v -f -e -s -l -n " + company_TBS + " "+ entry_data.get()+ " " + entry_data_count.get())
+                                print(str(counter_csv) + " -> Processing "+ String)
+                                p = sub.Popen(['python','tele.py','-l', '-f','-e','-s','-n','-v','-t', company_TBS, entry_data.get(),entry_data_count.get(), str(app)],stdout=sub.PIPE,stderr=sub.PIPE)
+                            else:
+                                #print(str(counter_csv) + " -> sudo python tele.py -v -f -e -l -c -r -s " + company_TBS+" "+ entry_data_all.get() + " " +entry_data_all_start.get())
+                                print(str(counter_csv) + " -> Processing "+ String)
+                                p = sub.Popen(['python','tele.py', '-f','-e','-c','-r','-l','-s','-n','-v','-t', company_TBS, entry_data_all.get(),entry_data_all_start.get(),entry_data_all_count.get(), str(app)],stdout=sub.PIPE,stderr=sub.PIPE)
+                        
+                        output, errors = p.communicate()
+
+                        assert not errors
+                        counter_csv = counter_csv + 1
+                    except:
+                        app = app + 1
+                        print('Throttle limit reached. Changing to app number: '+ str(app))
+                        continue
+                    break
+
                     
-                else:
-                    if var_data.get()==1:
-                        print(str(counter_csv) + " -> sudo python tele.py -v -f -e -s -l -n " + company_TBS + " "+ entry_data.get()+ " " + entry_data_count.get())
-                        p = sub.Popen(['python','tele.py','-l', '-f','-e','-s','-n','-v', company_TBS, entry_data.get(),entry_data_count.get()],stdout=sub.PIPE,stderr=sub.PIPE)
-                    else:
-                        print(str(counter_csv) + " -> sudo python tele.py -v -f -e -l -c -r -s " + company_TBS+" "+ entry_data_all.get() + " " +entry_data_all_start.get())
-                        p = sub.Popen(['python','tele.py', '-f','-e','-c','-r','-l','-s','-n','-v', company_TBS, entry_data_all.get(),entry_data_all_start.get(),entry_data_all_count.get()],stdout=sub.PIPE,stderr=sub.PIPE)
-                output, errors = p.communicate()
-                counter_csv = counter_csv + 1
+
+
+                    
         # self.root = tkinter.Toplevel()
         # self.root.title("Showing: "+self.entry.get()+".json - Searched by Name")
         # self.root.geometry('1000x6--00')

@@ -338,6 +338,9 @@ class Entry(Frame):
                     except:
                         app = app + 1
                         print('Throttle limit reached. Changing to app number: '+ str(app))
+                        if app == 5:
+                            print('\n--> No more apps from which to source of. Aborting.')
+                            quit()
                         continue
                     break
 

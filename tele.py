@@ -58,7 +58,7 @@ if options.TOKEN == True:
 
 token_juan = ACCESS_TOKEN(token)
 token_juan.read_csv(token)
-print('Access Token SUCCESS: '+token_juan.read_csv(token)+'\n\n')
+print('Access Token: '+token_juan.read_csv(token)+'\n\n')
 
 application = linkedin.LinkedInApplication(token=token_juan.read_csv(token))
 

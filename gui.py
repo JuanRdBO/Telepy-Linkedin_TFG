@@ -300,7 +300,7 @@ class Entry(Frame):
         print(FILE)
 
         counter_csv = 0
-        app = 2
+        app = 1
 
         with open(FILE) as csvfile:
             readCSV = csv.reader(csvfile, delimiter=',')

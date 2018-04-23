@@ -98,11 +98,11 @@ class ACCESS_TOKEN:
 
 
 
-# Use this for renewing tokens 
-wb = xlrd.open_workbook("/Users/juanruizdebustillo/GitHub/Telepy-Linkedin_TFG/renew_token/secrets.xls")
-sheet = wb.sheet_by_index(0)
+# # Use this for renewing tokens 
+# wb = xlrd.open_workbook("/Users/juanruizdebustillo/GitHub/Telepy-Linkedin_TFG/renew_token/secrets.xls")
+# sheet = wb.sheet_by_index(0)
 
-for i in range(1,sheet.nrows):
-    token_juan = ACCESS_TOKEN(i)
-    token_juan.register()
+# for i in range(1,sheet.nrows):
+#     token_juan = ACCESS_TOKEN(i)
+#     token_juan.register()
 

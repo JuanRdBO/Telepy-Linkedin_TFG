@@ -79,7 +79,7 @@ class ACCESS_TOKEN:
         s.write(self.app, 2, self.app_access_token)
         wb.save('/Users/juanruizdebustillo/GitHub/Telepy-Linkedin_TFG/renew_token/secrets.xls')
         
-        print("\nAccess Token:", result.access_token+'\n')
+        print("\nAccess Token:\n", result.access_token+'\n')
         #print("Expires in (seconds):", result.expires_in,'\n')
 
         driver.quit()
@@ -103,6 +103,7 @@ class ACCESS_TOKEN:
 # sheet = wb.sheet_by_index(0)
 
 # for i in range(1,sheet.nrows):
+#     print("\n-------------------------------\nRenewing for "+str(i)+" of "+ str(sheet.nrows-1))
 #     token_juan = ACCESS_TOKEN(i)
 #     token_juan.register()
 

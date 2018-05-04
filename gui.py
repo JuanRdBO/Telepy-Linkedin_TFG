@@ -12,6 +12,7 @@ from tkinter import ttk
 from tkinter.scrolledtext import ScrolledText
 import subprocess as sub
 import csv
+import pandas as pd
 from tkinter import filedialog
 import webbrowser
 from tkinter import ttk
@@ -292,7 +293,7 @@ class Entry(Frame):
         else:
             webbrowser.open('https://developer.linkedin.com/docs/fields/company-profile', new=2)
 
-
+    
 
     def import_csv_file(self):
 
@@ -335,10 +336,12 @@ class Entry(Frame):
 
                         assert not errors
                         counter_csv = counter_csv + 1
-                    except:
+                    except Exception as e:
                         app = app + 1
-                        print('Throttle limit reached. Changing to app number: '+ str(app))
-                        if app == 5:
+                        
+                        print("\nGUI failed %d %s %s" % (p.returncode, output, errors))
+                        print('\nChanging to app number: '+ str(app))
+                        if app == 250:
                             print('\n--> No more apps from which to source of. Aborting.')
                             quit()
                         continue

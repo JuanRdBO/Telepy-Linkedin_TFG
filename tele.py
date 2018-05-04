@@ -290,13 +290,6 @@ if options.EXPORTCSV==True:
 	        if exc.errno != errno.EEXIST:
 	            raise
 
-	# if not os.path.exists(os.path.dirname("output/csv/total_search.csv")):
-	#     try:
-	#         os.makedirs(os.path.dirname("output/csv/total_search.csv"))
-	#     except OSError as exc: # Guard against race condition
-	#         if exc.errno != errno.EEXIST:
-	#             raise
-	
 	if not os.path.exists(os.path.dirname("output/csv/final_company.csv")):
 	    try:
 	        os.makedirs(os.path.dirname("output/csv/final_company.csv"))
@@ -312,69 +305,21 @@ if options.EXPORTCSV==True:
 
 	company = company.strip("'")
 
-	#company = number+ ". "+company
-
-	# with open("output/csv/total_search.csv", "a") as f_total:
-	# 	writer = csv.writer(f_total, delimiter=',')
-	# 	with open("output/csv/"+company+".csv", "r") as f_company:
-	# 		reader = csv.reader(f_company)
-	# 		for row in reader:
-	# 			print(" ".join(row))
-	# 			writer.writerow(row)
-
-	if not Path("output/csv/final_company.csv").is_file():
-		#print("\nBANZAAAAAAAI")
-		company_csv = pd.read_csv("output/csv/"+company+".csv")
-		company_csv.to_csv("output/csv/final_company.csv", index=False)
-	else:
-		#print("\nHELL NO")
-		company_csv = pd.read_csv("output/csv/final_company.csv")
-		pandas_csv = pd.read_csv("output/csv/"+company+".csv")
-		concat_csv = [company_csv, pandas_csv]
-		final_company = pd.concat(concat_csv)
-		final_company.to_csv("output/csv/final_company.csv", index=False)
 
 
-	# company_csv = open("output/csv/"+company+".csv",'r')
-	# company_csv_read = csv.reader(company_csv)
-	# fd.write(df_read)
-	# fd.close()
+	# if not Path("output/csv/final_company.csv").is_file():
+	# 	#print("\nBANZAAAAAAAI")
+	# 	company_csv = pd.read_csv("output/csv/"+company+".csv", dtype='unicode')
+	# 	company_csv.to_csv("output/csv/final_company.csv", index=False)
+	# else:
+	# 	#print("\nHELL NO")
+	# 	company_csv = pd.read_csv("output/csv/final_company.csv", dtype='unicode')
+	# 	pandas_csv = pd.read_csv("output/csv/"+company+".csv", dtype='unicode')
+	# 	concat_csv = [company_csv, pandas_csv]
+	# 	final_company = pd.concat(concat_csv)
+	# 	final_company.to_csv("output/csv/final_company.csv", index=False)
 
-	# reader = csv.reader(open("output/csv/total_search.csv", 'rb'))
-	# reader1 = csv.reader(open("output/csv/"+company+".csv", 'rb'))
-	# writer = csv.writer(open('output/csv/appended_output.csv', 'wb'))
-	# for row in reader:
-	#     writer.writerow(row)
 
-	# with open("output/json/"+company+".json") as fi:
-	#     data = json.load(fi)
-	#     df = pd.DataFrame(data=data['values'][0]['locations']['values'])
-	#     #print(df)
-	#     fi.close()
-	# if not os.path.exists(os.path.dirname("output/csv/")):
-	#     try:
-	#         os.makedirs(os.path.dirname("output/csv/"))
-	#     except OSError as exc: # Guard against race condition
-	#         if exc.errno != errno.EEXIST:
-	#             raise
-
-	# if not os.path.exists(os.path.dirname("output/csv/total_search.csv")):
-	#     try:
-	#         os.makedirs(os.path.dirname("output/csv/total_search.csv"))
-	#     except OSError as exc: # Guard against race condition
-	#         if exc.errno != errno.EEXIST:
-	#             raise
-
-	# df.to_csv("output/csv/"+company+".csv", index=False)
-
-	# # df_read = pd.read_csv("output/csv/"+company+".csv",skiprows=1)
-	# df.to_csv("output/csv/total_search.csv", mode='a', header=False, index=False)
-
-	# correct too but with more lines.
-	# with open("output/csv/total_search.csv", 'a') as f:
-	# 	df.to_csv(f, header=False)
-
-#print(recursive_rounds)
 
 # ¿Otra query?
 # while True: 

@@ -293,7 +293,7 @@ class Entry(Frame):
         else:
             webbrowser.open('https://developer.linkedin.com/docs/fields/company-profile', new=2)
 
-    
+
 
     def import_csv_file(self):
 
@@ -423,36 +423,91 @@ class Entry(Frame):
 
 
     def on_button_click_search(self):
-        self.root = tkinter.Toplevel()
-        if var.get()==1:
-            self.root.title("Showing: "+self.entry.get()+".json - Searched by Name")
-        else:
-            self.root.title("Showing: "+self.entry.get()+".json - Searched by Location")
-        self.root.geometry('1000x600')
+        # self.root = tkinter.Toplevel()
+        # if var.get()==1:
+        #     self.root.title("Showing: "+self.entry.get()+".json - Searched by Name")
+        # else:
+        #     self.root.title("Showing: "+self.entry.get()+".json - Searched by Location")
+        # self.root.geometry('1000x600')
         
         if var.get()==1:
             if var_data.get()==1:
                 print("sudo python tele.py -f -e -s -n " + self.entry.get() + " "+ entry_data.get()+" "+entry_data_count.get())
                 p = sub.Popen(['python','tele.py', '-f','-e', '-s','-n', self.entry.get(), entry_data.get(), entry_data_count.get()],stdout=sub.PIPE,stderr=sub.PIPE)
+                output, errors = p.communicate()
             else:
-                print("sudo python tele.py -f -e -c -r -s " + self.entry.get() +" "+ entry_data_all.get()+" "+entry_data_all_start.get()+" "+entry_data_all_count.get())
-                p = sub.Popen(['python','tele.py', '-f','-c','-e','-r','-s','-n', self.entry.get(), entry_data_all.get(),entry_data_all_start.get(),entry_data_all_count.get()],stdout=sub.PIPE,stderr=sub.PIPE)
-            
+                app = 1
+                counter = 0
+                
+                start_point = entry_data_all_start.get()
+                for iteration in range(0, int(entry_data_all.get())):
+                    try:
+                        company_TBS = ""+str(counter)+".."+self.entry.get()+""
+
+                        #print(str(counter_csv) + " -> sudo python tele.py -v -f -e -c -r -s " + company_TBS +" "+ entry_data_all.get()+" "+entry_data_all_start.get()+" "+entry_data_all_count.get())
+                        print(str(counter) + " --> Processing iteration "+ str(counter) +" of " +  entry_data_all.get())
+                        print(" python tele.py -f -c -e -r -s -n -v -t " + company_TBS + " "+entry_data_all.get() + " "+ entry_data_all_start.get() + " "+ entry_data_all_count.get() + " "+str(app))
+                        p = sub.Popen(['python','tele.py', '-f','-e','-r','-s','-n','-v','-t', company_TBS, start_point, entry_data_all_count.get(), str(app)],stdout=sub.PIPE,stderr=sub.PIPE)
+                        
+                        output, errors = p.communicate()
+
+                        counter+=1
+                        start_point = start_point + entry_data_all_count.get()
+                        assert not errors
+
+                    except Exception as e:
+                        app = app + 1
+                        
+                        print("\nGUI failed %d %s %s" % (p.returncode, output, errors))
+                        print('\nChanging to app number: '+ str(app))
+                        if app == 250:
+                            print('\n--> No more apps from which to source of. Aborting.')
+                            quit()
+                        continue
         else:
             if var_data.get()==1:
                 print("sudo python tele.py -f -e -s -l -n " + self.entry.get() + " "+ entry_data.get()+ " " + entry_data_count.get())
                 p = sub.Popen(['python','tele.py','-l', '-f','-e','-s','-n', self.entry.get(), entry_data.get(),entry_data_count.get()],stdout=sub.PIPE,stderr=sub.PIPE)
+                output, errors = p.communicate()
             else:
-                print("sudo python tele.py -f -e -l -c -r -s " + self.entry.get()+" "+ entry_data_all.get() + " " +entry_data_all_start.get())
-                p = sub.Popen(['python','tele.py', '-f','-e','-c','-r','-l','-s','-n', self.entry.get(), entry_data_all.get(),entry_data_all_start.get(),entry_data_all_count.get()],stdout=sub.PIPE,stderr=sub.PIPE)
-            
+                app = 1
+                counter = 0
+                start_point = int(entry_data_all_start.get())
+                
+                for iteration in range(0, int(entry_data_all.get())):
+                    while(True):
+                        company_TBS = ""+str(counter)+".."+self.entry.get()+""                                                   
+                        try:     
+                            
+                            #print(str(counter_csv) + " -> sudo python tele.py -v -f -e -c -r -s " + company_TBS +" "+ entry_data_all.get()+" "+entry_data_all_start.get()+" "+entry_data_all_count.get())
+                            print(str(counter) + " -> Processing iteration "+ str(counter) +" of " +  entry_data_all.get())
+                            print(" python tele.py -f -c -e -r -s -n -v -t " + company_TBS + " "+str(start_point) + " "+ entry_data_all_start.get() + " "+ entry_data_all_count.get() + " "+str(app))
+                            p = sub.Popen(['python','tele.py', '-l', '-f','-e','-r','-s','-n','-v','-t', company_TBS, str(start_point), entry_data_all_count.get(), str(app)],stdout=sub.PIPE,stderr=sub.PIPE)
+                            
+                            output, errors = p.communicate()
+
+                            
+                            assert not errors
+                            counter+=1
+                            start_point = start_point + int(entry_data_all_count.get())
+
+                        except Exception as e:
+                            app = app + 1
+                            
+                            print("\nGUI failed %d %s %s" % (p.returncode, output, errors))
+                            print('\nChanging to app number: '+ str(app))
+                            if app == 250:
+                                print('\n--> No more apps from which to source of. Aborting.')
+                                quit()
+                            continue    
+                        break
 
         
-        output, errors = p.communicate()
+        
 
-        text = Text(self.root)
-        text.pack(side=LEFT, fill=BOTH, expand = YES)
-        text.insert(END, output)
+        # text = Text(self.root)
+        # text.pack(side=LEFT, fill=BOTH, expand = YES)
+        # text.insert(END, output)
         
 
 

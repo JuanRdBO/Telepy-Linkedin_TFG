@@ -87,7 +87,7 @@ else:
 def printCompanyInfo(company, starting_point, all_info, current_round, final_round, count):
 	# Se ejecuta el script de linkedin provisto en el repositorio con search company
 	if options.LOCATION==True:
-		print_json = application.search_company(selectors=[{'companies': ['name', 'website-url','employee-count-range','specialties','locations','founded-year','num-followers']}], params={'facet': 'location,'+company, 'start': starting_point, 'count': count})
+		print_json = application.search_company(selectors=[{'companies': ['id','name','email-domains','company-type','website-url','industries','status','twitter-id','employee-count-range','locations:(is-headquarters,is-active,address,contact-info)','founded-year','end-year','num-followers','specialties']}], params={'facet': 'location,'+company, 'start': starting_point, 'count': count})
 	else: 
 		print_json = application.search_company(selectors=[{'companies': ['id','name','email-domains','company-type','website-url','industries','status','twitter-id','employee-count-range','locations:(is-headquarters,is-active,address,contact-info)','founded-year','end-year','num-followers','specialties']}], params={'keywords': company, 'start': starting_point, 'count': count})
 																			# 
@@ -267,7 +267,7 @@ if options.COMPLETE==True:
 		starting_point = starting_point + count
 		counter = counter +1
 		#print("Done round number: " + str(counter))
-	os.system('rm output/json/*number*.json output/json/*final.json')
+	#os.system('rm output/json/*number*.json output/json/*final.json')
 
 else:
 	if DEBUG == True:
@@ -307,17 +307,17 @@ if options.EXPORTCSV==True:
 
 
 
-	# if not Path("output/csv/final_company.csv").is_file():
-	# 	#print("\nBANZAAAAAAAI")
-	# 	company_csv = pd.read_csv("output/csv/"+company+".csv", dtype='unicode')
-	# 	company_csv.to_csv("output/csv/final_company.csv", index=False)
-	# else:
-	# 	#print("\nHELL NO")
-	# 	company_csv = pd.read_csv("output/csv/final_company.csv", dtype='unicode')
-	# 	pandas_csv = pd.read_csv("output/csv/"+company+".csv", dtype='unicode')
-	# 	concat_csv = [company_csv, pandas_csv]
-	# 	final_company = pd.concat(concat_csv)
-	# 	final_company.to_csv("output/csv/final_company.csv", index=False)
+	if not Path("output/csv/final_company.csv").is_file():
+		#print("\nBANZAAAAAAAI")
+		company_csv = pd.read_csv("output/csv/"+company+".csv", dtype='unicode')
+		company_csv.to_csv("output/csv/final_company.csv", index=False)
+	else:
+		#print("\nHELL NO")
+		company_csv = pd.read_csv("output/csv/final_company.csv", dtype='unicode')
+		pandas_csv = pd.read_csv("output/csv/"+company+".csv", dtype='unicode')
+		concat_csv = [company_csv, pandas_csv]
+		final_company = pd.concat(concat_csv)
+		final_company.to_csv("output/csv/final_company.csv", index=False)
 
 
 

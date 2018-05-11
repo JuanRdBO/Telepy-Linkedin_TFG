@@ -242,7 +242,7 @@ class TELEPY:
 
             if 'locations.values' in col:
                 if int(col.split(".")[3].split("[")[1].split("]")[0]) != last_cols:
-                    #print(int(col.split(".")[3].split("[")[1].split("]")[0]), last_cols, index_counter)
+                    print(int(col.split(".")[3].split("[")[1].split("]")[0]), last_cols, index_counter)
                     last_cols = int(col.split(".")[3].split("[")[1].split("]")[0])
 
                     # Puts start/stop on all values except last and the one before that
@@ -343,7 +343,7 @@ class TELEPY:
 
             print('Retrieving from', total_german_companies_index[i][0], ':', total_german_companies_index[i][0] + 1)
 
-            #print('COUNT i:', i, 'matches:',
+            print('COUNT i:', i, 'matches:',
                   [item[0] for item in total_german_companies_index].count(total_german_companies_index[i][0]), '--->',
                   total_german_companies_index)
             if [item[0] for item in total_german_companies_index].count(total_german_companies_index[i][0]) > 1:

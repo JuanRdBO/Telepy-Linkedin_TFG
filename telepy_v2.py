@@ -186,7 +186,7 @@ class TELEPY:
                         concat_csv = [company_csv, pandas_csv]
                         final_company = pd.concat(concat_csv)
                         final_company.to_csv("output/csv/" + df.iloc[company][0] + "_FINAL.csv", index=False)
-                    os.remove("output/csv/" + df.iloc[company][0] + "(" + str(match) + ").csv")
+                    #os.remove("output/csv/" + df.iloc[company][0] + "(" + str(match) + ").csv")
 
     def remove_location_cols(self, loc_to_keep):
         final_company = pd.read_csv("output/csv/final_company.csv", dtype='unicode')

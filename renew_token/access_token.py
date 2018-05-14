@@ -13,7 +13,7 @@ class ACCESS_TOKEN:
         self.app_access_token = ''
 
     def read_csv(self,app):
-        book = xlrd.open_workbook("/Users/juanruizdebustillo/GitHub/Telepy-Linkedin_TFG/renew_token/secrets.xls")
+        book = xlrd.open_workbook("./renew_token/secrets.xls")
         sh = book.sheet_by_index(0)
         for rx in range(1,sh.nrows):
             if rx == self.app:
@@ -27,7 +27,7 @@ class ACCESS_TOKEN:
         CLIENT_SECRET = ''
         RETURN_URL = 'http://localhost:8080/code/'
 
-        book = xlrd.open_workbook("/Users/juanruizdebustillo/GitHub/Telepy-Linkedin_TFG/renew_token/secrets.xls")
+        book = xlrd.open_workbook("./renew_token/secrets.xls")
 
         sh = book.sheet_by_index(0)
         for rx in range(1,sh.nrows):
@@ -50,7 +50,7 @@ class ACCESS_TOKEN:
         options = webdriver.ChromeOptions()
         options.add_argument('--ignore-certificate-errors')
         options.add_argument("--test-type")
-        driver = webdriver.Chrome('/Users/juanruizdebustillo/GitHub/Telepy-Linkedin_TFG/renew_token/chromedriver')
+        driver = webdriver.Chrome('./renew_token/chromedriver')
         driver.get(authentication.authorization_url)
         #python_button = driver.find_elements_by_xpath("//input[@name='authorize' and @value='Permitir acceso']")
         python_mail = driver.find_element_by_name('session_key')
@@ -72,12 +72,12 @@ class ACCESS_TOKEN:
         self.app_access_token = result.access_token
 
         #write access token to excel file
-        rb = open_workbook("/Users/juanruizdebustillo/GitHub/Telepy-Linkedin_TFG/renew_token/secrets.xls")
+        rb = open_workbook("./renew_token/secrets.xls")
         wb = copy(rb)
 
         s = wb.get_sheet(0)
         s.write(self.app, 2, self.app_access_token)
-        wb.save('/Users/juanruizdebustillo/GitHub/Telepy-Linkedin_TFG/renew_token/secrets.xls')
+        wb.save('./renew_token/secrets.xls')
         
         print("\nAccess Token:\n", result.access_token+'\n')
         #print("Expires in (seconds):", result.expires_in,'\n')

@@ -1,0 +1,94 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 21,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1966,
+                "id": 6586782,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "135",
+                            "name": "Ingenier\u00eda industrial o mec\u00e1nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "D\u00e4llikon",
+                                "postalCode": "8108",
+                                "street1": "Industriestrasse 16"
+                            },
+                            "contactInfo": {
+                                "fax": "0844 850 865",
+                                "phone1": "0844 850 863"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Villars-Ste-Croix",
+                                "postalCode": "1029",
+                                "street1": "Croix-du-P\u00e9age 10"
+                            },
+                            "contactInfo": {
+                                "fax": "0844 850 865",
+                                "phone1": "0844 850 863"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "K\u00e4rcher Schweiz",
+                "numFollowers": 269,
+                "specialties": {
+                    "_total": 17,
+                    "values": [
+                        "Hochdruckreiniger",
+                        "Dampfreiniger",
+                        "Fensterreiniger",
+                        "Kehrmaschinen",
+                        "Dampfsauger",
+                        "Scheuersaugmaschinen",
+                        "Wasserspender",
+                        "Waschanlagen",
+                        "Kommunaltechnik",
+                        "Park & City Solutions",
+                        "Pumpen",
+                        "Bew\u00e4sserungssysteme",
+                        "Kehr- und Kehrsaugmaschinen",
+                        "Akku-Besen",
+                        "Arbeitsschutz",
+                        "Sauger",
+                        "Luftreiniger"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.kaercher.ch"
+            }
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2012,
+                "id": 4794652,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "143",
+                            "name": "Art\u00edculos de lujo y joyas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "NY 10019",
+                                "street1": "768 Fifth Avenue, ,"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Tivat",
+                                "postalCode": "",
+                                "street1": "Porto Montenegro"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Misahara Jewelry",
+                "numFollowers": 275,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Luxury Jewelry",
+                        "Jewelry",
+                        "Precious and Semiprecious Gemstones",
+                        "Hand Crafted Jewelry",
+                        "Fine Jewellery",
+                        "High End Jewelry",
+                        "Jewellery",
+                        "Fashion Design",
+                        "Joaillerie",
+                        "Gemstone"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.misahara.com"
+            }
+        ]
+    }
+}

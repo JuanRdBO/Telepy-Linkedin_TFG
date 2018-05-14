@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7324743,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "D\u00fcren",
+                                "postalCode": "52349",
+                                "street1": "9 Zehnthofstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0242194310"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Michael Maurer Rechtsanwalt",
+                "numFollowers": 0,
+                "websiteUrl": "mm-recht.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 21,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2005,
+                "id": 823021,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10587",
+                                "street1": "Franklinstr. 28/29"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "MyHammer AG",
+                "numFollowers": 291,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "platform bringing customers, contractors and service\u2013providers together"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "MyHammer_com",
+                "websiteUrl": "https://www.my-hammer.de"
+            }
+        ]
+    }
+}

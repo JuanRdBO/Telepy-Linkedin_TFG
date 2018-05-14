@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1889,
+                "id": 11352618,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "78",
+                            "name": "Protecci\u00f3n civil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Traunreut",
+                                "postalCode": "83301",
+                                "street1": "Steinfeldstra\u00dfe 2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Freiwillige Feuerwehr Matzing",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Personenrettung",
+                        "Tierrettung",
+                        "Schutz von Sachwerten",
+                        "Brandschutz",
+                        "Technische Hilfeleistung",
+                        "Katastrophenschutz",
+                        "Atemschutz",
+                        "Maschinisten",
+                        "Verkehrsunfall",
+                        "Strumlagen",
+                        "Hochwasser",
+                        "Ausbildung"
+                    ]
+                },
+                "websiteUrl": "www.ff-matzing.de"
+            }
+        ]
+    }
+}

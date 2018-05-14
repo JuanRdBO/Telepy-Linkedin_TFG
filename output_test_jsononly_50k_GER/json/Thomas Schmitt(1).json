@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 13,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7398466,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wilnsdorf",
+                                "postalCode": "57234",
+                                "street1": "6 H\u00f6fenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0273791110"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Schmitt E.K.",
+                "numFollowers": 1,
+                "websiteUrl": "schmitt-einrichtungen.net"
+            }
+        ]
+    }
+}

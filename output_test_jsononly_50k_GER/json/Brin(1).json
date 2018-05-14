@@ -1,0 +1,56 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 306,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1912,
+                "id": 761536,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "145",
+                            "name": "Cristal, cer\u00e1mica y hormig\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Minneapolis",
+                                "postalCode": "55411",
+                                "street1": "2300 N. 2nd Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Brin Northwestern Glass",
+                "numFollowers": 143,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.bringlass.com"
+            }
+        ]
+    }
+}

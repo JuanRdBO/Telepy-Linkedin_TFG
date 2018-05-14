@@ -1,0 +1,120 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 22,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1990,
+                "id": 27401,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "81379",
+                                "street1": "Kistlerhofstra\u00dfe 75"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Dresden",
+                                "postalCode": "01069",
+                                "street1": "Fritz-Foerster-Platz 2"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10117",
+                                "street1": "Leipziger Platz"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "G\u00f6rlitz",
+                                "postalCode": "02826",
+                                "street1": "Berliner Stra\u00dfe 63"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20097",
+                                "street1": "S\u00fcderstra\u00dfe 73"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Saxonia Systems AG",
+                "numFollowers": 1146,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Software development",
+                        "quality management / testing",
+                        "SAP-Consulting",
+                        "ETEO / Scrum board"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.sogehtsoftware.de/unternehmen/impressum"
+            }
+        ]
+    }
+}

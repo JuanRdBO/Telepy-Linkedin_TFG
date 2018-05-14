@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2016,
+                "id": 15086641,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Utrecht",
+                                "postalCode": "3524 BN",
+                                "street1": "Fivelingo 203"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "06-14685558"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Yvonne Werkt",
+                "numFollowers": 1,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.yvonnewerkt.nl"
+            }
+        ]
+    }
+}

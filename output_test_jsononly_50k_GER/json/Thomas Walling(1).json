@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 11928532,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bideford",
+                                "postalCode": "EX3 9 3BY",
+                                "street1": "27 Clovelly Road"
+                            },
+                            "contactInfo": {
+                                "phone1": "+44 1237459670"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Torridge District",
+                "numFollowers": 0,
+                "websiteUrl": "http://northdevondriveways.co.uk"
+            }
+        ]
+    }
+}

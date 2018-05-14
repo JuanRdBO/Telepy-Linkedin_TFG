@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 9103968,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "54",
+                            "name": "Productos qu\u00edmicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bell",
+                                "postalCode": "90201",
+                                "street1": "3917 Gage Ave"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 3235600577"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Walter Ritter",
+                "numFollowers": 10,
+                "websiteUrl": "http://www.walterritter.de/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 366,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2003,
+                "id": 2124190,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Buenos Aires",
+                                "postalCode": "",
+                                "street1": "Av. C\u00f3rdoba 1345"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(5411) 5219 0575"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "CDT Soluciones Tecnol\u00f3gicas",
+                "numFollowers": 449,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Consultor\u00eda IT",
+                        "Dise\u00f1o multimedia",
+                        "Redes y Comunicaciones",
+                        "Arquitectura de softwaree",
+                        "Usabilidad / UX",
+                        "JAVA",
+                        "SOA",
+                        "Android Mobile",
+                        "Metodolog\u00edas \u00c1giles",
+                        "Arquitectura Empresarial",
+                        "Consultor\u00eda y Desarrollo",
+                        "Carteler\u00eda Digital",
+                        "Investigaci\u00f3n y Desarrollo"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.cdt.com.ar"
+            }
+        ]
+    }
+}

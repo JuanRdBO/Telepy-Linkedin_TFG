@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7406584,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Delmenhorst",
+                                "postalCode": "27749",
+                                "street1": "56 Leipziger Weg"
+                            },
+                            "contactInfo": {
+                                "phone1": "0422173510"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bau- U. M\u00f6beltischlerei Andreas Sander",
+                "numFollowers": 1,
+                "websiteUrl": "sander-tischlerei.de"
+            }
+        ]
+    }
+}

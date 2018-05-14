@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 61,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7402187,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "26",
+                            "name": "Mobiliario"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Eiselfing",
+                                "postalCode": "83549",
+                                "street1": "12 Gewerbering"
+                            },
+                            "contactInfo": {
+                                "phone1": "0807190940"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Peter M\u00fcller GmbH",
+                "numFollowers": 2,
+                "websiteUrl": "petermueller.de"
+            }
+        ]
+    }
+}

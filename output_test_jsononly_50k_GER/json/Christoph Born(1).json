@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 6640032,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Tabanan",
+                                "postalCode": "",
+                                "street1": "Tegal Mengkeb Selemadeg"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+62 (0)8123 830 1800"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Seminyak",
+                                "postalCode": "80361",
+                                "street1": "Jln Sari Dewi Gang Drona 5"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+62 (0)8123 830 1800"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "The Secret Garden Village",
+                "numFollowers": 28,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Ecco Tour",
+                        "Retreat",
+                        "Green Tour",
+                        "Nature Tour"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.thesecretgardenvillage.com"
+            }
+        ]
+    }
+}

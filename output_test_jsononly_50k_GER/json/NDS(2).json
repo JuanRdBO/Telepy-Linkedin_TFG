@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 404,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1996,
+                "id": 92783,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "17",
+                            "name": "Dispositivos m\u00e9dicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "San Jose",
+                                "postalCode": "95138",
+                                "street1": "5750 Hellyer Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "Dome by NDSsi",
+                                "phone1": "408-776-0085"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": false,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "NDS Surgical Imaging",
+                "numFollowers": 1864,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Endoscopy Video Solutions",
+                        "OR Integration",
+                        "Surgical Video Processing",
+                        "Wireless Surgical Video"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.ndssi.com"
+            }
+        ]
+    }
+}

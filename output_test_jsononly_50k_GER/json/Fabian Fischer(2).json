@@ -1,0 +1,81 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1923,
+                "id": 11172564,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Madrid",
+                                "postalCode": "28005",
+                                "street1": "Calle Ba\u00f1os de Montemayor, 5"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Madrid",
+                                "postalCode": "28019",
+                                "street1": "Calle Julio Domingo, 35"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Yeles",
+                                "postalCode": "45220",
+                                "street1": "Calle Lugo, 14"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Madrid",
+                                "postalCode": "28005",
+                                "street1": "Calle Pozuelo de Zarz\u00f3n, 4"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Ascensores Excelsior",
+                "numFollowers": 54,
+                "websiteUrl": "www.grupoexcelsior.com"
+            }
+        ]
+    }
+}

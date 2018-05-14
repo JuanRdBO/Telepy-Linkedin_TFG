@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12219428,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Leinefelde",
+                                "postalCode": "37327",
+                                "street1": "6 Turmstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3605542023"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ziegler Badshop",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.ziegler-badshop.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 234,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1957,
+                "id": 70649,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "47",
+                            "name": "Contabilidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Redwood City",
+                                "postalCode": "94065",
+                                "street1": "Three Lagoon Drive"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "San Francisco",
+                                "postalCode": "94104",
+                                "street1": "220 Montgomery Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "San Jose",
+                                "postalCode": "95110",
+                                "street1": "1735 Technology Dr"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Seiler LLP",
+                "numFollowers": 2100,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Tax advisory",
+                        "Audit",
+                        "High net worth",
+                        "International tax",
+                        "Family Office",
+                        "Multi Family Office",
+                        "Forensic accounting",
+                        "Trust and estate",
+                        "Non profits",
+                        "Private foundations",
+                        "Trust, estate and gift tax planning",
+                        "Privately held businesses",
+                        "State and local tax",
+                        "Tax credits"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "seilerllp",
+                "websiteUrl": "www.seiler.com"
+            }
+        ]
+    }
+}

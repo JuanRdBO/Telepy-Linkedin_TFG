@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 893808,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "10",
+                            "name": "Servicios jur\u00eddicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bogota",
+                                "postalCode": "110311",
+                                "street1": "Diagonal 34 No. 5-28"
+                            },
+                            "contactInfo": {
+                                "fax": "+57 (1) 601-7799",
+                                "phone1": "+57 (1) 601-7700"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Olarte Raisbeck Moure & Castro Ltda.",
+                "numFollowers": 32,
+                "status": {
+                    "code": "OOB",
+                    "name": "Out of Business"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.olarteraisbeck.com"
+            }
+        ]
+    }
+}

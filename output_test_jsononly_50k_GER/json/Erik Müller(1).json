@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 23666014,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "112",
+                            "name": "Manufactura el\u00e9ctrica y electr\u00f3nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "T\u00d8NSBERG",
+                                "postalCode": "3118",
+                                "street1": "Grevinneveien 87"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "SEM FISKEREDSKAP Erik Muller",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

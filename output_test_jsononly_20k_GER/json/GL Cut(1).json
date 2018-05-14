@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 19,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2008,
+                "id": 1851448,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "83",
+                            "name": "Imprenta"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Toronto",
+                                "postalCode": "",
+                                "street1": "219 Dufferin Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "StickerYou",
+                "numFollowers": 1795,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Proprietary die-cutting technology",
+                        "Custom Sticker",
+                        "Engagement Marketing",
+                        "Brand Promotions"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "StickerYou",
+                "websiteUrl": "http://www.stickeryou.com"
+            }
+        ]
+    }
+}

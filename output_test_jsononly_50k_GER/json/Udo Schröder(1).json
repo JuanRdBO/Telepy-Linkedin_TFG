@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7564004,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Brachelen",
+                                "postalCode": "41836",
+                                "street1": "103 Hauptstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "024626616"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Udo Schr\u00f6der Friseursalon",
+                "numFollowers": 1,
+                "websiteUrl": "udoschroederhaare.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1970,
+                "id": 1607947,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "115",
+                            "name": "M\u00fasica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Staplegrove",
+                                "postalCode": "TA2 6",
+                                "street1": "141 Staplegrove Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "John Packer Ltd",
+                "numFollowers": 83,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Musical Instruments",
+                        "Musical Instrument Repair",
+                        "Musical Instrument Design",
+                        "School Musical Instrument Supplier"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "johnpackerltd",
+                "websiteUrl": "http://www.johnpacker.co.uk"
+            }
+        ]
+    }
+}

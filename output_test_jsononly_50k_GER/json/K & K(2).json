@@ -1,0 +1,109 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 104004,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1961,
+                "id": 2421565,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "31",
+                            "name": "Hosteler\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London"
+                            },
+                            "contactInfo": {
+                                "fax": "00436628421577",
+                                "phone1": "0043662842157"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "75007",
+                                "street1": "4, Boulevard Raspail"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0033145443888"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "SW5 9NB",
+                                "street1": "1-15 Templeton Place"
+                            },
+                            "contactInfo": {
+                                "fax": "0044-20-73702285",
+                                "phone1": "0044-20-75988700"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Barcelona",
+                                "postalCode": "08003",
+                                "street1": "Passeig de Picasso, 26-30"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0034-93-5478600"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Munich",
+                                "postalCode": "81369",
+                                "street1": "Albert-Rosshaupter-Strasse 4"
+                            },
+                            "contactInfo": {
+                                "fax": "0049-89-7212820",
+                                "phone1": "0049-89-746400"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "K+K Hotels",
+                "numFollowers": 2990,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.kkhotels.com"
+            }
+        ]
+    }
+}

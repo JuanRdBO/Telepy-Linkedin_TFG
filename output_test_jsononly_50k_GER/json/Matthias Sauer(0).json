@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 12311224,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20354",
+                                "street1": "Alsterufer 36"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80805",
+                                "street1": "Osterwaldstra\u00dfe 10"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "AURETAS family trust GmbH",
+                "numFollowers": 32,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Familienverm\u00f6gen",
+                        "Strategieberatung",
+                        "Verm\u00f6gensvermanagement",
+                        "Verm\u00f6gensverwaltung",
+                        "Verm\u00f6gensverwaltung"
+                    ]
+                },
+                "websiteUrl": "http://www.auretas.de"
+            }
+        ]
+    }
+}

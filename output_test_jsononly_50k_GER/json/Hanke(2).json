@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 178,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1984,
+                "id": 18366809,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "San Francisco",
+                                "postalCode": "94104",
+                                "street1": "100 Bush Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hanke & Co. Wealth Management, LLC",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Estate Planning",
+                        "Net Worth & Cash Flow Analysis",
+                        "Investment Portfolio Design & Implementation",
+                        "Retirement Planning",
+                        "Efficient Tax Planning ",
+                        "Minimization Strategies",
+                        "Higher Education Funding",
+                        "Insurance Needs Analysis",
+                        "Real Estate Investment Analysis",
+                        "Debt Management Planning"
+                    ]
+                },
+                "websiteUrl": "http://www.hankewealth.com/"
+            }
+        ]
+    }
+}

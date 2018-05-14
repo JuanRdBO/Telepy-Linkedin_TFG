@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 2006,
+                "id": 927628,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "8",
+                            "name": "Telecomunicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Groningen",
+                                "postalCode": "9712 JX",
+                                "street1": "Waagstraat 1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "050 - 210 34 04"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Belsimpel",
+                "numFollowers": 841,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Service",
+                        "Betrouwbaarheid",
+                        "Voordelig"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.belsimpel.nl"
+            }
+        ]
+    }
+}

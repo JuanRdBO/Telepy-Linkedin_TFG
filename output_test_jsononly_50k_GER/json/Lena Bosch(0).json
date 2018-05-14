@@ -1,0 +1,57 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1985,
+                "id": 10233382,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sant Cugat Sesgarrigues",
+                                "postalCode": "08798",
+                                "street1": "Avda. Barcelona Nau 10"
+                            },
+                            "contactInfo": {
+                                "fax": "938992049",
+                                "phone1": "938970888"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bosch Mar\u00edn",
+                "numFollowers": 33,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.boschmarin.com/"
+            }
+        ]
+    }
+}

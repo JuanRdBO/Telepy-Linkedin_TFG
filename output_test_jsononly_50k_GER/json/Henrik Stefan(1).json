@@ -1,0 +1,49 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2005,
+                "id": 9397092,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "135",
+                            "name": "Ingenier\u00eda industrial o mec\u00e1nica"
+                        }
+                    ]
+                },
+                "name": "bc-technology GmbH",
+                "numFollowers": 19,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Reinraumtechnik",
+                        "Laminar-Flow-Ger\u00e4te",
+                        "Qualifizierungen"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.bc-technology.de"
+            }
+        ]
+    }
+}

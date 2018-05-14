@@ -1,0 +1,46 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 15282268,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Chicago",
+                                "postalCode": "60604",
+                                "street1": "53 W Jackson Blvd"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 3125541040"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "LAW OFFICES OF RALPH J. SCHINDLER JR.",
+                "numFollowers": 0,
+                "websiteUrl": "http://schindlerlegal.com"
+            }
+        ]
+    }
+}

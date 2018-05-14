@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2007,
+                "id": 18425754,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "31",
+                            "name": "Hosteler\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "T\u00e4gerwilen",
+                                "postalCode": "8274",
+                                "street1": "Hauptstrasse 96"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "JUCKERs Boutique-Hotel | Restaurant Linde",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Hotel",
+                        "Restaurant",
+                        "Seminare",
+                        "Bankett",
+                        "Gin",
+                        "Gourmet-K\u00fcche",
+                        "Business",
+                        "SPA",
+                        "Zigarren-Lounge",
+                        "Events"
+                    ]
+                },
+                "websiteUrl": "www.juckers-hotel.ch"
+            }
+        ]
+    }
+}

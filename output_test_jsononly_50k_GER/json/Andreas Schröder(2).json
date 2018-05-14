@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7456514,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Elsfleth",
+                                "postalCode": "26931",
+                                "street1": "6 Oberrege"
+                            },
+                            "contactInfo": {
+                                "phone1": "044042382"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Autohaus Andreas Schr\u00f6der GmbH & Co. KG",
+                "numFollowers": 1,
+                "websiteUrl": "autohausschroeder.com"
+            }
+        ]
+    }
+}

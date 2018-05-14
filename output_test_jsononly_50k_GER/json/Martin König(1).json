@@ -1,0 +1,43 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7497568,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Edingen-Neckarhausen",
+                                "postalCode": "68535",
+                                "street1": "91 Hauptstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0620381080"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hans-Martin K\u00f6nig Rechtsanwalt",
+                "numFollowers": 1
+            }
+        ]
+    }
+}

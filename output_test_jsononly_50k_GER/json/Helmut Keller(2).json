@@ -1,0 +1,51 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2010,
+                "id": 13581500,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "25",
+                            "name": "Art\u00edculos de consumo"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oregon",
+                                "postalCode": "97006",
+                                "street1": "391 N.W. 179 Avenue"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": " KnivesMasters",
+                "numFollowers": 9,
+                "websiteUrl": "https://knivesmasters.com"
+            }
+        ]
+    }
+}

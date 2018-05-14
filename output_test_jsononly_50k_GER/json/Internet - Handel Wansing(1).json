@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 243389,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1992,
+                "id": 219986,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Reston",
+                                "postalCode": "20190-5108",
+                                "street1": "Suite 201"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Geneve",
+                                "postalCode": "CH-1204",
+                                "street1": "Galerie Jean-Malbuisson"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Internet Society",
+                "numFollowers": 9275,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Connecting the world",
+                        "Building an Internet we all can trust",
+                        "Internet infrastructure",
+                        "Internet governance",
+                        "Facilitates open development of standards and protocols",
+                        "Fosters an environment for international cooperation",
+                        "Internet of Things",
+                        "Community Networks"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "@internetsociety",
+                "websiteUrl": "https://www.internetsociety.org"
+            }
+        ]
+    }
+}

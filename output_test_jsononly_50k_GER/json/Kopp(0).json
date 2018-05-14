@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 393,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1926,
+                "id": 936178,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "145",
+                            "name": "Cristal, cer\u00e1mica y hormig\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pittsburgh",
+                                "postalCode": "15218",
+                                "street1": "2108 Palmer St."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "412-271-0190"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kopp Glass",
+                "numFollowers": 2155,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Custom Molded Glass",
+                        "Airport Lighting",
+                        "Aircraft Lighting",
+                        "Heat Absorbing Glass",
+                        "Night Vision (NVIS) Filter Glass",
+                        "Infrared (IR) Filter Glass",
+                        "Colored Filter Glass",
+                        "Ultraviolet (UV) Filter Glass",
+                        "Sight Glass",
+                        "Fresnel & Prismatic Lenses",
+                        "Custom Glass Development"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "koppglass",
+                "websiteUrl": "http://www.koppglass.com"
+            }
+        ]
+    }
+}

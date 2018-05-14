@@ -1,0 +1,132 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 842,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1985,
+                "id": 3095,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "123",
+                            "name": "Subcontrataciones/Offshoring"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 7,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Miami",
+                                "postalCode": "33131",
+                                "street1": "600 Brickell Avenue, Suite 3200"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Albuquerque",
+                                "postalCode": "87109",
+                                "street1": "4420 The 25 Way NE"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Dusseldorf",
+                                "postalCode": "40476",
+                                "street1": "Munsterstrasse 100"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Newcastle upon Tyne",
+                                "postalCode": "NE12 8",
+                                "street1": "Balliol Business Park East"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Madrid",
+                                "postalCode": "28045",
+                                "street1": "Calle de la Retama, 7"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Porto",
+                                "postalCode": "4050-344",
+                                "street1": "Rua de Dom Manuel II 296"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Sitel",
+                "numFollowers": 76447,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Customer Experience",
+                        "Business Process Outsourcing",
+                        "Digital CX",
+                        "Training and Talent Management",
+                        "Technology and Innovation",
+                        "Consulting & Analytics Solutions"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.sitel.com"
+            }
+        ]
+    }
+}

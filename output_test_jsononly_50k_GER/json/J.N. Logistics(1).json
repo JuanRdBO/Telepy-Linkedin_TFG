@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 24,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 22017240,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "91",
+                            "name": "Servicio al consumidor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "SHEFFIELD",
+                                "postalCode": "S35 7AD",
+                                "street1": "3 BELMONT TERRACE THURGOLAND"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "J&N LOGISTICS (SY) LTD",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

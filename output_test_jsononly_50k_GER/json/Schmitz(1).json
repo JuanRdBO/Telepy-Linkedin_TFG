@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 1231,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2008,
+                "id": 1900275,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Leusden",
+                                "postalCode": "",
+                                "street1": "Wederik 15"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Schmitz IT",
+                "numFollowers": 16,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Designer",
+                        "PL/SQL",
+                        "Apex",
+                        "Developer"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.schmitzit.nl"
+            }
+        ]
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2004,
+                "id": 6155347,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Zorneding near Munich",
+                                "postalCode": "85604",
+                                "street1": "Georg-Wimmer-Ring 9"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 81062137-100",
+                                "phone1": "+49 81062137-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf/Ratingen",
+                                "postalCode": "40880",
+                                "street1": "Halskestra\u00dfe 38"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 2102 9956-609",
+                                "phone1": "+49 2102 9956-600"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Munich",
+                                "postalCode": "80797",
+                                "street1": "Adams-Lehmann-Stra\u00dfe 56"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 89 8563340-100",
+                                "phone1": "+49 89 8563340-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "METZLER : VATER",
+                "numFollowers": 215,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Brand experience",
+                        "Brand campaigns",
+                        "Live communication",
+                        "Digital communication",
+                        "Communication in space",
+                        "Events",
+                        "Incentives",
+                        "Congresses",
+                        "CRM",
+                        "Sponsoring",
+                        "Campaign conception and realisation",
+                        "Social-media strategy",
+                        "Process-supported digitalisation",
+                        "Temporary architecture"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.metzler-vater.com"
+            }
+        ]
+    }
+}

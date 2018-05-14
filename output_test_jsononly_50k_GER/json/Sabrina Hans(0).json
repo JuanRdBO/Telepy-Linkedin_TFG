@@ -1,0 +1,56 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1992,
+                "id": 11524166,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "126",
+                            "name": "Producci\u00f3n multimedia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": "50679",
+                                "street1": "Picassoplatz 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "n-tv Teleb\u00f6rse",
+                "numFollowers": 109,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Wirtschaft",
+                        "B\u00f6rse"
+                    ]
+                },
+                "websiteUrl": "www.teleboerse.de"
+            }
+        ]
+    }
+}

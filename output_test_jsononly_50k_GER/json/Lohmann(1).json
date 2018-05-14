@@ -1,0 +1,97 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 248,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1998,
+                "id": 76079,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "14",
+                            "name": "Atenci\u00f3n sanitaria y hospitalaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rengsdorf",
+                                "postalCode": "56579",
+                                "street1": "Westerwaldstr. 4"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0) 2634 99-6467",
+                                "phone1": "+49 (0) 2634 99-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Wien",
+                                "postalCode": "1140",
+                                "street1": "Johann-Schorsch-Gasse 4"
+                            },
+                            "contactInfo": {
+                                "fax": "+43 (0) 157 717 99",
+                                "phone1": "+43 (0) 157 670 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Neuwied",
+                                "postalCode": "56567",
+                                "street1": "Irlicher Stra\u00dfe 55"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0) 2634 99-6467",
+                                "phone1": "+49 (0) 2634 99-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Lohmann & Rauscher",
+                "numFollowers": 3634,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Wound Care",
+                        "Negative Pressure Therapy",
+                        "Compression Therapy",
+                        "OR Products",
+                        "Supports & Orthoses",
+                        "Hygiene & Nursing",
+                        "Debridement"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.Lohmann-Rauscher.com"
+            }
+        ]
+    }
+}

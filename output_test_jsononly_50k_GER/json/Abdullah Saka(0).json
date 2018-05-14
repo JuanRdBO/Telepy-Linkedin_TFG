@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1986,
+                "id": 10413093,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "\u0130stanbul",
+                                "postalCode": "34218",
+                                "street1": "\u0130sto\u00e7 21. Ada No:40 Ba\u011fc\u0131lar"
+                            },
+                            "contactInfo": {
+                                "fax": "+90 212 659 83 73",
+                                "phone1": "+90 212 659 46 23"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "\u0130stanbul",
+                                "postalCode": "34134",
+                                "street1": "Uzun\u00e7ar\u015f\u0131 Cad. Kahveciler Sok. No:11 Fatih"
+                            },
+                            "contactInfo": {
+                                "fax": "+90 212 528 12 40",
+                                "phone1": "+90 212 522 21 61"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Erbay Plastik",
+                "numFollowers": 14,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.erbayplastik.com"
+            }
+        ]
+    }
+}

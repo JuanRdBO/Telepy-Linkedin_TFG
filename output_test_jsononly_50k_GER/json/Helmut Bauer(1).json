@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7330743,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Garching",
+                                "postalCode": "85748",
+                                "street1": "55 Dirnismaning"
+                            },
+                            "contactInfo": {
+                                "phone1": "0893201908"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Regenanlagen Helmut Bauer GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "regenanlagen.de"
+            }
+        ]
+    }
+}

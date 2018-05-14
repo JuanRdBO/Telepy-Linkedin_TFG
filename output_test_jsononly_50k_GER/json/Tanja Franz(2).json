@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12447982,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnstertal/Schwarzwald",
+                                "postalCode": "79244",
+                                "street1": "22 Im Stohren"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7602240"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Luginsland",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.dasluginsland.de"
+            }
+        ]
+    }
+}

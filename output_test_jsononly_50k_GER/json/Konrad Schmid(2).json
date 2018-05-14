@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12300662,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pocking",
+                                "postalCode": "94060",
+                                "street1": "10 Fr\u00fchlingstr."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Atelier DRUCKart Konrad Schmid",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.atelier-druckart.de"
+            }
+        ]
+    }
+}

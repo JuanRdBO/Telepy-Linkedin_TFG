@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 31,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12454569,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Solingen",
+                                "postalCode": "42699",
+                                "street1": "74 L\u00f6hdorfer Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 212814472"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schnieders GmbH",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.kaffeejungs.de"
+            }
+        ]
+    }
+}

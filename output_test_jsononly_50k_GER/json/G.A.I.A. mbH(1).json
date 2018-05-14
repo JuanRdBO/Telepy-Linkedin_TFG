@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 8429273,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "84",
+                            "name": "Servicio de informaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "81737",
+                                "street1": "Oskar-Maria-Graf-Ring 23"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 896736970"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "I.G.T. Informationsgesellschaft Technik mbH",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.igt-verlag.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7494682,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Barnstedt",
+                                "postalCode": "21406",
+                                "street1": "Bauerholzweg 26A"
+                            },
+                            "contactInfo": {
+                                "phone1": "041348498"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Jan Hoffmann-Ramm JHR Haustechnik",
+                "numFollowers": 0,
+                "websiteUrl": "jhr-haustechnik.de"
+            }
+        ]
+    }
+}

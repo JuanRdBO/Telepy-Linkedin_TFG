@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 2464997,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Vancouver",
+                                "postalCode": "V6E 4C6",
+                                "street1": "903 - 1127 Barclay Street"
+                            },
+                            "contactInfo": {
+                                "fax": "1-866-268-5696",
+                                "phone1": "604-685-6050"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Accurate Realtime Inc",
+                "numFollowers": 40,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "CART Providers",
+                        "Conference/Event Management",
+                        "Realtime Captioning",
+                        "Remote",
+                        "Speed Typist",
+                        "Live Captioning",
+                        "Event Coordination",
+                        "Meeting Planning",
+                        "Visual Communication",
+                        "Deaf and Hard of Hearing Services",
+                        "Court Reporting"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.accuraterealtime.com"
+            }
+        ]
+    }
+}

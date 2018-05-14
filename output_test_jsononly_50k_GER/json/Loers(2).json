@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7328040,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Aachen",
+                                "postalCode": "52070",
+                                "street1": "20 Carlasiedlung"
+                            },
+                            "contactInfo": {
+                                "phone1": "024193678144"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Loers HEIZUNG & SANIT\u00c4R",
+                "numFollowers": 0,
+                "websiteUrl": "loers-heizung.de"
+            }
+        ]
+    }
+}

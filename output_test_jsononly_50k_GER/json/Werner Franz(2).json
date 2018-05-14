@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12847753,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pfronten",
+                                "postalCode": "87459",
+                                "street1": "14 Gernweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 8363929650"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Franz Werner Kfz-Werkstatt",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.auto-werkstatt.de"
+            }
+        ]
+    }
+}

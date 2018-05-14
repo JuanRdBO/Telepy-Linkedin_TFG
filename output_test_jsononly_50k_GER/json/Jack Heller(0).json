@@ -1,0 +1,47 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 5483177,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "47",
+                            "name": "Contabilidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Buffalo Grove",
+                                "postalCode": "60089",
+                                "street1": "1015 Brentwood Cir 9a"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 8474597844"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Jack L Heller Co",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

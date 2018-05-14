@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 53,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 8658850,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dessau-Ro\u00dflau",
+                                "postalCode": "06844",
+                                "street1": "Poststr. 8"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 340518901"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Mitteldeutsche Zeitung",
+                "numFollowers": 40,
+                "websiteUrl": "http://www.mz-web.de"
+            }
+        ]
+    }
+}

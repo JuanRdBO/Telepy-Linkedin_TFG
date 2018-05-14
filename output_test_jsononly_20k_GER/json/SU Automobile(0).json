@@ -1,0 +1,123 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 224,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "H",
+                    "name": "5001-10000"
+                },
+                "id": 165062,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 7,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Detroit",
+                                "postalCode": "MI 48226",
+                                "street1": "One Detroit Center"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Pomezia (RM)",
+                                "postalCode": "00040",
+                                "street1": "Via Calvi,3"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Kew",
+                                "postalCode": "3101",
+                                "street1": "85 High Street South"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Madrid",
+                                "postalCode": "28041",
+                                "street1": "Calle San M\u00e1ximo 3"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Middleborough, Colchester",
+                                "postalCode": "CO1 1TG",
+                                "street1": "The Octagon"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Gothenburg",
+                                "postalCode": "412 50",
+                                "street1": "Drakegatan 7"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Southfield",
+                                "postalCode": "48076",
+                                "street1": "26555 Evergreen Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "MSX International",
+                "numFollowers": 107088,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Warranty Strategy",
+                        "Warranty Analysis",
+                        "Sales and Service Excellence Programs"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.msxi.com"
+            }
+        ]
+    }
+}

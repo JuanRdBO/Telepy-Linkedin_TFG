@@ -1,0 +1,103 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 722,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2015,
+                "id": 7586610,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mumbai",
+                                "postalCode": "400051",
+                                "street1": " Level 7, The Capital  B- Wing, Plot No. C-70, G Block"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "91 9989995429"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Mumbai",
+                                "postalCode": "400 028",
+                                "street1": "756/2, RN ROAD,"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "91 951 511 8862"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10989",
+                                "street1": "616 Corporate Way, Suite 2 #5102"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+1  646-568-7683"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "SME MaXX",
+                "numFollowers": 2277,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Employee Effectiveness",
+                        "Member Deals",
+                        "Success Connections",
+                        "Tech Navigator",
+                        "SME Awards",
+                        "Legal Helpdesk",
+                        "Training Needs Analysis",
+                        "Marketing Helpdesk",
+                        "Financial Helpdesk",
+                        "Technology Helpdesk",
+                        "ecommerce",
+                        "SME's",
+                        "Ecommerce Promoters"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.smemaxx.com/"
+            }
+        ]
+    }
+}

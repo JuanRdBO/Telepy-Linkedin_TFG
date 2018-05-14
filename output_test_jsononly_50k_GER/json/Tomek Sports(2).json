@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2012,
+                "id": 2644578,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "143",
+                            "name": "Art\u00edculos de lujo y joyas"
+                        }
+                    ]
+                },
+                "name": "SOWA LTD",
+                "numFollowers": 29,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "FASHION DESIGN",
+                        "LUXRY SPORTS GOODS"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.sowa.co"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7431943,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Remscheid",
+                                "postalCode": "42857",
+                                "street1": "19 Hammerstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0219174029"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Mabeco-werkzeuge Max Beckmann GmbH & Co.",
+                "numFollowers": 1,
+                "websiteUrl": "mabeco.de"
+            }
+        ]
+    }
+}

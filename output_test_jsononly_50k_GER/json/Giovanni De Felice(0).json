@@ -1,0 +1,55 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 1993,
+                "id": 11142056,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "37",
+                            "name": "Museos e instituciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Torre Orsaia",
+                                "postalCode": "84077",
+                                "street1": "Via G. B. Pagano 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Universit\u00e0 Popolare del Cilento",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Editoria",
+                        "Attivit\u00e0 socio-culturali"
+                    ]
+                }
+            }
+        ]
+    }
+}

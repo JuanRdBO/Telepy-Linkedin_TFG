@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2013,
+                "id": 3064382,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "127",
+                            "name": "Animaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Utrecht",
+                                "postalCode": "3512NL",
+                                "street1": "Zonnenburg 1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+31 (0)6 12 64 79 29"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Frame Order",
+                "numFollowers": 57,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Character Animation",
+                        "2D Animation",
+                        "3D Animation",
+                        "Storytelling",
+                        "Commercials",
+                        "Infographics"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.frameorder.nl"
+            }
+        ]
+    }
+}

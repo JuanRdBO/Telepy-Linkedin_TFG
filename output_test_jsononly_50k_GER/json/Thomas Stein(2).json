@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 21,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "id": 766292,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "postalCode": "61440"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fa. Thomas Stein",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.thomas-stein.com"
+            }
+        ]
+    }
+}

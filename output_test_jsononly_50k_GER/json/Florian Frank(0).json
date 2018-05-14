@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2009,
+                "id": 3059610,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "115",
+                            "name": "M\u00fasica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lausanne",
+                                "postalCode": "1004",
+                                "street1": "av du s\u00e9velin 28"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "AProd S\u00e0rl",
+                "numFollowers": 64,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Artist Booking",
+                        "Management",
+                        "Publishing",
+                        "Marketing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.aprod.ch"
+            }
+        ]
+    }
+}

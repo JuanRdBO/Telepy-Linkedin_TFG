@@ -1,0 +1,60 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 11480852,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "35",
+                            "name": "Pel\u00edculas y cine"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Liberec",
+                                "postalCode": "460 08",
+                                "street1": "Krymska 552"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Eklen Sounds",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Kontaktn\u00ed zvuk pro film",
+                        "Zvukov\u00e1 postprodukce",
+                        "Nahr\u00e1v\u00e1n\u00ed zvukov\u00fdch efekt\u016f",
+                        "V\u00fdroba ruch\u016f",
+                        "Zvukov\u00fd design",
+                        "Zvukov\u00fd mix",
+                        "ADR"
+                    ]
+                },
+                "websiteUrl": "https://www.eklen.cz/"
+            }
+        ]
+    }
+}

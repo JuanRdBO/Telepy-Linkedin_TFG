@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2363,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1864,
+                "id": 2730,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Chicago",
+                                "postalCode": "60601",
+                                "street1": "35 West Wacker Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "not available",
+                                "phone1": "1.312.326.8000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "RR Donnelley",
+                "numFollowers": 99054,
+                "specialties": {
+                    "_total": 16,
+                    "values": [
+                        "Digital Marketing",
+                        "Creative Services",
+                        "Advanced Analytics",
+                        "Business Process Outsourcing",
+                        "Content Management",
+                        "Direct Mail",
+                        "Commercial Print",
+                        "In-Store Marketing",
+                        "Packaging and Labels",
+                        "Printed Electronics",
+                        "Print Management",
+                        "Global Distribution",
+                        "Kitting and Fulfillment",
+                        "Marketing Communication",
+                        "Forms ",
+                        "Marketing communications"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.rrd.com"
+            }
+        ]
+    }
+}

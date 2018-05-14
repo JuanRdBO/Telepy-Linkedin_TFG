@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2005,
+                "id": 3350147,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "25",
+                            "name": "Art\u00edculos de consumo"
+                        }
+                    ]
+                },
+                "name": "ARNO Italia Srl",
+                "numFollowers": 60,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.arno.de"
+            }
+        ]
+    }
+}

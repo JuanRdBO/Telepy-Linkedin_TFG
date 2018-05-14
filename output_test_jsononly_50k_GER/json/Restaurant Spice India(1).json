@@ -1,0 +1,45 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 23,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 5700718,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "32",
+                            "name": "Restaurantes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wellington",
+                                "postalCode": "TF1 1PN",
+                                "street1": "8 Urban Gardens"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "SPICE OF INDIA RESTAURANT LIMITED",
+                "numFollowers": 13
+            }
+        ]
+    }
+}

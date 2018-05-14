@@ -1,0 +1,57 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1994,
+                "id": 18604389,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Los Angeles",
+                                "postalCode": "90038",
+                                "street1": "1149 N Gower St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "London/Stroud Casting",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Casting Films, TV, Digital Projects"
+                    ]
+                },
+                "websiteUrl": "http://londonstroudcasting.com/"
+            }
+        ]
+    }
+}

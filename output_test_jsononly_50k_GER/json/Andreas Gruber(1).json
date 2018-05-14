@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7454711,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wesel",
+                                "postalCode": "46483",
+                                "street1": "5 Dinslakener Landstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "028124011"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Andreas Gruber",
+                "numFollowers": 0,
+                "websiteUrl": "dr-gruber.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1997,
+                "id": 2740344,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "\u0130stanbul",
+                                "postalCode": "34736",
+                                "street1": "19 May\u0131s Mah. \u0130n\u00f6n\u00fc Cad. STFA Bloklar\u0131"
+                            },
+                            "contactInfo": {
+                                "fax": "2164091966",
+                                "phone1": "2122821195"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "PDR Conferences",
+                "numFollowers": 78,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Konferans",
+                        "Top Speakers",
+                        "Konu\u015fmac\u0131lar",
+                        "Guru"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.pdrconferences.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12401201,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Nierstein",
+                                "postalCode": "55283",
+                                "street1": "1a Am Langen Rech"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 1717148113"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Matthias Werner - Coaching & Training",
+                "numFollowers": 4,
+                "websiteUrl": "http://www.matthias-werner-mentaltraining.de"
+            }
+        ]
+    }
+}

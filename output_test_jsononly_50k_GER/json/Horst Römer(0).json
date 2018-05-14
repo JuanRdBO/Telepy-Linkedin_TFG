@@ -1,0 +1,95 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1995,
+                "id": 2456065,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": "51109",
+                                "street1": "Siegburger Str. 215"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (221) 36086 - 99",
+                                "phone1": "+49 (221) 36086 - 70"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Frankfurt a.M.",
+                                "postalCode": "60594",
+                                "street1": "Gerberm\u00fchlenstr. 7"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (69) 660 593 79-99",
+                                "phone1": "+49 (69) 660 593 79-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Wipperf\u00fcrth",
+                                "postalCode": "51688",
+                                "street1": "Wupperstr. 14"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (2267) 888 87-10",
+                                "phone1": "+49 (2267) 888 87-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "UHY Wahlen & Partner",
+                "numFollowers": 26,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Corporate Law",
+                        "Labour Law",
+                        "Accounting",
+                        "Consulting",
+                        "Legal Protection of Commercial and Intellectual Property",
+                        "IT Law",
+                        "Data Protection"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.uhy-wahlen.de"
+            }
+        ]
+    }
+}

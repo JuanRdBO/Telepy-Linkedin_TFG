@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 21,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7530566,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad Krozingen",
+                                "postalCode": "79189",
+                                "street1": "S\u00fcdring 30A"
+                            },
+                            "contactInfo": {
+                                "phone1": "07633150955"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Matthias M\u00fcller Immobilien",
+                "numFollowers": 3,
+                "websiteUrl": "mm-immob.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 4312644,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Barnegat Light",
+                                "postalCode": "08006-0862",
+                                "street1": "P.O. Box 862"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Lbi Flower Gardens",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.hochslandscaping.com/about-us/"
+            }
+        ]
+    }
+}

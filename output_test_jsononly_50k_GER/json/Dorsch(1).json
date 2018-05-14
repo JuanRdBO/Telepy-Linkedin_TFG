@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 58,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1987,
+                "id": 3676363,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Abu Dhabi",
+                                "postalCode": "",
+                                "street1": "Salam Street"
+                            },
+                            "contactInfo": {
+                                "fax": "+971 26 72 08 09",
+                                "phone1": "+971 26 72 19 23"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dorsch Holding GmbH - Abu Dhabi",
+                "numFollowers": 12569,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Construction Engineering & Supervision",
+                        "Water Supply",
+                        "Landscaping",
+                        "Architecture",
+                        "Transport & Highways",
+                        "Water and Enviroment",
+                        "Urban Development",
+                        "Industrial Engineering",
+                        "Ports & Marine",
+                        "Project Management",
+                        "Operation & Maintenance",
+                        "Oil & Gas",
+                        "Infrastructure",
+                        "Airports"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.dorsch.ae"
+            }
+        ]
+    }
+}

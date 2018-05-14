@@ -1,0 +1,127 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 68,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2000,
+                "id": 51023,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "81669",
+                                "street1": "Franziskanerstr. 14"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 89 444699 99",
+                                "phone1": "+49 89 444699 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "1010 Wien",
+                                "postalCode": "",
+                                "street1": "Gonzagagasse 19/3"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+43 (1) 361 99 79-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "6300 Zug",
+                                "postalCode": "",
+                                "street1": "Baarerstrasse 125"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+41 44 720 3737"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "EC4M 5SB",
+                                "street1": "33 Cannon Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+44 207 183 8285"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "75004 Paris",
+                                "postalCode": "",
+                                "street1": "46 Rue Saint Antoine"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+33 (0)1 76 48 42 96"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Brainloop",
+                "numFollowers": 1469,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "board portal",
+                        "Information rights management (IRM)",
+                        "information security",
+                        "document compliance management",
+                        "File Sync & Share",
+                        "IP protection",
+                        "due diligence",
+                        "secure online work space",
+                        "virtual data room",
+                        "document-centric security",
+                        "secure collaboration"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "www.twitter.com/brainloop",
+                "websiteUrl": "www.brainloop.com"
+            }
+        ]
+    }
+}

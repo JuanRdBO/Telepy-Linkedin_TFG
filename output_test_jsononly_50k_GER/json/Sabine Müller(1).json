@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 15,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7505380,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Melsungen",
+                                "postalCode": "34212",
+                                "street1": "10 Gr\u00fcne Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "056619290040"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sabine M\u00fcller-Peter Ingenieurb\u00fcro",
+                "numFollowers": 1,
+                "websiteUrl": "ingmp.de"
+            }
+        ]
+    }
+}

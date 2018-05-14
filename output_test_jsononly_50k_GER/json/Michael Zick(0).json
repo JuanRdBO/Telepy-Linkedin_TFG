@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1988,
+                "id": 18126350,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "57",
+                            "name": "Petr\u00f3leo y energ\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Trondheim",
+                                "postalCode": "7053",
+                                "street1": "7, Skonnertvegen,  Ranheim"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Pera",
+                "numFollowers": 19,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "EOS fluid characterization",
+                        " PVT sampling and laboratory programs",
+                        "Solving reservoir engineering problems for compositionally-sensitive processes",
+                        "Converting black-oil and EOS-based production wellstreams into detailed process wellstreams"
+                    ]
+                },
+                "websiteUrl": "http://pera.no/"
+            }
+        ]
+    }
+}

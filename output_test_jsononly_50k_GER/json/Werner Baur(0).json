@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1999,
+                "id": 2645866,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "81829",
+                                "street1": "Werner-Eckert-Str. 6"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 (0) 89/55 29 08 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "AGNITAS AG",
+                "numFollowers": 67,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "E-Mail Marketing",
+                        "Marketing Automation",
+                        "Software Entwicklung",
+                        "Lead Management",
+                        "Content Marketing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.agnitas.de"
+            }
+        ]
+    }
+}

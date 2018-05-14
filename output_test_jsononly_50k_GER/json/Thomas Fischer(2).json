@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 34,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7430969,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gefrees",
+                                "postalCode": "95482",
+                                "street1": "13 Cremitzer Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "092549616383"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Fischer Elektrotechnik",
+                "numFollowers": 1,
+                "websiteUrl": "tfe-gefrees.de"
+            }
+        ]
+    }
+}

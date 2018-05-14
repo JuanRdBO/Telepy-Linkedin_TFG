@@ -1,0 +1,61 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2015,
+                "id": 11386724,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "18",
+                            "name": "Cosm\u00e9tica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bronx",
+                                "postalCode": "10452",
+                                "street1": "1275 Edward L Grant Hwy"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Emiliv Professional",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Cosmetics",
+                        "Botoxhair",
+                        "Keratin Treatment",
+                        "Hairdress",
+                        "Hair Salon"
+                    ]
+                },
+                "websiteUrl": "http://www.emiliv.com"
+            }
+        ]
+    }
+}

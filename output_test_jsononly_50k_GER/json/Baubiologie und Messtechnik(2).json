@@ -1,0 +1,90 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2005,
+                "id": 2978175,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "86",
+                            "name": "Servicios medioambientales"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kassel",
+                                "postalCode": "34131",
+                                "street1": "Ludwig-Erhard-Stra\u00dfe 12"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0561-92039530"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Sontra",
+                                "postalCode": "36205",
+                                "street1": "Hinter der Mauer 11"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "05653-914921"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "biovision Umwelt- und Geb\u00e4udeanalytik GmbH",
+                "numFollowers": 19,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Schimmelpilzanalyse",
+                        "Schadstoffuntersuchungen",
+                        "Umweltlabor",
+                        "Bauberatung kdR",
+                        "Baubiologie",
+                        "Abfalldeklaration",
+                        "Trinkwasseranalyse",
+                        "Informationsdienste",
+                        "Geruchs-Untersuchungen",
+                        "Wohngesundheit",
+                        "baubiologische Messtechnik",
+                        "Innenraumanalytik",
+                        "Umweltberatung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.biovision-analytik.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2014,
+                "id": 2105642,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ludwigsburg",
+                                "postalCode": "71638",
+                                "street1": "J\u00e4gerhofpalais"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49-(0)7141-68896-57"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Baumann & Baltner GmbH & Co KG",
+                "numFollowers": 19,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Beratung",
+                        "Strategie",
+                        "Social Media",
+                        "Content",
+                        "Akademie",
+                        "Workshops"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.baumann-baltner.de"
+            }
+        ]
+    }
+}

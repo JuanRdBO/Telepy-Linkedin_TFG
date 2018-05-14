@@ -1,0 +1,49 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2011,
+                "id": 8706842,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "81929",
+                                "street1": "Wildrosenweg 36"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Handelsagentur Heil",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.handelsagentur-heil.de"
+            }
+        ]
+    }
+}

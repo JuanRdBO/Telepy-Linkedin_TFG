@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 24886940,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sao Paulo",
+                                "postalCode": "04071-010",
+                                "street1": "Avenida Bandeirantes, 4563"
+                            },
+                            "contactInfo": {
+                                "phone1": "+55 1133136000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Ahmad Mohamad El Masri",
+                "numFollowers": 0,
+                "websiteUrl": "esquadriascasanova.com.br"
+            }
+        ]
+    }
+}

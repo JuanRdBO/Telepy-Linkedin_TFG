@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "id": 18137687,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Butzbach",
+                                "postalCode": "35510",
+                                "street1": "Otto-Hahn-Str. 5"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "RMG Messtechnik GmbH",
+                "numFollowers": 96,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Gasmessstechnik",
+                        "Gasanalyse",
+                        "Energiedatenmanagement",
+                        "Flowcomputer"
+                    ]
+                },
+                "websiteUrl": "www.rmg.com"
+            }
+        ]
+    }
+}

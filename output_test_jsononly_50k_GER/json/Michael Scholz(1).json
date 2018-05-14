@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12880512,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Potsdam",
+                                "postalCode": "14482",
+                                "street1": "11 Wichgrafstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 33164730909"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Michael Scholz Architekt",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.michaelscholz.de"
+            }
+        ]
+    }
+}

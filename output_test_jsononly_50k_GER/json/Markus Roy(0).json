@@ -1,0 +1,76 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1989,
+                "id": 960924,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dublin",
+                                "postalCode": "43017",
+                                "street1": "4975 Bradenton Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "614-766-2599",
+                                "phone1": "614-766-0773"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "New Albany",
+                                "postalCode": "43054",
+                                "street1": "7277 Smith's Mill Rd."
+                            },
+                            "contactInfo": {
+                                "fax": "614-775-6178",
+                                "phone1": "614-775-6177"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Ohio Sleep Medicine Institute",
+                "numFollowers": 93,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Comprehensive sleep disorders center"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "OSMI_zzzMD",
+                "websiteUrl": "www.sleepmedicine.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12870591,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "142",
+                            "name": "Vino y licor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gau-Bickelheim",
+                                "postalCode": "55599",
+                                "street1": "29 Bahnhofstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6701581"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Weingut Thomas Haas",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.weingut-thomas-haas.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12436854,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hannover",
+                                "postalCode": "30161",
+                                "street1": "85 B\u00f6dekerstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 5118387722"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Sven Becker",
+                "numFollowers": 4,
+                "websiteUrl": "http://www.inneremedizin-hannover.de"
+            }
+        ]
+    }
+}

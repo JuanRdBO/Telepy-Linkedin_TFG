@@ -1,0 +1,46 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 427082,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "143",
+                            "name": "Art\u00edculos de lujo y joyas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "postalCode": "74072"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Jan Hofmann",
+                "numFollowers": 6,
+                "websiteUrl": "http://www.janhofmann.de"
+            }
+        ]
+    }
+}

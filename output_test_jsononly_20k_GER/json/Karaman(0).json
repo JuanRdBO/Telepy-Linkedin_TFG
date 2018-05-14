@@ -1,0 +1,32 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 80,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 23124330,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Antwerpen",
+                                "postalCode": "2060",
+                                "street1": "24 Van Kerckhovenstraat"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Karaman",
+                "numFollowers": 7
+            }
+        ]
+    }
+}

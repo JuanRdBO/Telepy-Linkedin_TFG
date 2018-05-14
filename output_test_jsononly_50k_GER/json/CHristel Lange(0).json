@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2015,
+                "id": 9478427,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "name": "Christel's Wellness",
+                "numFollowers": 1,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://christelwolfs.zealforlife.com/?culture=en-NL"
+            }
+        ]
+    }
+}

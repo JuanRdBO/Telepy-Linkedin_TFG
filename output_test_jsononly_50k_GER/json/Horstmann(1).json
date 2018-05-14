@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 125,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 2349361,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Viborg",
+                                "postalCode": "8800 Viborg",
+                                "street1": "Sct. Mathias Gade 23"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+45 87 27 47 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Horstmann advokater advokatpartnerselskab",
+                "numFollowers": 130,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "horstmann.dk"
+            }
+        ]
+    }
+}

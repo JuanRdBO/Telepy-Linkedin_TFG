@@ -1,0 +1,54 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1993,
+                "id": 398159,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "126",
+                            "name": "Producci\u00f3n multimedia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20459",
+                                "street1": "Vorsetzen 53"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "BLMFILM GMBH",
+                "numFollowers": 53,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.blm.film"
+            }
+        ]
+    }
+}

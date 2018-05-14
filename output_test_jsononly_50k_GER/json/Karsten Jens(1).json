@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 23392665,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "10",
+                            "name": "Servicios jur\u00eddicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bruxelles",
+                                "postalCode": "1000",
+                                "street1": "1 Avenue de la Renaissance"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "JENS KARSTEN BXL-LAW",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

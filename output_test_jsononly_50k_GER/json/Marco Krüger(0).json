@@ -1,0 +1,57 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1990,
+                "id": 2516029,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "86",
+                            "name": "Servicios medioambientales"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Brampton",
+                                "postalCode": "L6T 4W1",
+                                "street1": "3-1995 Clark Blvd."
+                            },
+                            "contactInfo": {
+                                "fax": "905-458-2052",
+                                "phone1": "905-458-0087"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "PPEC (Paper & Paperboard Packaging Environmental Council)",
+                "numFollowers": 143,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ppec-paper.com"
+            }
+        ]
+    }
+}

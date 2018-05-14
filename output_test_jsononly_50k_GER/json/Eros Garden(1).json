@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1947,
+                "id": 555663,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "postalCode": "110019"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Eros Group",
+                "numFollowers": 4908,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Real Estate Development & Hotel Developer"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "www.eros-group.com"
+            }
+        ]
+    }
+}

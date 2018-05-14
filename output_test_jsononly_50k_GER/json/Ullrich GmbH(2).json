@@ -1,0 +1,34 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 33,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7395211,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Miltenberg",
+                                "postalCode": "63897",
+                                "street1": "4 Odenwaldstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0937197800"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Alois Ullrich GmbH",
+                "numFollowers": 1
+            }
+        ]
+    }
+}

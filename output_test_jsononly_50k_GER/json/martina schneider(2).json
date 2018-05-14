@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7449839,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "L\u00fcbeck",
+                                "postalCode": "23552",
+                                "street1": "2 Beckergrube"
+                            },
+                            "contactInfo": {
+                                "phone1": "04518834808"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schneider-Rutter Martina",
+                "numFollowers": 0,
+                "websiteUrl": "ergo-und-gestaltungstherapie.de"
+            }
+        ]
+    }
+}

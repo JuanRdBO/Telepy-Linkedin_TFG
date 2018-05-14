@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2008,
+                "id": 9414864,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "119",
+                            "name": "Tecnolog\u00eda inal\u00e1mbrica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Itzehoe",
+                                "postalCode": "25524",
+                                "street1": "Fraunhoferstr. 3"
+                            },
+                            "contactInfo": {
+                                "fax": "+4948214034555",
+                                "phone1": "+494821403453"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "25524",
+                                "postalCode": "Itzehoe",
+                                "street1": "Zusestr. 2"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+4948214034550"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Antenna Technology Center (Europe) ATC GmbH",
+                "numFollowers": 59,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Spherical Near-Field Measurement",
+                        "Far-Field Measurement",
+                        "Antenna Performance Improvement",
+                        "Customer specific processing and data preparation",
+                        "Optimized and conceptional analysis and reporting"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.antenna-tc.com"
+            }
+        ]
+    }
+}

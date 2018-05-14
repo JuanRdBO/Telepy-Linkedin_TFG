@@ -1,0 +1,99 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1982,
+                "id": 989807,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "88",
+                            "name": "Servicios para el individuo y la familia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Miami",
+                                "postalCode": "33101",
+                                "street1": "PO Box 014340"
+                            },
+                            "contactInfo": {
+                                "fax": "305-571-9602",
+                                "phone1": "305-571-9601"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Miami Shores",
+                                "postalCode": "33138",
+                                "street1": "9526 NE 2 Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Miami Beach",
+                                "postalCode": "33140",
+                                "street1": "801 Arthur Godfrey Rd."
+                            },
+                            "contactInfo": {
+                                "fax": "305-571-9602",
+                                "phone1": "305-571-9601"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Pridelines",
+                "numFollowers": 90,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Youth and Family",
+                        "Health and Wellness",
+                        "Adult Services",
+                        "Advocacy",
+                        "David Bohnett Cybercenter",
+                        "Drop-In Center Services",
+                        "Services for LGBTQ Homeless Youth",
+                        "Social Engagement Opportunities",
+                        "Volunteer and Community Services"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.pridelines.org"
+            }
+        ]
+    }
+}

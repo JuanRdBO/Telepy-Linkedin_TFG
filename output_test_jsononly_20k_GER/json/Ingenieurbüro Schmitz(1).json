@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12293854,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Landesbergen",
+                                "postalCode": "31628",
+                                "street1": "3 Unter Den Weiden"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 50259709366"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ingenieurb\u00fcro Antje Schmitz",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.ingbuero-as.de"
+            }
+        ]
+    }
+}

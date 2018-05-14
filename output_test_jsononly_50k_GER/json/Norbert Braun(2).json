@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12838332,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Langerwehe",
+                                "postalCode": "52379",
+                                "street1": "Hirkenweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 24232162"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sportsch\u00fctzen 1954 Langerwehe E.V.",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.sportschuetzen-langerwehe.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 325,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2001,
+                "id": 2890553,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "92",
+                            "name": "Transporte por carretera o ferrocarril"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Council Bluffs",
+                                "postalCode": "51503",
+                                "street1": "25 Main Place"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "877-341-9611"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kirsch Transportation Services, Inc.",
+                "numFollowers": 186,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Project Management",
+                        "Solutions",
+                        "Scrutenized Safety Standard",
+                        "Cargo and Freight",
+                        "Continued Customer Service",
+                        "Logistics"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.kirschtrans.com"
+            }
+        ]
+    }
+}

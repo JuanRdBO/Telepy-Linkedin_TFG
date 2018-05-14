@@ -1,0 +1,87 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 10276477,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gernsbach",
+                                "postalCode": "76593",
+                                "street1": "Hans-Thoma-Str. 4"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10437",
+                                "street1": "Sch\u00f6nhauser Allee 122A"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": "50672",
+                                "street1": "Brabanter Str. 53"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Audisto GmbH",
+                "numFollowers": 19,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Technical Audits",
+                        "Technical SEO",
+                        "Crawling",
+                        "Data Enhancement",
+                        "Advanced Technical Health Monitoring",
+                        "Technical Consulting",
+                        "Digital Analytics"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://audisto.com/"
+            }
+        ]
+    }
+}

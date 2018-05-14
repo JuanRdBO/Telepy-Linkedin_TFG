@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 6477943,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "143",
+                            "name": "Art\u00edculos de lujo y joyas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Beverly Hills",
+                                "postalCode": "90210",
+                                "street1": "9540 Brighton Way"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 3102767200"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Martin KATZ LTD",
+                "numFollowers": 53,
+                "websiteUrl": "http://www.martinkatz.com"
+            }
+        ]
+    }
+}

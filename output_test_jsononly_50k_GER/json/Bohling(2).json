@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 19,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12703421,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Osterholz-Scharmbeck",
+                                "postalCode": "27711",
+                                "street1": "9 Am Binnenfeld"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 479192060"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bohling GmbH & Co. KG",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.bohling.de"
+            }
+        ]
+    }
+}

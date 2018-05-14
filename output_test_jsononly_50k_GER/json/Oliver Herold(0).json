@@ -1,0 +1,43 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 8125337,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "19",
+                            "name": "Industria textil y moda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10003-8536",
+                                "street1": "225 E 5th St APT 4a"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Oliver Christian Herold Inc",
+                "numFollowers": 4
+            }
+        ]
+    }
+}

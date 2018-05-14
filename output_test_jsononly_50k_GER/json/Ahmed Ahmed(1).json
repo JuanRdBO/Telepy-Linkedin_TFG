@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2364,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2016,
+                "id": 10927136,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Karachi",
+                                "postalCode": "",
+                                "street1": "48-C Bukhari Commercial Area DHA Phase 6"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "021-35245794-5"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ahmed & Ahmed (Advocates & Corporate Counsellors)",
+                "numFollowers": 12,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Intellectual Property Law (Copyright, Trademark, Design and Patent)",
+                        "Maritime and Shipping Law",
+                        "Alternate Dispute Resolution [Negotiation and Mediation]",
+                        "Banking Law",
+                        "Company Law",
+                        "Clinical negligence and Personal injury",
+                        "Law of Inheritance"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ahmedlaw.com.pk"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12557962,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Biesenthal",
+                                "postalCode": "16359",
+                                "street1": "Lanker Stra\u00dfe 15A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 1793949862"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Harry Kintzel",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.autoverwertung-biesenthal.de"
+            }
+        ]
+    }
+}

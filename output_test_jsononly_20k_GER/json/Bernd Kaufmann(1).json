@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1995,
+                "id": 909603,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "115",
+                            "name": "M\u00fasica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wien",
+                                "postalCode": "1090",
+                                "street1": "S\u00e4ulengasse 12"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "flotainment postproduction",
+                "numFollowers": 41,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Live recording & Mixing",
+                        "Studio recording & Mixing",
+                        "Audio Editing",
+                        "Synchronisation & Sound Design",
+                        "Video production",
+                        "Musikver\u00f6ffentlichung",
+                        "Buchver\u00f6ffentlichung",
+                        "TV Mischung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.flotainmentpostproduction.com"
+            }
+        ]
+    }
+}

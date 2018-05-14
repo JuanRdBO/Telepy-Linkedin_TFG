@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 25608002,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "PARIS",
+                                "postalCode": "75015",
+                                "street1": "15 RUE EUGENE GIBEZ"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "HELIOTROP FINANCE",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1991,
+                "id": 2733905,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "99",
+                            "name": "Dise\u00f1o"
+                        }
+                    ]
+                },
+                "name": "FreudenHaus USA",
+                "numFollowers": 99,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "fhone.com"
+            }
+        ]
+    }
+}

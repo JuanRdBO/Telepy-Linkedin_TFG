@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1884,
+                "id": 1656891,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "92",
+                            "name": "Transporte por carretera o ferrocarril"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hvidovre",
+                                "postalCode": "2650",
+                                "street1": "Kanalholmen 31-33"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ADAM Transport Aps",
+                "numFollowers": 98,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Flytning",
+                        "Virksomhedsflytning",
+                        "Privatflytning ",
+                        "Transport"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.adam.dk"
+            }
+        ]
+    }
+}

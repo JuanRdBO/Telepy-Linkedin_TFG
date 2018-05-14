@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 84,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2002,
+                "id": 2618984,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "98",
+                            "name": "Relaciones p\u00fablicas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Austin",
+                                "postalCode": "78702",
+                                "street1": "2607 Francisco Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Massing PR, LLC",
+                "numFollowers": 17,
+                "specialties": {
+                    "_total": 18,
+                    "values": [
+                        "Brand Awareness",
+                        "Positioning",
+                        "Relations",
+                        "Strategy",
+                        "Analysis",
+                        "Research",
+                        "Leadership",
+                        "Financial Technology",
+                        "B2B Technology",
+                        "Social Media",
+                        "Partner Programs",
+                        "Marketing Training",
+                        "Business Strategy",
+                        "Negotiation",
+                        "Marketing Plans",
+                        "Design",
+                        "Media Training",
+                        "Product Marketing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.massingpr.com/"
+            }
+        ]
+    }
+}

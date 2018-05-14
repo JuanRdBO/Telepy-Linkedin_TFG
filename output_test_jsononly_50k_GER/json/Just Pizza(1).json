@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 708,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 8160126,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Glenside",
+                                "postalCode": "19038-7702",
+                                "street1": "914 Bethlehem Pike"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 2158367277"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Not Just Pizza",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.notjustpizza.net/"
+            }
+        ]
+    }
+}

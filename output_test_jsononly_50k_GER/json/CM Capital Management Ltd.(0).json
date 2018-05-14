@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 45,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2008,
+                "id": 3749258,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Diamond Bar",
+                                "postalCode": "91765",
+                                "street1": "21660 Copley Drive,"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "909.860.1586"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "CM Partners Group",
+                "numFollowers": 97,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Construction Management",
+                        "Move Management",
+                        "Capital Improvement Management",
+                        "Consulting",
+                        "Pre-Leasing Services"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.cmpartnersgroup.com"
+            }
+        ]
+    }
+}

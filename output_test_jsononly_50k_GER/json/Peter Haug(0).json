@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 23467410,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "16",
+                            "name": "Veterinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "BOD\u00d8",
+                                "postalCode": "8009",
+                                "street1": "Leitetunet 7"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "VAKTMESTERTJENESTEN BOD\u00d8 FRANK PETER HAUG",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2012,
+                "id": 7370222,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40213",
+                                "street1": "10 Rathausufer"
+                            },
+                            "contactInfo": {
+                                "phone1": "021121073740"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "KFM Deutsche Mittelstand AG",
+                "numFollowers": 13,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Wertpapierexpertise",
+                        "Kreditexpertise",
+                        "Unternehmensanalyseexpertise",
+                        "Mittelstandsfinanzierung",
+                        "Anlagealternative",
+                        "mehr als 4 % Rendite j\u00e4hrlich ",
+                        "einzigartige Transparenz",
+                        "KFM-Scoring",
+                        "KFM-Barometer",
+                        "KFM-Telegramm"
+                    ]
+                },
+                "websiteUrl": "http://www.dma-fonds.de"
+            }
+        ]
+    }
+}

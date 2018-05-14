@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1986,
+                "id": 1685996,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "92",
+                            "name": "Transporte por carretera o ferrocarril"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dortmund",
+                                "postalCode": "44149",
+                                "street1": "Walter-Welp-Stra\u00dfe 27"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ICA Traffic GmbH",
+                "numFollowers": 88,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "TVM",
+                        "for public transport and railway companies",
+                        "equipments for car parks",
+                        "for operators of car parks"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ica-traffic.de"
+            }
+        ]
+    }
+}

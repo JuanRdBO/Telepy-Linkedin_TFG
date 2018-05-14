@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7540255,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Eckernf\u00f6rde",
+                                "postalCode": "24340",
+                                "street1": "31 Wulfsteert"
+                            },
+                            "contactInfo": {
+                                "phone1": "0435145141"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fahrschule Peter Ullmann",
+                "numFollowers": 0,
+                "websiteUrl": "fahrschule-peter-ullmann.de"
+            }
+        ]
+    }
+}

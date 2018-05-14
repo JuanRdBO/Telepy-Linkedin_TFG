@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1998,
+                "id": 2419016,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "132",
+                            "name": "E-learning"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Marietta",
+                                "postalCode": "30068",
+                                "street1": "PO Box 681733"
+                            },
+                            "contactInfo": {
+                                "fax": "770-971-1094",
+                                "phone1": "770-432-6586"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Foodservice University",
+                "numFollowers": 99,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "eLearning development",
+                        "Sales and Marketing Productivity Consulting",
+                        "Social media applications for foodservice",
+                        "Synchronized and synchronized training events"
+                    ]
+                },
+                "status": {
+                    "code": "OPS",
+                    "name": "Operating Subsidiary"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.foodserviceu.com/"
+            }
+        ]
+    }
+}

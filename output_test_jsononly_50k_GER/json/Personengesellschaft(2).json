@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 19,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1996,
+                "id": 9317671,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "135",
+                            "name": "Ingenier\u00eda industrial o mec\u00e1nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kiel",
+                                "postalCode": "",
+                                "street1": "Projensdorfer Stra\u00dfe 324"
+                            },
+                            "contactInfo": {
+                                "fax": "0431/337823",
+                                "phone1": "0431/337949"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ralf Eggers CNC Dreh- und Fr\u00e4stechnik GmbH & Co. KG",
+                "numFollowers": 19,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Spare parts of wafer baking machinery",
+                        "Welded constructions up to 7000 mm x 4000mm x 1500 mmm",
+                        "Programming machines by CAD/CAM-system",
+                        "five-spindled-processing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ralfeggers.com"
+            }
+        ]
+    }
+}

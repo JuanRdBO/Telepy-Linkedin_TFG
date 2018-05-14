@@ -1,0 +1,47 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2011,
+                "id": 5059885,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "115",
+                            "name": "M\u00fasica"
+                        }
+                    ]
+                },
+                "name": "Sabine and Company",
+                "numFollowers": 4,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "music"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.sabinesplace.net"
+            }
+        ]
+    }
+}

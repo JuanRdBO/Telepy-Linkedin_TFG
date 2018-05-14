@@ -1,0 +1,54 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2006,
+                "id": 28587626,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Napoli",
+                                "postalCode": "80126",
+                                "street1": "Napoli "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Marco Di Falco ",
+                "numFollowers": 0,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Personal Branding ",
+                        "Digital Marketing "
+                    ]
+                },
+                "websiteUrl": "http://www.marcodifalco.it/"
+            }
+        ]
+    }
+}

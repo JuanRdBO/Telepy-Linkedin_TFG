@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7381834,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Marburg",
+                                "postalCode": "35037",
+                                "street1": "31 Schwanallee"
+                            },
+                            "contactInfo": {
+                                "phone1": "0642125240"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Stephan Niderehe & Sohn GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "derschwanhof.de"
+            }
+        ]
+    }
+}

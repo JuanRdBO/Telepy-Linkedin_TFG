@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 86,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 8545770,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Alsfeld",
+                                "postalCode": "36304",
+                                "street1": "Obergasse 40"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 66319191"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Reiseb\u00fcro Holiday Land GmbH",
+                "numFollowers": 4,
+                "websiteUrl": "http://www.holidayland-alsfeld.de"
+            }
+        ]
+    }
+}

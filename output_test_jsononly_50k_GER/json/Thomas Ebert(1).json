@@ -1,0 +1,53 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2006,
+                "id": 2250817,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "98",
+                            "name": "Relaciones p\u00fablicas"
+                        }
+                    ]
+                },
+                "name": "PR Inc",
+                "numFollowers": 77,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Public Relations Counsel",
+                        "Campaign Creation",
+                        "Copywriting",
+                        "Crisis Management",
+                        "Electronic & Social Media",
+                        "Marketing Collateral",
+                        "Logo Branding"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "PRPromotion",
+                "websiteUrl": "www.pr-incorporated.com"
+            }
+        ]
+    }
+}

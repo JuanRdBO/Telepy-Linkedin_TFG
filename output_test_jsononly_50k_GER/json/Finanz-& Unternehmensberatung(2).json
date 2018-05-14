@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 59,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7536765,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Chemnitz",
+                                "postalCode": "09111",
+                                "street1": "12 Stra\u00dfe Der Nationen"
+                            },
+                            "contactInfo": {
+                                "phone1": "01705436168"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Finanz- Und Unternehmensberatung",
+                "numFollowers": 1,
+                "websiteUrl": "wernerscholz.org"
+            }
+        ]
+    }
+}

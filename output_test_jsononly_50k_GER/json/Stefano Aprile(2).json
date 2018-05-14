@@ -1,0 +1,83 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2008,
+                "id": 2925327,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "41",
+                            "name": "Actividades bancarias"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Firenze",
+                                "postalCode": "50132",
+                                "street1": "Viale Gramsci 34"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "055 2480811"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Banca Cambiano 1884 S.p.A.",
+                "numFollowers": 666,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.bancacambiano.it"
+            }
+        ]
+    }
+}

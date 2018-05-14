@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 22374198,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Herstal",
+                                "postalCode": "4041",
+                                "street1": "53 Rue des Fraisiers"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Miron Toth, Peter",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

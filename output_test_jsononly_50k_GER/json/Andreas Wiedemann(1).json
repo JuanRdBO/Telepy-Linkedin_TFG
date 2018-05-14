@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12865293,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wackersberg",
+                                "postalCode": "83646",
+                                "street1": "6 Klammergasse"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 80412948"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Andreas Wiedemann Jun.",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.a-wiedemann.de"
+            }
+        ]
+    }
+}

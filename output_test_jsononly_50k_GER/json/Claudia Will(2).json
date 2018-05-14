@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3296,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1970,
+                "id": 333310,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "19",
+                            "name": "Industria textil y moda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "DIEMEN",
+                                "postalCode": "1112 VA",
+                                "street1": "Stammerhove 1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0031-20-5698500"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Claudia Str\u00e4ter",
+                "numFollowers": 1453,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Dameskleding",
+                        "Dutch design",
+                        "Zakelijke kleding",
+                        "Kwaliteit & vakmanschap"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.claudiastrater.com"
+            }
+        ]
+    }
+}

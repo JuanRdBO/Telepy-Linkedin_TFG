@@ -1,0 +1,52 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2005,
+                "id": 685377,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "104",
+                            "name": "Dotaci\u00f3n y selecci\u00f3n de personal"
+                        }
+                    ]
+                },
+                "name": "Sollers group recruitment",
+                "numFollowers": 226,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "IT Recruitment",
+                        "Information Technology Services",
+                        "Business Consulting",
+                        "Executive search",
+                        "IT HR",
+                        "Technical recruitment"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://sollers-hr.com"
+            }
+        ]
+    }
+}

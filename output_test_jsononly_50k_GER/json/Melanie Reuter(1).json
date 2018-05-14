@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 23984080,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "88",
+                            "name": "Servicios para el individuo y la familia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "B\u00fcllingen",
+                                "postalCode": "4760",
+                                "street1": "19 M\u00fcrringen,An den Weiden"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Reuter, Melanie",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

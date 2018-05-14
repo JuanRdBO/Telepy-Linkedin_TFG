@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1989,
+                "id": 3308838,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Cologne",
+                                "postalCode": "50672",
+                                "street1": "Spichernstr. 55"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 221 57993 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "EHI Retail Institute",
+                "numFollowers": 656,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Payment Systems",
+                        "Security Systems",
+                        "Information Technology",
+                        "Retail Design",
+                        "E-Commerce",
+                        "Retail Communications",
+                        "Logistics",
+                        "Packaging",
+                        "Retail Structures",
+                        "Real Estate",
+                        "Energy Management"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ehi.org"
+            }
+        ]
+    }
+}

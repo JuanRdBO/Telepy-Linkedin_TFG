@@ -1,0 +1,124 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2044,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1922,
+                "id": 137770,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "112",
+                            "name": "Manufactura el\u00e9ctrica y electr\u00f3nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Graz",
+                                "postalCode": "A-8054",
+                                "street1": "Anton-Paar-Stra\u00dfe 20"
+                            },
+                            "contactInfo": {
+                                "fax": "+43 (0) 316 257 257",
+                                "phone1": "+43 (0) 316 257"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Ashland",
+                                "postalCode": "23005",
+                                "street1": "10215 Timber Ridge Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "1-804-550-1057",
+                                "phone1": "1-804-550-1051"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Courtaboeuf Cedex",
+                                "postalCode": "91959",
+                                "street1": "12, avenue de Scandinavie"
+                            },
+                            "contactInfo": {
+                                "fax": "01 69 07 06 11",
+                                "phone1": "01 69 18 11 88"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Ostfildern",
+                                "postalCode": "D-73760",
+                                "street1": "Hellmuth-Hirth-Str. 6"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0) 711 720 91- 630",
+                                "phone1": "+49 (0) 711 720 91- 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "St Albans",
+                                "postalCode": "AL4 0LA",
+                                "street1": "Unit F"
+                            },
+                            "contactInfo": {
+                                "fax": "+44 (0) 1992 514 739",
+                                "phone1": "+44 (0) 1992 514 730"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Anton Paar",
+                "numFollowers": 6947,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Density and concentration measurement",
+                        "Material characterization",
+                        "Rheometry and tribometry",
+                        "Refractometry und polarimetry",
+                        "Viscometry",
+                        "Test equipment petroleum properties",
+                        "Analytical and synthetic chemistry",
+                        "Metal processing and electronic assemblies"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.anton-paar.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 15094020,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "68",
+                            "name": "Ense\u00f1anza superior"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Vechta",
+                                "postalCode": "D - 49377",
+                                "street1": "Driverstra\u00dfe 22"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Universit\u00e4t Vechta",
+                "numFollowers": 596,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "http://www.uni-vechta.de/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2014,
+                "id": 10529555,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "name": "Lisa Liebefels GmbH",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Exklusive Schlaf- und Wohntextilien",
+                        "sch\u00f6ne hochwertige und luxuri\u00f6se Bettw\u00e4sche",
+                        "flauschige Frottierw\u00e4sche",
+                        "\u00f6kologische Daunen Duvets- und Kissen",
+                        "edle Zierkissen und Plaids",
+                        "zarte Nachtw\u00e4sche"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.lisa-liebefels.ch"
+            }
+        ]
+    }
+}

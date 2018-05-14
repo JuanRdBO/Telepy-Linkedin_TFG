@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12529328,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Friedrichshafen",
+                                "postalCode": "88048",
+                                "street1": "15 Bahnhofstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7544959"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Das Automatik-Getriebe-Center Jens Winkler",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.automatik-getriebe-center.de"
+            }
+        ]
+    }
+}

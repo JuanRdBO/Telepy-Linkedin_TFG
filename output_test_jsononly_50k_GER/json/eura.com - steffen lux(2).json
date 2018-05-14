@@ -1,0 +1,120 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 14,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1995,
+                "id": 63542,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "105",
+                            "name": "Formaci\u00f3n profesional"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Chennai",
+                                "postalCode": "600028",
+                                "street1": "5, Third Main Road, R A Puram"
+                            },
+                            "contactInfo": {
+                                "fax": "Fax: +91 44 2461 7903",
+                                "phone1": "Phone: +91 44 2461 7902"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Maryland",
+                                "postalCode": "20816",
+                                "street1": "5609 Harwick Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "301-320-4705"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bengaluru",
+                                "postalCode": "560043",
+                                "street1": "Apartment No.: A2, SPL Habitat,"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Haryana",
+                                "postalCode": "122 002",
+                                "street1": "Level 4, Augusta Point, DLF Golf Course Road, Sector-53,"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+91-124-4354236"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Mumbai",
+                                "postalCode": "400013",
+                                "street1": "1106, 11th floor, Tower 'B'"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Global Adjustments",
+                "numFollowers": 664,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Culturama- the culture magazine",
+                        "Relocation",
+                        "Realty",
+                        "Cross Cultural Training"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.globaladjustments.com"
+            }
+        ]
+    }
+}

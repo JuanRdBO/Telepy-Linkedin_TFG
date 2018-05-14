@@ -1,0 +1,81 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 13,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1994,
+                "id": 131271,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Riverside",
+                                "postalCode": "92507",
+                                "street1": "871 Marlborough Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "951.781.4105",
+                                "phone1": "951.781.4100"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "San Diego",
+                                "postalCode": "92126",
+                                "street1": "9765 Clairemont Mesa Boulevard"
+                            },
+                            "contactInfo": {
+                                "fax": "951.781.4105",
+                                "phone1": "951.781.4100"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Luminex Software, Inc.",
+                "numFollowers": 280,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Mainframe Virtual Tape Solutions",
+                        "Mainframe Tape Migration Software and Solutions",
+                        "Mainframe Data Integration",
+                        "Mainframe Managed File Transfer"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "LuminexSoftware",
+                "websiteUrl": "www.luminex.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 623,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1997,
+                "id": 256218,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Long Island City",
+                                "postalCode": "11101",
+                                "street1": "21 - 34 44th Rd."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "718.707.9550"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Atelier New York Architecture",
+                "numFollowers": 1429,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "unique",
+                        "high quality residential",
+                        "commercial and institutional designs"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.atelierny.com"
+            }
+        ]
+    }
+}

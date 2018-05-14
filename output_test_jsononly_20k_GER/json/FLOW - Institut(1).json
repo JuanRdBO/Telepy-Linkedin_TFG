@@ -1,0 +1,76 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 40526,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 2202097,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "S\u00e3o Paulo",
+                                "postalCode": "",
+                                "street1": "Rua Iguatemi, 192 / 14\u00ba andar - Itaim"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "FLOW Executive Finders",
+                "numFollowers": 45994,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Executive Search"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.flowef.com"
+            }
+        ]
+    }
+}

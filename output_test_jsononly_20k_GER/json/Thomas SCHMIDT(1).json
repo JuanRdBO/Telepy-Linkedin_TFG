@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 46,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7338144,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "111",
+                            "name": "Artesan\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Freiburg im Breisgau",
+                                "postalCode": "79104",
+                                "street1": "54 Hauptstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "07612923589"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Schmidt",
+                "numFollowers": 2,
+                "websiteUrl": "exergia.de"
+            }
+        ]
+    }
+}

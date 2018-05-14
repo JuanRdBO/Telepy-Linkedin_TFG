@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7565312,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Olching",
+                                "postalCode": "82140",
+                                "street1": "36 Watzmannstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "08142410204"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Die Umzugsb\u00e4ren Manfred Schulz",
+                "numFollowers": 0,
+                "websiteUrl": "umzugsbaeren.de"
+            }
+        ]
+    }
+}

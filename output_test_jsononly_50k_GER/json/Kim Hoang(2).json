@@ -1,0 +1,47 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 24,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 8036609,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "31",
+                            "name": "Hosteler\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Houston",
+                                "postalCode": "77041-6015",
+                                "street1": "6302 Haddock CT"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 7134663147"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Kim Hoang Ngoc",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

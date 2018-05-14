@@ -1,0 +1,108 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1976,
+                "id": 3539887,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "92",
+                            "name": "Transporte por carretera o ferrocarril"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sebring",
+                                "postalCode": "33876",
+                                "street1": "130 Madrid Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(800) 282-3655"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Madison",
+                                "postalCode": "32340",
+                                "street1": "231 Cabot Trail"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(850) 253-8025"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Jacksonville",
+                                "postalCode": "32210",
+                                "street1": "7451 Wilson Blvd"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(904) 778-2331"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Ocala",
+                                "postalCode": "34475",
+                                "street1": "722 NW 27th Ave"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(352) 694-1180"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Annett Bus Lines",
+                "numFollowers": 119,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Travel",
+                        "Transportaion",
+                        "Charter Buses",
+                        "PREVOST",
+                        "Motorcoach Buses"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.annettbuslines.com/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 40,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7432817,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Neukirchen/Erzgebirge",
+                                "postalCode": "09221",
+                                "street1": "Burkhardtsdorfer Stra\u00dfe 35A"
+                            },
+                            "contactInfo": {
+                                "phone1": "0372123002"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fa. Michael Gerber Sanit\u00e4r Heizung",
+                "numFollowers": 0,
+                "websiteUrl": "badetc.de"
+            }
+        ]
+    }
+}

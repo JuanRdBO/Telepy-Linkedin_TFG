@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 66,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 2001,
+                "id": 3586283,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "132",
+                            "name": "E-learning"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wiesbaden",
+                                "postalCode": "65205",
+                                "street1": "Im Ostring 3"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0) 6122 5983469",
+                                "phone1": "+49 (0) 6122 598340"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "STI Security Training International GmbH",
+                "numFollowers": 315,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Computer-Based-Training",
+                        "Web-based-Training",
+                        "Training",
+                        "Consulting",
+                        "ACC3 EU Validation",
+                        "RA3 EU Validation",
+                        "KC3 EU Validation",
+                        "Air Cargo Screening Centres",
+                        "X-ray image evaluation training",
+                        "Operator Training",
+                        "Instructor-led training courses"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.sti-training.com/view/en/"
+            }
+        ]
+    }
+}

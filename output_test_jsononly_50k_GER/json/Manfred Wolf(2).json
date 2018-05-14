@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "id": 3287017,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Skofljica",
+                                "postalCode": "1000",
+                                "street1": "Ogrinova 11"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "00386 (0)41 88 20 20"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Marco Manfred Wolf s.p.",
+                "numFollowers": 6,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "German courses",
+                        "Premium course",
+                        "German pronunciation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.Marco-M-Wolf.de"
+            }
+        ]
+    }
+}

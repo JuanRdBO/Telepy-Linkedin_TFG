@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 13,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2010,
+                "id": 1610389,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "104",
+                            "name": "Dotaci\u00f3n y selecci\u00f3n de personal"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Magdeburg",
+                                "postalCode": "39124",
+                                "street1": "Otto-von-Guericke-Str. 87a"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60322",
+                                "street1": "An der Welle 4"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Evolution Personalvermittlungsgesellschaft mbH",
+                "numFollowers": 169,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "IT Recruitment",
+                        "Permanent Recruitment",
+                        "IT Personalberatung",
+                        "IT Personalvermittlung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.evolutionjobs.de"
+            }
+        ]
+    }
+}

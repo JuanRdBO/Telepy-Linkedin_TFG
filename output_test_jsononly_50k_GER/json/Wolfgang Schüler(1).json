@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7490227,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Weissach",
+                                "postalCode": "71287",
+                                "street1": "3 Eibenweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "07044939087"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rentenberatung Wolfgang Schuler",
+                "numFollowers": 0,
+                "websiteUrl": "pbs-rente.de"
+            }
+        ]
+    }
+}

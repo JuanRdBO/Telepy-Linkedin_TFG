@@ -1,0 +1,55 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 257,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1959,
+                "id": 15096734,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "68",
+                            "name": "Ense\u00f1anza superior"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70191",
+                                "street1": "Heilbronner Strasse 86"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "AKAD University",
+                "numFollowers": 3744,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "www.akad.de"
+            }
+        ]
+    }
+}

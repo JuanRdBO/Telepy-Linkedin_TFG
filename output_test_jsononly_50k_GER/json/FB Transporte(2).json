@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2014,
+                "id": 5218390,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "V. N. Gaia",
+                                "postalCode": "4400-470",
+                                "street1": "Canidelo"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "OTELO MOTORS - Green Light Vehicles",
+                "numFollowers": 109,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Green Light Vehicles",
+                        "Electric Vehicles",
+                        "Electric Scooters",
+                        "Cargo Scooters",
+                        "Electri Bikes"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.otelomotors.com"
+            }
+        ]
+    }
+}

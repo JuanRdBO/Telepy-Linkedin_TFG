@@ -1,0 +1,89 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2008,
+                "id": 5208282,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "136",
+                            "name": "Fotograf\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f8benhavn",
+                                "postalCode": "1762",
+                                "street1": "Slesvigsgade"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+45 61337075"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Salzburg",
+                                "postalCode": "5020",
+                                "street1": "Richard Knoller Strasse"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+43 660 380 2275"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Gonzales Photo",
+                "numFollowers": 54,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Editorial Photography",
+                        "Press Photography",
+                        "Commercial Photography",
+                        "Archive Management",
+                        "Brand Development",
+                        "Campaign Photography",
+                        "Event Photography",
+                        "Studio Photography",
+                        "Cross Media Understanding",
+                        "Intercultural Communication",
+                        "Video Production",
+                        "Travel Photography"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.gonzalesphoto.dk"
+            }
+        ]
+    }
+}

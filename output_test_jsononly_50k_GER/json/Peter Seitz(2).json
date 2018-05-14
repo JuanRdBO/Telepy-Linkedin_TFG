@@ -1,0 +1,47 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 8934794,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Santa Fe",
+                                "postalCode": "87501-2020",
+                                "street1": "217 E Marcy St"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 5059894343"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Peter Seitz Dvm",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

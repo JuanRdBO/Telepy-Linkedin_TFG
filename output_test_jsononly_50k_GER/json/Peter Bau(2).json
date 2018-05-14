@@ -1,0 +1,86 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 16,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1983,
+                "id": 1553009,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "51",
+                            "name": "Ingenier\u00eda civil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Aachen",
+                                "postalCode": "52070",
+                                "street1": "Krefelder Str. 147"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49(0)241-9134-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Olpe",
+                                "postalCode": "57462",
+                                "street1": "Hatzenbergstr. 3"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49(0)2761-9645-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Tilke GmbH & Co. KG",
+                "numFollowers": 847,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Motor-Rennstrecken f\u00fcr alle Serien",
+                        "Automobile Teststrecken",
+                        "Fahrsicherheitszentren",
+                        "Allgemeiner Strassenbau",
+                        "Sport- und Freizeitanlagen",
+                        "Krankenhausbau",
+                        "Hotelbau",
+                        "Wohnungsbau",
+                        "B\u00fcrobau"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.tilke.com"
+            }
+        ]
+    }
+}

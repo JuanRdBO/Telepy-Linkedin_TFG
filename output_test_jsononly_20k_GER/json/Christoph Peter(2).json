@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 15,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1990,
+                "id": 999719,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "95",
+                            "name": "Naval"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bremen",
+                                "postalCode": "28197",
+                                "street1": "Lloydstr. 4-6"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Mund + Bruns Schiffs- und Ladungssachverst\u00e4ndige GmbH, Marine and Cargo Surveyors",
+                "numFollowers": 133,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Marine surveys/evaluations, commodity surveys, claim/damage surveys, hull&machinery, evaluations of losses, loss preventions, salvage sales, project supervision inland/abroad, steel products, yard + terminal surveys, transport consulting, lash surveys"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.mund-bruns.de"
+            }
+        ]
+    }
+}

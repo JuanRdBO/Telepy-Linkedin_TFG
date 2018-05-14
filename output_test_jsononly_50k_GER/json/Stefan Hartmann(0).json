@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12838327,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Euskirchen",
+                                "postalCode": "53881",
+                                "street1": "28 Saturnstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 1714856561"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Stefan Hartmann Hausmeisterdienst",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.hausmeisterdienstleistungen-hartmann.de"
+            }
+        ]
+    }
+}

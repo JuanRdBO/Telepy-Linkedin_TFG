@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 86,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1998,
+                "id": 16176016,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "37",
+                            "name": "Museos e instituciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Memphis",
+                                "postalCode": "38111",
+                                "street1": "119 S Main St."
+                            },
+                            "contactInfo": {
+                                "fax": "901-523-8603",
+                                "phone1": "901-523-2787"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "The Belz Museum of Asian and Judaic Art",
+                "numFollowers": 10,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Asian Art",
+                        "Judaic Art",
+                        "Education"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "belzmuseum.org"
+            }
+        ]
+    }
+}

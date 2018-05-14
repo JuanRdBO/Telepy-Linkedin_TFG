@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 397,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2010,
+                "id": 1582445,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "67",
+                            "name": "Educaci\u00f3n primaria/secundaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Koog aan de Zaan",
+                                "postalCode": "1541 CK",
+                                "street1": "Leliestraat 79"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+31 6 16938772"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "TIMO",
+                "numFollowers": 31,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Math Tutoring",
+                        "Wiskunde bijles",
+                        "Wiskunde begeleiding"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "wiskundebijles.nu"
+            }
+        ]
+    }
+}

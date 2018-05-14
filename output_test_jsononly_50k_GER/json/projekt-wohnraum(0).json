@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1991,
+                "id": 10946265,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oberglatt",
+                                "postalCode": "8154",
+                                "street1": "Kaiserstuhlstrasse 2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Seegr\u00e4ben",
+                                "postalCode": "8607",
+                                "street1": "Z\u00fcrichstrasse 24"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Thermogreen AG",
+                "numFollowers": 26,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Wintergarten",
+                        "Lamellendach",
+                        "Glasdach",
+                        "Wetterschutz"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.thermogreen.ch"
+            }
+        ]
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1995,
+                "id": 2515257,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Weinheim",
+                                "postalCode": "69469",
+                                "street1": "Hoehnerweg 2-4"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 6201 888000",
+                                "phone1": "+49 6201 808000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Balingen",
+                                "postalCode": "72336",
+                                "street1": "Vogtshalde 5"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 7433 9977-90",
+                                "phone1": "+49 7433 9977-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Eschborn",
+                                "postalCode": "65760",
+                                "street1": "D\u00fcsseldorfer Stra\u00dfe 15"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Freudenberg IT GmbH & Co. KG",
+                "numFollowers": 1248,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Manufacturing Execution System (MES)",
+                        "SAP ERP",
+                        "SAP Business Intelligence (BI)",
+                        "Fertigungsprozess-Optimierung",
+                        "SAP-Beratung",
+                        "Gesch\u00e4ftsprozessoptimierung",
+                        "SAP Hosting",
+                        "Cloud Computing",
+                        "Application Hosting",
+                        "Mobile Device Management",
+                        "Industrie 4.0",
+                        "Big Data",
+                        "SAP HANA"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.freudenberg-it.com"
+            }
+        ]
+    }
+}

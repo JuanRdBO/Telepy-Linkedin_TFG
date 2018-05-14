@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 23,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 25854608,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "23",
+                            "name": "Producci\u00f3n alimentaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "ROGNAC",
+                                "postalCode": "13340",
+                                "street1": "LE CORINA 47 RUE GABRIEL PERI"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ALGAN",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

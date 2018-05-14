@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2014,
+                "id": 11163899,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "17",
+                            "name": "Dispositivos m\u00e9dicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Chisinau",
+                                "street1": "Str. Tadeus Malinovschi Nr. 14/2, Of. 4"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gursk Medica Moldova",
+                "numFollowers": 4,
+                "websiteUrl": "gurskmedica.md"
+            }
+        ]
+    }
+}

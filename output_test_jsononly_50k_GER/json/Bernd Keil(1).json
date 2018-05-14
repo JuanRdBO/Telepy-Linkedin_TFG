@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12290901,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ilbenstadt",
+                                "postalCode": "61194",
+                                "street1": "6 Rendeler Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 1735393176"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bernd Keil Bedachungen",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.bedachungen-keil.de"
+            }
+        ]
+    }
+}

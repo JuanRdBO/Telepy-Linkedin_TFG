@@ -1,0 +1,129 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 126,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1956,
+                "id": 401408,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "147",
+                            "name": "Automaci\u00f3n industrial"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "York",
+                                "postalCode": "17403",
+                                "street1": "650 North State Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "1.877.870.2692"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Mahwah",
+                                "postalCode": "07430",
+                                "street1": "305 Island Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "201.316.8165"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Kingston",
+                                "postalCode": "12401",
+                                "street1": "615 Route 28"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "845.339.0542"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Vineland",
+                                "postalCode": "08360",
+                                "street1": "217 South Delsea Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "888.492.9869"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Maple Shade",
+                                "postalCode": "08052",
+                                "street1": "612 East Woodlawn Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "800.526.2708"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "RG-Group.com",
+                "numFollowers": 1086,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Hydraulic",
+                        "Pneumatic",
+                        "Electromechanical",
+                        "Automation",
+                        "Flexible Outsourced Manufacturing",
+                        "Robotics",
+                        "Collaborative Robots",
+                        "Process Control",
+                        "Fluid Connectors",
+                        "Engineered Systems",
+                        "Installation and Field Services",
+                        "Vendor Managed Inventory",
+                        "Defense Contractor"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.rg-group.com"
+            }
+        ]
+    }
+}

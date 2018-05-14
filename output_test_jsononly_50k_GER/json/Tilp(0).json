@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 8,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12337442,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad F\u00fcssing",
+                                "postalCode": "94072",
+                                "street1": "2 Reiterweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 1713648979"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Tilp",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.holsteinerpferde-aus-bayern.de"
+            }
+        ]
+    }
+}

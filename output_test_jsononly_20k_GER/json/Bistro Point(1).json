@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 50,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 2013,
+                "id": 3343716,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New Delhi",
+                                "postalCode": "110001",
+                                "street1": "DLF Capitol Point,"
+                            },
+                            "contactInfo": {
+                                "fax": "(+91)11 4948 6020",
+                                "phone1": "9850133133"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Audi Delhi Central",
+                "numFollowers": 1749,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Audi A3, A3 Cabriolet",
+                        "Audi A4",
+                        "Audi A6",
+                        "Audi A8",
+                        "Audi RS5",
+                        "Audi RS7",
+                        "Audi R8",
+                        "Audi Q Series quattro SUV's",
+                        "Audi Genuine Parts",
+                        "Audi Service"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.audidelhicentral.in"
+            }
+        ]
+    }
+}

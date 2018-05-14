@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8720,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1981,
+                "id": 427962,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Houston",
+                                "postalCode": "77018",
+                                "street1": "933 Wakefield Dr."
+                            },
+                            "contactInfo": {
+                                "fax": "713-688-7235",
+                                "phone1": "713-688-3861"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Lange Mechanical Services",
+                "numFollowers": 386,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Commercial HVAC Services"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.langemechanical.com"
+            }
+        ]
+    }
+}

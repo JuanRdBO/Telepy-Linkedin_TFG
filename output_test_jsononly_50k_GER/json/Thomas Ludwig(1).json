@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 14,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7469191,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hagen",
+                                "postalCode": "58135",
+                                "street1": "82 Voerder Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "023319024061"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Ludwig MTL",
+                "numFollowers": 2,
+                "websiteUrl": "mtl-hagen.de"
+            }
+        ]
+    }
+}

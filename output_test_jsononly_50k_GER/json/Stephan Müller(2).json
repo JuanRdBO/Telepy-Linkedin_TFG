@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2016,
+                "id": 10853547,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bremen",
+                                "postalCode": "28359",
+                                "street1": "Wilhelm-Herbst-Strasse 10"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0421 63 919 400"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "BPM STEPHAN M\u00dcLLER",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Business Process Management",
+                        "Gesch\u00e4ftsprozessmanagement",
+                        "Operational Excellence"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.bpm-stephan-mueller.de"
+            }
+        ]
+    }
+}

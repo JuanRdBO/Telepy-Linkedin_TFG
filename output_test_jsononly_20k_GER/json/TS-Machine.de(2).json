@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1984,
+                "id": 2644421,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "112",
+                            "name": "Manufactura el\u00e9ctrica y electr\u00f3nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Develier",
+                                "postalCode": "CH-2802",
+                                "street1": "rue des Romains 1"
+                            },
+                            "contactInfo": {
+                                "fax": "41 32 424 40 50",
+                                "phone1": "+41 32 424 40 40"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "VARDECO SA",
+                "numFollowers": 166,
+                "specialties": {
+                    "_total": 16,
+                    "values": [
+                        "screw machine",
+                        "CNC and milling parts",
+                        "secondary operation",
+                        "assemblage clip shell",
+                        "heat treatment",
+                        "galvanoplasty",
+                        "decolletage",
+                        "traitement thermique",
+                        "traitement galvanique",
+                        "clip shell",
+                        "clip-shell",
+                        "screw part",
+                        "screw machined part",
+                        "screw machined-part",
+                        "screw",
+                        "screw machining"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.vardeco.com"
+            }
+        ]
+    }
+}

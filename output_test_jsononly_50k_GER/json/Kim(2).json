@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6276,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "id": 34927,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New Hyde Park",
+                                "postalCode": "11042",
+                                "street1": "3333 New Hyde Park Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Lutherville Timonium",
+                                "postalCode": "21093",
+                                "street1": "1954 Greenspring Dr"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Kimco Realty Corporation",
+                "numFollowers": 9429,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Real Estate acquisition, development and management of neighborhood and community shopping centers."
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.kimcorealty.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 145,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1976,
+                "id": 752577,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Porto Alegre",
+                                "postalCode": "90220021",
+                                "street1": "Rua Almirante Barroso,355"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "5130254264"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "GANG Comercio de Vestu\u00e1rio LTDA",
+                "numFollowers": 3258,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Retail",
+                        "Moda",
+                        "Vestu\u00e1rio",
+                        "Fashion Industry"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.gang.com.br"
+            }
+        ]
+    }
+}

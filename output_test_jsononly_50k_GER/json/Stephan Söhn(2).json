@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1979,
+                "id": 3313083,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "63",
+                            "name": "Agricultura"
+                        }
+                    ]
+                },
+                "name": "G\u00e4rtnerei Kircher Floricoltura",
+                "numFollowers": 21,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Pflanzen f\u00fcr Haus, Garten und Balkon",
+                        "Piante per casa, balcone e giardino",
+                        "Floristik - arte floreale",
+                        "Grabpflege - manutenzione tombe"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.kircher.it"
+            }
+        ]
+    }
+}

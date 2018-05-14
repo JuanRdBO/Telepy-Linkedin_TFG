@@ -1,0 +1,62 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 1360,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1930,
+                "id": 18065614,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "68",
+                            "name": "Ense\u00f1anza superior"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kabul City",
+                                "postalCode": "1006",
+                                "street1": "1006 Jamal Mina, District 3"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kabul University",
+                "numFollowers": 233,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Civil Engineering",
+                        "Law",
+                        "Agriculture",
+                        "Ecnomics",
+                        "Arts",
+                        "Literature"
+                    ]
+                },
+                "websiteUrl": "http://ku.edu.af/en"
+            }
+        ]
+    }
+}

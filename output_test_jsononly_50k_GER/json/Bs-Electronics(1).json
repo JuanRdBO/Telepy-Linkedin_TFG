@@ -1,0 +1,102 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 79,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 2000,
+                "id": 325175,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Karachi",
+                                "postalCode": "75190",
+                                "street1": "PAF Base Korangi Creek,"
+                            },
+                            "contactInfo": {
+                                "fax": "+92-21-35091118",
+                                "phone1": "+92-21-35091114"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Karachi",
+                                "postalCode": "75400",
+                                "street1": "28-D Block-6, P.E.C.H.S"
+                            },
+                            "contactInfo": {
+                                "fax": "+92-21-34383819",
+                                "phone1": "+92-21-3456872"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Karachi",
+                                "postalCode": "74600",
+                                "street1": "F-98 Block-B, North Nazimabad"
+                            },
+                            "contactInfo": {
+                                "fax": "+92-21-35091118",
+                                "phone1": "+92-21-36628381"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "PAF-KIET",
+                "numFollowers": 4566,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "BS (Telecom and Networks)",
+                        "BBA",
+                        "BE (Electrical)",
+                        "MBA",
+                        "BSCS",
+                        "BCA",
+                        "MCS",
+                        "PGD",
+                        "PhD",
+                        "MS/M.Phil",
+                        "BE (Avionics)",
+                        "BE (Mechatronics)"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.pafkiet.edu.pk"
+            }
+        ]
+    }
+}

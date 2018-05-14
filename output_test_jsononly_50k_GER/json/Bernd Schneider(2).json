@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 14,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7496864,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rehau",
+                                "postalCode": "95111",
+                                "street1": "105 Ludwigsbrunn"
+                            },
+                            "contactInfo": {
+                                "phone1": "092941344"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bernd Schneider U. Otto",
+                "numFollowers": 0,
+                "websiteUrl": "schneider-zupfinstrumente.de"
+            }
+        ]
+    }
+}

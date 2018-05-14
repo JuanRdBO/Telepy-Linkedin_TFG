@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12316923,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Erfurt",
+                                "postalCode": "99094",
+                                "street1": "1 Auf Dem Neuen Gesetz"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 36121869700"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ERGO Versicherung Patricia Karl",
+                "numFollowers": 1
+            }
+        ]
+    }
+}

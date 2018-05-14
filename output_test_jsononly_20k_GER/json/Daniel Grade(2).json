@@ -1,0 +1,55 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 27,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1912,
+                "id": 248351,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "67",
+                            "name": "Educaci\u00f3n primaria/secundaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Baltimore",
+                                "postalCode": "21208",
+                                "street1": "2425 Old Court Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "The Park School of Baltimore",
+                "numFollowers": 879,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "http://www.parkschool.net"
+            }
+        ]
+    }
+}

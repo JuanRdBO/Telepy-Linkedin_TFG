@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1964,
+                "id": 11105375,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Burgh Haamstede",
+                                "postalCode": "4328EG",
+                                "street1": "Hogezoom"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Outward Bound Netherlands",
+                "numFollowers": 10,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "outdoor education",
+                        "experiential learning",
+                        "team building",
+                        "staff development",
+                        "expeditions",
+                        "experiential education",
+                        "leadership education",
+                        "character development"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.outwardboundnetherlands.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "H",
+                    "name": "5001-10000"
+                },
+                "foundedYear": 2012,
+                "id": 3546301,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "46",
+                            "name": "Gesti\u00f3n de inversiones"
+                        }
+                    ]
+                },
+                "name": "AVC Partners",
+                "numFollowers": 39,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.avcpartners.com"
+            }
+        ]
+    }
+}

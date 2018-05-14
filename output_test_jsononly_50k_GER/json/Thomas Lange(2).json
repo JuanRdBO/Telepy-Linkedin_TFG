@@ -1,0 +1,43 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 30,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12517043,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "22547",
+                                "street1": "87 St\u00fcckweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 4083293010"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Lange EDV-Beratung",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2011,
+                "id": 3327157,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "name": "Ankara Hukuk B\u00fcrosu",
+                "numFollowers": 205,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Kamula\u015ft\u0131rma",
+                        "Malpraktis",
+                        "Aile Hukuku",
+                        "Ticaret Hukuku"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ankarahukukburosu.org"
+            }
+        ]
+    }
+}

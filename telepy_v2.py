@@ -11,11 +11,13 @@ import errno
 import pandas as pd
 import webbrowser
 import csv
+import shutil
 from pathlib import Path
 import glob
 import io
 import codecs
 import re
+import humanfriendly
 
 import pandas as pd
 import json
@@ -58,7 +60,7 @@ def atof(text):
 
 class TELEPY:
     # def __init__(self, token):
-    # 	self.token = token
+    #   self.token = token
     # Se define el access token para Telepy_2
 
     def retrieve_json(self, token, company, starting_point, count, query_type):
@@ -115,7 +117,7 @@ class TELEPY:
                     raise
         json_files = os.listdir("output/json/")
         json_files.sort()
-        print(json_files)
+        #print(json_files)
         sub = ".json"
 
         for filename in json_files:
@@ -140,11 +142,12 @@ class TELEPY:
 
         csv_files = os.listdir("output/csv/")
         csv_files.sort(key=self.natural_keys)
-        print(csv_files)
+        #print(csv_files)
         sub = ".csv"
 
         print("\n---------------------------------\n\nUnifying now all CSV files into a big one\n")
 
+        csv_unifier_index = 0
         for filename in csv_files:
             if sub in filename:
                 if not Path("output/csv/final_company.csv").is_file():
@@ -156,7 +159,8 @@ class TELEPY:
                     concat_csv = [company_csv, pandas_csv]
                     final_company = pd.concat(concat_csv)
                     final_company.to_csv("output/csv/final_company.csv", index=False)
-            print("Unified file " + filename, end="\r")
+                print("Unified file " + str(csv_unifier_index+1)+ " of "+str(len(csv_files)), end="\r")
+                csv_unifier_index+=1
         print("\nFinished unifying all csv files to: 'final_company.csv'")
 
     def read_source_csv(self):
@@ -186,7 +190,7 @@ class TELEPY:
                         concat_csv = [company_csv, pandas_csv]
                         final_company = pd.concat(concat_csv)
                         final_company.to_csv("output/csv/" + df.iloc[company][0] + "_FINAL.csv", index=False)
-                    #os.remove("output/csv/" + df.iloc[company][0] + "(" + str(match) + ").csv")
+                    os.remove("output/csv/" + df.iloc[company][0] + "(" + str(match) + ").csv")
 
     def remove_location_cols(self, loc_to_keep):
         final_company = pd.read_csv("output/csv/final_company.csv", dtype='unicode')
@@ -222,6 +226,29 @@ class TELEPY:
         final_company = pd.read_csv("output/csv/final_company.csv", dtype='unicode').replace(np.nan, "N/A", regex=True)
         rows = len(final_company.index)
 
+        col_completion_index = 0
+        for col in final_company.columns:
+            if 'locations.values' in col:
+                if 'address.street1' in col:
+                    if not 'contactInfo.fax' in final_company.columns[final_company.columns.get_loc(col)+1]:
+                        #print("Not FAX in column",col_completion_index,'putting',"companies.values[0].locations.values["+col.split(".")[3].split("[")[1].split("]")[0]+"].contactInfo.fax")
+                        final_company.insert(loc=final_company.columns.get_loc(col)+1, column="companies.values[0].locations.values["+col.split(".")[3].split("[")[1].split("]")[0]+"].contactInfo.fax",value="N/A")
+
+            col_completion_index+=1
+
+        col_completion_index = 0
+        for col in final_company.columns:
+            if 'locations.values' in col:
+                if 'contactInfo.fax' in col:
+
+                    if not 'contactInfo.phone1' in final_company.columns[final_company.columns.get_loc(col)+1]:
+                        #print("Not FAX in column",col_completion_index,'putting',"companies.values[0].locations.values["+col.split(".")[3].split("[")[1].split("]")[0]+"].contactInfo.phone1")
+                        final_company.insert(loc=final_company.columns.get_loc(col)+ 1, column="companies.values[0].locations.values["+col.split(".")[3].split("[")[1].split("]")[0]+"].contactInfo.phone1",value="N/A")
+
+            col_completion_index+=1
+
+        final_company.replace(np.nan, "N/A", regex=True).to_csv("./output/csv/final_company.csv", index=False)
+
         # How many locations are there?
         last_cols = -1
         # Which names do the columns have?
@@ -238,11 +265,10 @@ class TELEPY:
 
         index_helper = 0
 
-        for col in final_company.columns:
-
+        for col in final_company.columns:            
             if 'locations.values' in col:
                 if int(col.split(".")[3].split("[")[1].split("]")[0]) != last_cols:
-                    print(int(col.split(".")[3].split("[")[1].split("]")[0]), last_cols, index_counter)
+                    #print(int(col.split(".")[3].split("[")[1].split("]")[0]), last_cols, index_counter)
                     last_cols = int(col.split(".")[3].split("[")[1].split("]")[0])
 
                     # Puts start/stop on all values except last and the one before that
@@ -265,16 +291,18 @@ class TELEPY:
                 city_index_cols.append(index_counter)
             index_counter += 1
 
+        #print('START:',location_start)
+
         # Last touches to the start/stop list
         location_start[len(location_start) - 1][1] = last_location_col_index
         location_start[len(location_start) - 2][1] = location_start[len(location_start) - 1][0] - 1
 
-        print("Number of location values: ", last_cols)
-        print('Postcode:', postCode_location_cols)
-        print('Postcode:', postCode_index_cols)
-        print('City:', city_location_cols)
-        print('City:', city_index_cols)
-        print('Location start/stop', location_start)
+        # print("Number of location values: ", last_cols)
+        # print('Postcode:', postCode_location_cols)
+        # print('Postcode:', postCode_index_cols)
+        # print('City:', city_location_cols)
+        # print('City:', city_index_cols)
+        #print('Location start/stop', location_start)
         # implement condition if GER
         # drop rows: df.drop(df.index[[1,3]])
 
@@ -301,13 +329,13 @@ class TELEPY:
         print('\n')
         for row in range(0, rows):
             for index in city_index_cols:
-                print(bcolors.OKBLUE, 'Verifying through named locations (city) : (', counter_feedback,'of', counter_feedback_total,')',bcolors.ENDC,end='\r')
+                print(bcolors.OKBLUE+ 'Verifying through named locations (city) : (', counter_feedback,'of', counter_feedback_total,')',bcolors.ENDC,end='\r')
                 counter_feedback+=1
                 # print('checking row:',row,'and col:',index,':[',type(final_company.loc[row][index]),final_company.loc[row][index],']->',len(postal_codes[postal_codes['Place Name'].str.contains(final_company.loc[row][index])]) > 0)
                 if len(postal_codes[postal_codes['Place Name'].str.contains(final_company.loc[row][index])]) > 0:
                     verified_index_city.append([row, index])
                     verified_index_city_colname.append([row, city_location_cols[city_index_cols.index(index)]])
-        print('\nCould verify the following locations through city:', verified_index_city)
+        print('\n\nCould verify the following locations through city:', verified_index_city)
 
         total_german_companies_index = sorted(verified_index_postalCode + verified_index_city,
                                               key=lambda element: (element[0], element[1]))
@@ -315,14 +343,14 @@ class TELEPY:
         total_german_companies_colNames = (
                     verified_index_city_colname + verified_index_postalCode_colName)  # .sort(key=self.natural_keys)
 
-        print('\nAll german locations by index:', total_german_companies_index)
-        print('\nAll german locations by column names:', total_german_companies_colNames)
+        #print('\nAll german locations by index:', total_german_companies_index)
+        # print('\nAll german locations by column names:', total_german_companies_colNames)
 
         # Dataframe using the start/stop list
         location_df = pd.DataFrame()
         location_df['start_location'] = [i[0] for i in location_start]
         location_df['stop_location'] = [i[1] for i in location_start]
-        print('\n', location_df)
+        #print('\n', location_df)
 
         # [item[0] for item in total_german_companies_index]
 
@@ -334,38 +362,43 @@ class TELEPY:
 
         while i < len(total_german_companies_index):
 
-            print('---------->', len(total_german_companies_index))
+           # print('---------->', len(total_german_companies_index))
             location = location_df.loc[(location_df.start_location <= total_german_companies_index[i][1]) & (
                         total_german_companies_index[i][1] <= location_df.stop_location)].index[0]
-            # print('Company on row:',total_german_companies_index[i][0],'has match on',location,'meaning on positions:',location_df.start_location[location],'-',location_df.stop_location[location])
+            #print('Company on row:',total_german_companies_index[i][0],'has match on',location,'meaning on positions:',location_df.start_location[location],'-',location_df.stop_location[location]+1)
 
             df_1 = final_company.iloc[:, 0:14][total_german_companies_index[i][0]: total_german_companies_index[i][0] + 1]
 
-            print('Retrieving from', total_german_companies_index[i][0], ':', total_german_companies_index[i][0] + 1)
+            #print('Retrieving from', total_german_companies_index[i][0], ':', total_german_companies_index[i][0] + 1)
 
-            print('COUNT i:', i, 'matches:',
-                  [item[0] for item in total_german_companies_index].count(total_german_companies_index[i][0]), '--->',
-                  total_german_companies_index)
+            #print('COUNT i:', i, 'matches:',[item[0] for item in total_german_companies_index].count(total_german_companies_index[i][0]), '--->',total_german_companies_index)
             if [item[0] for item in total_german_companies_index].count(total_german_companies_index[i][0]) > 1:
 
                 df_helper = []
                 counter_helper = 0
-                print('\nDetected',
-                      [item[0] for item in total_german_companies_index].count(total_german_companies_index[i][0]),
-                      'matches!\n')
+                #print('\nDetected',[item[0] for item in total_german_companies_index].count(total_german_companies_index[i][0]),'matches!\n')
 
                 for p in range(i, i + [item[0] for item in total_german_companies_index].count(
                         total_german_companies_index[i][0])):
-                    # print('Entered HELPER',i,'---',p-1,p,p+1,'---',[item[0] for item in total_german_companies_index].count(i))
+                    #print('Entered HELPER',i,'---',p-1,p,p+1,'---',[item[0] for item in total_german_companies_index].count(i))
 
                     location = location_df.loc[(location_df.start_location <= total_german_companies_index[p][1]) & (
                                 total_german_companies_index[p][1] <= location_df.stop_location)].index[0]
 
                     df_helper.append(pd.DataFrame())
 
-                    df_helper[counter_helper] = final_company.iloc[:,
-                                                location_df.start_location[location]:location_df.stop_location[
-                                                    location]][total_german_companies_index[i][0]: total_german_companies_index[i][0] + 1]
+                    df_helper[counter_helper] = final_company.iloc[:,location_df.start_location[location]:location_df.stop_location[location]+1][total_german_companies_index[i][0]: total_german_companies_index[i][0] + 1]
+
+                    #print(df_helper[counter_helper])
+
+                    df_helper[counter_helper] = df_helper[counter_helper].rename(columns = {df_helper[counter_helper].columns[0] : "companies.values[0].locations.values["+str(counter_helper)+"].address.city"})
+                    df_helper[counter_helper] = df_helper[counter_helper].rename(columns = {df_helper[counter_helper].columns[1] : "companies.values[0].locations.values["+str(counter_helper)+"].address.postalCode"})
+                    df_helper[counter_helper] = df_helper[counter_helper].rename(columns = {df_helper[counter_helper].columns[2] : "companies.values[0].locations.values["+str(counter_helper)+"].address.street1"})
+                    df_helper[counter_helper] = df_helper[counter_helper].rename(columns = {df_helper[counter_helper].columns[3] : "companies.values[0].locations.values["+str(counter_helper)+"].contactInfo.fax"})
+                    df_helper[counter_helper] = df_helper[counter_helper].rename(columns = {df_helper[counter_helper].columns[4] : "companies.values[0].locations.values["+str(counter_helper)+"].contactInfo.phone1"})
+                    df_helper[counter_helper] = df_helper[counter_helper].rename(columns = {df_helper[counter_helper].columns[5] : "companies.values[0].locations.values["+str(counter_helper)+"].isActive"})
+                    df_helper[counter_helper] = df_helper[counter_helper].rename(columns = {df_helper[counter_helper].columns[6] : "companies.values[0].locations.values["+str(counter_helper)+"].isHeadquarters"})
+
 
                     counter_helper += 1
 
@@ -375,10 +408,10 @@ class TELEPY:
                 df_2 = pd.concat([item for item in df_helper], axis=1)
 
             else:
-                df_2 = final_company.iloc[:, location_df.start_location[location]:location_df.stop_location[location]][
-                       0 if i == 0 else total_german_companies_index[i][0]: total_german_companies_index[i][0] + 1]
+                df_2 =final_company.iloc[:,location_df.start_location[location]:location_df.stop_location[location]+1][total_german_companies_index[i][0]: total_german_companies_index[i][0] + 1] 
+                       
 
-            df_3 = final_company.iloc[:, location_df.stop_location[len(location_df) - 1] + 1:300][total_german_companies_index[i][0]: total_german_companies_index[i][0] + 1]
+            df_3 = final_company.iloc[:,location_df['stop_location'].iloc[-1]+1 : len(final_company.columns)][total_german_companies_index[i][0]: total_german_companies_index[i][0] + 1]
 
             companies.append(pd.DataFrame())
             companies[companies_index_counter] = pd.concat([df_1, df_2, df_3], axis=1)
@@ -392,92 +425,108 @@ class TELEPY:
 
         verified_companies = pd.concat([item for item in companies], axis=0)
 
-        verified_companies.to_csv('./output/csv/TEST.csv', index=False)
+        verified_companies.replace(np.nan, "N/A", regex=True).to_csv('./output/csv/TEST.csv', index=False)
 
-        print(bcolors.WARNING + '\nIt took', "{0:.2f}".format(time.time() - start), 'seconds to comb through',
-              counter_feedback_total,'entries (or '+str(len(final_company.index))+' companies) and verify',
-              len(total_german_companies_index), 'matches, from which',
-              len([item for item in companies]), 'are companies -',"{0:.2f}".format((len([item for item in companies])/len(final_company.index))*100)+'% hit rate.\n', bcolors.ENDC)
+        erase_unwanted_headquarters_finalStatement = 'It took '+ humanfriendly.format_timespan(time.time() - start)+ ' to comb through '+str(counter_feedback_total)+' entries (or '+str(len(final_company.index))+' companies) and verify  '+str(len(total_german_companies_index))+ ' matches from which '+str(len([item for item in companies]))+ ' are companies - ',"{0:.2f}".format((len([item for item in companies])/len(final_company.index))*100)+'% hit rate.'
 
-        # (verified_companies).to_csv('./TEST.csv')
+        fd = open('./output/csv/TEST.csv','a')
+        fd.write("".join(erase_unwanted_headquarters_finalStatement))
+        fd.close()
 
-        # # if not a match
-        # # Removes location columns from a locations list
-        # print(postCode_location_cols)
-        # for locations in postCode_location_cols:
-        #     if "locations.values[1]" in locations:
-        #         postCode_location_cols.remove(locations)
-        # print(postCode_location_cols)
-        #
-        #
-        # # Values = number of locations
-        # values = last_cols
-        # for values in range(0, values + 1):
-        #     index = 0
-        #     for col in final_company.columns:
-        #         if 'locations.values[' + str(values) + '].address.postalCode' in col:
-        #             pass
-        #         index+=1
+        print('\n'+bcolors.WARNING + "".join(erase_unwanted_headquarters_finalStatement)+ bcolors.ENDC)
 
+    def doQuery(self, app_, rows_, starting_point_, matches_to_get_, match_):
+        app = app_
+        zero_matches_to_get = []
+
+        print(bcolors.HEADER + "\nStarted processing JSON files!" + bcolors.ENDC)
+        for row in range(0, rows_):
+            company = df.iloc[row][0]
+            starting_point = starting_point_
+            matches_to_get = matches_to_get_
+            match = match_
+            print('\n----------------------')
+            while match < matches_to_get + 1:
+                while True:
+                    try:
+                        new_search = TELEPY.retrieve_json(app, company, starting_point, 1, 'by_name')
+
+                        TELEPY.save_to_json((company + '(' + str(match) + ').json'), new_search)
+
+                        if matches_to_get > TELEPY.read_initial_json(company + '(' + str(match) + ')') and match == 0:
+                            print("->" + bcolors.ITALICS,
+                                  'Matches to get reduced ' + bcolors.UNDERLINE + 'from ' + str(matches_to_get) + ' to ' + str(
+                                      TELEPY.read_initial_json(company + '(' + str(match) + ')')) + bcolors.ENDC)
+
+                            matches_to_get = TELEPY.read_initial_json(company + '(' + str(match) + ')')
+
+                            zero_matches_to_get.append(matches_to_get)
+                        elif matches_to_get <= TELEPY.read_initial_json(company + '(' + str(match) + ')') and match == 0:
+                            matches_to_get = matches_to_get - 1
+
+                            zero_matches_to_get.append(matches_to_get)
+
+                        print(bcolors.OKGREEN + str(row) + " - " + company + bcolors.ENDC + ": Processed " + str(
+                            starting_point + 1) + " of " + str(matches_to_get + 1) + " JSON files",
+                              end='\n----------------------\n' if (row == rows - 1 and match == matches_to_get) else '\r')
+
+                        starting_point += 1
+                        match += 1
+                    except Exception as e:
+                        app = app + 1
+                        print(e)
+                        print("\n--------------------\n\nTrying app " + str(app) + ": \n")
+                        if app == 250:
+                            print('\n\n--> No more apps from which to source of. Aborting.')
+                            app = 1
+                        continue
+                    break
+
+        df['matches (starting at 0)'] = zero_matches_to_get
+        return df
+        #print(df)
+
+    def drop_duplicates(self):
+        with open("./sample_input.csv") as infile, open("outfile.csv", "w") as outfile:
+            for line in infile:
+                outfile.write(line.replace(",", ""))
+        os.rename("./outfile.csv", "./sample_input.csv")
+        try:
+            shutil.rmtree("./outfile.csv")
+        except:
+            pass
+
+        sample_input = pd.read_csv("sample_input.csv")
+
+        sample_input = sample_input.drop_duplicates( keep = 'first')
+
+        sample_input['Company']= sample_input['Company'].str.replace('/',':')
+        sample_input['Company']= sample_input['Company'].str.replace("'",' ')
+        print("Cleaned input file!\n")
+
+        sample_input.to_csv("./sample_input.csv", index=False)
+
+try:
+    #shutil.rmtree('./output')
+    print("Removed output folder!")
+except:
+    pass
 
 TELEPY: TELEPY = TELEPY()
 
+TELEPY.drop_duplicates()
+
 df, rows = TELEPY.read_source_csv()
-# print("\nNrows:",rows)
-app = 3
-zero_matches_to_get = []
 
-print(bcolors.HEADER + "\nStarted processing JSON files!" + bcolors.ENDC)
-for row in range(0, rows):
-    company = df.iloc[row][0]
-    starting_point = 0
-    matches_to_get = 3
-    match = 0
-    print('\n----------------------')
-    while match < matches_to_get + 1:
-        while True:
-            try:
-                new_search = TELEPY.retrieve_json(app, company, starting_point, 1, 'by_name')
+df['matches (starting at 0)'] = 0
 
-                TELEPY.save_to_json((company + '(' + str(match) + ').json'), new_search)
+# df = TELEPY.doQuery(155, rows, 0, 3, 0)
 
-                if matches_to_get > TELEPY.read_initial_json(company + '(' + str(match) + ')') and match == 0:
-                    print("->" + bcolors.ITALICS,
-                          'Matches to get reduced ' + bcolors.UNDERLINE + 'from ' + str(matches_to_get) + ' to ' + str(
-                              TELEPY.read_initial_json(company + '(' + str(match) + ')')) + bcolors.ENDC)
+# print(bcolors.WARNING + '\nIt took', humanfriendly.format_timespan(time.time() - start), 'seconds to fetch',
+#       len(os.listdir("output/json/")), 'JSON files, from which',
+#       len((df['matches (starting at 0)'] == 0).unique().astype(int)) - 1, 'are empty\n', bcolors.ENDC)
 
-                    matches_to_get = TELEPY.read_initial_json(company + '(' + str(match) + ')')
-
-                    zero_matches_to_get.append(matches_to_get)
-                elif matches_to_get <= TELEPY.read_initial_json(company + '(' + str(match) + ')') and match == 0:
-                    matches_to_get = matches_to_get - 1
-
-                    zero_matches_to_get.append(matches_to_get)
-
-                print(bcolors.OKGREEN + str(row) + " - " + company + bcolors.ENDC + ": Processed " + str(
-                    starting_point + 1) + " of " + str(matches_to_get + 1) + " JSON files",
-                      end='\n----------------------\n' if (row == rows - 1 and match == matches_to_get) else '\r')
-
-                starting_point += 1
-                match += 1
-            except Exception as e:
-                app = app + 1
-                print(e)
-                print("\n--------------------\n\nTrying app " + str(app) + ": \n")
-                if app == 250:
-                    print('\n\n--> No more apps from which to source of. Aborting.')
-                    app = 1
-                continue
-            break
-
-df['matches (starting at 0)'] = zero_matches_to_get
-print(df)
-
-print(bcolors.WARNING + '\nIt took', "{0:.2f}".format(time.time() - start), 'seconds to fetch',
-      len(os.listdir("output/json/")), 'JSON files, from which',
-      len((df['matches (starting at 0)'] == 0).unique().astype(int)) - 1, 'are empty\n', bcolors.ENDC)
-
-TELEPY.convert_to_csv()
+#TELEPY.convert_to_csv()
 
 TELEPY.unify_companies(df, rows)
 

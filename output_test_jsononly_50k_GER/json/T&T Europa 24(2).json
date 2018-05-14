@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 21,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1980,
+                "id": 1472122,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sentheim",
+                                "postalCode": "68780",
+                                "street1": "5, rue du canal"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0389385700"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Automobiles Dangel",
+                "numFollowers": 551,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.dangel.com"
+            }
+        ]
+    }
+}

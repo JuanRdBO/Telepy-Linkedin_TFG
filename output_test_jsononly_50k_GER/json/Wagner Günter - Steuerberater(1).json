@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7374080,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ramstein-Miesenbach",
+                                "postalCode": "66877",
+                                "street1": "3 Landstuhler Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0637170966"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gunter Wagner",
+                "numFollowers": 0,
+                "websiteUrl": "naehmaschinen-wagner.de"
+            }
+        ]
+    }
+}

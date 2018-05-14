@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1988,
+                "id": 5302226,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "47",
+                            "name": "Contabilidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Clayton",
+                                "postalCode": "63105",
+                                "street1": "8008 Carondelet Ave"
+                            },
+                            "contactInfo": {
+                                "fax": "(314)727-2970",
+                                "phone1": "(314)725-0324"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Becker and Rosen CPAs LLC",
+                "numFollowers": 58,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Accounting Services",
+                        "Tax Planning",
+                        "Payroll Services",
+                        "Tax Management"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.brcpallc.com/Home"
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 1097,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "H",
+                    "name": "5001-10000"
+                },
+                "foundedYear": 1998,
+                "id": 1180171,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "123",
+                            "name": "Subcontrataciones/Offshoring"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Vienna",
+                                "postalCode": "1050",
+                                "street1": "Spengergasse 37"
+                            },
+                            "contactInfo": {
+                                "fax": "+43-1/811 22-3344",
+                                "phone1": "+43-1/811 22-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Bratislava",
+                                "postalCode": "831 04",
+                                "street1": "Kalin\u010diakova"
+                            },
+                            "contactInfo": {
+                                "fax": "+421-2/3301-7100",
+                                "phone1": "+421-2/3301-7000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bucharest",
+                                "postalCode": "030352",
+                                "street1": "Blvd Basarabia"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Istanbul",
+                                "postalCode": "34408",
+                                "street1": "Ka\u011f\u0131thane"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10245",
+                                "street1": "Stralauer Allee 2"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Competence Call Center",
+                "numFollowers": 5973,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Outsourcing",
+                        "Inbound Call Center",
+                        "BPO",
+                        "Backoffice Call Center",
+                        "Outbound Call Center",
+                        "CCC BESTshoring",
+                        "Social Media",
+                        "Written Services"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.yourccc.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "id": 1138717,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hannover",
+                                "postalCode": "30159",
+                                "street1": "Osterstra\u00dfe 31"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Deutsche Hypothekenbank (Actien-Gesellschaft)",
+                "numFollowers": 263,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Office buildings",
+                        "Commercial buildings",
+                        "Retail properties",
+                        "Hotels",
+                        "Logistics properties",
+                        "Medium to long-term existing finance",
+                        "Financing of project developments and refurbishments"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.deutsche-hypo.de"
+            }
+        ]
+    }
+}

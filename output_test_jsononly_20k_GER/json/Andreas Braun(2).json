@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "id": 11047055,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Essen",
+                                "postalCode": "45356",
+                                "street1": "Weidkamp 180"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Der Andreas Braun Versicherungsmakler",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Vorsorgevollmacht",
+                        "Pflegeversicherung",
+                        "Gewerbe",
+                        "s\u00e4mtliche Bereiche durch Expertennetzwerk",
+                        "Onlineberatung",
+                        "Finanzdienstleistung",
+                        "Erfolgserprobte Mitarbeiterbindung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.mein-makler.online"
+            }
+        ]
+    }
+}

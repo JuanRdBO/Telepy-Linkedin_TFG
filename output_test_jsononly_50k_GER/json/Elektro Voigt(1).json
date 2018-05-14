@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12883278,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Altenfeld",
+                                "postalCode": "98701",
+                                "street1": "42 Grundstra\u00dfe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Elektro Voigt Altenfeld",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.elektrovoigt.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2010,
+                "id": 10984217,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "19",
+                            "name": "Industria textil y moda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Corte Franca",
+                                "postalCode": "25040",
+                                "street1": "Via Roma 78"
+                            },
+                            "contactInfo": {
+                                "fax": "1782225097",
+                                "phone1": "0309828297"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Emporio Italiano Uomo",
+                "numFollowers": 5,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Abbigliamento Uomo",
+                        "Camicie no-stiro Olymp"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.emporioitalianouomo.com"
+            }
+        ]
+    }
+}

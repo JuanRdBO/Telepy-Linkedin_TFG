@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7519810,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "33",
+                            "name": "Deportes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Freising",
+                                "postalCode": "85354",
+                                "street1": "D\u00fcwellstra\u00dfe 18B"
+                            },
+                            "contactInfo": {
+                                "phone1": "01735470523"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Markus Friedrich Personal Training",
+                "numFollowers": 1,
+                "websiteUrl": "friedrich-training.de"
+            }
+        ]
+    }
+}

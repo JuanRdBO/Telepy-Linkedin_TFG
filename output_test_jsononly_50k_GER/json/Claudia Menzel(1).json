@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12392343,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Goslar",
+                                "postalCode": "38640",
+                                "street1": "1 Untere Schildwache"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 532124770"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Claudia Menzel",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.praxis-menzel-goslar.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12321246,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lommatzsch"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3524182080"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "\u00d6lm\u00fchle Moog GmbH",
+                "numFollowers": 15,
+                "websiteUrl": "http://www.bioplanete.com"
+            }
+        ]
+    }
+}

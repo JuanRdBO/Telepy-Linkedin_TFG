@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2781,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1784,
+                "id": 43766,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "68",
+                            "name": "Ense\u00f1anza superior"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Worcester",
+                                "postalCode": "01609-2165",
+                                "street1": "61 Sever St"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Becker College",
+                "numFollowers": 10918,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Higher Education",
+                        "Computer Game Design",
+                        "Animal Science",
+                        "Nursing",
+                        "Criminal Justice"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "becker.edu"
+            }
+        ]
+    }
+}

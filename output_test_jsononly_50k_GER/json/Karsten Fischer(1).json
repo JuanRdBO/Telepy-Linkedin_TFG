@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12289412,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "N\u00fcrtingen",
+                                "postalCode": "72622",
+                                "street1": "6 Schillerpl."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 702239414"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Zahnarzt Karsten Fischer",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.zahnarzt-karsten-fischer.de"
+            }
+        ]
+    }
+}

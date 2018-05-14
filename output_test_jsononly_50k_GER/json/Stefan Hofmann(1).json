@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7494680,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sankt Johann",
+                                "postalCode": "56727",
+                                "street1": "13 Kirchstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "026516423"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Stefan Hofmann GmbH Bedachungen",
+                "numFollowers": 0,
+                "websiteUrl": "bedachungen-stefan-hofmann.de"
+            }
+        ]
+    }
+}

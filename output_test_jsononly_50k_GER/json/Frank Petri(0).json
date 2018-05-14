@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7330618,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Buchholz in der Nordheide",
+                                "postalCode": "21244",
+                                "street1": "21 Heimgartenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "041813800890"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Direct PC-Service - Frank Petri-Ehlert",
+                "numFollowers": 0,
+                "websiteUrl": "direct-pc-service.de"
+            }
+        ]
+    }
+}

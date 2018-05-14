@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 115,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1989,
+                "id": 10045588,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New Delhi",
+                                "postalCode": "110030",
+                                "street1": "Mansarover Building, Ground & 1st Floor, Khasra No. 366,"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+91-11-26801477"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Teamwork Arts",
+                "numFollowers": 407,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Event Conception & Development",
+                        "Festival Curation & Artist Liason",
+                        "Integrated Communication, Multimedia & Design",
+                        "Original Theatre Productions",
+                        "Original Films, Documentaries & TV Production",
+                        "Line Production & Management"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://teamworkarts.com/"
+            }
+        ]
+    }
+}

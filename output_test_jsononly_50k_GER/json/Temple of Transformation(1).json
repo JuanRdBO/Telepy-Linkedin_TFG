@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 32,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2007,
+                "id": 3793164,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "San Francisco",
+                                "postalCode": "94105",
+                                "street1": "540 Howard Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(415) 978-9942"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Temple Entertainment",
+                "numFollowers": 99,
+                "specialties": {
+                    "_total": 16,
+                    "values": [
+                        "Nightclub",
+                        "Entertainment",
+                        "Music Label",
+                        "Artist Management",
+                        "Live Events",
+                        "Event Production",
+                        "Electronic Dance Music",
+                        "Media Production",
+                        "Radio Station",
+                        "Music Studio",
+                        "TV Station",
+                        "Video Production",
+                        "Live Entertainment",
+                        "VIP Bottle Service",
+                        "Event Venue",
+                        "Artist Marketing & Promotion"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.templesf.com"
+            }
+        ]
+    }
+}

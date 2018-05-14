@@ -1,0 +1,94 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2002,
+                "id": 1674926,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": "51063",
+                                "street1": "Schanzenstr. 39E1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "street1": "comevis GmbH & Co. KG"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "street1": "comevis GmbH & Co. KG"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "street1": "comevis GmbH & Co. KG"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "comevis GmbH & Co. KG",
+                "numFollowers": 60,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Multisensorisches Branding & Marketing",
+                        "Audio Branding & Audio Marketing",
+                        "Audio Interface Design & Sounddesign",
+                        "Voice Branding & Voice Marketing",
+                        "Acoustic Ecology",
+                        "Acoustic Performance"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.comevis.com"
+            }
+        ]
+    }
+}

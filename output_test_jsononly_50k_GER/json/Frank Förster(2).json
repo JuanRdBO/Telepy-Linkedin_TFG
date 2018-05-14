@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12502151,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "13357",
+                                "street1": "89 Prinzenallee"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 308200746"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ARTHROZENTRUM Praxis",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.arthrozentrum.de"
+            }
+        ]
+    }
+}

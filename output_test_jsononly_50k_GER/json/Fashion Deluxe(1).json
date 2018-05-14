@@ -1,0 +1,76 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 85,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2005,
+                "id": 466109,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "19",
+                            "name": "Industria textil y moda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10179",
+                                "street1": "K\u00f6penicker Stra\u00dfe 48/49"
+                            },
+                            "contactInfo": {
+                                "fax": "+49-(0)30-69597691",
+                                "phone1": "+49-(0)30-69597690"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Deluxe Distribution GmbH & Co KG",
+                "numFollowers": 485,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Distribution",
+                        "Import",
+                        "Sales Management",
+                        "Public Relations",
+                        "Wholesale",
+                        "Customer Service",
+                        "Logistics",
+                        "Showroom",
+                        "Germany, Austria, Switzerland and Benelux",
+                        "Fashion",
+                        "Footwear",
+                        "Accessories"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.deluxe-distribution.de"
+            }
+        ]
+    }
+}

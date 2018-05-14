@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2013,
+                "id": 9398150,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Horsham",
+                                "postalCode": "RH12 2DT",
+                                "street1": "Registered Office:"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "01483 255977"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Duck Barn Interiors",
+                "numFollowers": 9,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Home furnishings",
+                        "Home accessories",
+                        "Furniture",
+                        "Home Interiors",
+                        "Home decor",
+                        "Gifts",
+                        "Ducks in Wellies",
+                        "Interiors"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.duckbarn.co.uk"
+            }
+        ]
+    }
+}

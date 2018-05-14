@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7376395,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sinsheim",
+                                "postalCode": "74889",
+                                "street1": "26 Wiesenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "072619495071"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Karl Wagner Containerservice",
+                "numFollowers": 0,
+                "websiteUrl": "wagner-containerservice.de"
+            }
+        ]
+    }
+}

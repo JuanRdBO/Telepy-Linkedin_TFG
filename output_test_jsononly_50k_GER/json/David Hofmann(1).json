@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2015,
+                "id": 10657540,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "32",
+                            "name": "Restaurantes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "puigcerd\u00e0",
+                                "postalCode": "17520",
+                                "street1": "cam\u00ed de l'antiga farinera, 3"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "972649412"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "el 600 de la pepi",
+                "numFollowers": 5,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "tapes",
+                        "terrassa",
+                        "arrossos"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.el600delapepi.com"
+            }
+        ]
+    }
+}

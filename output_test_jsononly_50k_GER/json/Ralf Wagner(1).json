@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7493634,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Andernach",
+                                "postalCode": "56626",
+                                "street1": "23 Eisenbahnstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "02632494032"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Reifen & Autoservice, Ralf Wagner",
+                "numFollowers": 2,
+                "websiteUrl": "reifenservicewagner.de"
+            }
+        ]
+    }
+}

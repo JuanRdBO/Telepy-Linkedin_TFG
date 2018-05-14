@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 16,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 20798985,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "122",
+                            "name": "Servicios infraestructurales"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "WORCESTERSHIRE",
+                                "postalCode": "B61 0DF",
+                                "street1": "106 BIRMINGHAM ROAD BROMSGROVE"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "DENNIS HALL MANAGEMENT COMPANY LIMITED",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

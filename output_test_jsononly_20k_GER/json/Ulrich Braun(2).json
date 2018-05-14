@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7368282,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wildberg",
+                                "postalCode": "72218",
+                                "street1": "85/1 Talstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "070545054"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rechtsanwalt Ulrich A. Braun",
+                "numFollowers": 0,
+                "websiteUrl": "wb-automobile.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1977,
+                "id": 9268167,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "117",
+                            "name": "Pl\u00e1sticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Elk Grove Village",
+                                "postalCode": "60007",
+                                "street1": "1290 Brummel Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "847-364-0855"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Helm Tool Company, Inc.",
+                "numFollowers": 72,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Plastic Molding",
+                        "Engineering",
+                        "Tools Designing",
+                        "Tool Manufacturing",
+                        "Die Cast Dies"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.helmtool.com/"
+            }
+        ]
+    }
+}

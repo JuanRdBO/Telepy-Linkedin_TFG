@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2012,
+                "id": 2832960,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10117",
+                                "street1": "Oranienburger Stra\u00dfe 66"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "San Francisco",
+                                "postalCode": "94108",
+                                "street1": "600 California Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Uberall",
+                "numFollowers": 1380,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Location Marketing",
+                        "Engagement",
+                        "Analytics",
+                        "Location Control",
+                        "Listings",
+                        "Store Locator",
+                        "Reputation Management",
+                        "Social Media Management",
+                        "Retail"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.uberall.com"
+            }
+        ]
+    }
+}

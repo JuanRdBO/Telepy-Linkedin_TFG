@@ -1,0 +1,87 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1966,
+                "id": 5350715,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Indiana",
+                                "postalCode": "15701",
+                                "street1": "56 S 6th St"
+                            },
+                            "contactInfo": {
+                                "fax": "724-349-9310",
+                                "phone1": "724-349-9270"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Homer City",
+                                "postalCode": "15748",
+                                "street1": "12 N. Main St."
+                            },
+                            "contactInfo": {
+                                "fax": "724-479-2655",
+                                "phone1": "724-479-2005"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Thomas M Frick Insurance Agency, LLC",
+                "numFollowers": 38,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Home",
+                        "Auto",
+                        "Life",
+                        "Business",
+                        "Condo",
+                        "Motorcycle",
+                        "Commercial Auto",
+                        "Worker's Compensation",
+                        "Fidelity Bonds",
+                        "Surety Bonds"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.frickins.com/"
+            }
+        ]
+    }
+}

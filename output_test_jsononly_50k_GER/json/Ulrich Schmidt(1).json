@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12482983,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Neuenkirchen",
+                                "postalCode": "49586",
+                                "street1": "1 Von-Galen-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 546592220"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ulrich Schmidt GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.joliente.com"
+            }
+        ]
+    }
+}

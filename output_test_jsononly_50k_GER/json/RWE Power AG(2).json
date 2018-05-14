@@ -1,0 +1,128 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 2000,
+                "id": 6433,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "57",
+                            "name": "Petr\u00f3leo y energ\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 7,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Essen",
+                                "postalCode": "45141",
+                                "street1": "Altenessener Str. 27"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Swindon",
+                                "postalCode": "SN5 6PB",
+                                "street1": "Trigonos"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "EC2R 8HP",
+                                "street1": "60 Threadneedle Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Mumbai",
+                                "postalCode": "400 059",
+                                "street1": "Andheri Kurla Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Singapore",
+                                "postalCode": "048619",
+                                "street1": "9 Raffles Place"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Jakarta",
+                                "postalCode": "10350",
+                                "street1": "Jl. M. H. Thamrin Kav. 28-30"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "New York City",
+                                "street1": "1095 Avenue of the Americas"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "RWE Supply & Trading GmbH",
+                "numFollowers": 11180,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Trading",
+                        "Industrial customers",
+                        "Flex2Market",
+                        "Easy Coommodity Trader (ECT)",
+                        "LNG",
+                        "Gas",
+                        "Asset Management",
+                        "Asset Optimisation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.rwe.com/supplyandtrading"
+            }
+        ]
+    }
+}

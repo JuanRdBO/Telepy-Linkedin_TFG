@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2000,
+                "id": 2223783,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "8",
+                            "name": "Telecomunicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "caracas",
+                                "postalCode": "1051",
+                                "street1": "Final Av la Salle Edf La Vista , Colinas de los Caobos"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0212 7940307"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "PLANETA FM",
+                "numFollowers": 463,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Musica",
+                        "Entretenimiento",
+                        "Show Bussines",
+                        "informacion"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "@planeta1053fm",
+                "websiteUrl": "www.planetafm.com.ve"
+            }
+        ]
+    }
+}

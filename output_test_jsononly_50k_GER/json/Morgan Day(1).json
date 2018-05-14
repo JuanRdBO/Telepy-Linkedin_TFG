@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 190,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1985,
+                "id": 44795,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "King of Prussia",
+                                "postalCode": "19406",
+                                "street1": "160 Clubhouse Rd"
+                            },
+                            "contactInfo": {
+                                "fax": "610-265-5889",
+                                "phone1": "610-265-2800"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Morgan Properties",
+                "numFollowers": 3925,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Residential",
+                        "Property Management",
+                        "Leasing",
+                        "Acquisitions"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "morganprops",
+                "websiteUrl": "www.morgan-properties.com"
+            }
+        ]
+    }
+}

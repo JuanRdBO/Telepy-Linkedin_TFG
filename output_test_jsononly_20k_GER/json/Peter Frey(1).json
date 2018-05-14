@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12194129,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Uffing am Staffelsee",
+                                "postalCode": "82449",
+                                "street1": "1 Achstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 88461700"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Aktivskischule Peter Frey",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.aktivskischule-peterfrey.de"
+            }
+        ]
+    }
+}

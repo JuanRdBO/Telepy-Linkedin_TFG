@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12827685,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bonn",
+                                "postalCode": "53179",
+                                "street1": "37 Rheinstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 228935530"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Thomas Gerhardt",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.nephrologie-bonn.de"
+            }
+        ]
+    }
+}

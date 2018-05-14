@@ -1,0 +1,83 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2015,
+                "id": 11435828,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "105",
+                            "name": "Formaci\u00f3n profesional"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Munich",
+                                "postalCode": "80333",
+                                "street1": "Dear Future Munich"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10435",
+                                "street1": "Dear Future Berlin"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70180",
+                                "street1": "Dear Future Stuttgart"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Dear Future",
+                "numFollowers": 0,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Millenials",
+                        "Business Coaching",
+                        "Life Coaching",
+                        "F\u00fchrung",
+                        "Neu Orientierung",
+                        "Start Ups",
+                        "Gr\u00fcnder",
+                        "Coaching",
+                        "Authentic Leadership"
+                    ]
+                },
+                "websiteUrl": "www.dearfuture.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12201606,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pforzheim",
+                                "postalCode": "75179",
+                                "street1": "25 Rastatter Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 358130735"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dilei Immobilien GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.dilei.de"
+            }
+        ]
+    }
+}

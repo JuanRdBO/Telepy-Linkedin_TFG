@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7519719,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Cottbus",
+                                "postalCode": "03050",
+                                "street1": "15 Madlower Hauptstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0355541014"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bernd Walter Heizung Und Sanit\u00e4r",
+                "numFollowers": 0,
+                "websiteUrl": "walter-installation.de"
+            }
+        ]
+    }
+}

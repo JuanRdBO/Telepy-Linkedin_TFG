@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7408570,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "22083",
+                                "street1": "146 Hamburger Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "040807912022"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rechtsanwalt Henning Werner",
+                "numFollowers": 0,
+                "websiteUrl": "rhs-recht.de"
+            }
+        ]
+    }
+}

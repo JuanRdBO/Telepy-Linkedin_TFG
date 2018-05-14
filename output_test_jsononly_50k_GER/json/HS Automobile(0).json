@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1971,
+                "id": 18362323,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London ",
+                                "postalCode": "EC1V 2NX",
+                                "street1": "Kemp House, City Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "HS Trading ",
+                "numFollowers": 0,
+                "specialties": {
+                    "_total": 18,
+                    "values": [
+                        "British Export ",
+                        "Chinese Import",
+                        "Food Wholesale",
+                        "Automobile Trade",
+                        "Arts & Collectibles",
+                        "Shipping ",
+                        "Baby Products Wholesale ",
+                        "Water Wholesale ",
+                        "Commodities Export ",
+                        "Pharmaceutical Export ",
+                        "Baby Product Export ",
+                        "Commodities Wholesale ",
+                        "Automobile Export ",
+                        "Import/Export",
+                        "Containers",
+                        "Chemical Export ",
+                        "Chinese Wholesale ",
+                        "Alibaba Export"
+                    ]
+                },
+                "websiteUrl": "https://hs-trading.com"
+            }
+        ]
+    }
+}

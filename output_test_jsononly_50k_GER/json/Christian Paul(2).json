@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 239,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 19850710,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "26",
+                            "name": "Mobiliario"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "PENRYN",
+                                "postalCode": "TR10 8LH",
+                                "street1": "5 COLLEGE HILL"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "CHRISTIAN PAUL LTD",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.christianpaul.co.uk"
+            }
+        ]
+    }
+}

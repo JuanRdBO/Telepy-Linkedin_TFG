@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 49,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 8434370,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "135",
+                            "name": "Ingenier\u00eda industrial o mec\u00e1nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Riedlingen",
+                                "postalCode": "88499",
+                                "street1": "Industriestr. 18"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 737118"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "FEINGUSS BLANK GmbH Gie\u00dferei",
+                "numFollowers": 59,
+                "websiteUrl": "http://www.feinguss-blank.de"
+            }
+        ]
+    }
+}

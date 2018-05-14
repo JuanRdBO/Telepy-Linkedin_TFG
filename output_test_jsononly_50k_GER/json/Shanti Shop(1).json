@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12882655,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Halle",
+                                "postalCode": "06108",
+                                "street1": "46 Leipziger Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3456826882"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Shanti Shop Halle",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.shantishop-halle-saale.de"
+            }
+        ]
+    }
+}

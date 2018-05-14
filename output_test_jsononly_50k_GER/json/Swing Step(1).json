@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 109,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1981,
+                "id": 2378322,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Richfield",
+                                "postalCode": "53076",
+                                "street1": "2647 Hwy 175"
+                            },
+                            "contactInfo": {
+                                "fax": "2626441320",
+                                "phone1": "2626441300"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hy-Brid Lifts by Custom Equipment, LLC",
+                "numFollowers": 382,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Scissor Lifts",
+                        "Lifting Equipment",
+                        "Lifting Platforms",
+                        "Working Platforms",
+                        "Elevated Work Platform",
+                        "Lift Rental",
+                        "Lifting Equipment Rental",
+                        "Low Step Lift",
+                        "Low-Level Access",
+                        "Aerial Equipment",
+                        "Lightweight Scissor Lifts",
+                        "Lifting Safety",
+                        "Scissor Lift Training",
+                        "Aerial Lifts"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.hybridlifts.com"
+            }
+        ]
+    }
+}

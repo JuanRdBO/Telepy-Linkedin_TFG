@@ -1,0 +1,94 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2009,
+                "id": 10094117,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "135",
+                            "name": "Ingenier\u00eda industrial o mec\u00e1nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "SHARJAH",
+                                "postalCode": "8122",
+                                "street1": "SHARJAH AIRPORT FREE ZONE"
+                            },
+                            "contactInfo": {
+                                "fax": "+97165570461",
+                                "phone1": "+97165570460"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "RIYADH",
+                                "postalCode": "11542",
+                                "street1": "AL NAHDA-OBEIDA AL HIRATH 6903"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "NAVI MUMBAI",
+                                "postalCode": "",
+                                "street1": "201,202 SHIV CHAMBERS"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "3A SOLUTIONS",
+                "numFollowers": 84,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Manufacturing of Industrial Filter Cages",
+                        "Representing Honeywell Fall Protection Systems in this region",
+                        "Representing Rohm Gmbh Clamping Solutions in this region.",
+                        "Representing WATTCO INC -Canada for Electrical Heaters"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www,3aholding.com"
+            }
+        ]
+    }
+}

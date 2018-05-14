@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2000,
+                "id": 5348507,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "17",
+                            "name": "Dispositivos m\u00e9dicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Friedberg",
+                                "postalCode": "86316",
+                                "street1": "Humboldtstr. 9"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "MedX5 GmbH & Co. KG",
+                "numFollowers": 42,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Training und Ausbildung in Wiederbelebung",
+                        "Defibrillatoren Vertrieb von HeartSine",
+                        "AVD L\u00f6schmittel",
+                        "Unternehmensberatung",
+                        "Defibrillatoren Standorte",
+                        "Gesundheitsvorsorge",
+                        "Lithium-Ionen-Akku L\u00f6schspray",
+                        "Brandschutz"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.medx5.de"
+            }
+        ]
+    }
+}

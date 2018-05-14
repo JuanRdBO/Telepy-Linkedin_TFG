@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 23,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2012,
+                "id": 3102809,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "144",
+                            "name": "Energ\u00eda renovable y medio ambiente"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Avignon",
+                                "postalCode": "84000",
+                                "street1": "Avignon"
+                            },
+                            "contactInfo": {
+                                "fax": "+33 (0) 8 11 48 86 74",
+                                "phone1": "+33 (0) 9 70 40 74 88"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Liwipo",
+                "numFollowers": 252,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Environnement",
+                        "hydrocarbures",
+                        "Pollution",
+                        "Incendies et feux"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.liwipo.com"
+            }
+        ]
+    }
+}

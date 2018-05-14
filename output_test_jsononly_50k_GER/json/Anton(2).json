@@ -1,0 +1,99 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 2044,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2002,
+                "id": 67191,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "47",
+                            "name": "Contabilidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Denver",
+                                "postalCode": "80203",
+                                "street1": "303 East 17th Avenue, Suite 600"
+                            },
+                            "contactInfo": {
+                                "fax": "970.830.1120",
+                                "phone1": "303.830.1120"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Greeley",
+                                "postalCode": "80634",
+                                "street1": "32015 Clubhouse Dr., Suite 203"
+                            },
+                            "contactInfo": {
+                                "fax": "970.352.1708",
+                                "phone1": "970.352.1700"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Boulder",
+                                "postalCode": "80301",
+                                "street1": "4999 Pearl East Circle, Suite 300"
+                            },
+                            "contactInfo": {
+                                "fax": "303.440.0399",
+                                "phone1": "303.440.0399"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Anton Collins Mitchell LLP",
+                "numFollowers": 2100,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Tax Services - individual, corporate, international",
+                        "Business Consulting",
+                        "Audit and review services",
+                        "Employee Benefit Plans",
+                        "Nonprofit Organizations",
+                        "Real Estate and Construction",
+                        "Governmental Entities",
+                        "Virtual Business Solutions",
+                        "Manufacturing and Distribution"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.acmllp.com"
+            }
+        ]
+    }
+}

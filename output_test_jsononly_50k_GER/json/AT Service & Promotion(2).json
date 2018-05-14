@@ -1,0 +1,83 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10742,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1978,
+                "id": 77408,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "104",
+                            "name": "Dotaci\u00f3n y selecci\u00f3n de personal"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Amsterdam Zuidoost",
+                                "postalCode": "1101 BA",
+                                "street1": "Hoogoorddreef 15"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+31 (0) 20 496 4666"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Promotion Partners",
+                "numFollowers": 1987,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Sales Staffing",
+                        "Sales Promotions",
+                        "Hostess Service",
+                        "Travel Retail",
+                        "Product and Brand Promotions",
+                        "Cosmetics Sales",
+                        "Fashion Sales"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.promotionpartners.nl"
+            }
+        ]
+    }
+}

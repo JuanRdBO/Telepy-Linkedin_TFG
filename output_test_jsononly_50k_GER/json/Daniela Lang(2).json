@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7479090,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Edenkoben",
+                                "postalCode": "67480",
+                                "street1": "1 Friedhofstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "06323981422"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Lang Daniela Dr. Med.",
+                "numFollowers": 0,
+                "websiteUrl": "hautarzt-edenkoben.de"
+            }
+        ]
+    }
+}

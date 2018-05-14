@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2001,
+                "id": 10071958,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "130",
+                            "name": "Gabinetes estrat\u00e9gicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kyiv",
+                                "postalCode": "01030",
+                                "street1": "Volodymyrska Str. 42, office 21"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+38(044)238-6843"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Institute for Euro-Atlantic Cooperation (Kyiv)",
+                "numFollowers": 102,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "European Integration",
+                        "Security and Defense",
+                        "Foreign Policy",
+                        "Civil Society",
+                        "International Relations",
+                        "Ukraine",
+                        "Eastern Partnership",
+                        "Democratization"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "ieac.org.ua"
+            }
+        ]
+    }
+}

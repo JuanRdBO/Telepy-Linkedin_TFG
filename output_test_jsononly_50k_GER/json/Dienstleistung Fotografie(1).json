@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 17,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2002,
+                "id": 2381108,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "140",
+                            "name": "Dise\u00f1o gr\u00e1fico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bocholt",
+                                "postalCode": "46395",
+                                "street1": "Franzstr. 30"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 2871 2519-99",
+                                "phone1": "+49 2871 2519-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "deutz fotografie | werbung",
+                "numFollowers": 26,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Fotografie",
+                        "Grafikdesign",
+                        "\u00d6ffentlichkeitsarbeit",
+                        "Social Media"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.deutz-werbung.de"
+            }
+        ]
+    }
+}

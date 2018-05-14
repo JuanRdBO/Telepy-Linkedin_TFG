@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1996,
+                "id": 1601541,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "54",
+                            "name": "Productos qu\u00edmicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "La estrella",
+                                "postalCode": "",
+                                "street1": "Calle 98 sur No. 48- 270"
+                            },
+                            "contactInfo": {
+                                "fax": "(4) 306 91 11",
+                                "phone1": "(4) 4487823"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Grupo ABC Leder SAS",
+                "numFollowers": 54,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "qu\u00edmica",
+                        "curtiembre",
+                        "asesor\u00eda t\u00e9cnica",
+                        "asesor\u00eda comercial",
+                        "tanning"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.abcleder.com"
+            }
+        ]
+    }
+}

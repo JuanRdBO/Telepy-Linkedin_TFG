@@ -1,0 +1,47 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 18,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 8638558,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "112",
+                            "name": "Manufactura el\u00e9ctrica y electr\u00f3nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bingen Am Rhein",
+                                "street1": "Heckengasse 8"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6725963896"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Peter Schmitt GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.peterschmitt.de"
+            }
+        ]
+    }
+}

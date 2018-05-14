@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12710008,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "19",
+                            "name": "Industria textil y moda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rottach-Egern",
+                                "postalCode": "83700",
+                                "street1": "23 Seestrasse"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 802295437"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Anna Maier",
+                "numFollowers": 6,
+                "websiteUrl": "http://www.anna-maier.de"
+            }
+        ]
+    }
+}

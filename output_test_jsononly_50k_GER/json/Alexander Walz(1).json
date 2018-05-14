@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7345322,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Nagold",
+                                "postalCode": "72202",
+                                "street1": "52 T\u00fcbinger Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "074592250"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Alexander Walz Zeltverleih",
+                "numFollowers": 0,
+                "websiteUrl": "zeltverleihwalz.de"
+            }
+        ]
+    }
+}

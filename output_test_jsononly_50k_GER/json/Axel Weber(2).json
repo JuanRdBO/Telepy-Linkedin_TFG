@@ -1,0 +1,119 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 10526643,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40221",
+                                "street1": "Speditionstrasse 17"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 211 692240-22",
+                                "phone1": "+49 211 602240-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Wuppertal",
+                                "postalCode": "42103",
+                                "street1": "Wall 21 (Entrance at Turmhof)"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 202 255 505-5",
+                                "phone1": "+49 202 255 505-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "EC1R 0DB",
+                                "street1": "Aylesbury House, 17-18 Aylesbury Street"
+                            },
+                            "contactInfo": {
+                                "fax": "+44 20 7490 5060",
+                                "phone1": "+44 20 7553 9930"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Frankfurt",
+                                "postalCode": "60322",
+                                "street1": "Eschersheimer Landstrasse 6"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 74749-100",
+                                "phone1": "+49 69 74749-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "75017",
+                                "street1": "72 boulevard de Courcelles"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ebl EEIG (European Business Lawyers)",
+                "numFollowers": 7,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Legal advice with highly recommended expertise in EU key jurisdictions",
+                        "Corporate and Commercial Law",
+                        "Cross-boarder legal advice",
+                        "Labour Law"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ebl-law.com"
+            }
+        ]
+    }
+}

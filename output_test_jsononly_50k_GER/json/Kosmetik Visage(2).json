@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7374293,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "18",
+                            "name": "Cosm\u00e9tica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mannheim",
+                                "postalCode": "68305",
+                                "street1": "225 Obere Riedstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "06217502996"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Visage Kosmetik",
+                "numFollowers": 0,
+                "websiteUrl": "kosmetik-visage.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 15101933,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "68",
+                            "name": "Ense\u00f1anza superior"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Monastir",
+                                "postalCode": "5000",
+                                "street1": "Avenue Taher Hadded B.P 56"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Universit\u00e9 de Monastir",
+                "numFollowers": 3057,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "http://www.um.rnu.tn/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 22974563,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "13",
+                            "name": "Profesiones m\u00e9dicas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "TRONDHEIM",
+                                "postalCode": "7043",
+                                "street1": "bernhard Getz gate 15B"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "FRANZ\u00c9N KARL \u00c5KE NILS GUNNAR",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

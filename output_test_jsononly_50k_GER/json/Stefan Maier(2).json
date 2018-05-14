@@ -1,0 +1,43 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7367202,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mannheim",
+                                "postalCode": "68305",
+                                "street1": "144 Am Herrschaftswald"
+                            },
+                            "contactInfo": {
+                                "phone1": "0621742866"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Stefan Maier Versicherungsmakler GmbH",
+                "numFollowers": 1
+            }
+        ]
+    }
+}

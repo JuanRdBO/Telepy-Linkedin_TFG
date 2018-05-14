@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7334012,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gl\u00fccksburg (Ostsee)",
+                                "postalCode": "24960",
+                                "street1": "1a Sandwigstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "046314061140"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr.med. J\u00f6rg Schreiber",
+                "numFollowers": 0,
+                "websiteUrl": "dok-schreiber.de"
+            }
+        ]
+    }
+}

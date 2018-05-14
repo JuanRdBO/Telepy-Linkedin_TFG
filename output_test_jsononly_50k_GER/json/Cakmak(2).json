@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 55,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1992,
+                "id": 3246233,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "49",
+                            "name": "Materiales de construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "\u0130stanbul",
+                                "postalCode": "",
+                                "street1": "Ortaklar Caddesi Bah\u00e7eler Sokak 18 \u0130\u015f Merkezi No:18/2"
+                            },
+                            "contactInfo": {
+                                "fax": "0212 347 95 50",
+                                "phone1": "0212 347 95 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "\u00c7akmak Yap\u0131",
+                "numFollowers": 97,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Yap\u0131 Malzemeleri \u0130thalat\u0131",
+                        "Perakende Sat\u0131\u015f",
+                        "Banyo Dekorasyonu",
+                        "Proje Sat\u0131\u015f\u0131"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.cakmak.net"
+            }
+        ]
+    }
+}

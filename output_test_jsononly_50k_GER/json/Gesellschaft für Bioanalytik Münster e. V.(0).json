@@ -1,0 +1,60 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2000,
+                "id": 18395409,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "114",
+                            "name": "Nanotecnolog\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnster",
+                                "postalCode": "48149",
+                                "street1": "Mendelstr. 17"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gesellschaft f\u00fcr Bioanalytik M\u00fcnster e.V.",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "nanotechnology",
+                        "nanobioanalytikcs",
+                        "nanomedicine",
+                        "regional network",
+                        "bioanalytics",
+                        "regional developement"
+                    ]
+                },
+                "websiteUrl": "www.bioanalytik-muenster.de"
+            }
+        ]
+    }
+}

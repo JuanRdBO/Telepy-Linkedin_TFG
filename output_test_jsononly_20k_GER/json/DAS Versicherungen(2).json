@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 501,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 2013,
+                "id": 3116425,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10179",
+                                "street1": "Klosterstr. 62"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "01733464748"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "N26",
+                "numFollowers": 17294,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Mobile Banking",
+                        "Fintech",
+                        "Financial Services"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.n26.com"
+            }
+        ]
+    }
+}

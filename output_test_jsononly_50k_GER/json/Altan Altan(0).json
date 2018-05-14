@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 129,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 2016,
+                "id": 11074158,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "8",
+                            "name": "Telecomunicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "CDMX",
+                                "postalCode": "03810",
+                                "street1": "DAKOTA 95  -  COLONIA NAPOLES"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ALT\u00c1N REDES",
+                "numFollowers": 6874,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "BANDA ANCHA MOVIL",
+                        "COBERTURA DE SERVICIOS DE COMUNICACI\u00d3N INAL\u00c1MBRICOS",
+                        "RED 4G-LTE",
+                        "EMPRESA B2B"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.altanredes.com"
+            }
+        ]
+    }
+}

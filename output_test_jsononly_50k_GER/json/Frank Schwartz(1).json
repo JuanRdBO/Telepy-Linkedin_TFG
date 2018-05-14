@@ -1,0 +1,133 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1984,
+                "id": 10447613,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 8,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Simmerath",
+                                "postalCode": "52152",
+                                "street1": "Edisonstra\u00dfe 5"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Kunshan City",
+                                "postalCode": "215321",
+                                "street1": "278 JuJin Road, Zhangpu Town"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Peking",
+                                "postalCode": "Chaoyang District",
+                                "street1": "No.30 Xiaguangli"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Naperville",
+                                "postalCode": "60540",
+                                "street1": "1665 Quincy Ave."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Aachen",
+                                "postalCode": "52076",
+                                "street1": "Nerscheider Weg 170"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Chongqing City",
+                                "postalCode": "Li Ren Town",
+                                "street1": "Lija Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Guangzhou",
+                                "postalCode": "Taihe Town, Baiyun District",
+                                "street1": "No. 112-121, A2, North Feng Feng freight market"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Beijing ",
+                                "postalCode": "101300",
+                                "street1": "No.1 Lingang Road   "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "schwartz GmbH",
+                "numFollowers": 83,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "W\u00e4rmebehandlungsanlagen f\u00fcr das Pressh\u00e4rten",
+                        "W\u00e4rmebehandlungsanlagen f\u00fcr Aluminium"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://schwartz-wba.com/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2001,
+                "id": 10589747,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Fredericia",
+                                "postalCode": "7000",
+                                "street1": "Adelvej 34"
+                            },
+                            "contactInfo": {
+                                "fax": "76223092",
+                                "phone1": "70223092"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Installationsgruppen, en del af Hoffmann A/S",
+                "numFollowers": 58,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Komfortventilation",
+                        "Indudtriventilation",
+                        "Udsugningsanl\u00e6g",
+                        "K\u00f8l",
+                        "Service p\u00e5 teknikske installationer"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.installationsgruppen.dk/"
+            }
+        ]
+    }
+}

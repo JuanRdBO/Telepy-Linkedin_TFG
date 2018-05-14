@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 14,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7513636,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00f6mlingen",
+                                "postalCode": "63853",
+                                "street1": "5 Am Schlaggraben"
+                            },
+                            "contactInfo": {
+                                "phone1": "06022681860"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Peter Stein Dreherei & Werkzeu Gbau GmbH",
+                "numFollowers": 2,
+                "websiteUrl": "peterstein-werkzeugbau.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2017,
+                "id": 27193343,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oberhausen",
+                                "postalCode": "46119",
+                                "street1": "Vogesenstra\u00dfe 30b"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Waidlife GmbH",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "jagd",
+                        "onlineshop",
+                        "Mode",
+                        "Accessoires",
+                        "Kulinarisches"
+                    ]
+                },
+                "websiteUrl": "www.waidlife.com"
+            }
+        ]
+    }
+}

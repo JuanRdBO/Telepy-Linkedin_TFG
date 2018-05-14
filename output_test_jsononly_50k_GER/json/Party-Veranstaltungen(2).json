@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 44,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12511451,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lohe-Rickelshof",
+                                "postalCode": "25746",
+                                "street1": "7 Halligweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 4812931"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Party Service Wurms, Heide",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.party-service-wurms.de"
+            }
+        ]
+    }
+}

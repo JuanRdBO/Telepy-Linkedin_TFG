@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 14,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 28249820,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "32",
+                            "name": "Restaurantes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Brasilia",
+                                "postalCode": "70361-520",
+                                "street1": "Loc Crs 511 Bloco B, S/N, Loja 61"
+                            },
+                            "contactInfo": {
+                                "phone1": "+55 6133464030"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Restaurante Roma",
+                "numFollowers": 0,
+                "websiteUrl": "restauranteroma.com.br"
+            }
+        ]
+    }
+}

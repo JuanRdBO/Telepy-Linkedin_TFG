@@ -1,0 +1,87 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2003,
+                "id": 1261089,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20354",
+                                "street1": "Neuer Wall 10"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(0)40 881414-10"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Bad Homburg",
+                                "postalCode": "61352",
+                                "street1": "Im Atzelnest 3"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "SYZYGY Media GmbH (former uniquedigital GmbH)",
+                "numFollowers": 152,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "SEO",
+                        "SEA",
+                        "Affiliate Marketing",
+                        "Display Advertising",
+                        "Real Time Advertising",
+                        "Mobile Marketing",
+                        "Cross Channel Management",
+                        "Social Media Marketing",
+                        "Retargeting",
+                        "Data Driven Attribution",
+                        "Web Analytics",
+                        "Programmatic"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.syzygy-media.de"
+            }
+        ]
+    }
+}

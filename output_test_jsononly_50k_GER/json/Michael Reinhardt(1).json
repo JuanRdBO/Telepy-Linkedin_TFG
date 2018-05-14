@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1992,
+                "id": 407763,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Fairfield",
+                                "postalCode": "07004",
+                                "street1": "39 Plymouth Street"
+                            },
+                            "contactInfo": {
+                                "fax": "973-244-1666",
+                                "phone1": "973-244-9111"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "LifeSavers Inc",
+                "numFollowers": 45,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "CPR",
+                        "First Aid Training",
+                        "AED & Safety Supplies",
+                        "American Heart Association products"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.lifesaversinc.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2015,
+                "id": 18461573,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Neuenhof",
+                                "postalCode": "5432",
+                                "street1": "Industriestrasse 5"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kita Meister Petz",
+                "numFollowers": 4,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Betreuung im Kleinkinder Bereich",
+                        "Betreuung von KiGa Kindern",
+                        "Betreuung von Hort Kindern",
+                        "Betreuung von Babys"
+                    ]
+                },
+                "websiteUrl": "www.kitameisterpetz.ch"
+            }
+        ]
+    }
+}

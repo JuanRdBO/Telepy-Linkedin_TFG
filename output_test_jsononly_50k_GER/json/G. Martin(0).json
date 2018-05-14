@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 229,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1946,
+                "id": 9255540,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "49",
+                            "name": "Materiales de construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "BOUILLE-LORETZ",
+                                "postalCode": "79290",
+                                "street1": "161 rue de la Jaunaie"
+                            },
+                            "contactInfo": {
+                                "fax": "0549671157",
+                                "phone1": "0549670432"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "G.MARTIN",
+                "numFollowers": 12,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Portes",
+                        "Fen\u00eatres",
+                        "Volets",
+                        "Portail"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.gmartin.fr"
+            }
+        ]
+    }
+}

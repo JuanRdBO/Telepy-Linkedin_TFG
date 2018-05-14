@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 30,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12313899,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gehrden",
+                                "postalCode": "30989",
+                                "street1": "17 Barsingh\u00e4user Str."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Wagner SV Gehrden",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.wagner-gehrden.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 201,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7202923,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {},
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hoffmann GmbH & Co. KG",
+                "numFollowers": 1,
+                "websiteUrl": "hoffmann-prop.com"
+            }
+        ]
+    }
+}

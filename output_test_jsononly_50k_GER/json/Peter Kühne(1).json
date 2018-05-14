@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7706043,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Morley",
+                                "postalCode": "6062",
+                                "street1": "250 Walter Rd W"
+                            },
+                            "contactInfo": {
+                                "phone1": "+61 893758822"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "PETER KUHNE REAL ESTATE",
+                "numFollowers": 4,
+                "websiteUrl": "http://kuhne.com.au"
+            }
+        ]
+    }
+}

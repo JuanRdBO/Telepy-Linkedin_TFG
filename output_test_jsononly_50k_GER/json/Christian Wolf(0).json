@@ -1,0 +1,62 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 19,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1894,
+                "id": 34017,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "68",
+                            "name": "Ense\u00f1anza superior"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Goshen",
+                                "postalCode": "46526-4794",
+                                "street1": "1700 S Main St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Goshen College",
+                "numFollowers": 7577,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Healing the world",
+                        "peace by peace."
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "goshen.edu"
+            }
+        ]
+    }
+}

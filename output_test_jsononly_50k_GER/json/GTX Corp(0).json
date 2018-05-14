@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 76,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2002,
+                "id": 3094522,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Los Angeles",
+                                "postalCode": "90015",
+                                "street1": "117 W. 9th Street, # 1214"
+                            },
+                            "contactInfo": {
+                                "fax": "(213) 489-3062",
+                                "phone1": "(213) 489-3019"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "GTX Corp",
+                "numFollowers": 115,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "GPS Tracking Solutions for the Enterprise",
+                        "2-way GPS Tracking",
+                        "Personal Location Services",
+                        "Gps Apps for iPhone and Android"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://gtxcorp.com"
+            }
+        ]
+    }
+}

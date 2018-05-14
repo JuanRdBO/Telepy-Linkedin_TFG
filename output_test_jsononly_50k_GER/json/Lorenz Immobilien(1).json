@@ -1,0 +1,60 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 9,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1987,
+                "id": 12390918,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Marburg",
+                                "postalCode": "35037",
+                                "street1": "Universit\u00e4tsstra\u00dfe 62"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bauer & Lorenz Immobilien GmbH",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Immobilien",
+                        "Immobilienverkauf",
+                        "Immobilienvermietung",
+                        "Real Estate"
+                    ]
+                },
+                "websiteUrl": "http://www.bauer-immobilien.de"
+            }
+        ]
+    }
+}

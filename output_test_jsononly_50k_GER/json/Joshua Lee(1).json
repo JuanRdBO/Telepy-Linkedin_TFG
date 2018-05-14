@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 14,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1997,
+                "id": 1169504,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "95",
+                            "name": "Naval"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Thalang",
+                                "postalCode": "83110",
+                                "street1": "Ao Po Grand Marina"
+                            },
+                            "contactInfo": {
+                                "fax": "66 76 317 304",
+                                "phone1": "66 76 681 015"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Lee Marine Co Ltd",
+                "numFollowers": 183,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "New Yacht Sales",
+                        "Pre-owned Yacht Sales",
+                        "Superyacht Build"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.leemarine.com"
+            }
+        ]
+    }
+}

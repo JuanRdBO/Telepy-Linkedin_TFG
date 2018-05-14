@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2013,
+                "id": 6389735,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Copenhagen \u00d8",
+                                "postalCode": "2100",
+                                "street1": "Vermundsgade 38 A"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+45 70 20 25 70"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Swipp - hele Danmarks mobilbetaling",
+                "numFollowers": 1953,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Mobile Payments",
+                        "Payment solutions"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.swipp.dk"
+            }
+        ]
+    }
+}

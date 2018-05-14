@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 15518666,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "TEANECK",
+                                "postalCode": "07666",
+                                "street1": "1029 TEANECK ROAD, 2ND FLOOR"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 2018629500"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "LAW OFFICES OF JAN MEYER & ASSOCIATES, P.C.",
+                "numFollowers": 6,
+                "websiteUrl": "http://janmeyerlaw.net"
+            }
+        ]
+    }
+}

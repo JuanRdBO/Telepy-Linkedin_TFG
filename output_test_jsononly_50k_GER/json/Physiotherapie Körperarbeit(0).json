@@ -1,0 +1,47 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "foundedYear": 2018,
+                "id": 10132484,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "139",
+                            "name": "Atenci\u00f3n a la salud mental"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berikon",
+                                "postalCode": "8965",
+                                "street1": "Zopfstrasse 10"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ziit fuer Dich",
+                "numFollowers": 2,
+                "websiteUrl": "www.ziit-fuer-dich.ch"
+            }
+        ]
+    }
+}

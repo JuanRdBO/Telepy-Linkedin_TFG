@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1993,
+                "id": 1640674,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "105",
+                            "name": "Formaci\u00f3n profesional"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lilburn",
+                                "postalCode": "30047",
+                                "street1": "3772 Ivey Lane"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "678-534-2555"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bilingual America",
+                "numFollowers": 210,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "SuccesswithHispanics\u2122  Cultural Leadership Training",
+                        "SpanishPower\u2122  Basic to Expert Spanish Training",
+                        "L\u00edderesExitosos\u2122  Latino Leadership Development Course",
+                        "Ingl\u00e9sPoderoso\u2122  English for Latinos Training"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://bilingualamerica.com"
+            }
+        ]
+    }
+}

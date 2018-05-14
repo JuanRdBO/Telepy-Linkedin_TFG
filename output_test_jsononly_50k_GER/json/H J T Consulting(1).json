@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 22699163,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Braine-le-Comte",
+                                "postalCode": "7090",
+                                "street1": "107 Rue des Postes"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "J.T.H. CONSULTING",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

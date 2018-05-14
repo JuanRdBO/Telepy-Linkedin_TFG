@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7520293,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berga",
+                                "postalCode": "06536",
+                                "street1": "11 Schenkplatz"
+                            },
+                            "contactInfo": {
+                                "phone1": "03465153033"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Blumen Am Schenkplatz Silke Hoffmann",
+                "numFollowers": 0,
+                "websiteUrl": "blumen-am-schenkplatz.de"
+            }
+        ]
+    }
+}

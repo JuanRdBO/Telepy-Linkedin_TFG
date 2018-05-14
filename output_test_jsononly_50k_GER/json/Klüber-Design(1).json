@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2005,
+                "id": 2416596,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "135",
+                            "name": "Ingenier\u00eda industrial o mec\u00e1nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Nairobi",
+                                "postalCode": "",
+                                "street1": "Fedha Business Park"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+254 20 2693100"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Droplex Industrial",
+                "numFollowers": 94,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Automated/Centralized Greasing Systems",
+                        "Lubrication System Design & Installation",
+                        "Lubrication Program Development",
+                        "Lubrication Equipment Maintenance & Repair Services",
+                        "Lubrication Training",
+                        "Lubricants Contamination Control"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.droplex.com"
+            }
+        ]
+    }
+}

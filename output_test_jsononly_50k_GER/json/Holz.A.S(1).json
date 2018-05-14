@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1974,
+                "id": 8475314,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "49",
+                            "name": "Materiales de construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Grevenmacher",
+                                "postalCode": "6776",
+                                "street1": "Z.I. Potaschbierg"
+                            },
+                            "contactInfo": {
+                                "fax": "+352 719092",
+                                "phone1": "+352 719091-1"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "OST Fenster S.\u00e0 r.l.",
+                "numFollowers": 48,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Fenster",
+                        "Holzfenster",
+                        "Holz-Aluminium Fenster",
+                        "T\u00fcren aus Holz",
+                        "T\u00fcren aus Holz-Aluminium",
+                        "Pfosten-Riegel-Fassaden",
+                        "Klapp- und Schiebel\u00e4den",
+                        "Raffstores",
+                        "Rolll\u00e4den",
+                        "Insektenschutz"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.ost.lu"
+            }
+        ]
+    }
+}

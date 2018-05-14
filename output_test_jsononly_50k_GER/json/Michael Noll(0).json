@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2009,
+                "id": 1944340,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "115",
+                            "name": "M\u00fasica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Perth",
+                                "postalCode": "6000",
+                                "street1": "84 Brewer Streey"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Hong Kong",
+                                "postalCode": "",
+                                "street1": "Room 210"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Zaccaria Concerts and Touring",
+                "numFollowers": 121,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Live Concerts",
+                        "Special Events"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.zaccariaconcerts.com.au"
+            }
+        ]
+    }
+}

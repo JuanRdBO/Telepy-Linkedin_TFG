@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12684200,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sonsbeck",
+                                "postalCode": "47665",
+                                "street1": "1 Gelderner Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 1806005850"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Autohaus Stefan Jan\u00dfen",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.ford-janssen-sonsbeck.de"
+            }
+        ]
+    }
+}

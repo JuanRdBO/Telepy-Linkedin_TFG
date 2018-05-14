@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1946,
+                "id": 10325000,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "146",
+                            "name": "Embalaje y contenedores\n"
+                        }
+                    ]
+                },
+                "name": "Pak-Rite Ltd. Michigan",
+                "numFollowers": 30,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.Pak-RiteMichigan.com"
+            }
+        ]
+    }
+}

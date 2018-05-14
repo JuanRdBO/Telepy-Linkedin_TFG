@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 740160,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "15",
+                            "name": "Industria farmac\u00e9utica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Therwil",
+                                "postalCode": "4106",
+                                "street1": "Ringstrasse 29"
+                            },
+                            "contactInfo": {
+                                "fax": "+41 61 725 20 40",
+                                "phone1": "+41 61 725 20 20"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Permamed AG",
+                "numFollowers": 244,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Pharmaceutical preparations for the treatment of skin diseases, rheumatism, sports injuries and vein diseases",
+                        "cosmeceutical products"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.permamed.ch"
+            }
+        ]
+    }
+}

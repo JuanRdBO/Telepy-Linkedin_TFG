@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1981,
+                "id": 11323528,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "33",
+                            "name": "Deportes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60528",
+                                "street1": "Otto-Fleck-Schneise 6"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Hannover",
+                                "postalCode": "30163",
+                                "street1": "Lister Stra\u00dfe 18"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "DFB GmbH",
+                "numFollowers": 560,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Marketing",
+                        "IT",
+                        "Event Management",
+                        "Digital Services",
+                        "Digital Marketing",
+                        "TV Rights",
+                        "Sponsoring",
+                        "Merchandising",
+                        "Events"
+                    ]
+                },
+                "websiteUrl": "https://www.dfb.de/gesellschaften/dfb-gmbh"
+            }
+        ]
+    }
+}

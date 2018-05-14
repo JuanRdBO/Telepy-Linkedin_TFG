@@ -1,0 +1,56 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1998,
+                "id": 2885361,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "17",
+                            "name": "Dispositivos m\u00e9dicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Koln",
+                                "postalCode": "50829 ",
+                                "street1": "Am Wassermann 28"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Alere Technologies GmbH",
+                "numFollowers": 665,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://alere-technologies.com/"
+            }
+        ]
+    }
+}

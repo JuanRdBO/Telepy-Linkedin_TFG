@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1994,
+                "id": 10300714,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "15",
+                            "name": "Industria farmac\u00e9utica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mannheim",
+                                "postalCode": "68199",
+                                "street1": "Pfingstweidstra\u00dfe 10-12"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "PHOENIX All-in-One",
+                "numFollowers": 968,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Health Care Logistics",
+                        "Business Intelligence",
+                        "Patient Services",
+                        "Clinical Trial Supply Services",
+                        "Sales Support",
+                        "Supply Chain Optimisation",
+                        "Partnerships",
+                        "Specialty"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.phoenix-all-in-one.eu"
+            }
+        ]
+    }
+}

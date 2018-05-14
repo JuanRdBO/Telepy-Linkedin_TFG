@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1985,
+                "id": 3924084,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "63",
+                            "name": "Agricultura"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Flemingsburg",
+                                "postalCode": "41041-8784",
+                                "street1": "6147 Morehead Rd"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 6068452011"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Rose Farm Supply",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Equipment Sales",
+                        "Equipment Service",
+                        "Agriculture",
+                        "Construction",
+                        "Commercial Landscaping",
+                        "Home and Garden",
+                        "New Holland Agriculture",
+                        "New Holland Construction",
+                        "Woods Equipment",
+                        "Kuhn Equipment",
+                        "Carhartt"
+                    ]
+                },
+                "websiteUrl": "http://www.rosefarmsupply.com"
+            }
+        ]
+    }
+}

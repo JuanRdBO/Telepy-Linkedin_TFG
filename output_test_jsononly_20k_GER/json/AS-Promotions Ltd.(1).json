@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 30340,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1999,
+                "id": 1077920,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hatfield Peverel",
+                                "postalCode": "CM3 2DP",
+                                "street1": "Merchandise House"
+                            },
+                            "contactInfo": {
+                                "fax": "01245 380758",
+                                "phone1": "01245 382600"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Chelmsford",
+                                "postalCode": "CM3 2DP",
+                                "street1": "The Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "01245 382600"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Allwag Promotions Ltd",
+                "numFollowers": 411,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Promotional merchandise",
+                        "Personalised gifts",
+                        "Corporate clothing",
+                        "Printed promotional products",
+                        "Corporate Gifts "
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "AllwagPromotion",
+                "websiteUrl": "www.allwag.co.uk"
+            }
+        ]
+    }
+}

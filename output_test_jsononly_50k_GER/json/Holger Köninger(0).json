@@ -1,0 +1,55 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 7404833,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "104",
+                            "name": "Dotaci\u00f3n y selecci\u00f3n de personal"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gerlingen",
+                                "postalCode": "70839",
+                                "street1": "Weilimdorfer Stra\u00dfe 74"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Offner, Milde & Partner ",
+                "numFollowers": 9,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Einzel-Outplacment",
+                        "Karriereberatung"
+                    ]
+                },
+                "websiteUrl": "omp-outplacement.de"
+            }
+        ]
+    }
+}

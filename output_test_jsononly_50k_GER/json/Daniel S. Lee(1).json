@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 23,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 886779,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "19",
+                            "name": "Industria textil y moda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York City",
+                                "postalCode": "10001",
+                                "street1": "not published"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "london",
+                                "postalCode": "wc17bs",
+                                "street1": "not published"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Malan Breton",
+                "numFollowers": 3299,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "fashion",
+                        "bridal",
+                        "menswear",
+                        "bespoke",
+                        "womenswear",
+                        "film",
+                        "tv",
+                        "production",
+                        "direction",
+                        "entertainment"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.malanbreton.com"
+            }
+        ]
+    }
+}

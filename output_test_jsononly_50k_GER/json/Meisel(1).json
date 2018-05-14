@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 73,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 154176,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "47",
+                            "name": "Contabilidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Roseland",
+                                "postalCode": "07068",
+                                "street1": "101 Eisenhower Parkway"
+                            },
+                            "contactInfo": {
+                                "fax": "973-228-6551",
+                                "phone1": "973-228-4600"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Meisel, Tuteur & Lewis P.C.",
+                "numFollowers": 2607,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Accounting",
+                        "Auditing",
+                        "Taxation",
+                        "Management Advisory"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.mtlcpa.com"
+            }
+        ]
+    }
+}

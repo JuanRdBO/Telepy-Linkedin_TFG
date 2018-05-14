@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2010,
+                "id": 5210432,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "105",
+                            "name": "Formaci\u00f3n profesional"
+                        }
+                    ]
+                },
+                "name": "Henrik Hahn-Nissen",
+                "numFollowers": 33,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.hahn-nissen.com"
+            }
+        ]
+    }
+}

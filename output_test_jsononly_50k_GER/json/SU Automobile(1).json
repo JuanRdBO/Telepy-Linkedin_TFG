@@ -1,0 +1,107 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 223,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "id": 3108,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "54",
+                            "name": "Productos qu\u00edmicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Heerlen",
+                                "postalCode": "6411 TE",
+                                "street1": "Het Overloon 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Kaiseraugst",
+                                "postalCode": "4303",
+                                "street1": "Wurmisweg 576"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Delft",
+                                "postalCode": "2613 AX",
+                                "street1": "Alexander Fleminglaan 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Parsippany",
+                                "postalCode": "07054",
+                                "street1": "45 Waterview Blvd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Sao Paulo",
+                                "postalCode": "05321-010",
+                                "street1": "Avenida Engenheiro Billings, 1729"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "DSM",
+                "numFollowers": 169154,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "life sciences",
+                        "material sciences",
+                        "innovation",
+                        "sustainability",
+                        "nutrition",
+                        "health",
+                        "materials"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "brighterliving",
+                "websiteUrl": "http://www.dsm.com"
+            }
+        ]
+    }
+}

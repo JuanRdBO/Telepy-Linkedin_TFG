@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2004,
+                "id": 11571559,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "110",
+                            "name": "Servicios de eventos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Itacare",
+                                "postalCode": "45530000",
+                                "street1": "Rod Ilheus Itacare Km. 52"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Spirit Vine Ayahuasca Retreat Center ",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Ayahuasca",
+                        "Yoga",
+                        "Vegan & Vegetarian Food",
+                        "Spiritual Development",
+                        "Spirit Releasement",
+                        "Soul Retrieval",
+                        "Inner Child",
+                        "Healthy Lifestyle",
+                        "Spiritual Healing",
+                        "Spirituality",
+                        "Modified States of Consciousness",
+                        "Mindfulness",
+                        "Higher Self",
+                        "Ayahuasca Retreat"
+                    ]
+                },
+                "websiteUrl": "https://spiritvineretreats.com/"
+            }
+        ]
+    }
+}

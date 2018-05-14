@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1997,
+                "id": 18398861,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "110",
+                            "name": "Servicios de eventos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Forchheim",
+                                "postalCode": "91301",
+                                "street1": "Lichteneiche 46"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "PATO CONCEPT",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 22,
+                    "values": [
+                        "Marketing",
+                        "Events",
+                        "Sicherheitsdienst",
+                        "Aussenwerbung",
+                        "Plakatwerbung",
+                        "Eventagentur",
+                        "Security",
+                        "K\u00fcnstlervermittlung",
+                        "H\u00fcpfburgverleih",
+                        "Weihnachtsmarkt",
+                        "Plakatierservice",
+                        "Flyerverteilung",
+                        "Veranstltungsorganisation",
+                        "Veranstaltungsservice",
+                        "Eventmarketing",
+                        "Kommunikationsagentur",
+                        "Personenschutz",
+                        "Bewachung",
+                        "Eventequipmentverleih",
+                        "Eventkonzepte",
+                        "Zauberer",
+                        "Spielger\u00e4te"
+                    ]
+                },
+                "websiteUrl": "www.pato-concept.de"
+            }
+        ]
+    }
+}

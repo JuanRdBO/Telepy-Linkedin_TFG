@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 146,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 2004,
+                "id": 2831684,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wolfsburg",
+                                "postalCode": "38442",
+                                "street1": "Hafenstrasse 16 - 18"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49-5361-983560"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Wolfsburg",
+                                "postalCode": "38436",
+                                "street1": "Berliner Ring 2"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Volkswagen AG Group Fleet International",
+                "numFollowers": 1127,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "International Fleet Business contact",
+                        "VW Group Brands contact for global Fleets"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.volkswagen-group-fleet.de/en/welcome.html"
+            }
+        ]
+    }
+}

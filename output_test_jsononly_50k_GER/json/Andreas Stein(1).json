@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7365507,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Siegen",
+                                "postalCode": "57072",
+                                "street1": "57 Welterstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0271890530"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ingenieurb\u00fcro Andreas Stein",
+                "numFollowers": 0,
+                "websiteUrl": "ingenieurbuero-stein.de"
+            }
+        ]
+    }
+}

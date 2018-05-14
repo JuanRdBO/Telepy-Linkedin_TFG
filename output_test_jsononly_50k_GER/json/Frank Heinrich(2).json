@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7532779,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dresden",
+                                "postalCode": "01159",
+                                "street1": "88 Kesselsdorfer Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "03514222233"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ERGO Versicherung Frank Heinrich",
+                "numFollowers": 0,
+                "websiteUrl": "frank.heinrich.ergo.de"
+            }
+        ]
+    }
+}

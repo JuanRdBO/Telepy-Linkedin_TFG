@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 3845788,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70567",
+                                "street1": "Albstadtweg 9"
+                            },
+                            "contactInfo": {
+                                "phone1": "0711/7877-219"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Kassenzahn\u00e4rztliche Vereinigung Baden-W\u00fcrttemberg",
+                "numFollowers": 10,
+                "websiteUrl": "www.kzvbw.de"
+            }
+        ]
+    }
+}

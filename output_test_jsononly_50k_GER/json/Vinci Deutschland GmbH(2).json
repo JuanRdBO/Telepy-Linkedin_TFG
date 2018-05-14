@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12455940,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad Honnef",
+                                "postalCode": "53604",
+                                "street1": "19 Eichendorffweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 22249602784"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Leo Da Vinci Deutschland GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.leodavinci.de"
+            }
+        ]
+    }
+}

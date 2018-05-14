@@ -1,0 +1,64 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 721,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1984,
+                "id": 95655,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "126",
+                            "name": "Producci\u00f3n multimedia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "S\u00e3o Paulo",
+                                "postalCode": "05615-010",
+                                "street1": "R. Padre Eg\u00eddio Lopes, 323"
+                            },
+                            "contactInfo": {
+                                "phone1": "55 11 3723-2100"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Shop Tour TV",
+                "numFollowers": 544,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "TV commerce",
+                        "entertainment"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "www.shoptour.com.br"
+            }
+        ]
+    }
+}

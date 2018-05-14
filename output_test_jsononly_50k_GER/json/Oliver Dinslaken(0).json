@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7468638,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Elsdorf",
+                                "postalCode": "50189",
+                                "street1": "8 Margarethenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "022746145"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Oliver Dinslaken",
+                "numFollowers": 0,
+                "websiteUrl": "schornsteinfeger-dinslaken.de"
+            }
+        ]
+    }
+}

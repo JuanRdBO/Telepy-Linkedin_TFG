@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 22,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2000,
+                "id": 9191335,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Northolt, Middlesex",
+                                "postalCode": "UB5 6QQ",
+                                "street1": "20 Belvue Business Centre"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Baby Brands Direct",
+                "numFollowers": 329,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Nursery wholesaler",
+                        "Global Distributor",
+                        "Baby Products",
+                        "Baby Gifts",
+                        "Direct to Trade",
+                        "Nursery Distributor",
+                        "Award winning wholesaler",
+                        "Pharmaceutical wholesaler",
+                        "Independent Retailers",
+                        "Toys wholesaler"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.babybrandsdirect.co.uk/"
+            }
+        ]
+    }
+}

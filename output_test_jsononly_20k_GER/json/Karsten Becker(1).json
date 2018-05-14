@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12346334,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hannover",
+                                "postalCode": "30519",
+                                "street1": "2 Peiner Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 51198599810"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Karsten Becker",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.handchirurgie-peinerstr.de"
+            }
+        ]
+    }
+}

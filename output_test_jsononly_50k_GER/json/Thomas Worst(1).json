@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 7297345,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Phoenix",
+                                "postalCode": "85037",
+                                "street1": "10265 West Camelback Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(480) 718-6840"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Alongi Law Firm, PLLC",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Law Firm",
+                        "Legal"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.alongi-azlaw.com"
+            }
+        ]
+    }
+}

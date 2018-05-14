@@ -1,0 +1,81 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 52,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1967,
+                "id": 10464774,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "51",
+                            "name": "Ingenier\u00eda civil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mt. Holly",
+                                "postalCode": "08060",
+                                "street1": "200 High Street"
+                            },
+                            "contactInfo": {
+                                "fax": "609-267-7452",
+                                "phone1": "609-267-8310"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Paterson",
+                                "postalCode": "07501",
+                                "street1": "Two Market Street"
+                            },
+                            "contactInfo": {
+                                "fax": "973-523-1765",
+                                "phone1": "973-523-6200"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Alaimo Group",
+                "numFollowers": 110,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Municipal Engineering",
+                        "Environmental Engineering",
+                        "Architecture",
+                        "Transportaion"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.alaimogroup.com"
+            }
+        ]
+    }
+}

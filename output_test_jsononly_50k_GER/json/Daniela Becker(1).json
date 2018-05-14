@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7523691,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ratingen-Lintorf",
+                                "postalCode": "40885",
+                                "street1": "47a Speestr."
+                            },
+                            "contactInfo": {
+                                "phone1": "021025519277"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Haarstyling Daniela Becker",
+                "numFollowers": 2,
+                "websiteUrl": "haarstyling-becker.de"
+            }
+        ]
+    }
+}

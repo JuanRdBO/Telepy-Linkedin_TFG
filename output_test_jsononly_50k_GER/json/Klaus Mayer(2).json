@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7486529,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Illmensee",
+                                "postalCode": "88636",
+                                "street1": "19 Gewerbestra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "075581441"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Klaus Mayer Somatec",
+                "numFollowers": 1,
+                "websiteUrl": "somatec-mb.de"
+            }
+        ]
+    }
+}

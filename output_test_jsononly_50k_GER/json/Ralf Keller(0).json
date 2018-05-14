@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12210752,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Freisen",
+                                "postalCode": "66629",
+                                "street1": "Hindenburgstra\u00dfe 1A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 68551830"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ralf Keller",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.die-vier-meister.de"
+            }
+        ]
+    }
+}

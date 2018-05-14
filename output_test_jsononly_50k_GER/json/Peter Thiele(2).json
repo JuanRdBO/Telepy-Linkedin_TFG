@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12803398,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Soest",
+                                "postalCode": "59494",
+                                "street1": "4 Am Turm"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 292172119"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Soester Wachdienst Peter Thiele",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.soester-wachdienst.de"
+            }
+        ]
+    }
+}

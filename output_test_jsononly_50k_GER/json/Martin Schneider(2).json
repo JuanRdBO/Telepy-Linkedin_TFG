@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 25,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12545967,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Senden",
+                                "postalCode": "48308",
+                                "street1": "44 M\u00fcnsterstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 25975229"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Martin Schneider-Neuenburg Rechtsanwalt",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.schneider-neuenburg.de"
+            }
+        ]
+    }
+}

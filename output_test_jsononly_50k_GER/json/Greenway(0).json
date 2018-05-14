@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 849,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 11903452,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "144",
+                            "name": "Energ\u00eda renovable y medio ambiente"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stratford",
+                                "postalCode": "E1 5 2PJ",
+                                "street1": "The Greenway, Marshgate Lane"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "The Greenway",
+                "numFollowers": 4,
+                "websiteUrl": "http://theviewtube.co.uk"
+            }
+        ]
+    }
+}

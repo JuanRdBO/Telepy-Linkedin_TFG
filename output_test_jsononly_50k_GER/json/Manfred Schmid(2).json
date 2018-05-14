@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7391736,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Langquaid",
+                                "postalCode": "84085",
+                                "street1": "33 Leierndorfer Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "09452345"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Reiseb\u00fcro & Bustouristik Manfred Schmid",
+                "numFollowers": 0,
+                "websiteUrl": "schmid-touristik.de"
+            }
+        ]
+    }
+}

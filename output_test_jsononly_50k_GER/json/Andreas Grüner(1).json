@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7418448,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Potsdam",
+                                "postalCode": "14469",
+                                "street1": "31 Georg-Hermann-Allee"
+                            },
+                            "contactInfo": {
+                                "phone1": "03316014909"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fahrschule Andreas Gr\u00fcner",
+                "numFollowers": 0,
+                "websiteUrl": "fahrschule-gruener.de"
+            }
+        ]
+    }
+}

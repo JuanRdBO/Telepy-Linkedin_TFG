@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 14,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12195223,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "21",
+                            "name": "Tabaco"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Fredenbeck",
+                                "postalCode": "21717",
+                                "street1": "11 Alte Dorfstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 41491603"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kille",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.stade-partyservice.de"
+            }
+        ]
+    }
+}

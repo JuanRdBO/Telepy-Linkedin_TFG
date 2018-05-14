@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12232629,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Saarbr\u00fccken",
+                                "postalCode": "66115",
+                                "street1": "61 Koblenzer Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 681780778"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Chirurgische Praxis Steffen Weber",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.chirurgie-steffen-weber.de"
+            }
+        ]
+    }
+}

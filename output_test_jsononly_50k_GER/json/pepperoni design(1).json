@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2015,
+                "id": 10147150,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "8",
+                            "name": "Telecomunicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ruislip",
+                                "postalCode": "HA4 0EJ",
+                                "street1": "Santok House, Unit L Braintree Industrial Estate, Braintree Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wileyfox",
+                "numFollowers": 1188,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Mobile Phones",
+                        "Technology",
+                        "Android",
+                        "Tech Design",
+                        "Customisation",
+                        "Android Optimisation",
+                        "Brand Partnerships",
+                        "E-Commerce",
+                        "British",
+                        "Smartphones"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.wileyfox.com"
+            }
+        ]
+    }
+}

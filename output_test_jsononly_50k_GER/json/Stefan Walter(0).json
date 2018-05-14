@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7378508,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Otterfing",
+                                "postalCode": "83624",
+                                "street1": "27 Kreuzstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "080243477"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Stefan Walter Zimmerei",
+                "numFollowers": 0,
+                "websiteUrl": "zimmerei-stefanwalter.de"
+            }
+        ]
+    }
+}

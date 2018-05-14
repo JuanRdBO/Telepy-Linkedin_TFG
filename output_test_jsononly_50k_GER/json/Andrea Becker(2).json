@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2012,
+                "id": 2621745,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Keene",
+                                "postalCode": "03431",
+                                "street1": "One Elm Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "603-357-0533"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "VITAL ESSENCE Your Professional Wellness Center",
+                "numFollowers": 15,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Massage Therapy",
+                        "Reiki",
+                        "Health Coaching",
+                        "Weight Loss Consultation",
+                        "Mother and Baby Support",
+                        "Psycology"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.facebook.com/vitalessencekeene"
+            }
+        ]
+    }
+}

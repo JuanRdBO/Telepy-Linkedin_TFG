@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1982,
+                "id": 1869744,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "18",
+                            "name": "Cosm\u00e9tica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Santa Giustina",
+                                "postalCode": "32035",
+                                "street1": "Via Cal Longa, 62"
+                            },
+                            "contactInfo": {
+                                "fax": "+39 0437 806223",
+                                "phone1": "+39 0437 806192"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "UNIFARCO",
+                "numFollowers": 6424,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Prodotti cosmetici",
+                        "Cosmesi dermatologica",
+                        "Integratori alimentari",
+                        "Make-up",
+                        "Nutraceutica"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.unifarco.it"
+            }
+        ]
+    }
+}

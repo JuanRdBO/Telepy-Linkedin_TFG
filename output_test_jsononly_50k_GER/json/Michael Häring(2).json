@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2012,
+                "id": 2927659,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "38",
+                            "name": "Bellas Artes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Roma",
+                                "postalCode": "00193",
+                                "street1": "Via Vittoria Colonna 9"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+39063243919"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "restelliartco.",
+                "numFollowers": 38,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Arte moderna",
+                        "Arte contemporanea",
+                        "Fotografia"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.restelliartco.com/"
+            }
+        ]
+    }
+}

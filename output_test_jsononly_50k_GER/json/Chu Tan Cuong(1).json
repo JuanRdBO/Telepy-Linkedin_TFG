@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 13739720,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "26",
+                            "name": "Mobiliario"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "h\u1ed3 ch\u00ed minh",
+                                "postalCode": "700000",
+                                "street1": "96 \u0111\u01b0\u1eddng s\u1ed1 13 , b\u00ecnh h\u01b0ng h\u00f2a , b\u00ecnh t\u00e2n "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "xuong moc chu bay",
+                "numFollowers": 0,
+                "websiteUrl": "http://xuongmocchubay.com"
+            }
+        ]
+    }
+}

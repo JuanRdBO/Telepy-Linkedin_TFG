@@ -1,0 +1,110 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 801,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2006,
+                "id": 2277768,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "135",
+                            "name": "Ingenier\u00eda industrial o mec\u00e1nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Washington",
+                                "postalCode": "20005",
+                                "street1": "1424 K Street NW"
+                            },
+                            "contactInfo": {
+                                "fax": "+1.202.544.1434",
+                                "phone1": "+1-202-608-1334"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Chicago",
+                                "postalCode": "60601",
+                                "street1": "180 N. LaSalle"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+1-312-386-7710"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60314",
+                                "street1": "Lindleystra\u00dfe. 11"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49-(0)69-299905-80"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Baumann Consulting",
+                "numFollowers": 637,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "LEED Consulting & Green Building Management",
+                        "Commissioning",
+                        "Energy Audits & Life-Cycle Cost Analysis",
+                        "Energy Modeling & Performance Modeling",
+                        "CFD Simulation & Daylight Simulation",
+                        "MEP Design",
+                        "IR Thermography",
+                        "Building Science"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.baumann-us.com"
+            }
+        ]
+    }
+}

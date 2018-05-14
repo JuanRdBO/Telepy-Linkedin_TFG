@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2016,
+                "id": 15163246,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mannheim",
+                                "postalCode": "68309",
+                                "street1": "R\u00fcdesheimer Str. 100-104"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Go7 AG",
+                "numFollowers": 10,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Film",
+                        "Kreation",
+                        "Event",
+                        "Online",
+                        "Marketing",
+                        "PR",
+                        "Personal"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.go7.ag"
+            }
+        ]
+    }
+}

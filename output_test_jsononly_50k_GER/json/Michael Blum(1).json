@@ -1,0 +1,38 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 8237763,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Houston",
+                                "postalCode": "77024-7224",
+                                "street1": "11711 Memorial Dr # 103"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 7137803439"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Michael Blum Interiors",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

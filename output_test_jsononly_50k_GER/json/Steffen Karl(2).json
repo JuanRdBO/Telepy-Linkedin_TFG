@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7399624,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Trittenheim",
+                                "postalCode": "54349",
+                                "street1": "19 Laurentiusstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "065072750"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Karl-Josef Steffen",
+                "numFollowers": 0,
+                "websiteUrl": "mst-home.de"
+            }
+        ]
+    }
+}

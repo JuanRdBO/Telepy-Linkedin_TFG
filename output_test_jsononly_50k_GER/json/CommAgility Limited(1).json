@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2006,
+                "id": 1783276,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "8",
+                            "name": "Telecomunicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Loughborough",
+                                "postalCode": "LE11 3AQ",
+                                "street1": "Charnwood Building, Holywell Park"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+44 1509 228866"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Duisburg",
+                                "postalCode": "47057",
+                                "street1": "Bismarckstrasse 120"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0)203 306 4554",
+                                "phone1": "+49 (0)203 306 4500"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "CommAgility",
+                "numFollowers": 218,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "DSP FPGA RapidIO AdvancedMC PCIe",
+                        "Baseband Digital Signal Processing",
+                        "WiMAX LTE LTE-Advanced",
+                        "PHY",
+                        "Protocol Stack"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.commagility.com"
+            }
+        ]
+    }
+}

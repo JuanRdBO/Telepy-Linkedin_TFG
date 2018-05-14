@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 18574311,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "105",
+                            "name": "Formaci\u00f3n profesional"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Warszawa",
+                                "postalCode": "03-901",
+                                "street1": "Al. Poniatowskiego"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kongres NSC - Mistrzowskie Strategie Sprzeda\u017cy",
+                "numFollowers": 29,
+                "websiteUrl": "https://nationalsales.pl/"
+            }
+        ]
+    }
+}

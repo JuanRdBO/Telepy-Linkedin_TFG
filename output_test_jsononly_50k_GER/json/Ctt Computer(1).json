@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2012,
+                "id": 13471754,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pathankot",
+                                "postalCode": "145001",
+                                "street1": "Near Chikitsa Hospital Dalhousie Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Vinayak Institute of Professional Studies",
+                "numFollowers": 4,
+                "specialties": {
+                    "_total": 17,
+                    "values": [
+                        "Digital Marketing",
+                        "Tally ERP 9",
+                        "Marg ERP 9",
+                        "Computer Basic",
+                        "Spoken English",
+                        "ADCA",
+                        "Web Designing",
+                        "Web Development",
+                        "GST",
+                        "Academic Coaching",
+                        "CTT",
+                        "C/C++",
+                        "HTML",
+                        "SEO",
+                        "SMO",
+                        "PHP",
+                        "Android"
+                    ]
+                },
+                "websiteUrl": "http://vipstudies.in/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12270646,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Leipzig",
+                                "postalCode": "04289",
+                                "street1": "Russenstra\u00dfe 54C"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3418617078"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Petra Barth",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.kosmetik-barth.de"
+            }
+        ]
+    }
+}

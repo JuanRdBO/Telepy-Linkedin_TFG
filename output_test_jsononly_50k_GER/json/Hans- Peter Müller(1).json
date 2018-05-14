@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7444696,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "142",
+                            "name": "Vino y licor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Volxheim",
+                                "postalCode": "55546",
+                                "street1": "12 Talgartenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "06703606"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hans Peter M\u00fcller Weingut Br\u00fchler Hof",
+                "numFollowers": 2,
+                "websiteUrl": "bruehler-hof.de"
+            }
+        ]
+    }
+}

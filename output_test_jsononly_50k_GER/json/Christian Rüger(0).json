@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1995,
+                "id": 3559099,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "125",
+                            "name": "Medicina alternativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "bottrop",
+                                "postalCode": "46236",
+                                "street1": "naturheilzentrum bottrop"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "naturheilzentrum bottrop",
+                "numFollowers": 282,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "rehabilitation",
+                        "kinder- und heilkunde",
+                        "pr\u00e4vention",
+                        "healthstyle",
+                        "akupunktur",
+                        "naturheilkunde",
+                        "lifestyle",
+                        "gesundheit ",
+                        "naturheilverfahren",
+                        "alternativmedizin",
+                        "komplement\u00e4rmedizin",
+                        "gesundheitsvorsorge",
+                        "nabomade"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.naturheilzentrum.com"
+            }
+        ]
+    }
+}

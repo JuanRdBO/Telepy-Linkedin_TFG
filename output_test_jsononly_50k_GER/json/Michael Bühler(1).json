@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7524699,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Malsfeld",
+                                "postalCode": "34323",
+                                "street1": "11 Steinweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "05661920887"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Zahnarzt Dr. Med. Dent Michael B\u00fchler",
+                "numFollowers": 2,
+                "websiteUrl": "zahnarzt-dr-buehler.de"
+            }
+        ]
+    }
+}

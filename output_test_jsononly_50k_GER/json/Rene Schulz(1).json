@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7423311,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wandlitz",
+                                "postalCode": "16348",
+                                "street1": "2 Zu Den Heubergen"
+                            },
+                            "contactInfo": {
+                                "phone1": "03094517951"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rene Ingo Schulz Malermeister Schulz",
+                "numFollowers": 0,
+                "websiteUrl": "maler-schulz.com"
+            }
+        ]
+    }
+}

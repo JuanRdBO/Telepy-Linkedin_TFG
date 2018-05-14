@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2017,
+                "id": 18334658,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wien",
+                                "postalCode": "1150",
+                                "street1": "Stutterheimstra\u00dfe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ALEGRE Bauen & Wohnen GmbH",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Immobilienentwicklung",
+                        "Wohnbau"
+                    ]
+                },
+                "websiteUrl": "www.alegre.at"
+            }
+        ]
+    }
+}

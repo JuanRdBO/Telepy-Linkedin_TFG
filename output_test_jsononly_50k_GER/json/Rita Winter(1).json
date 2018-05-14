@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1921,
+                "id": 15262911,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "57",
+                            "name": "Petr\u00f3leo y energ\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Brookneal",
+                                "postalCode": "24528",
+                                "street1": "16720 Brookneal Hwy"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Foster Fuels Mission Critical",
+                "numFollowers": 66,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Fuel Testing and Analysis",
+                        "Fuel Polishing",
+                        "Fuel Additives",
+                        "Tank Cleaning and Maintenance",
+                        "Emergency Fuel Delivery",
+                        "Routine Fuel Delivery",
+                        "Site Survey and Continuity Consulting",
+                        "Training",
+                        "Environmental Services",
+                        "Water Delivery"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.fosterfuelsmissioncritical.com/"
+            }
+        ]
+    }
+}

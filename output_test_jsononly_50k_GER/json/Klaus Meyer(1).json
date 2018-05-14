@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 23,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12806966,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80807",
+                                "street1": "24 Wallensteinstrasse"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Klaus Meyer Umkreis",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.klaus-meyer-umkreis.de"
+            }
+        ]
+    }
+}

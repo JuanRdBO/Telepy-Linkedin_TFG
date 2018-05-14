@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2014,
+                "id": 17894517,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "34",
+                            "name": "Alimentaci\u00f3n y bebidas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Guangzhou",
+                                "postalCode": "511400",
+                                "street1": "Yushan West Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "86-20-29828962"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Guangzhou Truwin Kitchen Equipment CO.,LTD",
+                "numFollowers": 18,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Deep Fryer",
+                        "Commercial Griddle",
+                        "Bain Maire",
+                        "Pie Warmer",
+                        "Sanck  Machine",
+                        "Hot dog Roller",
+                        "Popcorn Machine",
+                        "Food procressing Machine",
+                        "Mixer",
+                        "Stainless Steel items",
+                        "candy floss machine",
+                        "waffle maker",
+                        "contact panini grill",
+                        "commercial catering equipment | suppliers"
+                    ]
+                },
+                "status": {
+                    "code": "OPS",
+                    "name": "Operating Subsidiary"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.cn-foodequip.com"
+            }
+        ]
+    }
+}

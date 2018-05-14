@@ -1,0 +1,49 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1928,
+                "id": 1497189,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "90",
+                            "name": "Organizaci\u00f3n c\u00edvica y social"
+                        }
+                    ]
+                },
+                "name": "St-Josef gGmbH",
+                "numFollowers": 5,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Stationaire Pflege",
+                        "Speziele Dementenbetreuung",
+                        "Tagespflege",
+                        "Betreutes Wohnen"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": ""
+            }
+        ]
+    }
+}

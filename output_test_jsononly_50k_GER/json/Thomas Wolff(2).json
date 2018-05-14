@@ -1,0 +1,104 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1989,
+                "id": 8738045,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80339",
+                                "street1": "Theresienh\u00f6he 13"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Frankfurt",
+                                "postalCode": "60329",
+                                "street1": "Baseler Stra\u00dfe 10"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10117",
+                                "street1": "Vo\u00dfstra\u00dfe 13"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Augsburg",
+                                "postalCode": "86150 ",
+                                "street1": "Annastra\u00dfe 8-10"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "MaibornWolff GmbH",
+                "numFollowers": 694,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "IT-Beratung",
+                        "Software-, Web- und Mobile-Engineering",
+                        "Testmanagement",
+                        "Design Thinking",
+                        "Agile Consulting + Engineering",
+                        "Fr\u00fche Phasen",
+                        "Digital Transformation Consulting + Engineering",
+                        "Salesforce",
+                        "IT-Sanierung",
+                        "IoT",
+                        "Blockchain",
+                        "DevOps",
+                        "Cloud-Native"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.maibornwolff.de"
+            }
+        ]
+    }
+}

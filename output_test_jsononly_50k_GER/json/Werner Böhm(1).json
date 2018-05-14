@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12379901,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Herne",
+                                "postalCode": "44625",
+                                "street1": "62 Max-Planck-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 234706503"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Radsportgemeinschaft Herne E.V.",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.rsg-herne.de"
+            }
+        ]
+    }
+}

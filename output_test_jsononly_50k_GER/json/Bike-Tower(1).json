@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 27,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1968,
+                "id": 2096939,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "98",
+                            "name": "Relaciones p\u00fablicas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Austin",
+                                "postalCode": "",
+                                "street1": "1 University Station"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Texas Tower PR",
+                "numFollowers": 384,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Public Relations",
+                        "Nonprofit Organizations",
+                        "Social Media",
+                        "Community Building"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "texastowerpr.wordpress.com"
+            }
+        ]
+    }
+}

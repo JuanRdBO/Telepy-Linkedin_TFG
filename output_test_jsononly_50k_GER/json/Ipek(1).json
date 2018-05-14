@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 155,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2011,
+                "id": 3123796,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "68",
+                            "name": "Ense\u00f1anza superior"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ankara",
+                                "postalCode": "06550",
+                                "street1": "Oran"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+90 312 470 0000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "\u0130pek \u00dcniversitesi",
+                "numFollowers": 217,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "E\u011fitim",
+                        "Sinema Sanatlar\u0131",
+                        "Sanat ve Tasar\u0131m",
+                        "\u0130nsan ve Toplum",
+                        "\u0130\u015fletme ve Y\u00f6netim Bilimleri",
+                        "Siyasal Bilgiler",
+                        "Sosyal Bilimler"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.ipek.edu.tr"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 14,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12734556,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad H\u00f6nningen",
+                                "postalCode": "53557",
+                                "street1": "35 Sprudelstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 26539156528"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Schmitz Schornsteinfegermeister",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.schornsteinfeger-schmitz.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2004,
+                "id": 3869658,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "100",
+                            "name": "Gesti\u00f3n de organizaciones sin \u00e1nimo de lucro"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sir Peter Blake Trust",
+                "numFollowers": 182,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Leadership",
+                        "Expeditions",
+                        "Environmental Leadership",
+                        "Youth Development"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "sirpeterblaketrust.org"
+            }
+        ]
+    }
+}

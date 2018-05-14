@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12770530,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Miesbach",
+                                "postalCode": "83714",
+                                "street1": "Sch\u00fctzenstra\u00dfe 11B"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 802570350"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bernhard Heidl",
+                "numFollowers": 0,
+                "websiteUrl": "http://bernhard-heidl.gothaer.de"
+            }
+        ]
+    }
+}

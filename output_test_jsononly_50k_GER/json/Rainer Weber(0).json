@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 6777809,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Baden-Baden",
+                                "postalCode": "76530",
+                                "street1": "47 Sophienstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "072219707025"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rainer Weber",
+                "numFollowers": 2,
+                "websiteUrl": "rainerweber.de"
+            }
+        ]
+    }
+}

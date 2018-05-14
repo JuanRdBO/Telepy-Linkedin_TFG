@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 22897340,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "39",
+                            "name": "Artes interpretativas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gent",
+                                "postalCode": "9000",
+                                "street1": "43 Biekorfstraat"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Schr\u00f6der, Christian",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

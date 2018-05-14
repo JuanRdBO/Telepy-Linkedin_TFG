@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 58,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1951,
+                "id": 665435,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80687",
+                                "street1": "Landsberger Str. 368"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dorsch International Consultants GmbH",
+                "numFollowers": 6551,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Consulting Engineers",
+                        "Beratende Ingenieure",
+                        "Infrastructure",
+                        "Water",
+                        "Environment",
+                        "Airports",
+                        "Transportation",
+                        "Development Cooperation",
+                        "Architecture",
+                        "Industrial Engineering",
+                        "Structural Engineering",
+                        "Operations Management Support",
+                        "Urban  Development"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "di.dorsch.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7350087,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Loiching",
+                                "postalCode": "84180",
+                                "street1": "12 Brunnenweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "08744967718"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ziegler Thomas Zimmerei GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "zimmereizieglerthomas.de"
+            }
+        ]
+    }
+}

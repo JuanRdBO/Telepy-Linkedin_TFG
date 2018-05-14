@@ -1,0 +1,76 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1995,
+                "id": 2915367,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wien",
+                                "postalCode": "1030",
+                                "street1": "Landstra\u00dfer Haupstra\u00dfe 167"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+43 (0)1 712 18 21"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "CSS Computer-Systems-Support GmbH",
+                "numFollowers": 53,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Software",
+                        "Microsoft Sharepoint",
+                        "Microsoft Dynamics NAV",
+                        "Kentico CMS",
+                        "Microsoft .NET",
+                        "iOS",
+                        "Android",
+                        "Website",
+                        "Intranet",
+                        "Speziall\u00f6sung",
+                        "Apps",
+                        "ERP"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.cssteam.at"
+            }
+        ]
+    }
+}

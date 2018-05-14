@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1985,
+                "id": 8537784,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "12247",
+                                "street1": "Kaiser-Wilhelm-Str. 133"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 307669120"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "DOCTORES M\u00fcller-Kr\u00f6ncke und Droege Steuerberatungsgesellschaft mbH",
+                "numFollowers": 11,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Health Care",
+                        "Medizinische Versorgungszentren",
+                        "\u00c4rzte",
+                        "Zahn\u00e4rzte",
+                        "Labore",
+                        "Kliniken",
+                        "K\u00f6rperschaften \u00f6ffentlichen Rechts",
+                        "Unternehmenskauf/-verkauf",
+                        "Steuergestaltung",
+                        "Immobilien"
+                    ]
+                },
+                "websiteUrl": "http://www.doctores.de"
+            }
+        ]
+    }
+}

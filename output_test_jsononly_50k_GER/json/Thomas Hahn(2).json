@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1986,
+                "id": 2519891,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "South Bend",
+                                "postalCode": "46601",
+                                "street1": "509 West Washington St."
+                            },
+                            "contactInfo": {
+                                "fax": "(574) 204-2144",
+                                "phone1": "(574) 232-5988"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hahn|Walz, P.C.",
+                "numFollowers": 74,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Personal Law",
+                        "Estate Planning",
+                        "Probate",
+                        "Civil Litigation",
+                        "Businesses and Corporations",
+                        "Creditors' Rights",
+                        "Real Estate",
+                        "Bankruptcy",
+                        "Labor Law",
+                        "Domestic Relations",
+                        "Employment Law"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.hahnwalz.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1989,
+                "id": 7443135,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hasbergen",
+                                "postalCode": "49205",
+                                "street1": "Bahnhofstra\u00dfe 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70372",
+                                "street1": "Kegelenstra\u00dfe 5"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Kr\u00e4mer-Evers Bauphysik GmbH & Co. KG",
+                "numFollowers": 12,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Bauphysikalische Messtechnik",
+                        "Brandsimulation",
+                        "Dynamische Feuchtesimulation",
+                        "Dynamische Geb\u00e4udesimulationen",
+                        "Immisionsschutz",
+                        "Raumakustische Simulationen",
+                        "Raumklimauntersuchungen",
+                        "Thermische Bauteilsimulation"
+                    ]
+                },
+                "websiteUrl": "kraemer-evers.de"
+            }
+        ]
+    }
+}

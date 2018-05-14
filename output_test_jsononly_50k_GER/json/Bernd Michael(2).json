@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 13,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12279900,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Braunschweig",
+                                "postalCode": "38102",
+                                "street1": "84 Wolfenb\u00fctteler Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 5312860404"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bernd-Michael M\u00fchlan",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.stbmuehlan.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7488667,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "16",
+                            "name": "Veterinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hahnst\u00e4tten",
+                                "postalCode": "65623",
+                                "street1": "45 Aarstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "06430926222"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Tier\u00e4rztliche Praxis Eckert J\u00fcrgen",
+                "numFollowers": 0,
+                "websiteUrl": "tierarzt-hahnstaetten.de"
+            }
+        ]
+    }
+}

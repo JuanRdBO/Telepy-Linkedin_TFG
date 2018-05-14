@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12446420,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wickerstedt",
+                                "postalCode": "99510",
+                                "street1": "33 Bahnhofstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3644555364"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dipl. Vet. Med. Axel Koch",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.ta-koch.de"
+            }
+        ]
+    }
+}

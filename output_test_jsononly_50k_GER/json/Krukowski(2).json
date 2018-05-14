@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 3930517,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "49",
+                            "name": "Materiales de construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mosinee",
+                                "postalCode": "54455-8005",
+                                "street1": "3781 County Road C"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 7156936300"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Krukowski Stone Co",
+                "numFollowers": 22,
+                "websiteUrl": "http://www.krukowskistone.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 28,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 1996,
+                "id": 28146107,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "8",
+                            "name": "Telecomunicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Langhorne",
+                                "postalCode": "19047",
+                                "street1": "233 N Bellevue Ave"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Paul Schneider Public Relations",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Cable",
+                        "Telecommunications"
+                    ]
+                },
+                "websiteUrl": "http://paulschneiderpr.com/"
+            }
+        ]
+    }
+}

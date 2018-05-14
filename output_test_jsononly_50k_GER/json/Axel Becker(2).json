@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7473720,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Arnsberg",
+                                "postalCode": "59757",
+                                "street1": "21 Von-Siemens-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "029321623"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Trockenbau GmbH Axel Becker",
+                "numFollowers": 0,
+                "websiteUrl": "innenausbau-gmbh.de"
+            }
+        ]
+    }
+}

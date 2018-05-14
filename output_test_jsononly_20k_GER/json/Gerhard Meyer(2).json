@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12444877,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "N\u00fcrnberg",
+                                "postalCode": "90451",
+                                "street1": "Donauw\u00f6rther Str. 10A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 9116493033"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Elektro Gerhard Meyer",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.elektro-meyer.com"
+            }
+        ]
+    }
+}

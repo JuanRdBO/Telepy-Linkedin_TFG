@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2007,
+                "id": 5902522,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "17",
+                            "name": "Dispositivos m\u00e9dicos"
+                        }
+                    ]
+                },
+                "name": "Thommen Medical France",
+                "numFollowers": 119,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Implantologie dentaire",
+                        "planification proth\u00e9tique",
+                        "CFAO",
+                        "parodontologie"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.implant-thommen.fr"
+            }
+        ]
+    }
+}

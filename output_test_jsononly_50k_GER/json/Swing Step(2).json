@@ -1,0 +1,51 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 109,
+        "values": [
+            {
+                "companyType": {
+                    "code": "G",
+                    "name": "Government Agency"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2010,
+                "id": 4991113,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "40",
+                            "name": "Instalaciones y servicios de recreo "
+                        }
+                    ]
+                },
+                "name": "Moses Mabhida Stadium",
+                "numFollowers": 131,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Sporting Arena",
+                        "Hospitality",
+                        "Retail",
+                        "Event Solutions",
+                        "Tourist Attractions"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.mmstadium.com"
+            }
+        ]
+    }
+}

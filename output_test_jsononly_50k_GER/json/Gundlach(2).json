@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 71,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 1017104,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gundlach Crushers - a brand of TerraSource Global",
+                "numFollowers": 243,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Crushers",
+                        "Breakers",
+                        "Cage Mill",
+                        "Roll Mill",
+                        "Feeders",
+                        "Parts",
+                        "Service"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.terrasource.com"
+            }
+        ]
+    }
+}

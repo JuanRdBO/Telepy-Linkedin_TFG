@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12874425,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Schleswig",
+                                "postalCode": "24837",
+                                "street1": "6 Spielkoppel"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 462124006"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bruno-Lorenzen-Schule",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.bruno-lorenzen-schule-schleswig.de"
+            }
+        ]
+    }
+}

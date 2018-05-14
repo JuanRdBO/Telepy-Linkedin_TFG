@@ -1,0 +1,62 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2012,
+                "id": 10065053,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "EC2A 3AY",
+                                "street1": "81 Rivington Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "KWB London Limited",
+                "numFollowers": 23,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Design & Build",
+                        "Bespoke Furniture & Joinery",
+                        "Bathroom, Kitchen & Marble Specialists"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.kwb.london"
+            }
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "id": 2145167,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "115",
+                            "name": "M\u00fasica"
+                        }
+                    ]
+                },
+                "name": "Orjan Hartveit",
+                "numFollowers": 11,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Singing",
+                        "Singing lessons",
+                        "Baritone",
+                        "Opera",
+                        "Concert",
+                        "Lieder",
+                        "Oratorio",
+                        "Classical music"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.orjan-hartveit.com"
+            }
+        ]
+    }
+}

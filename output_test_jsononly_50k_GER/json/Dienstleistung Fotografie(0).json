@@ -1,0 +1,52 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 17,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2003,
+                "id": 3340000,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "name": "stilbezirk GmbH & Co. KG",
+                "numFollowers": 76,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Kreativagentur",
+                        "Markenkommunikation",
+                        "Interactive",
+                        "Print",
+                        "Fotografie",
+                        "Video"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.stilbezirk.de"
+            }
+        ]
+    }
+}

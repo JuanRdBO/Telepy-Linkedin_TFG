@@ -1,0 +1,115 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2008,
+                "id": 3816260,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 6,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10178",
+                                "street1": "Alexanderstra\u00dfe 7"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "75009",
+                                "street1": "15/17, Rue Scribe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Wien",
+                                "postalCode": "1120",
+                                "street1": "Sch\u00f6nbrunner Allee 7"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Warschau",
+                                "postalCode": "00-001",
+                                "street1": "Zajecza 15"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Stockholm",
+                                "postalCode": "111 57",
+                                "street1": "M\u00e4ster Samuelsgatan 36"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Mailand",
+                                "postalCode": "20139",
+                                "street1": "Via Arcivescovo Calabiana, 6"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Meetrics",
+                "numFollowers": 689,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Viewability",
+                        "Brand Safety",
+                        "Fraud Prevention",
+                        "Audience Verification"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.meetrics.com/"
+            }
+        ]
+    }
+}

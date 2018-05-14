@@ -1,0 +1,46 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 462,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 6768497,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "14",
+                            "name": "Atenci\u00f3n sanitaria y hospitalaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Uelzen"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 58138950"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Psychiatrische Klinik Uelzen gGmbH",
+                "numFollowers": 11,
+                "websiteUrl": "http://www.pk-uelzen.de"
+            }
+        ]
+    }
+}

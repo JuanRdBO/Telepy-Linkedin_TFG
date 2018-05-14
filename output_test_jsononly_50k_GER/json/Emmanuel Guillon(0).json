@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 26370810,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "99",
+                            "name": "Dise\u00f1o"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "PARIS",
+                                "postalCode": "75010",
+                                "street1": "BATIMENT A 19 RUE DES PETITES ECURIES"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "EMMANUEL GUILLON ARCHITECTURE INTERIEURE",
+                "numFollowers": 3
+            }
+        ]
+    }
+}

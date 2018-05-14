@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12836235,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dahme",
+                                "postalCode": "23747",
+                                "street1": "1 Leuchtturmstra\u00dfe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Arztpraxis Dr. Med.Matthias Weber",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.arztpraxis-weber.de"
+            }
+        ]
+    }
+}

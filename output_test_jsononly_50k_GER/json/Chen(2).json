@@ -1,0 +1,107 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 1770,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1986,
+                "id": 2304539,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "51",
+                            "name": "Ingenier\u00eda civil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Fort Lauderdale",
+                                "postalCode": "33309",
+                                "street1": "500 West Cypress Creek Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Miami",
+                                "postalCode": "33145",
+                                "street1": "2103 Coral Way"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "West Palm Beach",
+                                "postalCode": "33401",
+                                "street1": "500 Australian Avenue South"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Orlando",
+                                "postalCode": "32801",
+                                "street1": "28 W. Central Boulevard"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Gainesville",
+                                "postalCode": "32606",
+                                "street1": "2233 NW 41st Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Chen Moore and Associates",
+                "numFollowers": 588,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Civil Engineering",
+                        "Environmental Engineering",
+                        "Construction Engineering and Inspection",
+                        "Landscape Architecture",
+                        "Planning",
+                        "Geographic Information Systems"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.chenmoore.com"
+            }
+        ]
+    }
+}

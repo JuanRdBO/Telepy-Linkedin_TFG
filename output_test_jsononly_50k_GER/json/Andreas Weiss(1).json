@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7561092,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Northeim",
+                                "postalCode": "37154",
+                                "street1": "16 Berliner Allee"
+                            },
+                            "contactInfo": {
+                                "phone1": "017696196790"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Andreas Wei\u00df Kfz Sachverst\u00e4ndigenb\u00fcro",
+                "numFollowers": 0,
+                "websiteUrl": "sv-northeim.de"
+            }
+        ]
+    }
+}

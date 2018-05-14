@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7361520,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "12526",
+                                "street1": "32 Gr\u00fcnderstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0306797390"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Klaus-Stephan Bickel Rechtsanwalt",
+                "numFollowers": 0,
+                "websiteUrl": "notar-bickel.de"
+            }
+        ]
+    }
+}

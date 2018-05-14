@@ -1,0 +1,76 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2014,
+                "id": 5073129,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Innsbruck",
+                                "postalCode": "6020",
+                                "street1": "Kaiser-Franz-Joseph-Str. 1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+43 664 88788 103"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "in the headroom",
+                "numFollowers": 36,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Brand Culture",
+                        "Communication",
+                        "Advertising",
+                        "Print",
+                        "Photography",
+                        "Film",
+                        "Corporate Identity",
+                        "Branding",
+                        "Luxury Goods",
+                        "Fashion",
+                        "Lifestyle",
+                        "Cosmetics"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "intheheadroom.com"
+            }
+        ]
+    }
+}

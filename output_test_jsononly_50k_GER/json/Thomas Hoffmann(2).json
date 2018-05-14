@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12730494,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "G\u00fcntersleben",
+                                "postalCode": "97261",
+                                "street1": "14 W\u00fcrzburger Str."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Zahnarztpraxis Thomas Hoffmann",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.zahnarzt-hoffmann.com"
+            }
+        ]
+    }
+}

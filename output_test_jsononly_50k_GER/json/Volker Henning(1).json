@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1997,
+                "id": 10910805,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20457",
+                                "street1": "Am Kaiserkai 10"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 (40) 278 22-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40549",
+                                "street1": "Alte Bonbonfabrik"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "JOM J\u00e4schke Operational Media GmbH",
+                "numFollowers": 26,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Mediaplanung",
+                        "Mediaeinkauf",
+                        "Mediaberatung",
+                        "Performance Marketing",
+                        "Werbung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.jomhh.de"
+            }
+        ]
+    }
+}

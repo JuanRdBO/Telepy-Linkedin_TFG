@@ -1,0 +1,62 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 882,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1986,
+                "id": 2783258,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Curitiba",
+                                "street1": "Rua XV de Novembro"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schultz Turismo",
+                "numFollowers": 650,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Circuitos Europamundo",
+                        "Pacotes Tur\u00edsticos"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.schultz.com.br"
+            }
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 312,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2004,
+                "id": 1901031,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "135",
+                            "name": "Ingenier\u00eda industrial o mec\u00e1nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Nr Chester,",
+                                "postalCode": "CH62 3QG",
+                                "street1": "Plantation Road,"
+                            },
+                            "contactInfo": {
+                                "fax": "+44(0) 151 649 0099",
+                                "phone1": "+44(0) 151 649 0467"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Lift Turn Move Ltd",
+                "numFollowers": 328,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Electric Chain Hoists",
+                        "Motion Control Systems",
+                        "Crane Systems",
+                        "Training",
+                        "LEEA"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.liftturnmove.co.uk"
+            }
+        ]
+    }
+}

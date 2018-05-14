@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 24175311,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "92",
+                            "name": "Transporte por carretera o ferrocarril"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "FANA",
+                                "postalCode": "5244",
+                                "street1": "Hordnesvegen 204"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "TAXI R 757 Jan Tore Berg",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

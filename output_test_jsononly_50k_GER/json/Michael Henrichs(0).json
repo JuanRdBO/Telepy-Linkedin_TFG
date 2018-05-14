@@ -1,0 +1,45 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 8894754,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "111",
+                            "name": "Artesan\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Osceola",
+                                "postalCode": "50213-8324",
+                                "street1": "1225 Highway 69"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 6413423277"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Michael Henrichs",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

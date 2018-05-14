@@ -1,0 +1,126 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 19047,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1992,
+                "id": 166265,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Toronto",
+                                "postalCode": "M5V 1E9",
+                                "street1": "495 Wellington Street West"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "416.979.7001"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Toronto",
+                                "postalCode": "M5V 2J1",
+                                "street1": "49 Spadina Ave"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(416) 598-4750"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Montreal",
+                                "postalCode": "H3A 2G4",
+                                "street1": "1435, rue Saint-Alexandre"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+1.514.842.8294"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Vancouver",
+                                "postalCode": "V6B 2Z5",
+                                "street1": "515 Richards Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+1.604.683.8294"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10013",
+                                "street1": "455 Broadway"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+1.212.414.8294"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "TAXI",
+                "numFollowers": 44145,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "advertising/marketing",
+                        "strategy",
+                        "planning",
+                        "design",
+                        "television",
+                        "digital",
+                        "radio",
+                        "social media",
+                        "print",
+                        "interaction design"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "TAXICanada",
+                "websiteUrl": "http://taxi.ca"
+            }
+        ]
+    }
+}

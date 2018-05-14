@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 1224,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1974,
+                "id": 1397004,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "7",
+                            "name": "Semiconductores"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Taipei City",
+                                "postalCode": "100",
+                                "street1": "No.83, Yanping S. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "New Taipei City",
+                                "postalCode": "239",
+                                "street1": "No.55, Ln. 365, Yingtao Rd., Yingge Dist., New Taipei City 239, Taiwan (R.O.C.)"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Taoyuan City",
+                                "postalCode": "325",
+                                "street1": "No.21, Longyuan 5th Rd., Longtan Dist., Taoyuan City 325, Taiwan (R.O.C.)"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Tong Hsing Electronic Ind.",
+                "numFollowers": 199,
+                "websiteUrl": "https://www.theil.com/en/index.html"
+            }
+        ]
+    }
+}

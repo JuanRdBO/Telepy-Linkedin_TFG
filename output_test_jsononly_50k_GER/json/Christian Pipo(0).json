@@ -1,0 +1,61 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2012,
+                "id": 18226358,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "115",
+                            "name": "M\u00fasica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Amsterdam",
+                                "postalCode": "1071",
+                                "street1": "Alexander Boersstraat 2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "NO MILK TODAY",
+                "numFollowers": 5,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Artist management",
+                        "Perspromotie",
+                        "Social media promotie",
+                        "Showcase events",
+                        "Releases",
+                        "Music marketing",
+                        "Artist content"
+                    ]
+                },
+                "websiteUrl": "https://www.nomilktodaymusic.com"
+            }
+        ]
+    }
+}

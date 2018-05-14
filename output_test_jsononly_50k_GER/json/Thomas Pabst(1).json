@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7426902,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fccke",
+                                "postalCode": "35325",
+                                "street1": "Homberger Stra\u00dfe 16A"
+                            },
+                            "contactInfo": {
+                                "phone1": "06634918828"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Pabst Thomas Rechtsanwalt",
+                "numFollowers": 0,
+                "websiteUrl": "ra-pabst.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 245,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12226362,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kassel",
+                                "postalCode": "34123",
+                                "street1": "1 Windhukstra\u00dfe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Keil",
+                "numFollowers": 6,
+                "websiteUrl": "http://www.pflegedienst-ilonakeil.de"
+            }
+        ]
+    }
+}

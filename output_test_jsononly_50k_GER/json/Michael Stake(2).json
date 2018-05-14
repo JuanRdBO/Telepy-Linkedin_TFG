@@ -1,0 +1,89 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1977,
+                "id": 773081,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "99",
+                            "name": "Dise\u00f1o"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rochester",
+                                "postalCode": "14608",
+                                "street1": "217 Lake Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "(585) 458-2731",
+                                "phone1": "(585) 458-3020"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Costich Engineering",
+                "numFollowers": 696,
+                "specialties": {
+                    "_total": 25,
+                    "values": [
+                        "Retail & Shopping Centers",
+                        "Telecommunications",
+                        "Mixed Use Development",
+                        "Office & Industrial Parks",
+                        "Marine & Waterfront",
+                        "Single Family Residential",
+                        "College & Universities",
+                        "Multi Family Residential",
+                        "Land Surveying",
+                        "Senior Housing",
+                        "Religious Instutions",
+                        "Athletic Fields",
+                        "Drone (UAV) Services",
+                        "Solar ",
+                        "Machine Control for Survey",
+                        "Landscape Architecture",
+                        "Construction Stake Out",
+                        "Master Planning ",
+                        "Stormwater Management",
+                        "Site Design ",
+                        "Municipal Approvals",
+                        "SEQR ",
+                        "Construction Observation ",
+                        "Apartments ",
+                        "Senior Housing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.costich.com/"
+            }
+        ]
+    }
+}

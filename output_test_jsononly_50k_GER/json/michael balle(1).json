@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2017,
+                "id": 18376772,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Reykjav\u00edk",
+                                "postalCode": "113",
+                                "street1": "Friggjarbrunni 14"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Lean r\u00e1\u00f0gj\u00f6f",
+                "numFollowers": 0,
+                "specialties": {
+                    "_total": 16,
+                    "values": [
+                        "Lean",
+                        "Workshops",
+                        "Vinnustofur",
+                        "T\u00f6flustj\u00f3rnun",
+                        "Vi\u00f0skiptar\u00e1\u00f0gj\u00f6f",
+                        "Ferlar\u00fdni",
+                        "Endurskipuleggja ferli",
+                        "I\u00f0na\u00f0arfyrirt\u00e6ki",
+                        "R\u00e1\u00f0gj\u00f6f",
+                        "S\u00fdnileg stj\u00f3rnun",
+                        "5S",
+                        "Kaizen",
+                        "St\u00f6\u00f0ugar umb\u00e6tur",
+                        "Customer satisfaction",
+                        "\u00c1n\u00e6gja vi\u00f0skiptavina",
+                        "Verkst\u00e6\u00f0i"
+                    ]
+                },
+                "websiteUrl": "www.leanradgjof.is"
+            }
+        ]
+    }
+}

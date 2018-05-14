@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7367214,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "H\u00f6chstadt",
+                                "postalCode": "91315",
+                                "street1": "7a Am Medbacher Tor"
+                            },
+                            "contactInfo": {
+                                "phone1": "091937556"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Axel Bauer Textildruck",
+                "numFollowers": 0,
+                "websiteUrl": "t-shirt-drucker.de"
+            }
+        ]
+    }
+}

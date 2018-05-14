@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4836,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1972,
+                "id": 45131,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "115",
+                            "name": "M\u00fasica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Los Angeles",
+                                "postalCode": "90040",
+                                "street1": "5100 S Eastern Ave"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Roland Corporation U.S.",
+                "numFollowers": 13256,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "DIGITAL PIANOS",
+                        "KEYBOARDS & SYNTHESIZERS",
+                        "ELECTRONIC DRUMS & PERCUSSION",
+                        "RECORDING",
+                        "GUITAR PRODUCTS",
+                        "DANCE / DJ"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.rolandus.com"
+            }
+        ]
+    }
+}

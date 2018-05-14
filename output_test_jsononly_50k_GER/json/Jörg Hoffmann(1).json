@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7436504,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40477",
+                                "street1": "5 Parkstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "02119894760"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hoffmann Friseure - J\u00f6rg Hoffmann",
+                "numFollowers": 0,
+                "websiteUrl": "hoffmann-friseure.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 118,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "id": 2296643,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "49",
+                            "name": "Materiales de construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Chesterfield",
+                                "postalCode": "S40 2WB",
+                                "street1": "Units 1 & 2 McGregors Way"
+                            },
+                            "contactInfo": {
+                                "fax": "01246 273335",
+                                "phone1": "01246 277756"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wera Tools UK",
+                "numFollowers": 1362,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Screwdrivers",
+                        "Screwdriver Bits",
+                        "Hex Keys",
+                        "Ratchets and sockets",
+                        "Spanners",
+                        "Stainless steel tools",
+                        "VDE Insulated 1,000V tools",
+                        "Multi-function Kompakt tools"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "WeraToolsUK",
+                "websiteUrl": "www.wera-tools.co.uk"
+            }
+        ]
+    }
+}

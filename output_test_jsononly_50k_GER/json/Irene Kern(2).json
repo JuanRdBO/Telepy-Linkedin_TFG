@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2011,
+                "id": 2361777,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "99",
+                            "name": "Dise\u00f1o"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Amsterdam",
+                                "postalCode": "1087JK",
+                                "street1": "IJburglaan 980"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+31 (0)6 24673980"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "In the eye of MI",
+                "numFollowers": 14,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Concept",
+                        "Creatie",
+                        "Styling",
+                        "Inspiratie"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.intheeyeofmi.nl"
+            }
+        ]
+    }
+}

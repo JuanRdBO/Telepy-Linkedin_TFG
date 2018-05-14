@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7366633,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stolberg (Rheinland)",
+                                "postalCode": "52223",
+                                "street1": "51 Hostetstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "024029979410"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ingrid Hoffmann Kommunikation",
+                "numFollowers": 0,
+                "websiteUrl": "ingrid-hoffmann.de"
+            }
+        ]
+    }
+}

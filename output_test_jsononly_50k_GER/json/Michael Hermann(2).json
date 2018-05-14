@@ -1,0 +1,118 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 16,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "id": 9262284,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Maple Grove",
+                                "postalCode": "55369",
+                                "street1": "6250 Sycamore LN N"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "1-800-327-9735"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Brighton",
+                                "postalCode": "48116",
+                                "street1": "6826 Kensington Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "1-800-327-9735"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Irvine",
+                                "postalCode": "92618",
+                                "street1": "18 Goodyear, Suite 105"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "1-800-327-9735"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Nashville",
+                                "postalCode": "37211",
+                                "street1": "618 Grassmere Park Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(800) 327-9735"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Marlborough",
+                                "postalCode": "01752",
+                                "street1": "257 Simarano Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(800) 327-9735"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ZEISS Industrial Metrology",
+                "numFollowers": 6854,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Metrology Instruments",
+                        "Measuring Services",
+                        "Inspection Equipment"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.zeiss.com/metrology"
+            }
+        ]
+    }
+}

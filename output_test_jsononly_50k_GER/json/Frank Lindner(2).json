@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7486810,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dessau-Ro\u00dflau",
+                                "postalCode": "06844",
+                                "street1": "26 W\u00f6rlitzer Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "03402301564"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ERGO Versicherung Frank Lindner",
+                "numFollowers": 0,
+                "websiteUrl": "frank.lindner.ergo.de"
+            }
+        ]
+    }
+}

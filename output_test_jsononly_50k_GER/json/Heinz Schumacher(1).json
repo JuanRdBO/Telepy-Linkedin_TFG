@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7422623,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Neetze",
+                                "postalCode": "21398",
+                                "street1": "12 Holzer Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "05850222"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Baugesch\u00e4ft Heinz Schumacher GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "baugeschaeft-schumacher-neetze.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12280783,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "67",
+                            "name": "Educaci\u00f3n primaria/secundaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Griesheim",
+                                "postalCode": "64347",
+                                "street1": "2 Am Kiefernw\u00e4ldchen"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6155604211"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schule Am Kiefernw\u00e4ldchen",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.sak-griesheim.de"
+            }
+        ]
+    }
+}

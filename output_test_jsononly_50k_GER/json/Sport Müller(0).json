@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 22,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12186165,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad Kreuznach",
+                                "postalCode": "55545",
+                                "street1": "65 Mannheimer Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 67132415"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sport-M\u00fcller",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.sportmueller.com"
+            }
+        ]
+    }
+}

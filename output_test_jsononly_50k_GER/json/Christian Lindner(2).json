@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12783050,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Eggst\u00e4tt",
+                                "postalCode": "83125",
+                                "street1": "31 Obinger Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 8056200"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "K\u00dcS-Kfz-Pr\u00fcfstelle Christian Lindner",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.lindner-christian.com"
+            }
+        ]
+    }
+}

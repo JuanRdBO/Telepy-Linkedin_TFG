@@ -1,0 +1,61 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 11,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 22287499,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Arlington",
+                                "postalCode": "22209",
+                                "street1": "1655 North Fort Myer Drive"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "TAIG (Tactical Analytic & Intelligence Group)",
+                "numFollowers": 391,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Data Fusion",
+                        "Complex Event Processing",
+                        "Information Management",
+                        "Real Time Analytics and Visualization",
+                        "Staffing",
+                        "IT Solutions"
+                    ]
+                },
+                "websiteUrl": "http://taigrp.com"
+            }
+        ]
+    }
+}

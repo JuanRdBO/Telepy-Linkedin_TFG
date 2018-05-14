@@ -1,0 +1,32 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 23451181,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Eupen",
+                                "postalCode": "4700",
+                                "street1": "6 Rue d'Aix la Chapelle"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "WEILER KLAUS ULRICH",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

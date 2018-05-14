@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12421827,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Homburg",
+                                "postalCode": "66424",
+                                "street1": "26 Homburger Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 68487190111"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Siegfried Schmitz",
+                "numFollowers": 0,
+                "websiteUrl": "http://si.schmitz.ergo.de"
+            }
+        ]
+    }
+}

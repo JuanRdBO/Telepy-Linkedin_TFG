@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7530698,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "142",
+                            "name": "Vino y licor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Weinstadt",
+                                "postalCode": "71384",
+                                "street1": "9 Friedrichstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "07151609763"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Weingut Jochen Mayer",
+                "numFollowers": 0,
+                "websiteUrl": "weingut-jochen-mayer.de"
+            }
+        ]
+    }
+}

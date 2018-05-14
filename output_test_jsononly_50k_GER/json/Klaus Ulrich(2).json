@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12455643,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Freital",
+                                "postalCode": "01705",
+                                "street1": "20 Kr\u00f6nertstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3514760203"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dipl.-Med. Klaus-Ulrich D\u00e4\u00dfler",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.onko-freital.de"
+            }
+        ]
+    }
+}

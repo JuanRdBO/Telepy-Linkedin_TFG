@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12701520,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60323",
+                                "street1": "58 Wiesenau"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 69172276"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sabine Wagner-Sander",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.kunstmuster-wagner.de"
+            }
+        ]
+    }
+}

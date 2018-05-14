@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1999,
+                "id": 3477527,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dhaka",
+                                "postalCode": "1212",
+                                "street1": "House# 53-55, Road# 03, Block# B"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+88- 01681444111"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Eagles Dance Company",
+                "numFollowers": 37,
+                "status": {
+                    "code": "OOB",
+                    "name": "Out of Business"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.eaglesdance.com"
+            }
+        ]
+    }
+}

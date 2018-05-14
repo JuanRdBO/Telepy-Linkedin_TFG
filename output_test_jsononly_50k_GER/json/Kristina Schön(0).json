@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2018,
+                "id": 27242703,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "33",
+                            "name": "Deportes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80335",
+                                "street1": "Seidlstra\u00dfe 8"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "KAM on! - Gemeinsam Sport f\u00f6rdern",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Crowdfunding",
+                        "Sportf\u00f6rderung",
+                        "Fundraising",
+                        "Sponsoring",
+                        "Sportmarketing"
+                    ]
+                },
+                "websiteUrl": "http://kam-on.de/"
+            }
+        ]
+    }
+}

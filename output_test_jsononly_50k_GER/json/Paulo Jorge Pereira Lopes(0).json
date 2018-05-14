@@ -1,0 +1,57 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1934,
+                "id": 1591568,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "64",
+                            "name": "Ganader\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "S\u00e3o Paulo",
+                                "postalCode": "05001-300",
+                                "street1": "Av. Francisco Matarazzo, 455"
+                            },
+                            "contactInfo": {
+                                "fax": "+55 (11) 3862-1864",
+                                "phone1": "+55 (11) 3673-9400"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Associa\u00e7\u00e3o Brasileira de Criadores de Cavalo da Ra\u00e7a Mangalarga",
+                "numFollowers": 605,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "@ABCCRMoficial",
+                "websiteUrl": "http://www.cavalomangalarga.com.br"
+            }
+        ]
+    }
+}

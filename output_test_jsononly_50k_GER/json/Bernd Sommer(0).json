@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2016,
+                "id": 10864111,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Friedrichshafen",
+                                "postalCode": "88045",
+                                "street1": "Am Seemoser Horn 20"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Transcultural Leadership Summit",
+                "numFollowers": 31,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Leadership",
+                        "Transculturality",
+                        "Conference",
+                        "Seminar",
+                        "Workshops",
+                        "cultural education",
+                        "Keynotes",
+                        "Diversity",
+                        "Networking"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.transculturalleadershipsummit.com"
+            }
+        ]
+    }
+}

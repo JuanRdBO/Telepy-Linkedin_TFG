@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2015,
+                "id": 10116639,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "142",
+                            "name": "Vino y licor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bordeaux",
+                                "postalCode": "",
+                                "street1": "40 cours d'Albret"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "05 35 54 29 13"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "TASTED 100% Blind",
+                "numFollowers": 51,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Wine Marketing",
+                        "Blind Tasting",
+                        "Wine Ratings",
+                        "Wine Tasting"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.blindtasted.com"
+            }
+        ]
+    }
+}

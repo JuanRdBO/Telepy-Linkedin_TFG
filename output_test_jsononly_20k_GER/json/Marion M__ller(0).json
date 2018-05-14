@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7397678,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rudersberg",
+                                "postalCode": "73635",
+                                "street1": "30 Backnanger Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "07183929992"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Marion M\u00fcller",
+                "numFollowers": 1,
+                "websiteUrl": "zahnarzt-marionmueller.de"
+            }
+        ]
+    }
+}

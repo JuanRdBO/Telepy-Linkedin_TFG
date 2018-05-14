@@ -1,0 +1,62 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2018,
+                "id": 11570823,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "86",
+                            "name": "Servicios medioambientales"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Reichshof",
+                                "postalCode": "51580",
+                                "street1": "Am Brunnen 8"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "PlanBee GbR | Vertriebspartner der Bee-Rent GmbH",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Bienen-Leasing",
+                        "Vermietung von Bienenv\u00f6lkern",
+                        "CSR-Beratung",
+                        "Eco-Marketing",
+                        "Green Marketing",
+                        "Corporate Social Responsibility"
+                    ]
+                },
+                "websiteUrl": "https://www.xing.com/xbp/pages/planbee-gbr"
+            }
+        ]
+    }
+}

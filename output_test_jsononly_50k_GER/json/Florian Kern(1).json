@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12472837,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dortmund",
+                                "postalCode": "44267",
+                                "street1": "81 Im Papenkamp"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2315581"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Friedhelm Kortmann",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.koppp.de"
+            }
+        ]
+    }
+}

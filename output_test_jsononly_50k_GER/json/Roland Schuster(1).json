@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12761754,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Neckarsulm",
+                                "postalCode": "74172",
+                                "street1": "36 Th\u00fcringer Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3674172"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Roland Schuster GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.stuckateur-schuster.de"
+            }
+        ]
+    }
+}

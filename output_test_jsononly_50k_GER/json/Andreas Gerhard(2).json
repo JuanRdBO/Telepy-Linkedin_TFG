@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12300618,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Heidelberg",
+                                "postalCode": "69115",
+                                "street1": "4 Heinrich-Lanz-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 622113360"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Link Fahrzeugbau GmbH",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.link-fahrzeugbau.de"
+            }
+        ]
+    }
+}

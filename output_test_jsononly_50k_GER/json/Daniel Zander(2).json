@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 1148242,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "137",
+                            "name": "Recursos humanos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Aberdeen",
+                                "postalCode": "ab10 1xe",
+                                "street1": "20 Rubislaw Terrace"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Benchmark For Business",
+                "numFollowers": 104,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "executive education, hr, leadership events management",
+                        "corporate events management",
+                        "speaker resourcing",
+                        "business management & learning and development conferences"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "bm_visionaries",
+                "websiteUrl": "http://www.benchmarkforbusiness.com"
+            }
+        ]
+    }
+}

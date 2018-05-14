@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12739371,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Odenthal",
+                                "postalCode": "51519",
+                                "street1": "53 Hauptstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 21746699788"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Therapiezentrum Volker M\u00fcller",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.therapiezentrum-odenthal.de"
+            }
+        ]
+    }
+}

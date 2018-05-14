@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 509,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1982,
+                "id": 693100,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "33",
+                            "name": "Deportes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "S\u00e3o Paulo",
+                                "postalCode": "04567-900",
+                                "street1": "Rua Arizona, 1.366 - 6o. andar"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+55 11 5504-9000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sport Promotion",
+                "numFollowers": 1041,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Sports Marketing",
+                        "Events and projects",
+                        "Broadcast",
+                        "Sports Arena",
+                        "advertising",
+                        "Marketing",
+                        "Sponsorship"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.sportpromotion.com.br"
+            }
+        ]
+    }
+}

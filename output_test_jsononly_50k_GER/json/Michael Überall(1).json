@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 14,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12414387,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Soest",
+                                "postalCode": "59494",
+                                "street1": "28 Ostenhellweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2921767051"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Michael Klug",
+                "numFollowers": 1,
+                "websiteUrl": "http://michael-klug.devk.de"
+            }
+        ]
+    }
+}

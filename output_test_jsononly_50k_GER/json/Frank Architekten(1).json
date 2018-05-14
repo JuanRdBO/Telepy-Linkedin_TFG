@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 19,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7442622,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Eggenfelden",
+                                "postalCode": "84307",
+                                "street1": "103 Pfarrkirchener Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0872110830"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Frank Architekten GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "frankarchitekten.de"
+            }
+        ]
+    }
+}

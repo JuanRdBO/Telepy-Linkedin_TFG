@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 256,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2005,
+                "id": 120387,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Makati",
+                                "postalCode": "1229",
+                                "street1": "4th floor, Carlos J. Valdez Building"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+638943415"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Orange and Bronze Software Labs",
+                "numFollowers": 1103,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Agile",
+                        "Grails",
+                        "Spring",
+                        "Hibernate",
+                        "Struts 2",
+                        "AppFuse",
+                        "Pentaho",
+                        "Java",
+                        "Java EE",
+                        "Scrum",
+                        "XP (Extreme Programming)",
+                        "Google Apps Authorized Reseller",
+                        "Google Enterprise Partner"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "http://people.orangeandbronze.com",
+                "websiteUrl": "http://orangeandbronze.com"
+            }
+        ]
+    }
+}

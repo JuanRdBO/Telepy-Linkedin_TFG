@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7820368,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Amravati",
+                                "postalCode": "444602",
+                                "street1": "Camp Area, Near Tapovan Gate"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sant Gadge Baba Amravati University - India",
+                "numFollowers": 36,
+                "websiteUrl": "http://sgbau.ac.in"
+            }
+        ]
+    }
+}

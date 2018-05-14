@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7360380,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Aham",
+                                "postalCode": "84168",
+                                "street1": "73 Vilstalstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "08744335"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "AUTOHAUS MICHAEL WINKLER E.K.",
+                "numFollowers": 0,
+                "websiteUrl": "autohauswinkler.de"
+            }
+        ]
+    }
+}

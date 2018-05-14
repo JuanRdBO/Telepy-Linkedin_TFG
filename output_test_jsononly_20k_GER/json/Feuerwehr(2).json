@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 2438,
+        "values": [
+            {
+                "companyType": {
+                    "code": "G",
+                    "name": "Government Agency"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1887,
+                "id": 3077833,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "78",
+                            "name": "Protecci\u00f3n civil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wuppertal",
+                                "postalCode": "42329",
+                                "street1": "Rubensstra\u00dfe 4a"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Feuerwehr Wuppertal \u2013 L\u00f6schzug Vohwinkel",
+                "numFollowers": 33,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Feuerwehr",
+                        "Brandschutz",
+                        "Jugendarbeit"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.ff-vohwinkel.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7510059,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bamberg",
+                                "postalCode": "96049",
+                                "street1": "161 Babenbergerring"
+                            },
+                            "contactInfo": {
+                                "phone1": "0951955120"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Steuerb\u00fcro Oliver Christ",
+                "numFollowers": 0,
+                "websiteUrl": "steuerbuero-christ.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 200,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12747336,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Althengstett",
+                                "postalCode": "75382",
+                                "street1": "8 Hauptstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7051938259"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hautnah Gbr",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.hautnah-calw.de"
+            }
+        ]
+    }
+}

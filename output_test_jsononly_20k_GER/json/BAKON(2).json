@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 18,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 3853249,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "138",
+                            "name": "Material y equipo de negocios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Goes",
+                                "postalCode": "4462 GN",
+                                "street1": "1Stanleyweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+31 113244354"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Bakon Bakkerijmachines Holland B.V.",
+                "numFollowers": 49,
+                "websiteUrl": "http://bakon.nl"
+            }
+        ]
+    }
+}

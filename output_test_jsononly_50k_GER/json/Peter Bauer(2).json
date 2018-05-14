@@ -1,0 +1,34 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 20,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12694218,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "22113"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 407323313"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Peter A. Bauer GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.schlossereibauer-hamburg.de"
+            }
+        ]
+    }
+}

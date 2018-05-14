@@ -1,0 +1,84 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 14,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1995,
+                "id": 1346755,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hong Kong",
+                                "postalCode": "",
+                                "street1": "Suite 2101, 21/F, Tower 1, Lippo Centre"
+                            },
+                            "contactInfo": {
+                                "fax": "+852 2905-1500",
+                                "phone1": "+852 3710-5000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "75008",
+                                "street1": "7 Boulevard Malesherbes"
+                            },
+                            "contactInfo": {
+                                "fax": "+33 (0)1 47 55 73 91",
+                                "phone1": "+33 (0)1 47 55 73 90"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Thomas Mayer & Associ\u00e9s",
+                "numFollowers": 337,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "International business law",
+                        "Mergers & acquisitions, joint ventures",
+                        "Corporate & commercial law",
+                        "International tax law",
+                        "International arbitration, litigation",
+                        "Private international law",
+                        "Immigration law"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.tmahk.com"
+            }
+        ]
+    }
+}

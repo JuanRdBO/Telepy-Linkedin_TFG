@@ -1,0 +1,93 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1949,
+                "id": 1416498,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sheboygan",
+                                "postalCode": "53081",
+                                "street1": "1807 Erie Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "(920) 458-1363",
+                                "phone1": "(920) 458-6174"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Green Lake",
+                                "postalCode": "54941",
+                                "street1": "504 Hill Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(920) 294-6080"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Mt. Horeb",
+                                "postalCode": "53572",
+                                "street1": "213 East Main Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "Voice: (608) 437-3688"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Burkart-Heisdorf, a Division of McClone",
+                "numFollowers": 72,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Risk Management",
+                        "Business Insurance",
+                        "Home/Auto Insurance",
+                        "Health Insurance",
+                        "Life Insurance"
+                    ]
+                },
+                "status": {
+                    "code": "ACQ",
+                    "name": "Acquired"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.mcclone.com"
+            }
+        ]
+    }
+}

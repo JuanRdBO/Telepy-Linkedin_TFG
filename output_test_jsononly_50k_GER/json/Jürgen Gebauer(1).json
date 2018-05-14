@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12457130,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Calau",
+                                "postalCode": "03205",
+                                "street1": "135 Altnauer Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3541800430"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Raumausstatter J\u00fcrgen Gebauer",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.raumausstatter-juergen-gebauer.de"
+            }
+        ]
+    }
+}

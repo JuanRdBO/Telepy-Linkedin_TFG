@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2007,
+                "id": 6448410,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "98",
+                            "name": "Relaciones p\u00fablicas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Miami",
+                                "postalCode": "33131",
+                                "street1": "801 Brickell Key Blvd,"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(305) 546-9882"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Brown and Company PR",
+                "numFollowers": 84,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Public Relations",
+                        "Event Management",
+                        "Strategic editorial placement for print, digital, TV, & radio",
+                        "Content development",
+                        "Interview coordination & media training",
+                        "Strategic partnerships",
+                        "High profile fashion shows",
+                        "Galas, fundraisers, silent auctions"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.brownbuzz.com"
+            }
+        ]
+    }
+}

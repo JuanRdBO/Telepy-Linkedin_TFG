@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12881521,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6nigswinter",
+                                "postalCode": "53639",
+                                "street1": "9 Am Lindenbaum"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2244900339"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Werner Schmitz Schreinerei",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.schreinerei-werner-schmitz.de"
+            }
+        ]
+    }
+}

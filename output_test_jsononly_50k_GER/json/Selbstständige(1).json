@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 255,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7417541,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dillenburg",
+                                "postalCode": "35690",
+                                "street1": "2 Pfaffenh\u00f6lle"
+                            },
+                            "contactInfo": {
+                                "phone1": "02771208695"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Selbstst\u00e4ndige Herbalife Berater",
+                "numFollowers": 3,
+                "websiteUrl": "herba-group.de"
+            }
+        ]
+    }
+}

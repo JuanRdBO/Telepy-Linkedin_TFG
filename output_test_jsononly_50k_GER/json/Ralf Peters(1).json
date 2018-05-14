@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "id": 10930561,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mainz",
+                                "postalCode": "55129",
+                                "street1": "Georg-Buechner-Str. 39"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ralf Peters Management & Consulting",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Hands-On Management & Consulting",
+                        "Business Process Optimisation & Redesign",
+                        "Interim Management (Operations & Supply Chain)",
+                        "Business Software Evaluation and Selection",
+                        "Project Management",
+                        "Post Merger Integration",
+                        "Change Management",
+                        "Process Mining"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.rp-management-consulting.de"
+            }
+        ]
+    }
+}

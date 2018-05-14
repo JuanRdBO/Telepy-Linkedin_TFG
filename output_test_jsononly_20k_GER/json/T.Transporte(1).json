@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 188,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7561638,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stockelsdorf",
+                                "postalCode": "23617",
+                                "street1": "Clever Landstra\u00dfe 3C"
+                            },
+                            "contactInfo": {
+                                "phone1": "04513080938"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "T&T Transporte",
+                "numFollowers": 0,
+                "websiteUrl": "tt-transporte.de"
+            }
+        ]
+    }
+}

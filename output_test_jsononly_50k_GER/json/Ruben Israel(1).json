@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2012,
+                "id": 27202267,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "75",
+                            "name": "Administraci\u00f3n gubernamental"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "75002",
+                                "street1": "20 rue Greneta"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": " Alpha Epsilon Pi AEPi Paris France",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "brotherhood",
+                        "fraternit\u00e9"
+                    ]
+                },
+                "websiteUrl": "http://aepiparis.wixsite.com/aepiparis"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12390374,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wurmlingen",
+                                "postalCode": "78573",
+                                "street1": "18 Kantstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 746174547"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Peter Kohler",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.kohler-vermessung.de"
+            }
+        ]
+    }
+}

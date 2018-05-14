@@ -1,0 +1,126 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 68,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 2011,
+                "id": 2127552,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "116",
+                            "name": "Log\u00edstica y cadena de suministro"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ridderkerk",
+                                "postalCode": "2983 GS",
+                                "street1": "Ringdijk 374 - 378"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0031 (0)180 441900"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Arlandastad",
+                                "postalCode": "19046",
+                                "street1": "Maskingatan 8B"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(46)8-594-41350"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Schiphol South-East",
+                                "postalCode": "1118LK",
+                                "street1": "Reykjavikweg 1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+31(0)88-5522-200"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Melsele",
+                                "postalCode": "",
+                                "street1": "Keetberglaan 2"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0032 (0)3 570 69 11"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Ridderkerk",
+                                "postalCode": "2983 GS",
+                                "street1": "Ringdijk 374 - 378"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0031 (0) 180 441900"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Yusen Logistics Benelux",
+                "numFollowers": 2942,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Ocean Freight",
+                        "Air Freight",
+                        "Transportation",
+                        "Contract Logistics",
+                        "Warehousing",
+                        "Supply Chain Management",
+                        "Pharma logistics",
+                        "Automotive logistics",
+                        "Healthcare logistics",
+                        "Final Mile distribution"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.yusen-logistics.com/en/europe/benelux/"
+            }
+        ]
+    }
+}

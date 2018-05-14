@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1957,
+                "id": 3806211,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "100",
+                            "name": "Gesti\u00f3n de organizaciones sin \u00e1nimo de lucro"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Salt Lake City",
+                                "postalCode": "84113",
+                                "street1": "2 North Medical Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "801-581-0098"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "I J and Jeann\u00e9 Wagner Jewish Community Center",
+                "numFollowers": 48,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Early Childhood Center",
+                        "Fitness & Recreational Facilities",
+                        "Community Events",
+                        "Youth Recreation",
+                        "Private Events",
+                        "AfterSchool & Summer Camp Programs",
+                        "Community Outreach & Service"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.slcjcc.org/"
+            }
+        ]
+    }
+}

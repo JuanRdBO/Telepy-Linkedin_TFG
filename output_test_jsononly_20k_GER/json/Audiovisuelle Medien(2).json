@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 28,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 6783532,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20459",
+                                "street1": "19 Deichstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "0403690560"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bundesverband Audiovisuelle Medien E.V.",
+                "numFollowers": 1,
+                "websiteUrl": "bvv-medien.de"
+            }
+        ]
+    }
+}

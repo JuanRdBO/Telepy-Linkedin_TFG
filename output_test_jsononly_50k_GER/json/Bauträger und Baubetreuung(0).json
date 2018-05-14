@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7357637,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Zwickau",
+                                "postalCode": "08056",
+                                "street1": "17 Innere Schneeberger Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0375390270"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bernd Arzt Bautr\u00e4ger Und Baubetreuung",
+                "numFollowers": 1,
+                "websiteUrl": "arzt-immobilien.de"
+            }
+        ]
+    }
+}

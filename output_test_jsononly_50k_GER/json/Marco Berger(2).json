@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "foundedYear": 1993,
+                "id": 22330146,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Curitiba",
+                                "postalCode": "80020310",
+                                "street1": "RUA XV DE NOVEMBRO, 270"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "QUANTA SISTEMAS PRODUTIVOS E EMPRESARIAIS",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "VIABILIDADE T\u00c9CNICA",
+                        "VIABILIDADE ECON\u00d4MICA",
+                        "Estrutura\u00e7\u00e3o de Financiamentos  ",
+                        "Fus\u00f5es e Aquisi\u00e7\u00f5es",
+                        "Programas de Desenvolvimento Setoriais"
+                    ]
+                },
+                "websiteUrl": "www.quantaconsult.com.br"
+            }
+        ]
+    }
+}

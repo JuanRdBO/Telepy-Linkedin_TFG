@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12543873,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "G\u00f6ttingen",
+                                "postalCode": "37079",
+                                "street1": "Ellieh\u00e4user Anger 5A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 221240483"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Stefan Fischer & Jacek Wowro GbR",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.autotest-versand.de"
+            }
+        ]
+    }
+}

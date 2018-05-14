@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 23272441,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "132",
+                            "name": "E-learning"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "NITTEDAL",
+                                "postalCode": "1482",
+                                "street1": "Skolebakken 11"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "PC OPPL\u00c6RING Trine Benno Ski",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

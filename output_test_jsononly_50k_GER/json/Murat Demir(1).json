@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2010,
+                "id": 2361236,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Izmir",
+                                "postalCode": "",
+                                "street1": "Izmir Universty of  Economics office: C728 Balcova / Izmir"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "SINAVO",
+                "numFollowers": 23,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Online Education",
+                        "Social Networks",
+                        "EduGame",
+                        "Game Development",
+                        "Rich internet applications",
+                        "Web 2.0",
+                        "Online Examination"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.sinavo.com"
+            }
+        ]
+    }
+}

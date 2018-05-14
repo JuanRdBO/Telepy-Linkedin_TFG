@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1988,
+                "id": 6840782,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Terrebonne",
+                                "postalCode": "J6W1Z8",
+                                "street1": "1447, rue National"
+                            },
+                            "contactInfo": {
+                                "fax": "450-471-9630",
+                                "phone1": "450-471-8484"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Les portes Bourassa Inc.",
+                "numFollowers": 84,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Wooden front door",
+                        "Wooden garage door",
+                        "Steel front door",
+                        "Steel garage door",
+                        "Maestra TM,Technology",
+                        "Energy star TM ",
+                        "Wood engineering design",
+                        "Manufacturer",
+                        "Garage TM Distributor"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "portesbourassa.com"
+            }
+        ]
+    }
+}

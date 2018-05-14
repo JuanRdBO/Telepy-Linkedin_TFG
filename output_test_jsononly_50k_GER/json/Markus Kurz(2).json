@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2013,
+                "id": 3582093,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bisingen",
+                                "postalCode": "72406",
+                                "street1": "Hechinger Strasse 48"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 7476 498 96-99",
+                                "phone1": "+49 7476 498 96-00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "nemetris GmbH",
+                "numFollowers": 46,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Just in Time (JIT)",
+                        "Just in Sequence (JIS)",
+                        "Manufacturing Execution System (MES)",
+                        "Traceability",
+                        "Consulting",
+                        "Automotive",
+                        "Web Dashboard",
+                        "EDI Engine"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.nemetris.com"
+            }
+        ]
+    }
+}

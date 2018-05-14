@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7437011,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Fischach",
+                                "postalCode": "86850",
+                                "street1": "13 M\u00fchlstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "082361889"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Knoll Franz-Christian T\u00fcren",
+                "numFollowers": 0,
+                "websiteUrl": "franzknoll.de"
+            }
+        ]
+    }
+}

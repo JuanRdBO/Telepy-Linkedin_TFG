@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12269282,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Liebstadt",
+                                "postalCode": "01825",
+                                "street1": "14 Berthelsdorf"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3502550221"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bedachungsbetrieb Stimpel GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.dachdecker-stimpel.de"
+            }
+        ]
+    }
+}

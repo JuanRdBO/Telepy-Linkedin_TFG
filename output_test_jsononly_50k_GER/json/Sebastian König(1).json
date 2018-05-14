@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2009,
+                "id": 818119,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "99",
+                            "name": "Dise\u00f1o"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "22761",
+                                "street1": "Stresemannstra\u00dfe 375"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 40807919819",
+                                "phone1": "+49 40807919810"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Studio Una Hager K\u00f6nig GbR.",
+                "numFollowers": 13,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Branding",
+                        "Editorial Design",
+                        "Webdesign",
+                        "Corporate Design"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.studiouna.de"
+            }
+        ]
+    }
+}

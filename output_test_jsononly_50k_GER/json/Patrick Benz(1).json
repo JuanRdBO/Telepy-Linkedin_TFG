@@ -1,0 +1,120 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1998,
+                "id": 3788033,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Phoenix",
+                                "postalCode": "85016",
+                                "street1": "2375  E Camelback Rd"
+                            },
+                            "contactInfo": {
+                                "fax": "480-785-7202",
+                                "phone1": "(480) 398-2251"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Black Canyon City",
+                                "postalCode": "85324",
+                                "street1": "34501 S Old Black Canyon Hwy, #2"
+                            },
+                            "contactInfo": {
+                                "fax": "480-785-7202",
+                                "phone1": "(623) 374-9876"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Tempe",
+                                "postalCode": "85281",
+                                "street1": "1410 W 14th St #100"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(480) 398-2260"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Peoria",
+                                "postalCode": "85345",
+                                "street1": "8550 North 91st Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(602) 492-9047"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Glendale",
+                                "postalCode": "85301",
+                                "street1": "7105 North 51st Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(602) 492-9007"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "SafePro Auto Glass, LLC",
+                "numFollowers": 112,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Windshield Replacements for Lamborghini, Mercedes Benz, Bentley",
+                        "All Safety Glass, Including Windshields, for Any RV or Motor Home",
+                        "Windshield Replacement for any \"Common\"\u200b Vehicle",
+                        "All Construction Equipment Glass like Front End Loaders"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "SafeProAutoGlass.com"
+            }
+        ]
+    }
+}

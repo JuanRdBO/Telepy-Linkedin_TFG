@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1998,
+                "id": 640503,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "31",
+                            "name": "Hosteler\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wiesbaden",
+                                "postalCode": "65185",
+                                "street1": "Bahnhofstr. 67"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 611 44760044",
+                                "phone1": "+49 611 4476000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bierwirth & Kluth Hotel Management GmbH",
+                "numFollowers": 237,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Hotel Operation",
+                        "Hotel Development",
+                        "Turnaround Management",
+                        "Hotel Consulting",
+                        "Asset Management"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.bierwirth-kluth.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12778996,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kippenheim",
+                                "postalCode": "77971",
+                                "street1": "45 Schlo\u00dfstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 782586781"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fahrschule Reinhard Becker",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.fahrschule-becker.de"
+            }
+        ]
+    }
+}

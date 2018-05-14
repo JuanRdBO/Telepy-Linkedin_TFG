@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7426167,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60433",
+                                "street1": "46 August-Schanz-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0699543530"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "NEON-Zentgraf Lichtwerbung GmbH",
+                "numFollowers": 2,
+                "websiteUrl": "neon-zentgraf.de"
+            }
+        ]
+    }
+}

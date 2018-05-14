@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7433784,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dresden",
+                                "postalCode": "01279",
+                                "street1": "60 Klagenfurter Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "03512514466"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wolfgang Fritz K\u00f6bsch Ingenieurb\u00fcro",
+                "numFollowers": 0,
+                "websiteUrl": "baugrund-koebsch.de"
+            }
+        ]
+    }
+}

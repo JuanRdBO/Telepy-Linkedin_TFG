@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2008,
+                "id": 13264080,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "144",
+                            "name": "Energ\u00eda renovable y medio ambiente"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "12167",
+                                "street1": "Haydnstrasse 23a"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Solsol GmbH",
+                "numFollowers": 5,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "PhotoVoltaics",
+                        "PhotoVoltaic",
+                        "PV",
+                        "Solar",
+                        "Renewables",
+                        "Renewable Energy",
+                        "Consulting",
+                        "Manufacturing",
+                        "Technology",
+                        "Strategy",
+                        "Project Management",
+                        "Supply Chain Management",
+                        "Financial Modelling"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.solsol.biz"
+            }
+        ]
+    }
+}

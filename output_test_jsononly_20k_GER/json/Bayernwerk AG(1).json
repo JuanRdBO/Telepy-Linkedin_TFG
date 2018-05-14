@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7572961,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Eggenfelden",
+                                "postalCode": "84307",
+                                "street1": "22 Landshuter Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "087219800"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bayernwerk AG-Netzcenter Eggenfelden",
+                "numFollowers": 3,
+                "websiteUrl": "bayernwerk.de"
+            }
+        ]
+    }
+}

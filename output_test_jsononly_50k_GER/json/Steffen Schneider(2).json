@@ -1,0 +1,53 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1996,
+                "id": 6901801,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bietigheim-Bissingen",
+                                "postalCode": "74321",
+                                "street1": "Stuttgarterstr.59-1"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 89907750"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Vahldiek AG",
+                "numFollowers": 12,
+                "websiteUrl": "http://www.blumen-vahldiek.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12679971,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pirna",
+                                "postalCode": "01796",
+                                "street1": "3/4 Schlosshof"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Landrat Michael Geisler",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.landrat-geisler.de"
+            }
+        ]
+    }
+}

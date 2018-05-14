@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7406970,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bremen",
+                                "postalCode": "28757",
+                                "street1": "63 Gerhard-Rohlfs-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0421654357"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "BSB Baubetreuung Und Bautr\u00e4ger GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "bsbbau.de"
+            }
+        ]
+    }
+}

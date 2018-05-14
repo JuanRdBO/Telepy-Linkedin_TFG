@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 22,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1983,
+                "id": 2369200,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "49",
+                            "name": "Materiales de construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Emsdetten",
+                                "postalCode": "48282",
+                                "street1": "Hollefeldstra\u00dfe 51"
+                            },
+                            "contactInfo": {
+                                "fax": "02572-156160",
+                                "phone1": "02572-1560"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "wedi GmbH",
+                "numFollowers": 970,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Bauplatten",
+                        "bodengleiche Duschen",
+                        "Dampfb\u00e4der",
+                        "Wellnessanlagen",
+                        "individuelle L\u00f6sungen",
+                        "Renovierungen und Sanierungen",
+                        "verfliesbar B\u00e4nke und Liegen"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.wedi.de"
+            }
+        ]
+    }
+}

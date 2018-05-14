@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7469550,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "142",
+                            "name": "Vino y licor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Nordheim am Main",
+                                "postalCode": "97334",
+                                "street1": "5 Weinbergstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "093811682"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Weingut Manfred Braun",
+                "numFollowers": 0,
+                "websiteUrl": "weingut-manfred-braun.de"
+            }
+        ]
+    }
+}

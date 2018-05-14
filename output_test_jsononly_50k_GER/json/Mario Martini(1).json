@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1996,
+                "id": 11018033,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Roma",
+                                "postalCode": "00195",
+                                "street1": "Via Giovanni Bettolo, 10"
+                            },
+                            "contactInfo": {
+                                "fax": "0692932964",
+                                "phone1": "063723724"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Glamour Model Management",
+                "numFollowers": 42,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Model Management",
+                        "Fashion",
+                        "Model Agency"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.glamourmodelmanagement.com"
+            }
+        ]
+    }
+}

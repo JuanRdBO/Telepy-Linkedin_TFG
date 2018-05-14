@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6379,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12397483,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ebermannstadt",
+                                "postalCode": "91320",
+                                "street1": "17 Kirchenweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 919473450"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Walter & Walter Steuerberater",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.ihr-steuerberater-walter.de"
+            }
+        ]
+    }
+}

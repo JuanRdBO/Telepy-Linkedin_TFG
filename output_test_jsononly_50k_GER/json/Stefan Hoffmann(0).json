@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12269339,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Nohfelden",
+                                "postalCode": "66625",
+                                "street1": "21 Fr\u00fchlingstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6852903237"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Stefan Hoffmann",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.beerdigungsinstitut-hoffmann.de"
+            }
+        ]
+    }
+}

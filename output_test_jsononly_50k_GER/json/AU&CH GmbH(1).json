@@ -1,0 +1,105 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1993,
+                "id": 3313304,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "17",
+                            "name": "Dispositivos m\u00e9dicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Valley/Oberlaindern",
+                                "postalCode": "83626",
+                                "street1": "Medizinpark 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Steinhausen",
+                                "postalCode": "6312",
+                                "street1": "Hinterbergstrasse 26"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Melksham",
+                                "postalCode": "SN12 6TP",
+                                "street1": "Unit 5 Avro Business Centre, Avro Way"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "North Wollongong",
+                                "postalCode": "NSW 2500",
+                                "street1": "2/97 Montague St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "New Taipei City",
+                                "postalCode": "23512",
+                                "street1": "5F, 16, Lane 148, Lide St., Zhonghe Dist."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "OPED GmbH",
+                "numFollowers": 344,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Orthesen",
+                        "Medizintechnik",
+                        "Orthetik",
+                        "Medizinprodukte"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.oped.de"
+            }
+        ]
+    }
+}

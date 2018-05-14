@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 31,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2011,
+                "id": 2797967,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "141",
+                            "name": "Desarrollo y comercio internacional"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "dagneux",
+                                "postalCode": "01120",
+                                "street1": "impasse des plantees"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "EMAT Energy",
+                "numFollowers": 256,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Solar distribution",
+                        "Inverters",
+                        "Solar panels",
+                        "photovoltaic"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.emat.fr"
+            }
+        ]
+    }
+}

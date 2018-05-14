@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 12294544,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70190",
+                                "street1": "Neckarstra\u00dfe 155"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7112489840"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Jung Von Matt/Neckar GmbH",
+                "numFollowers": 135,
+                "websiteUrl": "http://www.jvm-neckar.de"
+            }
+        ]
+    }
+}

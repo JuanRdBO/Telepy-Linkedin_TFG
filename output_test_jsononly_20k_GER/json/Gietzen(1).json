@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 4565822,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "144",
+                            "name": "Energ\u00eda renovable y medio ambiente"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Buhl",
+                                "postalCode": "83316-1219",
+                                "street1": "125 9th Ave S"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 2085434610"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Gietzen Electric Inc",
+                "numFollowers": 17,
+                "websiteUrl": "http://gietzenelectric.com/"
+            }
+        ]
+    }
+}

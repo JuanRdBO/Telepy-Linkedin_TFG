@@ -1,0 +1,225 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "id": 1662,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "18",
+                            "name": "Cosm\u00e9tica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 16,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "92110",
+                                "street1": "41, Rue Martre"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+33 (0) 1 47 56 00 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Dublin",
+                                "street1": "Hatch Street Upper"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Vernier",
+                                "postalCode": "1214",
+                                "street1": "Chemin de Blandonnet 10"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Warsaw",
+                                "postalCode": "03-230",
+                                "street1": "ulica Daniszewska 4"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Hoofddorp",
+                                "postalCode": "2132 LR",
+                                "street1": "Scorpius 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Dusseldorf",
+                                "postalCode": "40474",
+                                "street1": "Georg-Glock-Strasse 18"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Jeddah",
+                                "postalCode": "23212-7559",
+                                "street1": "2543 Falasteen Street Walk"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Berkeley Heights",
+                                "postalCode": "07922",
+                                "street1": "50 Connell Dr"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Milan",
+                                "postalCode": "20147",
+                                "street1": "Via Francesco Primaticcio, 155"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Lysaker",
+                                "postalCode": "1366",
+                                "street1": "Lysaker torg 35"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Belgrade",
+                                "postalCode": "11070",
+                                "street1": "Bulevar Zorana Djindjica 64"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bogota",
+                                "postalCode": "111611",
+                                "street1": "Avenida Cundinamarca 7-11"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Singapore",
+                                "postalCode": "049145",
+                                "street1": "1 George St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bromma",
+                                "postalCode": "167 51",
+                                "street1": "Gustavslundsvagen 26"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Oeiras",
+                                "postalCode": "1495-131",
+                                "street1": "Rua Doutor Antonio Loureiro Borges 7"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Melbourne",
+                                "postalCode": "3004",
+                                "street1": "564 St Kilda Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "L'Or\u00e9al",
+                "numFollowers": 1354900,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Beauty",
+                        "Cosmetics",
+                        "Personal Care",
+                        "Consumer Products",
+                        "Luxury",
+                        "Pharmacy",
+                        "research",
+                        "innovation",
+                        "digital",
+                        "retail",
+                        "marketing",
+                        "operations",
+                        "engineering"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "http://www.loreal.com/_en/_ww/WS/rss.asmx/WGetAllNews?newstype=pre",
+                "websiteUrl": "www.loreal.com"
+            }
+        ]
+    }
+}

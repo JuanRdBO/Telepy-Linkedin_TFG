@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1990,
+                "id": 15200426,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "116",
+                            "name": "Log\u00edstica y cadena de suministro"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10785",
+                                "street1": "Potsdamer Strasse 7/ Potsdamer Platz"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 30 20076207"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "BdKEP Bundesverband der Kurier-Express-Post-Dienste e.V.",
+                "numFollowers": 29,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Logistik",
+                        "Logistik Innobation",
+                        "KEP Kurier Express Post",
+                        "Einkaufsvorteile"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.bdkep.de"
+            }
+        ]
+    }
+}

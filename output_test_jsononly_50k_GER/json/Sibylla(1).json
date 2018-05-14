@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 24,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12355738,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Meinersen",
+                                "postalCode": "38536",
+                                "street1": "5 Am Gajenberg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 537297860"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sibylla-Merian-Gymnasium-Meinersen",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.gymnasium-meinersen.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5833,
+        "values": [
+            {
+                "companyType": {
+                    "code": "G",
+                    "name": "Government Agency"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1849,
+                "id": 321056,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "14",
+                            "name": "Atenci\u00f3n sanitaria y hospitalaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "75004",
+                                "street1": "3 Avenue Victoria"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "AP-HP, Assistance Publique - H\u00f4pitaux de Paris",
+                "numFollowers": 29441,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Toutes les sp\u00e9cialit\u00e9s m\u00e9dicales de la n\u00e9onatologie \u00e0 la g\u00e9riatrie en passant par les maladies rares. L\u2019AP-HP contribue \u00e0 la formation des soignants et non-soignants. Les patients b\u00e9n\u00e9ficient des avanc\u00e9es de la recherche."
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.aphp.fr"
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 15,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1982,
+                "id": 156815,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Woking",
+                                "postalCode": "GU21 5SB",
+                                "street1": "Unit 3, Woking8, Forsyth Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "CRM Trading Ltd",
+                "numFollowers": 205,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Wholesale",
+                        "Own Label",
+                        "Fragrances",
+                        "Cosmetics",
+                        "Skincare",
+                        "Hair Care"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.crmtrading.co.uk"
+            }
+        ]
+    }
+}

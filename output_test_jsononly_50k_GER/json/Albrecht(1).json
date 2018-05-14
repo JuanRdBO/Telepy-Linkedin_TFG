@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 848,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12288404,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "22393",
+                                "street1": "166 Saseler Chaussee"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 405131770"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ALBRECHT IS",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.albrecht-is.de"
+            }
+        ]
+    }
+}

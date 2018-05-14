@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7423046,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Apolda",
+                                "postalCode": "99510",
+                                "street1": "38 Weststra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "036412076971"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ERGO Versicherung Thomas Friedrich",
+                "numFollowers": 0,
+                "websiteUrl": "thomas.friedrich.ergo.de"
+            }
+        ]
+    }
+}

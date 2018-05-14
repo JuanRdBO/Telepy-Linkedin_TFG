@@ -1,0 +1,51 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 100,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2016,
+                "id": 18501106,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "102",
+                            "name": "Desarrollo de programaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "West Linn",
+                                "postalCode": "97068",
+                                "street1": "6311 White Tail Dr"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "PB Consulting",
+                "numFollowers": 2,
+                "websiteUrl": "www.pollastro.net"
+            }
+        ]
+    }
+}

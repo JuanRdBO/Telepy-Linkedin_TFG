@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7440674,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "94",
+                            "name": "Aeron\u00e1utica/Aviaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Forchheim",
+                                "postalCode": "91301",
+                                "street1": "1 Willy-Brandt-Allee"
+                            },
+                            "contactInfo": {
+                                "phone1": "09191976897"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Reiseb\u00fcro M\u00e4x",
+                "numFollowers": 0,
+                "websiteUrl": "reisebueromaex.de"
+            }
+        ]
+    }
+}

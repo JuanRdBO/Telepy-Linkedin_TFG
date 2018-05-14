@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 610,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12380357,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Jena",
+                                "postalCode": "07743",
+                                "street1": "26 Rautal"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3641444440"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Garten Und Landschaftsbau",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.gartenundlandschaft.de"
+            }
+        ]
+    }
+}

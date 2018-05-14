@@ -1,0 +1,57 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2010,
+                "id": 1950407,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20148",
+                                "street1": "MC-177 Media Center"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 40 41620 323",
+                                "phone1": "+49 40 41620 322"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "barbara anna hamm : go digital! Strategische Produktentwicklung in digitalen Medien",
+                "numFollowers": 2,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.barbara-hamm.de"
+            }
+        ]
+    }
+}

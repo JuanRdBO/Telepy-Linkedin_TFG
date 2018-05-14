@@ -1,0 +1,43 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7433853,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Titisee-Neustadt",
+                                "postalCode": "79822",
+                                "street1": "4 Bahnhofstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "076519393966"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ERGO Versicherung Steffen Schneider",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

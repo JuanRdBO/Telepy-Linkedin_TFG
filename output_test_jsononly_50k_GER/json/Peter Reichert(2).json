@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1984,
+                "id": 1600859,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "115",
+                            "name": "M\u00fasica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Philadelphia",
+                                "postalCode": "19119",
+                                "street1": "6757 Greene St., Suite 400"
+                            },
+                            "contactInfo": {
+                                "phone1": "215-848-7647"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Network for New Music",
+                "numFollowers": 53,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "music performance",
+                        "composer commissions",
+                        "collaborations",
+                        "educational outreach projects"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.networkfornewmusic.org"
+            }
+        ]
+    }
+}

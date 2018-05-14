@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7490023,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dresden",
+                                "postalCode": "01219",
+                                "street1": "15 Neuostra"
+                            },
+                            "contactInfo": {
+                                "phone1": "03514172820"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Architekt Dirk Zimmermann",
+                "numFollowers": 2,
+                "websiteUrl": "architekt-zimmermann.eu"
+            }
+        ]
+    }
+}

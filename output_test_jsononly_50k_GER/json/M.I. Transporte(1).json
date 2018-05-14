@@ -1,0 +1,93 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 24,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1920,
+                "id": 37880,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "116",
+                            "name": "Log\u00edstica y cadena de suministro"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "75008",
+                                "street1": "93 Boulevard Malesherbes"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Carquefou",
+                                "postalCode": "44470",
+                                "street1": "Rue Jean XXIII"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Lyon",
+                                "postalCode": "69007",
+                                "street1": "67 Avenue Tony Garnier"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "STEF",
+                "numFollowers": 32018,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Transportation",
+                        "Logistics",
+                        "Cold supply chain",
+                        "IT services",
+                        "Temperature-sensitive",
+                        "Food logistics",
+                        "Seafood logistics",
+                        "Food products supply chain",
+                        "Temperature-controlled"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.stef.com"
+            }
+        ]
+    }
+}

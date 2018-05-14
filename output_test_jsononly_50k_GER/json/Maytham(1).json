@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 23383050,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "13",
+                            "name": "Profesiones m\u00e9dicas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "OSLO",
+                                "postalCode": "0681",
+                                "street1": "Otto Sogns vei 17"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "MAYTHAM SALEM HAMUD",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

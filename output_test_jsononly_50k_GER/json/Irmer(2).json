@@ -1,0 +1,61 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 17,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2007,
+                "id": 1142003,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "140",
+                            "name": "Dise\u00f1o gr\u00e1fico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Munich",
+                                "postalCode": "80469"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Irmer Design",
+                "numFollowers": 7,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Visual Identity",
+                        "Branded Environment"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "www.irmer-design.de"
+            }
+        ]
+    }
+}

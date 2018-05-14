@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12334110,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10969",
+                                "street1": "20 Markgrafenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 302510777"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Daniel Hoffmann",
+                "numFollowers": 0,
+                "websiteUrl": "http://kundh.linux18.webhome.at"
+            }
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1902,
+                "id": 1734883,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "32",
+                            "name": "Restaurantes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Indianapolis",
+                                "street1": "127 S Illinois St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "St. Elmo Steak House",
+                "numFollowers": 307,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Steak",
+                        "Shrimp Cocktail",
+                        "Seafood"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.stelmos.com"
+            }
+        ]
+    }
+}

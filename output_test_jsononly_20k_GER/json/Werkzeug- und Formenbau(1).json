@@ -1,0 +1,38 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 78,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1955,
+                "id": 18357778,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Beerfelden-Etzean",
+                                "postalCode": "64743",
+                                "street1": "Ortsstr. "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Werkzeug- und Formenbau Vogel GmbH",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.bekutec-vogel.de/index.php/de/leistungen/formenbau-werkzeugbau"
+            }
+        ]
+    }
+}

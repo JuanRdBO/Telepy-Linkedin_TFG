@@ -1,0 +1,99 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1956,
+                "id": 782669,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "135",
+                            "name": "Ingenier\u00eda industrial o mec\u00e1nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dietzenbach",
+                                "postalCode": "63128",
+                                "street1": "Waldstr. 57"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "12277",
+                                "street1": "Gro\u00dfbeerenstra\u00dfe 164 - 170"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Chemnitz",
+                                "postalCode": "09116",
+                                "street1": "Carl-von-Bach-Str. 2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70327",
+                                "street1": "Am Mittelkai 20"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {},
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "SCHOLPP - Weltweite Industriemontagen",
+                "numFollowers": 378,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Industrial Installation",
+                        "Machinery Removal"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.scholpp.de"
+            }
+        ]
+    }
+}

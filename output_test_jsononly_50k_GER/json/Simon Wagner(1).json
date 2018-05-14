@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 16348258,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "136",
+                            "name": "Fotograf\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "BEACONSFIELD",
+                                "postalCode": "HP9 2QX",
+                                "street1": "MERRYWOOD MANOR CRESCENT SEER GREEN"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "SIMON WAGNER PHOTOGRAPHY LIMITED",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

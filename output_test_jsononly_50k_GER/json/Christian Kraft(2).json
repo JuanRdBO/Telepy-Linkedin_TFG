@@ -1,0 +1,62 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 11,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1961,
+                "id": 9371845,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hiller\u00f8d",
+                                "postalCode": "3400",
+                                "street1": "Industriv\u00e6nget 36"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wolff Svendsen A/S",
+                "numFollowers": 69,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Construction"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.Wolff-svendsen.dk"
+            }
+        ]
+    }
+}

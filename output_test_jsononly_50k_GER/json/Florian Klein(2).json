@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2010,
+                "id": 11404037,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "38",
+                            "name": "Bellas Artes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hagenwil bei Amriswil",
+                                "postalCode": "8580",
+                                "street1": "Schloss-Strasse 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schlossfestspiele Hagenwil",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "theater",
+                        "Events",
+                        "Incentives",
+                        "Spezialvorstellungen",
+                        "Theater Workshops",
+                        "Kundenanl\u00e4sse",
+                        "Mitarbeiteranl\u00e4sse",
+                        "Theaterp\u00e4dagogik",
+                        "Familienanl\u00e4sse",
+                        "Familienvorstellungen"
+                    ]
+                },
+                "websiteUrl": "www.schlossfestspiele-hagenwil.ch"
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2000,
+                "id": 2134130,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "105",
+                            "name": "Formaci\u00f3n profesional"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stenl\u00f8se",
+                                "postalCode": "3660",
+                                "street1": "Knud bro alle 9"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+45 47 17 75 05"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bosholdt - IT tr\u00e6ning og effektivitet",
+                "numFollowers": 84,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Microsoft Office kurser",
+                        "Opgraderingsforl\u00f8b",
+                        "Effektm\u00e5ling & analyse",
+                        "Inspirations-foredrag",
+                        "Personlig planl\u00e6gning og effektivitet",
+                        "Uddannelsesplanl\u00e6gning",
+                        "Webinar tr\u00e6ning",
+                        "Video l\u00e6ring",
+                        "Firmakurser",
+                        "Skype for Business",
+                        "Excel",
+                        "OneNote",
+                        "Office 365"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.bosholdt.dk"
+            }
+        ]
+    }
+}

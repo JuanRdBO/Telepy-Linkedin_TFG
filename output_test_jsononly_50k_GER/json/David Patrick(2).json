@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 104,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12086250,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Epsom",
+                                "postalCode": "KT1 9 8PL",
+                                "street1": "David Lloyd Club , Horton Lane"
+                            },
+                            "contactInfo": {
+                                "phone1": "+44 1372747064"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "David Patrick Hair & Beauty",
+                "numFollowers": 0,
+                "websiteUrl": "http://davidpatrickepsom.co.uk"
+            }
+        ]
+    }
+}

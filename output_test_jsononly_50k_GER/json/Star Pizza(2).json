@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 154,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12524717,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ingersheim",
+                                "postalCode": "74379",
+                                "street1": "12 Pleidelsheimer Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7142220302"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Star Pizza Ingersheim",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.starpizzachina-ingersheim.de"
+            }
+        ]
+    }
+}

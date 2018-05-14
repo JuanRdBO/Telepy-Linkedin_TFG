@@ -1,0 +1,52 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2008,
+                "id": 3603197,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "name": "stylefruits GmbH",
+                "numFollowers": 386,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Fashion",
+                        "Interior Design",
+                        "E-Commerce",
+                        "Social Shopping",
+                        "Online-Marketing",
+                        "Performance Marketing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.stylefruits.de"
+            }
+        ]
+    }
+}

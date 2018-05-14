@@ -1,0 +1,111 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 462,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1905,
+                "id": 29098,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "10",
+                            "name": "Servicios jur\u00eddicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Birmingham",
+                                "postalCode": "35203",
+                                "street1": "420 North 20th Street"
+                            },
+                            "contactInfo": {
+                                "fax": "(205) 458-5100",
+                                "phone1": "(205) 251-3000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Atlanta",
+                                "postalCode": "30363",
+                                "street1": "171 17th Street, NW"
+                            },
+                            "contactInfo": {
+                                "fax": "(404) 817-3244",
+                                "phone1": "(404) 815-3000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Orlando",
+                                "postalCode": "32801",
+                                "street1": "200 South Orange Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "(407) 540-6601",
+                                "phone1": "(407) 540-6600"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Nashville",
+                                "postalCode": "37219",
+                                "street1": "Nashville City Center, Suite 2300"
+                            },
+                            "contactInfo": {
+                                "fax": "(615) 724-3290",
+                                "phone1": "(615) 724-3200"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Tampa",
+                                "postalCode": "33602",
+                                "street1": "One Tampa City Center, Suite 3200"
+                            },
+                            "contactInfo": {
+                                "fax": "(813) 221-7335",
+                                "phone1": "(813) 221-2626"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Burr & Forman LLP",
+                "numFollowers": 2395,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.burr.com"
+            }
+        ]
+    }
+}

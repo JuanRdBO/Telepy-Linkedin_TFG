@@ -1,0 +1,99 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 11880,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1980,
+                "id": 17121,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "99",
+                            "name": "Dise\u00f1o"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10001",
+                                "street1": "601 W. 26th Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+1 212 807 8150"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "EC2A 3AR",
+                                "street1": "Fourth Floor"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+44 20 7613 0830"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Smart Design",
+                "numFollowers": 47725,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "innovation",
+                        "design",
+                        "interaction design",
+                        "brand communications",
+                        "product design",
+                        "design strategy",
+                        "engineering",
+                        "business design",
+                        "insights and strategy",
+                        "digital innovation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "@SmartDesign",
+                "websiteUrl": "http://smartdesignworldwide.com"
+            }
+        ]
+    }
+}

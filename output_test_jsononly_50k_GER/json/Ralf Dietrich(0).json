@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 23602340,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "13",
+                            "name": "Profesiones m\u00e9dicas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "KLEPP STASJON",
+                                "postalCode": "4353",
+                                "street1": "Haugvegen 14"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "DIETRICH PROFYSIO Dietrich Ralf",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 12,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2013,
+                "id": 2420524,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Treviso",
+                                "postalCode": "31100",
+                                "street1": "Piazza delle Istituzioni"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Habra S.r.l.",
+                "numFollowers": 405,
+                "specialties": {
+                    "_total": 20,
+                    "values": [
+                        "Personal Branding",
+                        "Branding Image",
+                        "Corporate Image",
+                        "Image Advice",
+                        "Graphic Identity",
+                        "Branding",
+                        "Advertise",
+                        "Web Design",
+                        "Mobile App Design",
+                        "Photography",
+                        "Videomaking",
+                        "Music Composition",
+                        "Image Management",
+                        "Promotion",
+                        "Press Office",
+                        "Market Analise",
+                        "Seo",
+                        "Events",
+                        "Social Network",
+                        "Sales"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.habra.it"
+            }
+        ]
+    }
+}

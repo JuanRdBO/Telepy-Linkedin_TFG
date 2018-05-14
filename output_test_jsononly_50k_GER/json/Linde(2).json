@@ -1,0 +1,100 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 1370,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "id": 2497657,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "54",
+                            "name": "Productos qu\u00edmicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bridgewater",
+                                "postalCode": "08807",
+                                "street1": "200 Somerset Blvd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Butler",
+                                "postalCode": "16001-5695",
+                                "street1": "Linde LLC"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Lisle",
+                                "postalCode": "60532",
+                                "street1": "Linde LLC"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Stewartsville,",
+                                "postalCode": "08886",
+                                "street1": "One Greenwich Way, Suite 200"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Linde Americas",
+                "numFollowers": 10295,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Industrial Gases",
+                        "Upstream Oil and Gas Services",
+                        "Cryogenic Freezing",
+                        "Metals Solutions",
+                        "Liquified Natural Gas (LNG)",
+                        "Specialty Gases",
+                        "Hydrogen & Hydrogen Fueling Systems",
+                        "Chemical Process Solutions",
+                        "Electronic Gases & Chemicals",
+                        "Manufacturing Gas Solutions"
+                    ]
+                },
+                "status": {
+                    "code": "OPS",
+                    "name": "Operating Subsidiary"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.lindeus.com"
+            }
+        ]
+    }
+}

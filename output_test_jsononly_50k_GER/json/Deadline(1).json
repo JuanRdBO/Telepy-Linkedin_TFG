@@ -1,0 +1,51 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3033,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 37383,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "109",
+                            "name": "Videojuegos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {},
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {},
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Deadline",
+                "numFollowers": 74
+            }
+        ]
+    }
+}

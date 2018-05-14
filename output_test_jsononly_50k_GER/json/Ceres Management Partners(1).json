@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2005,
+                "id": 2436344,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "51",
+                            "name": "Ingenier\u00eda civil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Islamabad",
+                                "postalCode": "46000",
+                                "street1": "Office No: 43, First floor, Pak Tower, Linear Commercial, Phase 8, Bahria Town"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0092-333-5240788"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Peshawar",
+                                "postalCode": "54000",
+                                "street1": "House No: 492, Street 13, Sector E-4"
+                            },
+                            "contactInfo": {
+                                "fax": "0092-91-5863937",
+                                "phone1": "0092-91-5863936"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Symbol Engineering Services",
+                "numFollowers": 663,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Highway Safety Products",
+                        "Fleet Management Systems & Technology",
+                        "Computerised Secure License Plates",
+                        "Engineering & Construction",
+                        "Reflective Sheets"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.symbol.pk"
+            }
+        ]
+    }
+}

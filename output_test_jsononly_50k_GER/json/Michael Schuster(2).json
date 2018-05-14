@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2012,
+                "id": 3053682,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "110",
+                            "name": "Servicios de eventos"
+                        }
+                    ]
+                },
+                "name": "Chief Digital Officer Summit",
+                "numFollowers": 538,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Digital Media",
+                        "Social Media",
+                        "Mobile",
+                        "Cloud"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://CDOSummit.com"
+            }
+        ]
+    }
+}

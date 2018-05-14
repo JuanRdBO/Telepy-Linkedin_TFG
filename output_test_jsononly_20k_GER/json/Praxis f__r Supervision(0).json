@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 27,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7553331,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "105",
+                            "name": "Formaci\u00f3n profesional"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bremen",
+                                "postalCode": "28205",
+                                "street1": "21 Friedrich-Karl-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "042116690938"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Praxis F\u00fcr Supervision",
+                "numFollowers": 1,
+                "websiteUrl": "peter-mueller-engelhardt.de"
+            }
+        ]
+    }
+}

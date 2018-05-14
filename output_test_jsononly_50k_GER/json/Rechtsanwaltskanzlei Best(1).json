@@ -1,0 +1,110 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "id": 2536586,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wien",
+                                "postalCode": "1010",
+                                "street1": "Renngasse 1/Freyung"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+43 1 537 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Innsbruck",
+                                "postalCode": "6020",
+                                "street1": "Wilhelm-Greil-Strasse 15"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+43 512 582555"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Graz",
+                                "postalCode": "8010",
+                                "street1": "Villefortgasse 11"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+43 316 37 30 37"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Salzburg",
+                                "postalCode": "5020",
+                                "street1": "Ignaz-Rieder-Kai 13a"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+43 662-63 00 62"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Deloitte \u00d6sterreich",
+                "numFollowers": 2194,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Wirtschaftspr\u00fcfung",
+                        "Steuerberatung",
+                        "Financial Advisory",
+                        "Human Capital",
+                        "Mandantenrechnungswesen",
+                        "Consulting",
+                        "Finance and Acounting Solutions",
+                        "Risk Advisory"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.deloitte.at"
+            }
+        ]
+    }
+}

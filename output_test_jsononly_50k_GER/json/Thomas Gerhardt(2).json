@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2016,
+                "id": 15225868,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "104",
+                            "name": "Dotaci\u00f3n y selecci\u00f3n de personal"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "\u00c5rhus C",
+                                "postalCode": "8000",
+                                "street1": "Strandvejen 104"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "S\u00d8GAARD",
+                "numFollowers": 25,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Executive Search",
+                        "Board Search",
+                        "Executive Assessment",
+                        "Ledersparring",
+                        "Strategisk HR",
+                        "Onboarding",
+                        "Outplacement",
+                        "Leder-r\u00e5dgivning",
+                        "Konsulent ydelser",
+                        "HR r\u00e5dgivning",
+                        "Profiltest, Hogan, Thomas "
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.soegaard.info"
+            }
+        ]
+    }
+}

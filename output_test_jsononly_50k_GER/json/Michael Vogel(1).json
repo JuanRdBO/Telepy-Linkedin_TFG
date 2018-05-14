@@ -1,0 +1,37 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 15338980,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "WESTERLY",
+                                "postalCode": "02891",
+                                "street1": "16 HARRISON AVE"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "MICHAEL VOGEL MEMORIAL FUND",
+                "numFollowers": 0,
+                "websiteUrl": "http://mwvfundraiser.splashthat.com"
+            }
+        ]
+    }
+}

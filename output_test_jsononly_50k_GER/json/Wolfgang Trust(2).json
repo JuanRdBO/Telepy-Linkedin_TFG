@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1991,
+                "id": 331242,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20537",
+                                "street1": "Eiffestrasse 664b"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 (0) 40 28 41 12 - 30"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Layer2 leading solutions.",
+                "numFollowers": 209,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "SharePoint",
+                        "Integration",
+                        "Apps",
+                        "WebParts",
+                        "Office 365",
+                        "Azure",
+                        "Intranet",
+                        "Knowledge Management",
+                        "Cloud Computing",
+                        "OneDrive",
+                        "Document Synchronization",
+                        "File Synchronization",
+                        "Data Backup",
+                        "Data Integration "
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.layer2solutions.com"
+            }
+        ]
+    }
+}

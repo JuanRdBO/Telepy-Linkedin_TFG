@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12320539,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hessisch Lichtenau",
+                                "postalCode": "37235",
+                                "street1": "14 Konrad-Zuse-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 56026794"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Forstbetrieb Ulrich Koch",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.forstbetrieb-koch.de"
+            }
+        ]
+    }
+}

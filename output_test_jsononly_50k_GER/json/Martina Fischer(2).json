@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7460838,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad Oeynhausen",
+                                "postalCode": "32547",
+                                "street1": "52 Steinstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "057313005999"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Yogastudio Yoga Moves Martina Fischer",
+                "numFollowers": 0,
+                "websiteUrl": "yoga-moves-bo.de"
+            }
+        ]
+    }
+}

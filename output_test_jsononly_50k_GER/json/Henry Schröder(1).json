@@ -1,0 +1,34 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12316818,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60311"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 699757170"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schroder Investment Management GmbH",
+                "numFollowers": 14,
+                "websiteUrl": "http://www.schroders.de"
+            }
+        ]
+    }
+}

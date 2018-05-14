@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 26,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7520249,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "125",
+                            "name": "Medicina alternativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hannover",
+                                "postalCode": "30163",
+                                "street1": "8 Talaverastra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "05113731637"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Renate Besser, Reiki-Lehrerin",
+                "numFollowers": 2,
+                "websiteUrl": "reiki-heilkraft.de"
+            }
+        ]
+    }
+}

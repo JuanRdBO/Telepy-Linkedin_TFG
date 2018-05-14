@@ -1,0 +1,84 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1935,
+                "id": 3664330,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "10",
+                            "name": "Servicios jur\u00eddicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Cuneo",
+                                "postalCode": "12100",
+                                "street1": "Corso Nizza nr. 48"
+                            },
+                            "contactInfo": {
+                                "fax": "0171.698559",
+                                "phone1": "0171.692307"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Fossano",
+                                "postalCode": "12045",
+                                "street1": "Via Roma nr. 29"
+                            },
+                            "contactInfo": {
+                                "fax": "0171.698559",
+                                "phone1": "0172.694166"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Studio Legale Dalmasso",
+                "numFollowers": 53,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Diritto Civile",
+                        "Diritto Penale",
+                        "Consulenza alle imprese",
+                        "Non Performing Loans",
+                        "Consulenza alle Imprese",
+                        "Diritto successorio",
+                        "Diritto di Famiglia"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.studiolegaledalmasso.it"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12509047,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Aue",
+                                "postalCode": "08280",
+                                "street1": "14 Dr.-Otto-Nuschke-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3771598930"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Planungsb\u00fcro Mike Gro\u00df",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

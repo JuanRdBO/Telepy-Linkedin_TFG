@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1984,
+                "id": 9280295,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "39",
+                            "name": "Artes interpretativas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Roma",
+                                "postalCode": "00153",
+                                "street1": "Via Natale del Grande 27"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "065898111"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Teatro Argot Studio",
+                "numFollowers": 57,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Teatro",
+                        "Eventi",
+                        "Musica",
+                        "Cultura"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.teatroargotstudio.com"
+            }
+        ]
+    }
+}

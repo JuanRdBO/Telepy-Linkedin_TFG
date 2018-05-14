@@ -1,0 +1,83 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 19,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2013,
+                "id": 3684675,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "19",
+                            "name": "Industria textil y moda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40212",
+                                "street1": "Berliner Allee 2"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fashion ID GmbH & Co. KG",
+                "numFollowers": 1996,
+                "specialties": {
+                    "_total": 19,
+                    "values": [
+                        "E-Commerce",
+                        "Onlineshop",
+                        "Bekleidung & Mode",
+                        "Trends",
+                        "Innovationen",
+                        "Online Marketing",
+                        "Performance Marketing",
+                        "SEO",
+                        "SEM",
+                        "Affiliation",
+                        "Operations",
+                        "Webdesign",
+                        "Payment",
+                        "B-2-C Logistik",
+                        "Conversion Optimierung",
+                        "Technology",
+                        "Hybris",
+                        "Business Development",
+                        "Expansion"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.fashionid.de/"
+            }
+        ]
+    }
+}

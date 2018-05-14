@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 24056421,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "13",
+                            "name": "Profesiones m\u00e9dicas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "OSLO",
+                                "postalCode": "0175",
+                                "street1": "Leilighet E10-1 Darres gate 30"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "OLAF J HARTMANN-JOHNSEN",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

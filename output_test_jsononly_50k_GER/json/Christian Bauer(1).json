@@ -1,0 +1,38 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 31,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1880,
+                "id": 7419133,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Welzheim",
+                                "postalCode": "73642",
+                                "street1": "Schorndorfer Stra\u00dfe 49"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Christian Bauer GmbH + Co. KG",
+                "numFollowers": 29,
+                "websiteUrl": "https://www.christianbauer.com/en/"
+            }
+        ]
+    }
+}

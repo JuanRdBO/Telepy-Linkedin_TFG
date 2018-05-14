@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1992,
+                "id": 2860551,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Seekonk",
+                                "postalCode": "02771",
+                                "street1": "185 Taunton Avenue Route 44"
+                            },
+                            "contactInfo": {
+                                "fax": "508-336-7286",
+                                "phone1": "508-336-7100"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Herb Chambers Honda of Seekonk",
+                "numFollowers": 219,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Honda Sales and Service",
+                        "Automobile Financing",
+                        "Used Car Sales and Service",
+                        "Honda Leasing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.herbchambershondaofseekonk.com"
+            }
+        ]
+    }
+}

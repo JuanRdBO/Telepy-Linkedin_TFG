@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "id": 13689579,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "112",
+                            "name": "Manufactura el\u00e9ctrica y electr\u00f3nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Jiangmen",
+                                "postalCode": "529000",
+                                "street1": "No. 13 building, Minghui Road, High-Tech Zone"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Guangdong Erman Lighting Co., Ltd",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "LED lighting",
+                        "LED Panel Light",
+                        "LED Down Light",
+                        "Lighting Fixture"
+                    ]
+                },
+                "websiteUrl": "http://www.zsrml.com"
+            }
+        ]
+    }
+}

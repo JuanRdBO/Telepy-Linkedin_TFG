@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7552423,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sankt Augustin",
+                                "postalCode": "53757",
+                                "street1": "24 Drosselweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "02241926670"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "G. Welter-Kaschub Rechtsanwalt",
+                "numFollowers": 0,
+                "websiteUrl": "welter-kaschub.de"
+            }
+        ]
+    }
+}

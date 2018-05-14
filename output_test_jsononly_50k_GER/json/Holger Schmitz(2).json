@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1993,
+                "id": 8649988,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "10",
+                            "name": "Servicios jur\u00eddicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80335",
+                                "street1": "Elisenstra\u00dfe 3"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40212",
+                                "street1": "Gr\u00fcnstra\u00dfe 22"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Maiwald Patentanwalts- und Rechtsanwalts-GmbH",
+                "numFollowers": 157,
+                "specialties": {
+                    "_total": 16,
+                    "values": [
+                        "Intellectual Property Law",
+                        "Pharma and Healthcare",
+                        "Chemistry and Materials",
+                        "Food and Agriculture",
+                        "Mechanical and Electrical Engineering",
+                        "Communication and Information Technology",
+                        "Mobility and Infrastructure",
+                        "Optics and Displays",
+                        "Patents and Utility Models",
+                        "Supplementary Protection Certificate",
+                        "Trademarks and Designs",
+                        "Copyright",
+                        "Competition and Antitrust Law",
+                        "Contracts",
+                        "Employee Invention Law",
+                        "Pharmaceutical Law"
+                    ]
+                },
+                "websiteUrl": "http://www.maiwald.eu"
+            }
+        ]
+    }
+}

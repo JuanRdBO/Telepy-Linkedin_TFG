@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 14,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2000,
+                "id": 726989,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "115",
+                            "name": "M\u00fasica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "postalCode": "70458"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "New Orleans",
+                                "postalCode": "70130"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "FLEURDELISMUSIC.COM",
+                "numFollowers": 119,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "FLEURDELISMUSIC.COM features Louisiana's Genres & Sub-Genre collections in Holidays",
+                        "Festivals & Events",
+                        "Sports",
+                        "Heritage",
+                        "Religion; Uniquely New Orlean Hits",
+                        "Tributes",
+                        "Traditional",
+                        "Alternative and NOLA Themed Events."
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                }
+            }
+        ]
+    }
+}

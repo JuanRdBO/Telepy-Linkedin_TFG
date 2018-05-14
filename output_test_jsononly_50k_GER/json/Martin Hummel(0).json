@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2016,
+                "id": 17928025,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "140",
+                            "name": "Dise\u00f1o gr\u00e1fico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Askim",
+                                "postalCode": "43640",
+                                "street1": "H\u00f6gabergsv\u00e4gen 7"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0704627662"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Hummel-Grad\u00e9n Art Direction AB",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Art Direction",
+                        "Graphic Design",
+                        "Branding",
+                        "Illustration"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.hummelgraden.se/"
+            }
+        ]
+    }
+}

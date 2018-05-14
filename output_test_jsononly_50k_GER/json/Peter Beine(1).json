@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12306577,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Eisenach",
+                                "postalCode": "99817",
+                                "street1": "6 Wartburgstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 369169050"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Peter Husemann GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.husemann-eisenach.de"
+            }
+        ]
+    }
+}

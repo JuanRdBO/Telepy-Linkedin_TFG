@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12573281,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Erfurt",
+                                "postalCode": "99085",
+                                "street1": "51 Walter-Gropius-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 15773917734"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Karl-Heinz Schulz",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.malerbetrieb-schulz.info"
+            }
+        ]
+    }
+}

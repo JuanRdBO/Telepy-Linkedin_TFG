@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 10787469,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "25",
+                            "name": "Art\u00edculos de consumo"
+                        }
+                    ]
+                },
+                "name": "B-Safer",
+                "numFollowers": 12,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Credit Card Protection",
+                        "Data Security",
+                        "NFC/RFID",
+                        "Contactless Payment",
+                        "Identity Theft & Credit Card Fraud"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.b-safer.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 20,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 13420658,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "sINGAPORE",
+                                "postalCode": "699244",
+                                "street1": "244"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "AMB Global Group",
+                "numFollowers": 2
+            }
+        ]
+    }
+}

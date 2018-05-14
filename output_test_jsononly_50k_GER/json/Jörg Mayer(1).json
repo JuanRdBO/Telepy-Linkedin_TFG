@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7557085,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Veitsh\u00f6chheim",
+                                "postalCode": "97209",
+                                "street1": "10 Lindentalstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "093192452"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr.med.dent. Hans J\u00f6rg Mayer Zahnarzt",
+                "numFollowers": 0,
+                "websiteUrl": "dr-holtkamp.de"
+            }
+        ]
+    }
+}

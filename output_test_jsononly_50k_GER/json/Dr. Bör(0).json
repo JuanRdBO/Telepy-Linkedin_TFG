@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2004,
+                "id": 3558651,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Quezon City",
+                                "postalCode": "1101",
+                                "street1": "2F Vidal A Tan Hall, Quirino corner Velasquez Streets, UP Diliman Campus"
+                            },
+                            "contactInfo": {
+                                "fax": "9202036",
+                                "phone1": "9202080"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "UP Information Technology Development Center (UPITDC)",
+                "numFollowers": 190,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "IT Training",
+                        "Certificate Courses",
+                        "Software Systems and Applications Development",
+                        "Database Design and Development"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://itdc.up.edu.ph"
+            }
+        ]
+    }
+}

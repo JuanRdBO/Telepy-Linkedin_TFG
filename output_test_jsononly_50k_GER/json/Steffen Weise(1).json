@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12241938,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ottendorf-Okrilla",
+                                "postalCode": "01458",
+                                "street1": "11 Sch\u00f6nborner Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3520573533"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fahrschule Steffen Weise",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.fahrschule-weise.de"
+            }
+        ]
+    }
+}

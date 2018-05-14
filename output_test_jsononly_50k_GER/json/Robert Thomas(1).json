@@ -1,0 +1,61 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 167,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 2719998,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lakeville",
+                                "postalCode": "55044",
+                                "street1": "16972 Brandtjen Farm Dr"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Robert Thomas Homes, Inc.",
+                "numFollowers": 311,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "New Home Construction"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.robertthomashomes.com"
+            }
+        ]
+    }
+}

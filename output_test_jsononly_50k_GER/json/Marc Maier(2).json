@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12238570,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Riedlingen",
+                                "postalCode": "88499",
+                                "street1": "J\u00f6rgesau"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 73711708"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Pferdehandlung Maier",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.pferdehandlung-maier.de"
+            }
+        ]
+    }
+}

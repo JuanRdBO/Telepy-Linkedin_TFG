@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12443005,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Neuss",
+                                "postalCode": "41466",
+                                "street1": "494 Bergheimer Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 21828332495"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ebner & Martin Informationssysteme GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.eum.de"
+            }
+        ]
+    }
+}

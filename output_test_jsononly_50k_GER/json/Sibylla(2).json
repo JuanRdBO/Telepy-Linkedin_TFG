@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 24,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 23834743,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "32",
+                            "name": "Restaurantes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "\u00d8RJE",
+                                "postalCode": "1870",
+                                "street1": "\u00c5SSVINGEN"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "SIBYLLA Astrid Thunshelle",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

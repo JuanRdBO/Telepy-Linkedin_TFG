@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 25,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 19934053,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "92",
+                            "name": "Transporte por carretera o ferrocarril"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "MILTON KEYNES",
+                                "postalCode": "MK1 1SW",
+                                "street1": "1 SOUTH HOUSE BOND AVENUE BLETCHLEY"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ROBERT PETERS ASSOCIATES LIMITED",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

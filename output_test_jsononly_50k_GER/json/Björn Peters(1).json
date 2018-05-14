@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7336697,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "140",
+                            "name": "Dise\u00f1o gr\u00e1fico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70184",
+                                "street1": "8 Pfizerstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "071186020110"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Designklinik Bj\u00f6rn B\u00f6rris Peters",
+                "numFollowers": 2,
+                "websiteUrl": "designklinik.de"
+            }
+        ]
+    }
+}

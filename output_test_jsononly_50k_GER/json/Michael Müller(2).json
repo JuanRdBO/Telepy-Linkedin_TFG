@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 48,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 11604309,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "47",
+                            "name": "Contabilidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Walsall",
+                                "postalCode": "WS3 2EZ",
+                                "street1": "17 Wolverhampton Road"
+                            },
+                            "contactInfo": {
+                                "phone1": "+44 1922409502"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Michael Muller Accountants",
+                "numFollowers": 1,
+                "websiteUrl": "http://michaelmulleraccountants.co.uk"
+            }
+        ]
+    }
+}

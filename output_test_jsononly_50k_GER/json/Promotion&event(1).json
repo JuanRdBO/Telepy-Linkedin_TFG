@@ -1,0 +1,112 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8350,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2001,
+                "id": 2348132,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Z\u00fcrich",
+                                "postalCode": "8008",
+                                "street1": "M\u00fchlebachstrasse 162"
+                            },
+                            "contactInfo": {
+                                "fax": "+41 44 360 84 61",
+                                "phone1": "+41 44 360 84 60"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Lausanne",
+                                "postalCode": "1003",
+                                "street1": "Chemin de Mornex 3"
+                            },
+                            "contactInfo": {
+                                "fax": "+41 21 323 70 79",
+                                "phone1": "+41 21 323 70 78"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Taverne",
+                                "postalCode": "6807",
+                                "street1": "Via Carvina 1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Promotion-Tools AG",
+                "numFollowers": 1342,
+                "specialties": {
+                    "_total": 22,
+                    "values": [
+                        "Promotion",
+                        "Sampling",
+                        "Production",
+                        "Flyering",
+                        "Logistics",
+                        "Tasting",
+                        "Consulting",
+                        "Hostesses",
+                        "Personnel",
+                        "Mystery Shopping",
+                        "Messebau",
+                        "Messe Hostessen",
+                        "Promotoren",
+                        "B2B",
+                        "Grosskunden",
+                        "Eventagentur",
+                        "Events",
+                        "Merchandising",
+                        "Guerilla Marketing",
+                        "Verkaufsf\u00f6rderung",
+                        "Sales Promotion",
+                        "Event Logistik"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.promotion-tools.ch"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12806107,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sundern",
+                                "postalCode": "59846",
+                                "street1": "28 Recklinghauser Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 29336345"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Helmut Martin E.K.",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.martin-decor.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2005,
+                "id": 1626547,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "126",
+                            "name": "Producci\u00f3n multimedia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "E1 6QR",
+                                "street1": "17 Hanbury Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "020 7426 5700"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "NY 10003",
+                                "street1": "1 Union Square West, Suite 208"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+ 1 212 924 1900"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Los Angeles",
+                                "postalCode": "CA 90019",
+                                "street1": "1265 South Cochran Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+1 310 396 3400"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "75011",
+                                "street1": "95 bd Voltaire"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+ 33 6 07 25 58 22"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Pulse Films",
+                "numFollowers": 9084,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Film",
+                        "TV",
+                        "Music",
+                        "Commercials",
+                        "Branded Entertainment"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.pulsefilms.com"
+            }
+        ]
+    }
+}

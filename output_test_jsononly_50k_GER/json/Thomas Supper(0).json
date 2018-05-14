@@ -1,0 +1,98 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2001,
+                "id": 917521,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "32",
+                            "name": "Restaurantes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "W1B 5NF",
+                                "street1": "20 Warwick Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "020 7292 6100"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Berkshire",
+                                "postalCode": "SL6 9NZ",
+                                "street1": "The Old Cricket Common"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "01628 482 638"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "W8 7SN",
+                                "street1": "2 Farmer Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "020 7727 7528"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "SW3 3QT",
+                                "street1": "1 Cale Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "020 7965 0555"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Concept Venues Limited",
+                "numFollowers": 169,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.conceptvenues.com"
+            }
+        ]
+    }
+}

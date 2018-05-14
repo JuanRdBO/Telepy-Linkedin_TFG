@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "H",
+                    "name": "5001-10000"
+                },
+                "foundedYear": 1912,
+                "id": 17120,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pullach",
+                                "postalCode": "82049",
+                                "street1": "Zugspitzstra\u00dfe 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sixt",
+                "numFollowers": 22741,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "car rental",
+                        "van / truck rental",
+                        "leasing",
+                        "mobility services"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "http://www.twitter.com/sixtuk",
+                "websiteUrl": "http://www.sixt.com"
+            }
+        ]
+    }
+}

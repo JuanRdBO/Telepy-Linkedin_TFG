@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 242,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2000,
+                "id": 1497887,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "137",
+                            "name": "Recursos humanos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Enschede",
+                                "postalCode": "7514",
+                                "street1": "Boddenkampsingel 85"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "053-4803550"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Lichtenvoorde",
+                                "postalCode": "",
+                                "street1": "Zilverlinde 13"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "053-4803550"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Siebert & Wassink Personeelsadvies",
+                "numFollowers": 1328,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Selectie- en ontwikkelassessments",
+                        "Werving, Selectie en recruitment",
+                        "Leiderschap en organisatieontwikkeling",
+                        "Coaching en outplacement",
+                        "Incompany Recruitment"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.siebertwassink.nl"
+            }
+        ]
+    }
+}

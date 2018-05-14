@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12793808,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Witten",
+                                "postalCode": "58453",
+                                "street1": "151 Annenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 230256060"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Matthias Hoffmann",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.hautarzt-dr-hoffmann.de"
+            }
+        ]
+    }
+}

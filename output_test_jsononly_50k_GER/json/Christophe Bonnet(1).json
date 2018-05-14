@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1953,
+                "id": 10426370,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "47",
+                            "name": "Contabilidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "VIENNE",
+                                "postalCode": "38200",
+                                "street1": "47 avenue du G\u00e9n\u00e9ral Leclerc"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "04 74 78 32 32"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "CABINET BONNET ET ASSOCIES",
+                "numFollowers": 28,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Comptable - fiscal",
+                        "Social - Ressources humaines,",
+                        "Outils de Gestion",
+                        "Juridique"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.bonnet-associes.com/"
+            }
+        ]
+    }
+}

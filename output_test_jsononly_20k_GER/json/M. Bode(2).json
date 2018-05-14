@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2012,
+                "id": 10912194,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "144",
+                            "name": "Energ\u00eda renovable y medio ambiente"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnster",
+                                "postalCode": "48565",
+                                "street1": "Kesslerweg 20"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70563",
+                                "street1": "Meitnerstra\u00dfe 6"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Bode Planungsgesellschaft f\u00fcr Energieeffizienz m.b.H.",
+                "numFollowers": 9,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Energiemanagementsysteme",
+                        "Energieaudit",
+                        "Energieberatung",
+                        "Klimaschutzkonzepte"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.bode.ms"
+            }
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2011,
+                "id": 2067106,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "name": "Networking Consultants",
+                "numFollowers": 40,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Audit",
+                        "Compliance",
+                        "Risk Management",
+                        "Internal Control",
+                        "Consulting",
+                        "Interim Management",
+                        "Project Management",
+                        "Change management",
+                        "Governance",
+                        "GRC-Tooling"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.networkingconsultants.nl"
+            }
+        ]
+    }
+}

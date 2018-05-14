@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 20,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12866271,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "92",
+                            "name": "Transporte por carretera o ferrocarril"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Weilheim an der Teck",
+                                "postalCode": "73235",
+                                "street1": "25 Austra\u00dfe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hans Fischer Transport GmbH",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.fischer-logistik.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2013,
+                "id": 9357851,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "137",
+                            "name": "Recursos humanos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Praha 1",
+                                "postalCode": "110 00",
+                                "street1": "N\u00e1rodn\u00ed 365/43"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Beroun",
+                                "postalCode": "266 01",
+                                "street1": "Seydlovo n\u00e1m\u011bst\u00ed 30"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Tokata Consultancy s.r.o.",
+                "numFollowers": 12,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.tokata.cz"
+            }
+        ]
+    }
+}

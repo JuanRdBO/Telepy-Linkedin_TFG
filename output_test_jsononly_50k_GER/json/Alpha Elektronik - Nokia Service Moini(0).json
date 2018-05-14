@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1990,
+                "id": 1685277,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "112",
+                            "name": "Manufactura el\u00e9ctrica y electr\u00f3nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "N\u00e6stved",
+                                "postalCode": "4700",
+                                "street1": "Lunavej 6"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+4555773773"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Alpha Elektronik A/S",
+                "numFollowers": 113,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Elektronikproduktion",
+                        "SMD montage",
+                        "HMD montage",
+                        "Box build",
+                        "Value adding"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.alpha.dk"
+            }
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 52,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1992,
+                "id": 1501379,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Jacksonville",
+                                "postalCode": "32225",
+                                "street1": "12482 Turnberry drive"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "TravelCarma",
+                "numFollowers": 5730,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Enterprise OTA Solution",
+                        "API Driven Travel Technology Platform for OTA Developers",
+                        "Travel Inventory Aggregation, Consolidation and Distribution",
+                        "Internet Booking Engines",
+                        "Intercity Transportation System for Bus, Train, Charters",
+                        "Travel Technology Consulting",
+                        "Travel CRM",
+                        "Travel ERP"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "travelcarma",
+                "websiteUrl": "www.travelcarma.com"
+            }
+        ]
+    }
+}

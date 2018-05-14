@@ -1,0 +1,51 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1957,
+                "id": 18325536,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "100",
+                            "name": "Gesti\u00f3n de organizaciones sin \u00e1nimo de lucro"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Taksim",
+                                "postalCode": "80090",
+                                "street1": "\u015eehit Muhtar Cd. "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "\u0130MED \u0130stanbul \u00dcniversitesi \u0130\u015fletme Fak\u00fcltesi \u0130\u015fletme \u0130ktisad\u0131 Enstit\u00fcs\u00fc Mezunlar Derne\u011fi",
+                "numFollowers": 25,
+                "websiteUrl": "http://imed.org.tr/"
+            }
+        ]
+    }
+}

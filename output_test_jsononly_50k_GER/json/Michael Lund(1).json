@@ -1,0 +1,32 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 23544540,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "DRAMMEN",
+                                "postalCode": "3014",
+                                "street1": "L\u00f8kkebergveien 9"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "MICHAEL H LUND",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

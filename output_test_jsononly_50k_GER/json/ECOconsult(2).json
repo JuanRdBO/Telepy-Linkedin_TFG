@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 12,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2005,
+                "id": 2075091,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "86",
+                            "name": "Servicios medioambientales"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "LIma",
+                                "postalCode": "LIMA 31",
+                                "street1": "Calle La Milla 218 Urb. Industrial La Milla San Mart\u00edn de Porres"
+                            },
+                            "contactInfo": {
+                                "phone1": "(511)252-2775"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Lima",
+                                "postalCode": "Lima 09",
+                                "street1": "Av. Jos\u00e9 Olaya 292 Chorrillos"
+                            },
+                            "contactInfo": {
+                                "phone1": "(511)266-6283"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Ecoconsult Per\u00fa S.A.C.",
+                "numFollowers": 1412,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Consultor\u00eda Ambiental",
+                        "Cambio Clim\u00e1tico",
+                        "Desarrollo Sostenible",
+                        "Turismo"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ecoconsultperu.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 18,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2010,
+                "id": 1129119,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "99",
+                            "name": "Dise\u00f1o"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "22765",
+                                "street1": "Bahrenfelder Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0049151115557900"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Daniel Schmidt",
+                "numFollowers": 42,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Motiondesign",
+                        "Design",
+                        "Kreation",
+                        "Film",
+                        "Art Direction",
+                        "Direction",
+                        "Animation",
+                        "Compositing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.danielschmidt.tv"
+            }
+        ]
+    }
+}

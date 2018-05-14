@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1979,
+                "id": 100859,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "35",
+                            "name": "Pel\u00edculas y cine"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10036",
+                                "street1": "The Film Center Building"
+                            },
+                            "contactInfo": {
+                                "fax": "212-989-7649",
+                                "phone1": "212-243-0600"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "First Run Features",
+                "numFollowers": 360,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://firstrunfeatures.com"
+            }
+        ]
+    }
+}

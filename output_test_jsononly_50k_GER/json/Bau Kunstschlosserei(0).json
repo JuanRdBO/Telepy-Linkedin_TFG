@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 8,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7487715,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Piding",
+                                "postalCode": "83451",
+                                "street1": "31 Ahornstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "086519657352"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bau & Kunstschlosserei",
+                "numFollowers": 1,
+                "websiteUrl": "schlosserei-lechner.com"
+            }
+        ]
+    }
+}

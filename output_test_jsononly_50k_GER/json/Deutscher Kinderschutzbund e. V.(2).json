@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1981,
+                "id": 10385515,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "90",
+                            "name": "Organizaci\u00f3n c\u00edvica y social"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gross-Gerau",
+                                "postalCode": "64521",
+                                "street1": "Darmst\u00e4dter Str. 20"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Deutscher Kinderschutzbund Kreisverband Gross-Gerau e.V.",
+                "numFollowers": 1,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.ksbgg.de"
+            }
+        ]
+    }
+}

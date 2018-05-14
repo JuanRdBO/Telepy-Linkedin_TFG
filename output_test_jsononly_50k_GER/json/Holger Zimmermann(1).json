@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2013,
+                "id": 3477388,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "35",
+                            "name": "Pel\u00edculas y cine"
+                        }
+                    ]
+                },
+                "name": "Rabauke Filmproduktion",
+                "numFollowers": 15,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Werbung",
+                        "Imagefilm",
+                        "Spielfilm",
+                        "Podcasts"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.rabauke-film.de"
+            }
+        ]
+    }
+}

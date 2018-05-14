@@ -1,0 +1,51 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2017,
+                "id": 18126755,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "118",
+                            "name": "Seguridad del ordenador y de las redes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Altendorf",
+                                "postalCode": "8852",
+                                "street1": "Hinterfeld 4a"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "SFC | Stephan Frank Consulting",
+                "numFollowers": 1,
+                "websiteUrl": "www.stephan-frank.com"
+            }
+        ]
+    }
+}

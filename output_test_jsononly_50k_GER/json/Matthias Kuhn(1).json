@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12724027,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Limbach-Oberfrohna",
+                                "postalCode": "09212",
+                                "street1": "Frohnbachstra\u00dfe 52A"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Matthias Kuhn",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.kuhnmsr.de"
+            }
+        ]
+    }
+}

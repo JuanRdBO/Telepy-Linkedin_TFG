@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1983,
+                "id": 1107051,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Karachi",
+                                "postalCode": "74800",
+                                "street1": "Plot # ST-1, Dawood Corporative Housing Society, Bahadurabad"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+9221 34934942"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dawood Public School",
+                "numFollowers": 2600,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Pre-Nursery to Kindergarten",
+                        "Primary, (Classes I to V)",
+                        "Secondary (Classes VI to XI)",
+                        "A-Level (Classes XII to XIII)"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.dps.edu.pk"
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2012,
+                "id": 2496792,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "16",
+                            "name": "Veterinaria"
+                        }
+                    ]
+                },
+                "name": "Cabinet V\u00e9t\u00e9rinaire du Grand-Pr\u00e9 S\u00e0rl",
+                "numFollowers": 109,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Services v\u00e9t\u00e9rinaire",
+                        "Aliments pour animaux",
+                        "V\u00e9t\u00e9rinaire"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.moudonveterinaire.ch/"
+            }
+        ]
+    }
+}

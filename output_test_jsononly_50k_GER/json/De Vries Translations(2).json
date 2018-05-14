@@ -1,0 +1,51 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2017,
+                "id": 11302474,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "108",
+                            "name": "Traducci\u00f3n y localizaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Amsterdam",
+                                "postalCode": "1035 CK",
+                                "street1": " Spinnekop 10"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "From Word to Word Translations",
+                "numFollowers": 4,
+                "websiteUrl": "http://www.fromwordtowordtranslations.com"
+            }
+        ]
+    }
+}

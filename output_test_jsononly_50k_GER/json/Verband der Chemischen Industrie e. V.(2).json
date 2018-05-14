@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12759453,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "54",
+                            "name": "Productos qu\u00edmicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60329",
+                                "street1": "55 Mainzer Landstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6925561351"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Verband Der Mineralfarbenindustrie E.V.",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.vdmi.de"
+            }
+        ]
+    }
+}

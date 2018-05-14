@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1995,
+                "id": 10864918,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Warszawa",
+                                "postalCode": "02-226",
+                                "street1": "Pryzmaty 4"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Pozna\u0144",
+                                "postalCode": "61-619",
+                                "street1": "Karpia 6/8"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Katowice",
+                                "postalCode": "40-860",
+                                "street1": "Gliwicka 228"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ELIN Sp. z o.o.",
+                "numFollowers": 243,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "projektowanie i wykonawstwo instalacji elektrycznych",
+                        "projektowanie i wykonawstwo instalacji teletechnicznych",
+                        "projektowanie i wykonawstwo instalacji automatyki HVAC i BMS"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "polska.elin.com"
+            }
+        ]
+    }
+}

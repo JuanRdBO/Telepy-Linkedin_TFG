@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2007,
+                "id": 9621863,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "32",
+                            "name": "Restaurantes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10012",
+                                "street1": "235 Mulberry St"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 2129650504"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Rubirosa Ristorante",
+                "numFollowers": 5,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Pizza",
+                        "Fresh Pasta",
+                        "Italian",
+                        "Craft Beer",
+                        "Cocktails",
+                        "Group Dining",
+                        "Priviate Parties"
+                    ]
+                },
+                "websiteUrl": "http://www.rubirosanyc.com"
+            }
+        ]
+    }
+}

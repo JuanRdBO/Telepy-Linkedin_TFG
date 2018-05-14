@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7553836,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "99",
+                            "name": "Dise\u00f1o"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Troisdorf",
+                                "postalCode": "53842",
+                                "street1": "Belgische Allee 65B"
+                            },
+                            "contactInfo": {
+                                "phone1": "022412522888"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Daniel Helm - Ihr Schreinermeister",
+                "numFollowers": 2,
+                "websiteUrl": "ihrschreinermeister.com"
+            }
+        ]
+    }
+}

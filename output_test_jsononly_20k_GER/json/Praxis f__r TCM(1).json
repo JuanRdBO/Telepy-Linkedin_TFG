@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7355539,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Scheidegg",
+                                "postalCode": "88175",
+                                "street1": "15 Blasenbergstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "083819488648"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Praxis F\u00fcr TCM - Thomas Neurer",
+                "numFollowers": 0,
+                "websiteUrl": "tcm-scheidegg.de"
+            }
+        ]
+    }
+}

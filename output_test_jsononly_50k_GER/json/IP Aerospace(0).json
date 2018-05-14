@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 190,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1988,
+                "id": 9496712,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Colorado Springs",
+                                "postalCode": "80906",
+                                "street1": "2818 National Place"
+                            },
+                            "contactInfo": {
+                                "fax": "716-579-8735",
+                                "phone1": "716-579-8776"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "IP Automation Inc",
+                "numFollowers": 98,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Engineering \"One of a Kind Machines\"",
+                        "Build to Print Machines",
+                        "Fabrication",
+                        "Machining",
+                        "Assembly"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ipauotmation.net"
+            }
+        ]
+    }
+}

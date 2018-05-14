@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 16078800,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "14",
+                            "name": "Atenci\u00f3n sanitaria y hospitalaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "TAMPA",
+                                "postalCode": "33606",
+                                "street1": "5 TAMPA GENERAL CIRCLE"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 8138444900"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Tampa Bay Hearing & Balance Center",
+                "numFollowers": 12,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Cochlear Implant",
+                        "Hearing Loss Solutions",
+                        "Otology",
+                        "Neurotology",
+                        "Skull Base Surgery ",
+                        "Audiology",
+                        "Dizziness",
+                        "Hearing Aids",
+                        "Pediatric Hearing Loss",
+                        "Inner Ear",
+                        "Surgeries of the Ear"
+                    ]
+                },
+                "websiteUrl": "http://tampabayhearing.com"
+            }
+        ]
+    }
+}

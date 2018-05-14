@@ -1,0 +1,128 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1934,
+                "id": 4268901,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Evansville",
+                                "postalCode": "47715",
+                                "street1": "200 N Green River Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(812) 473-6590"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Evansville",
+                                "postalCode": "47715",
+                                "street1": "4200 Division Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(812) 473-6500"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Boonville",
+                                "postalCode": "47601",
+                                "street1": "3100 Indiana 62"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(812) 897-5838"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Evansville",
+                                "postalCode": "47708",
+                                "street1": "500 Walnut Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(812) 428-7800"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Evansville",
+                                "postalCode": "47715",
+                                "street1": "4300 E Division Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(812) 477-6201"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "D-Patrick, Inc.",
+                "numFollowers": 83,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Audi",
+                        "BMW",
+                        "Mercedes-Benz",
+                        "Porsche",
+                        "Volkswagen",
+                        "Honda",
+                        "Nissan",
+                        "Ford",
+                        "Used Cars",
+                        "Automotive Repair",
+                        "Automotive Sales",
+                        "Automotive Body Shop"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.dpat.com"
+            }
+        ]
+    }
+}

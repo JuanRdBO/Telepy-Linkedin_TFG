@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 20,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1994,
+                "id": 607456,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Melbourne",
+                                "postalCode": "3000",
+                                "street1": "Level 6, 60 Collins Street"
+                            },
+                            "contactInfo": {
+                                "fax": "(03) 9654 8463",
+                                "phone1": "(03) 9654 8666"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gross Waddell Commercial Real Estate",
+                "numFollowers": 639,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Retail",
+                        "Office",
+                        "Industrial",
+                        "Development",
+                        "Project Management",
+                        "Englobo Land",
+                        "Acquisitions",
+                        "Asset Management",
+                        "Corporate Services"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.grosswaddell.com.au"
+            }
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1958,
+                "id": 9305096,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pineville",
+                                "postalCode": "28134",
+                                "street1": "11608 Downs Road"
+                            },
+                            "contactInfo": {
+                                "fax": "704.588.3986",
+                                "phone1": "704.588.3985"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Hillsboro",
+                                "postalCode": "76645",
+                                "street1": "5774 Texas 22"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "254.582.3754"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Heede Southeast, Inc.",
+                "numFollowers": 148,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Turnkey Tower Crane Rental Packages"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.heedesoutheast.com"
+            }
+        ]
+    }
+}

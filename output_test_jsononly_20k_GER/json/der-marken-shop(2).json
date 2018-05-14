@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 149,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1911,
+                "id": 1262256,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Basel",
+                                "postalCode": "CH-4002",
+                                "street1": "Hochbergerstrasse 15"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+41612793636"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Pinellas Park",
+                                "postalCode": "33782",
+                                "street1": "3001 Gateway Centre Parkway"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Oettinger Davidoff AG",
+                "numFollowers": 4055,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Time Beautifully Filled"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.oettingerdavidoff.com/"
+            }
+        ]
+    }
+}

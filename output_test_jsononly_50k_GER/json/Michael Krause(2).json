@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 16,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12462738,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dortmund",
+                                "postalCode": "44137",
+                                "street1": "Johannesstra\u00dfe 10A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 231148194"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Glaswerkstatt Michael Krause GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.dieglaswerkstatt.de"
+            }
+        ]
+    }
+}

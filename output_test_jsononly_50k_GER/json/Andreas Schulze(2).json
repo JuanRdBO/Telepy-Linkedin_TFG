@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7425049,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bochum",
+                                "postalCode": "44807",
+                                "street1": "370 Herner Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "02349536601"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Herr Andreas Schulze Hobeling",
+                "numFollowers": 1,
+                "websiteUrl": "bochum-riemke-kg.de"
+            }
+        ]
+    }
+}

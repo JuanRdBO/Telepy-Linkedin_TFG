@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1997,
+                "id": 2251896,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "38",
+                            "name": "Bellas Artes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Summerland",
+                                "postalCode": "V0H 1Z0",
+                                "street1": "9525 Wharton Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Summerland Community Arts Council",
+                "numFollowers": 10,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Summer Arts Program for Children",
+                        "Workshops and classes",
+                        "Banner Project",
+                        "Gallery Shows"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "artspalette",
+                "websiteUrl": "http://summerlandarts.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7499535,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rostock",
+                                "postalCode": "18055",
+                                "street1": "76 Vicke-Schorler-Ring"
+                            },
+                            "contactInfo": {
+                                "phone1": "03816661164"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Andreas Schulz ARTEK Bauprojekt",
+                "numFollowers": 0,
+                "websiteUrl": "artek-massivhaus.de"
+            }
+        ]
+    }
+}

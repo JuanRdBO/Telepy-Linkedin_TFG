@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 12,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2014,
+                "id": 2195487,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Aix-en-Provence",
+                                "postalCode": "13857",
+                                "street1": "510, rue Ren\u00e9 Descartes"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ALVEEN\u2122 ",
+                "numFollowers": 119,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Logiciel Immobilier Full web",
+                        "Cr\u00e9ation de sites web et r\u00e9f\u00e9rencement",
+                        "Agencement dynamique de vitrines",
+                        "Portail d\u2019annonces immobili\u00e8res",
+                        "r\u00e9seau social"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "immoone",
+                "websiteUrl": "http://www.alveen.com"
+            }
+        ]
+    }
+}

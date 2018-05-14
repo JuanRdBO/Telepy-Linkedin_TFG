@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 519,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1978,
+                "id": 3024924,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "54",
+                            "name": "Productos qu\u00edmicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Karaba\u011flar",
+                                "postalCode": "35130",
+                                "street1": "661/5 Sokak No: 5 Karaba\u011flar"
+                            },
+                            "contactInfo": {
+                                "fax": "0 232 253 80 01",
+                                "phone1": "0 232 444 86 58"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "\u00dcnl\u00fc Boya San.Tic.Ltd.\u015eti",
+                "numFollowers": 271,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "\u0130\u00e7 Cephe- D\u0131\u015f Cephe \u0130n\u015faat Boyalar\u0131",
+                        "Mobilya Boya ve Vernikleri",
+                        "Sanayi Boyalar\u0131"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.unluboya.com.tr/"
+            }
+        ]
+    }
+}

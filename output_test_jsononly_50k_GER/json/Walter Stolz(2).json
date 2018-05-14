@@ -1,0 +1,128 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1949,
+                "id": 7165456,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Weilburg",
+                                "postalCode": "35781",
+                                "street1": "Hermann-Stoll-Stra\u00dfe 1"
+                            },
+                            "contactInfo": {
+                                "fax": "06471/52167",
+                                "phone1": "06471/5020"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Falkenstein",
+                                "postalCode": "06463",
+                                "street1": "Feldstra\u00dfe 2"
+                            },
+                            "contactInfo": {
+                                "fax": "034743/96400",
+                                "phone1": "034743/963"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Witzleben",
+                                "postalCode": "99310",
+                                "street1": "Am Felsenkeller 71c"
+                            },
+                            "contactInfo": {
+                                "fax": "036200/634620",
+                                "phone1": "036200/6340"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Erpeldange/Bous",
+                                "postalCode": "L-5421",
+                                "street1": "2 b, Rue de Rolling"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+352621/455502"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Weilburg",
+                                "postalCode": "35781",
+                                "street1": "Metallbau- und Handelsgesellschaft"
+                            },
+                            "contactInfo": {
+                                "fax": "06471/502155",
+                                "phone1": "06471/502113"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Feickert Bauunternehmen",
+                "numFollowers": 10,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Kanal- und Wasserleitungsbau",
+                        "Stahlbetonbau",
+                        "Stra\u00dfenbau",
+                        "Erdbau",
+                        "Wasserbau",
+                        "Metallbau",
+                        "Spezialtiefbau",
+                        "Bohrtr\u00e4gerverbau",
+                        "Spundwandverbau",
+                        "Gr\u00fcndungsarbeiten",
+                        "Ankerarbeiten",
+                        "Spritzebetonarbeiten"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "feickert-bau.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 11,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1994,
+                "id": 3572640,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "135",
+                            "name": "Ingenier\u00eda industrial o mec\u00e1nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Monterrey",
+                                "postalCode": "64030",
+                                "street1": "JOS\u00c9 FRANCISCO MUGUERZA No. 2723 COL. LOMAS MONTERREY,  N.L. CP 64030"
+                            },
+                            "contactInfo": {
+                                "fax": "(+52) (81) 8354-3877",
+                                "phone1": "(+52) (81) 8191-0754"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Quer\u00e9taro",
+                                "postalCode": "76120",
+                                "street1": "AV. 5 DE FEBRERO No. 1702-C, LOCAL A, PLANTA ALTA, FRACC IND. BENITO JU\u00c1REZ"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(+52) (442) 210-3253"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "IACSA, Instrumentaci\u00f3n Anal\u00edtica y Cient\u00edfica S.A. de C.V.",
+                "numFollowers": 83,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Venta",
+                        "Servicio",
+                        "Calibraci\u00f3n y Verificaci\u00f3n de Instrumentos y Equipos para el control de calidad."
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.iacsa.com.mx/"
+            }
+        ]
+    }
+}

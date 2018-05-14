@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12460350,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "139",
+                            "name": "Atenci\u00f3n a la salud mental"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Beverungen",
+                                "postalCode": "37688",
+                                "street1": "18 Abgunstweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 5275447"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Petra Hoffmann",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.pon-zuechter.de"
+            }
+        ]
+    }
+}

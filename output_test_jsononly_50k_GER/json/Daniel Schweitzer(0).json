@@ -1,0 +1,57 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2011,
+                "id": 2280306,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "136",
+                            "name": "Fotograf\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "SW9 6De",
+                                "street1": "Unit 1.13, Canterbury Court"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "02031762474"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "3Objectives Photography",
+                "numFollowers": 30,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "3Objectives",
+                "websiteUrl": "www.3objectives.co.uk"
+            }
+        ]
+    }
+}

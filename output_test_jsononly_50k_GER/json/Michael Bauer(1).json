@@ -1,0 +1,47 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 29,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 6520786,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "84",
+                            "name": "Servicio de informaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Karlsruhe",
+                                "postalCode": "76229"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7211618566"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Michael Bauer International GmbH",
+                "numFollowers": 19,
+                "websiteUrl": "http://www.mbi-geodata.com"
+            }
+        ]
+    }
+}

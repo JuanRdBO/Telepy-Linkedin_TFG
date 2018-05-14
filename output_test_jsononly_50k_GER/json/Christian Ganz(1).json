@@ -1,0 +1,62 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 37,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 11354581,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stendal",
+                                "postalCode": "39576",
+                                "street1": "Osterburger Stra\u00dfe 207"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Christian Punzel Tief- und Strassenbau GmbH",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Rohrleitungsbau",
+                        "Wege- und Stra\u00dfenbau",
+                        "Erdbau",
+                        "Wasserbau",
+                        "Gewerblicher Tiefbau",
+                        "Umwelttechnik",
+                        "Kabel- und Leitungstiefbau"
+                    ]
+                },
+                "websiteUrl": "www.punzel-stendal.de"
+            }
+        ]
+    }
+}

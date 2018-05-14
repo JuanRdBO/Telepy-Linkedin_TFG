@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7570850,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Isernhagen",
+                                "postalCode": "30916",
+                                "street1": "14 Eisenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "01721838717"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Limoservice Hannover",
+                "numFollowers": 0,
+                "websiteUrl": "limoservice-hannover.de"
+            }
+        ]
+    }
+}

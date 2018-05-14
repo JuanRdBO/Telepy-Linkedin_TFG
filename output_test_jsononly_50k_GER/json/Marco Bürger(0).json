@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7544765,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Braunschweig",
+                                "postalCode": "38122",
+                                "street1": "4 Helene-K\u00fcnne-Allee"
+                            },
+                            "contactInfo": {
+                                "phone1": "05312872744"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Marco Burger",
+                "numFollowers": 0,
+                "websiteUrl": "praxis-broitzem.de"
+            }
+        ]
+    }
+}

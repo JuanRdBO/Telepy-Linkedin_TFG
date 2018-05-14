@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2017,
+                "id": 17949982,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "103",
+                            "name": "Redacci\u00f3n y revisi\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rotterdam",
+                                "postalCode": "3012 XK",
+                                "street1": "Studio Eendracht, Eendrachtsstraat 145A"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "De Schrijfschool",
+                "numFollowers": 16,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Schrijfeducatie, zowel zakelijk als creatief"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.deschrijfschool.com/"
+            }
+        ]
+    }
+}

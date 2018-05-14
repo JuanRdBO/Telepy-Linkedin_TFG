@@ -1,0 +1,115 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 894,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1994,
+                "id": 473534,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mijnsheerenland",
+                                "postalCode": "3271 BT",
+                                "street1": "Raadhuislaan 6"
+                            },
+                            "contactInfo": {
+                                "fax": "0186-602513",
+                                "phone1": "0186-603222"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Gorinchem",
+                                "postalCode": "4200 AW",
+                                "street1": "Edisonweg 6"
+                            },
+                            "contactInfo": {
+                                "fax": "0183-610109",
+                                "phone1": "0183-610101"
+                            },
+                            "isActive": false,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Gorinchem",
+                                "postalCode": "4207 HG",
+                                "street1": "Edisonweg 6"
+                            },
+                            "contactInfo": {
+                                "fax": "0183-610109",
+                                "phone1": "0183-610101"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bergen op Zoom",
+                                "postalCode": "4613 AA",
+                                "street1": "Noordzijde Zoon 7"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0164-274490"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Hermans & Partners B.V., accountants en adviseurs",
+                "numFollowers": 316,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Accountants",
+                        "fiscalisten",
+                        "subsidieadviseurs",
+                        "financial planners",
+                        "loon- en salarisadministrateurs",
+                        "HRM-adviseurs",
+                        "automatiseringsadviseurs",
+                        "bedrijfsadviseurs",
+                        "belastingadviseurs",
+                        "pensioenadviseurs",
+                        "fusie- en overnameadviseurs",
+                        "mediators en juristen."
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.henp.nl"
+            }
+        ]
+    }
+}

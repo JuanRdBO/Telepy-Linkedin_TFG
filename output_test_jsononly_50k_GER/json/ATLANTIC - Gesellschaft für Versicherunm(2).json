@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 14182,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1945,
+                "id": 386943,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "146",
+                            "name": "Embalaje y contenedores\n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Scarborough",
+                                "postalCode": "M1P 2Y9",
+                                "street1": "111 Progress Ave"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "416.298.8101"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Atlantic Packaging Products Ltd.",
+                "numFollowers": 2940,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Visit our website for more information and job opportunities www.atlantic.ca"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "atlanticpack",
+                "websiteUrl": "www.atlantic.ca"
+            }
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2000,
+                "id": 11565229,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "19",
+                            "name": "Industria textil y moda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "PuDong",
+                                "postalCode": "201206",
+                                "street1": "1001 Modern Communication Building, 201 Xin JinQiao Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "New York",
+                                "street1": "1460 Broadway"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "RP Apparels",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Trims and Findings",
+                        "Pocketing",
+                        "Elastic",
+                        "Waistbands",
+                        "Lining and Binding",
+                        "Tags, Labels and Buttons",
+                        "RFID Tags",
+                        "Fusible Interfacing",
+                        "Development",
+                        "Innovation",
+                        "Production",
+                        "Apparel",
+                        "Menswear"
+                    ]
+                },
+                "websiteUrl": "http://www.rpapparels.com"
+            }
+        ]
+    }
+}

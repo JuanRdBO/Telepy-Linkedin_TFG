@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 32,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12729935,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ronnenberg",
+                                "postalCode": "30952",
+                                "street1": "25 Im Goldfeld"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 5109515542"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Andreas Schiller Kameramann",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.andreasschiller.de"
+            }
+        ]
+    }
+}

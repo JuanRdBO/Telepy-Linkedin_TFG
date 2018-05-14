@@ -1,0 +1,84 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2016,
+                "id": 10962564,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mallorca",
+                                "postalCode": "07300",
+                                "street1": "C/"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Spain Digital Business Leadership 4.0",
+                "numFollowers": 108,
+                "specialties": {
+                    "_total": 23,
+                    "values": [
+                        "PYMES",
+                        "PARTICULARES",
+                        "EMPRESAS",
+                        "AUT\u00d3NOMOS",
+                        "PREVENCI\u00d3N",
+                        "DIGITAL",
+                        "BUSINESS",
+                        "CONSTRUCTIONS",
+                        "RESISTANCE",
+                        "ENERGY",
+                        "efficiency",
+                        "German financiers",
+                        "ecology",
+                        "Vivienda Pasiva",
+                        "Vivienda sostenible",
+                        "Passivehouse",
+                        "Passivhaus",
+                        "Ahorro energ\u00e9tico",
+                        "constructor",
+                        "Promotor",
+                        "Inversor",
+                        "Reformas hoteleras",
+                        "Sostenibilidad"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.pymesbusinessdigitalleadership40.com"
+            }
+        ]
+    }
+}

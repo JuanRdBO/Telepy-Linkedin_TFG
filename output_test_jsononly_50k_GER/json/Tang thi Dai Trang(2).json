@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1996,
+                "id": 2026042,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "142",
+                            "name": "Vino y licor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ho Chi Minh city",
+                                "street1": "76 - 78 Street 9A Trung Son Residential Area, Binh Hung ward, Binh Chanh Dist"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Tan Khoa Distribution Corporation",
+                "numFollowers": 261,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Wines",
+                        "Spirits",
+                        "Non-alcohol products"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://tankhoa.com"
+            }
+        ]
+    }
+}

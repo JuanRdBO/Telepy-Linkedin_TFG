@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 251,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1998,
+                "id": 38091,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "70",
+                            "name": "Investigaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lausanne",
+                                "postalCode": "1015",
+                                "street1": "SIB Management"
+                            },
+                            "contactInfo": {
+                                "fax": "+41 21 692 4055",
+                                "phone1": "+41 21 692 4050"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "SIB Swiss Institute of Bioinformatics",
+                "numFollowers": 4020,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.sib.swiss"
+            }
+        ]
+    }
+}

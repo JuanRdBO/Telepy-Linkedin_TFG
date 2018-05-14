@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2012,
+                "id": 10899292,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "34",
+                            "name": "Alimentaci\u00f3n y bebidas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20144",
+                                "street1": "Bogenstra\u00dfe 25"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Faszination Kochen",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Know-How",
+                        "Beratung",
+                        "Nachhaltigkeit",
+                        "Betriebswirtschaft",
+                        "Energiewirtschaft"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.faszination-kochen.com"
+            }
+        ]
+    }
+}

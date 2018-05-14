@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2008,
+                "id": 1266417,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "137",
+                            "name": "Recursos humanos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Tilburg",
+                                "postalCode": "5037 AA",
+                                "street1": "Postbus 90154 - 5000 LG"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0031 - (0)6 516 37 516"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Natural Talent",
+                "numFollowers": 171,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Campus Recruitment is onze passie. We kunnen je oa. ondersteunen met:",
+                        "Ontwikkeling Campus Recruitmentstrategie",
+                        "Hoogopgeleid Talent bereiken",
+                        "Employer Branding",
+                        "Social Media, Recruitmentwebsite",
+                        "Evenementen op onderwijsinstellingen",
+                        "Inhousedagen",
+                        "Talentpools."
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "bereikstudenten",
+                "websiteUrl": "www.naturaltalent.nl"
+            }
+        ]
+    }
+}

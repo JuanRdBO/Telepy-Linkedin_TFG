@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7460880,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Weinstadt",
+                                "postalCode": "71384",
+                                "street1": "35 Luitgardstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "071516040912"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Freiraum Immobilien Patricia Sattler",
+                "numFollowers": 1,
+                "websiteUrl": "freiraum-remstal.de"
+            }
+        ]
+    }
+}

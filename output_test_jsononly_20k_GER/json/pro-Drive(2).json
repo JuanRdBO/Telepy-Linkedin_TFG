@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 1047,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1984,
+                "id": 27420,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Banbury",
+                                "postalCode": "OX16 4XD",
+                                "street1": "Prodrive"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Milton Keynes",
+                                "postalCode": "MK13 8",
+                                "street1": "Precedent Drive"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Prodrive",
+                "numFollowers": 14374,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Motorsport engineering",
+                        "Electric & hybrid car technology",
+                        "Chassis systems",
+                        "Power Electronics",
+                        "Vehicle interiors",
+                        "Composites"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.prodrive.com"
+            }
+        ]
+    }
+}

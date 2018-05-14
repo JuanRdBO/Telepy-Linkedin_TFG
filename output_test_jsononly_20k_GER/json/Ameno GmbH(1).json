@@ -1,0 +1,51 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1994,
+                "id": 27161895,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "25",
+                            "name": "Art\u00edculos de consumo"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Panam\u00e1",
+                                "postalCode": "N/A",
+                                "street1": "Avenida Balboa"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fast Medic",
+                "numFollowers": 5,
+                "websiteUrl": "www.fastmedic.com"
+            }
+        ]
+    }
+}

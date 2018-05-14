@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2005,
+                "id": 1647331,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "postalCode": "6921",
+                                "street1": "Marketing 32"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "RO-ADviseurs",
+                "numFollowers": 48,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "projectmanagement",
+                        "infrastructuur",
+                        "verkeer",
+                        "civiele techniek",
+                        "technischmangement",
+                        "contractmanagement",
+                        "integraal projectmanagement",
+                        "tendermanagement"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.RO-ADviseurs.nl"
+            }
+        ]
+    }
+}

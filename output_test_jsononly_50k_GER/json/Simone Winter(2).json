@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2012,
+                "id": 2746968,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "19",
+                            "name": "Industria textil y moda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10018",
+                                "street1": "336 West 37th Street"
+                            },
+                            "contactInfo": {
+                                "fax": "9175919165",
+                                "phone1": "2126955054"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Meskita",
+                "numFollowers": 166,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Resort Wear",
+                        "Luxury",
+                        "Swimwear",
+                        "Leathers",
+                        "Silks",
+                        "Fashion"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.meskita.com"
+            }
+        ]
+    }
+}

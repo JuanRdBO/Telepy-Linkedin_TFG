@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7511865,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Zell am Harmersbach",
+                                "postalCode": "77736",
+                                "street1": "11 Tannenweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "0783554296"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rolf K\u00f6nig Grafischer Service",
+                "numFollowers": 1,
+                "websiteUrl": "grafischer-service.de"
+            }
+        ]
+    }
+}

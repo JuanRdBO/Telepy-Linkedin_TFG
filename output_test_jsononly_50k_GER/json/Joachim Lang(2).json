@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1960,
+                "id": 15084020,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "70",
+                            "name": "Investigaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": "50678",
+                                "street1": "Rosenstra\u00dfe 42-44"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "FIW \u2013 Forschungsinstitut f\u00fcr Wettbewerbsverfassung und Wettbewerb e. V.",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Kartell- und Wettbwerbsrecht",
+                        "Wirtschaftsverfassung und Wettbewerbsordnung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.fiw-online.de"
+            }
+        ]
+    }
+}

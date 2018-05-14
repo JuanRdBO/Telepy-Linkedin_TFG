@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 35,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "id": 25025337,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Louisville",
+                                "postalCode": "40222",
+                                "street1": "657 S. Hurstbourne Pkwy"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Haag Strategies, LLC",
+                "numFollowers": 4,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Risk Management Consulting",
+                        "Business Health Check",
+                        "Strong Foundations for Startups "
+                    ]
+                },
+                "websiteUrl": "http://haagstrategies.com/"
+            }
+        ]
+    }
+}

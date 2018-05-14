@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 23182740,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "88",
+                            "name": "Servicios para el individuo y la familia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Saint-Josse-ten-Noode",
+                                "postalCode": "1210",
+                                "street1": "22 Chauss\u00e9e de Haecht"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Aktas, Murat",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

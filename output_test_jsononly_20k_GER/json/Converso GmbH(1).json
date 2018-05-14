@@ -1,0 +1,81 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1999,
+                "id": 3102992,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "12681",
+                                "street1": "Landsberger Alee 366"
+                            },
+                            "contactInfo": {
+                                "fax": "030 549112-50",
+                                "phone1": "030 549112-40"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Wiesmoor",
+                                "postalCode": "26639",
+                                "street1": "Am Rathaus 2"
+                            },
+                            "contactInfo": {
+                                "fax": "04944 913814",
+                                "phone1": "04944 913811"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "RGP Verpflegungsmanagement GmbH & Co. KG f\u00fcr das Gesundheitswesen",
+                "numFollowers": 11,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Verpflegungsmanagement",
+                        "Coaching",
+                        "Consulting und Beratung",
+                        "ConVerso"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://rgp-gmbh.de"
+            }
+        ]
+    }
+}

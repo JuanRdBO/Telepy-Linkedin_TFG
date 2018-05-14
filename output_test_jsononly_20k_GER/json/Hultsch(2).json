@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12862135,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Heidenau",
+                                "postalCode": "01809",
+                                "street1": "12 Ernst-Th\u00e4lmann-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 1772049772"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Olaf Hultsch",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.sicherheit-hultsch.de"
+            }
+        ]
+    }
+}

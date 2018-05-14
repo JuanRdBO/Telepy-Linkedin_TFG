@@ -1,0 +1,95 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1881,
+                "id": 11782,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "37",
+                            "name": "Museos e instituciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "South Kensington",
+                                "postalCode": "SW7 5BD",
+                                "street1": "Cromwell Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+44(0)20 7942 5000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Tring",
+                                "postalCode": "HP23 6AP",
+                                "street1": "Akeman Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Natural History Museum",
+                "numFollowers": 21617,
+                "specialties": {
+                    "_total": 18,
+                    "values": [
+                        "Natural History",
+                        "Education",
+                        "Exhibitions",
+                        "Events",
+                        "Science",
+                        "Botany",
+                        "Zoology",
+                        "Palaeontology",
+                        "Taxonomy",
+                        "Geology",
+                        "Mineralogy",
+                        "Curation",
+                        "Conservation",
+                        "Imaging",
+                        "Wildlife",
+                        "Nature",
+                        "Venue Hire",
+                        "Research"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.nhm.ac.uk"
+            }
+        ]
+    }
+}

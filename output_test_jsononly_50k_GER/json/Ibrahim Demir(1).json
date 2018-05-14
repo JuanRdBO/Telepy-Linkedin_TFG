@@ -1,0 +1,61 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2012,
+                "id": 11398054,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "147",
+                            "name": "Automaci\u00f3n industrial"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ba\u015fiskele",
+                                "postalCode": "41140 ",
+                                "street1": "Karadenizliler Mh. \u015eahint\u00fcrk Sk. No:7A/1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "KMK\u0131l\u0131\u00e7 Makina San. ve Tic. Ltd. \u015eti.",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "CNC Torna Makinalar\u0131",
+                        "CNC Makinalar\u0131",
+                        "Kaynak Makinalar\u0131",
+                        "Torna Makinalar\u0131",
+                        "Borverk Makinalar\u0131"
+                    ]
+                },
+                "websiteUrl": "http://www.kilicmak.com"
+            }
+        ]
+    }
+}

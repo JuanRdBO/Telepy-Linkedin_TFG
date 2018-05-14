@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7473211,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Waldkirch",
+                                "postalCode": "79183",
+                                "street1": "19 Kastelbergstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0768147050"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Architekturb\u00fcro Thomas Schindler",
+                "numFollowers": 0,
+                "websiteUrl": "thomas-schindler.de"
+            }
+        ]
+    }
+}

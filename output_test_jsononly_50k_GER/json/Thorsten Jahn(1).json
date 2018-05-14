@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12741574,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Konstanz",
+                                "postalCode": "78462",
+                                "street1": "15 Marktst\u00e4tte"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 753117781"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Thorsten Jahn",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.smilepraxis.de"
+            }
+        ]
+    }
+}

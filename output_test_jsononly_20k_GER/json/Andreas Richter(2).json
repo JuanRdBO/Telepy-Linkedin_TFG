@@ -1,0 +1,76 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 11518794,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "5",
+                            "name": "Interconexi\u00f3n en red"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rapperswil-Jona",
+                                "postalCode": "8645",
+                                "street1": "Oberseestrasse 10"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "INS Institut f\u00fcr vernetzte Systeme",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 21,
+                    "values": [
+                        "Cisco Networking Academy",
+                        "Microsoft Innovation Center",
+                        "Sichere Netzwerkprotokolle",
+                        "Modellbildung und diskrete Ereignissimulation",
+                        "Informationssicherheit",
+                        "Internet Anwendungen",
+                        "Cisco Certification CCNA, CCNP, CCIE",
+                        "Software Defined Networking",
+                        ".NET Technologien",
+                        "Computernetze",
+                        "Software Engineering",
+                        "Paralelle Programmierung",
+                        "Unified Communications",
+                        "Sicherheits-Engineering und Netzwerksicherheit",
+                        "Sichere Netzwerkprotokolle",
+                        "Open Source VPN L\u00f6sung (strongSwan)",
+                        "TPM-basierte Plattformsicherheit",
+                        "High Assurance Systeme",
+                        "Authentisierungsverfahren",
+                        "Wireless LAN",
+                        "Netzwerkautomatisierung mit Python"
+                    ]
+                },
+                "websiteUrl": "www.ins.hsr.ch"
+            }
+        ]
+    }
+}

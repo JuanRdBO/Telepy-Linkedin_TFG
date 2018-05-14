@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 198,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 26898131,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "32",
+                            "name": "Restaurantes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "MEAUX",
+                                "postalCode": "77100",
+                                "street1": "APPARTEMENT 39  3 SQUARE DU BERRY"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "LA GOURMANDISE DE RITEJ",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

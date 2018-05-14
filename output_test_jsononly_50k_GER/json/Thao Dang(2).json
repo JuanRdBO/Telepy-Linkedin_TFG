@@ -1,0 +1,52 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 56,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 2006,
+                "id": 13333684,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "8",
+                            "name": "Telecomunicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "H\u00e0 N\u1ed9i",
+                                "street1": "T\u1ea7ng 17,19,20,21 T\u00f2a nh\u00e0 Center Building, 01 Nguy\u1ec5n Huy T\u01b0\u1edfng, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "VCCorp Corporation",
+                "numFollowers": 142,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "VCCorp - Innovation. Non-stop!"
+                    ]
+                },
+                "websiteUrl": "http://vccorp.vn"
+            }
+        ]
+    }
+}

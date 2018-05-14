@@ -1,0 +1,57 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1903,
+                "id": 18159015,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "23",
+                            "name": "Producci\u00f3n alimentaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "81479",
+                                "street1": "Festingstra\u00dfe 4"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "B\u00e4ckerei Reis",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "B\u00e4ckerei, Konditorei, Caf\u00e9"
+                    ]
+                },
+                "websiteUrl": "http://reis-solln.de/"
+            }
+        ]
+    }
+}

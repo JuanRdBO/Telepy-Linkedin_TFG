@@ -1,0 +1,43 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 24444378,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "S\u00e3o Paulo",
+                                "street1": "Rua Guilherme Valente 371"
+                            },
+                            "contactInfo": {
+                                "phone1": "+55 1155182785"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Paulo Cesar Goncalves Viana",
+                "numFollowers": 0,
+                "websiteUrl": "hidrausystem.com.br"
+            }
+        ]
+    }
+}

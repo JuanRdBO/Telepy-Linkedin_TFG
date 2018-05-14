@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2004,
+                "id": 3687529,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "25",
+                            "name": "Art\u00edculos de consumo"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lichtenstein/Sachsen",
+                                "postalCode": "09350",
+                                "street1": "Ernst-Th\u00e4lmann-Str. 24"
+                            },
+                            "contactInfo": {
+                                "fax": "+4937204999211",
+                                "phone1": "+493720499900"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "iToy",
+                "numFollowers": 33,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Spielwaren",
+                        "Distribution",
+                        "Consulting",
+                        "Handelsvertretung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.itoyconsulting.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2010,
+                "id": 2816797,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "39",
+                            "name": "Artes interpretativas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Amsterdam",
+                                "postalCode": "",
+                                "street1": "Meer en Vaart 290"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Tugra Amsterdam",
+                "numFollowers": 8,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Zeybek",
+                        "Halay",
+                        "Horon"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.tugramsterdam.com"
+            }
+        ]
+    }
+}

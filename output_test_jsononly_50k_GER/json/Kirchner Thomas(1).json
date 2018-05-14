@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7434630,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Umkirch",
+                                "postalCode": "79224",
+                                "street1": "15 Hasenwinkel"
+                            },
+                            "contactInfo": {
+                                "phone1": "01716914700"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Kirchner GmbH, Malerfachbetrieb",
+                "numFollowers": 0,
+                "websiteUrl": "maler48.de"
+            }
+        ]
+    }
+}

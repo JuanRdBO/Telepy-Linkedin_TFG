@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 9,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2015,
+                "id": 10369385,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "78",
+                            "name": "Protecci\u00f3n civil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Austin",
+                                "postalCode": "78750",
+                                "street1": "PO Box 500251"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Jenks",
+                                "postalCode": "74037",
+                                "street1": "106 E Main St"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "8173072734"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Sheepdog Response",
+                "numFollowers": 263,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Defensive Tactics",
+                        "Survival",
+                        "Firearms Skills",
+                        "Unarmed Combatives",
+                        "Situational Awareness"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://sheepdogresponse.com/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 242,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7491798,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad Frankenhausen/Kyffh\u00e4user",
+                                "postalCode": "06567",
+                                "street1": "27 Kyffh\u00e4userstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "03467176182"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Baugesellschaft MbH Bad Frankenhausen",
+                "numFollowers": 0,
+                "websiteUrl": "marktplatz-bad-frankenhausen.de"
+            }
+        ]
+    }
+}

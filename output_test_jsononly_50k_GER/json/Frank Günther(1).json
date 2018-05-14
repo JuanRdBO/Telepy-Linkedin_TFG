@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7544926,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Albig",
+                                "postalCode": "55234",
+                                "street1": "35 Langgasse"
+                            },
+                            "contactInfo": {
+                                "phone1": "067316113"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "G\u00fcnther Frank GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "frank-albig.de"
+            }
+        ]
+    }
+}

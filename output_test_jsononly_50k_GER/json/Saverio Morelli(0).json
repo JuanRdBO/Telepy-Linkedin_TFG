@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2012,
+                "id": 2692682,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "longobardi",
+                                "postalCode": "87030",
+                                "street1": "via Acquavona 21"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0982 53600"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Roma",
+                                "postalCode": "00177",
+                                "street1": "Via Masurio Sabino 22"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "3497886198"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "DmmArchitetti",
+                "numFollowers": 80,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Progettazione architettonica ed urbana",
+                        "Pianificazione urbana e territoriale"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.dmmarchitetti.com/"
+            }
+        ]
+    }
+}

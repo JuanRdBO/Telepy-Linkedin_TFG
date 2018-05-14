@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1941,
+                "id": 1075415,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "37",
+                            "name": "Museos e instituciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "La Jolla",
+                                "postalCode": "92037",
+                                "street1": "700 Prospect Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "858 454 3541"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "San Diego",
+                                "postalCode": "92107",
+                                "street1": "1100 Kettner Blvd."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "858 454 3541"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Museum of Contemporary Art San Diego",
+                "numFollowers": 1050,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.mcasd.org"
+            }
+        ]
+    }
+}

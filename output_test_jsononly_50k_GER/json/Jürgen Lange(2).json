@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12344478,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wietze",
+                                "postalCode": "29323",
+                                "street1": "Lerchenkamp 7A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 5146986038"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Versandantiquariat Hans-J\u00fcrgen Lange",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.antiquariatlange.de"
+            }
+        ]
+    }
+}

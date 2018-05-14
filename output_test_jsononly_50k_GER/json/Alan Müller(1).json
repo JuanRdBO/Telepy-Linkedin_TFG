@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1999,
+                "id": 27206864,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "83",
+                            "name": "Imprenta"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": " Ba\u011fc\u0131lar ",
+                                "postalCode": "34204 ",
+                                "street1": "100. Y\u0131l Mah. Mas-Sit Matbaac\u0131lar Sitesi 3. Cadde No: 199/B"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Pasifik Trading",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 18,
+                    "values": [
+                        "manroland Tabaka Ofset",
+                        "M\u00fcller Martini Tel Diki\u015f",
+                        "M\u00fcller Martini \u0130plik Diki\u015f",
+                        "Tensor Web Ofset",
+                        "M\u00fcller Martini Sert Kapak ",
+                        "M\u00fcller Martini Amerikan Kapak ",
+                        "Brausse ",
+                        " Ay\u0131klamal\u0131 Karton Kesim",
+                        "M\u00fccellit Makineleri Sat\u0131\u015f",
+                        "Tabaka Katlama K\u0131r\u0131m",
+                        "Tabaka Harman",
+                        "Duplo",
+                        "Duplo Dijital Bask\u0131 Sonland\u0131rma",
+                        "M\u00fcller Martini",
+                        "manroland",
+                        "Tensor",
+                        "Guk",
+                        "Multigraf"
+                    ]
+                },
+                "websiteUrl": "pasifiktrading.com.tr"
+            }
+        ]
+    }
+}

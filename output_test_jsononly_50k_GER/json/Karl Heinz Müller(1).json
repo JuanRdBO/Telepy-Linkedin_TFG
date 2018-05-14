@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12773035,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Balingen",
+                                "postalCode": "72336",
+                                "street1": "5 M\u00fchlrainstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 743326005"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Karl-Heinz M\u00fcller KG",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.formenbau-mueller.de"
+            }
+        ]
+    }
+}

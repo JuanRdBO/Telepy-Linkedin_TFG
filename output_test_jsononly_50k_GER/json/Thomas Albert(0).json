@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 52,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7463826,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Brunnthal",
+                                "postalCode": "85649",
+                                "street1": "1 St.-Georg-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "08102994930"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Albert",
+                "numFollowers": 1,
+                "websiteUrl": "albert-schreinerei.de"
+            }
+        ]
+    }
+}

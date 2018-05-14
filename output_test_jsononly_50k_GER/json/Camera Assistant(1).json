@@ -1,0 +1,53 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 150,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1935,
+                "id": 5374530,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "name": "SMR Automotive Global",
+                "numFollowers": 4298,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Exterior mirrors",
+                        "Interior mirrors",
+                        "Camera based Driver Assistant Systems",
+                        "Lighting technologies",
+                        "Electric Drive Modules",
+                        "Electronic systems",
+                        "Innovative Technologies"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.smr-automotive.com"
+            }
+        ]
+    }
+}

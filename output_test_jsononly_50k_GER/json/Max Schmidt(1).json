@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 8059054,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Unterf\u00f6hring",
+                                "postalCode": "85774",
+                                "street1": "Feringastr. 7a"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 8957837"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Max Schmidt Geb\u00e4udemanagement GmbH",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.maxschmidt.de"
+            }
+        ]
+    }
+}

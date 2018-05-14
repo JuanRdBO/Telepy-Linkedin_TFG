@@ -1,0 +1,81 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2010,
+                "id": 2181500,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "148",
+                            "name": "Relaciones gubernamentales"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Boston",
+                                "postalCode": "02119",
+                                "street1": "28 Clarence Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "617.708.1899"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Washington",
+                                "postalCode": "20036",
+                                "street1": "1640 Rhode Island Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "202.997.5963"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "The DoCanto Group",
+                "numFollowers": 71,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Coalition Building & Legislative Strategy",
+                        "Strategic Communications",
+                        "Strategic Counsel & Issue Advocacy",
+                        "Public Relations"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.docantogroup.com"
+            }
+        ]
+    }
+}

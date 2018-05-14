@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 27,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7410829,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40211",
+                                "street1": "27-29 Hohenzollernstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "0211351041"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Peter Beck GmbH Versicherungsmakler",
+                "numFollowers": 1,
+                "websiteUrl": "versicherungsmakler-beck.de"
+            }
+        ]
+    }
+}

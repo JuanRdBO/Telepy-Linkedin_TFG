@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 2329245,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10969",
+                                "street1": "Ritterstr. 12\u201314"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "030 69538800"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "fnctions",
+                "numFollowers": 7,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "iOS Entwicklung f\u00fcr iPhone und iPad",
+                        "Mac Entwicklung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "fnctions",
+                "websiteUrl": "http://fnctions.com"
+            }
+        ]
+    }
+}

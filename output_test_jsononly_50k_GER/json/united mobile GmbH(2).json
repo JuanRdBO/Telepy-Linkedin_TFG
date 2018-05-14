@@ -1,0 +1,165 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 25,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 2008,
+                "id": 698916,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 11,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10243",
+                                "street1": "Tamara-Danz-Str. 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10178",
+                                "street1": "Mollstra\u00dfe 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20459",
+                                "street1": "Vorsetzen 35"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Dublin",
+                                "postalCode": "D02 WC65",
+                                "street1": "3 Grand Canal Quay, Grand Canal Dock"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Helsinki",
+                                "postalCode": "00100",
+                                "street1": "Runeberginkatu 5 B"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": " Dortmund",
+                                "postalCode": "44263",
+                                "street1": "H\u00f6rder Hafenstra\u00dfe 1-3 44263"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Lisbon",
+                                "postalCode": "1250",
+                                "street1": "Avenida da Liberdade 225"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "M\u00f6nchengladbach",
+                                "postalCode": "41199",
+                                "street1": "Regioparkring"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Erfurt",
+                                "postalCode": "99098",
+                                "street1": "In der Hochstedter Ecke 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Lahr/Schwarzwald",
+                                "postalCode": "77933",
+                                "street1": "Einsteinallee 26"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Brieselang",
+                                "postalCode": "14656",
+                                "street1": "Havellandstra\u00dfe 6"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Zalando SE",
+                "numFollowers": 72009,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Technology",
+                        "Fashion",
+                        "Operations & Logistics",
+                        "Commerce"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "http://twitter.com/#!/zalando",
+                "websiteUrl": "https://corporate.zalando.com/en"
+            }
+        ]
+    }
+}

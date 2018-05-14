@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 19,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2000,
+                "id": 97196,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "EC2A 3JL",
+                                "street1": "80 Great Eastern Street"
+                            },
+                            "contactInfo": {
+                                "fax": "+44 870 777 2366",
+                                "phone1": "+44 870 777 2337"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Manchester",
+                                "postalCode": "M2 3AW",
+                                "street1": "Lowry House"
+                            },
+                            "contactInfo": {
+                                "fax": "+44 870 777 2366",
+                                "phone1": "+44 0870 777 2337"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Zuhlke Engineering Ltd",
+                "numFollowers": 1634,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Bespoke Software Development",
+                        "Agile",
+                        "Lean Methodologies",
+                        "System integration",
+                        "Embedded Software"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.zuhlke.com"
+            }
+        ]
+    }
+}

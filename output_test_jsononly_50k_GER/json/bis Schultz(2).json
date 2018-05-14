@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12354297,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gelnhausen",
+                                "postalCode": "63571",
+                                "street1": "11 L\u00fctzelh\u00e4user Weg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 225675010"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Matratzen Depot GmbH",
+                "numFollowers": 4,
+                "websiteUrl": "http://www.matratzendepot.de"
+            }
+        ]
+    }
+}

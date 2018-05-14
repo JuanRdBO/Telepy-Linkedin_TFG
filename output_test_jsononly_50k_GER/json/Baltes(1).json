@@ -1,0 +1,46 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 62,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 18433258,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Tilburg",
+                                "postalCode": "5014 EG",
+                                "street1": "Koestraat 246"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Baltes Advocatuur",
+                "numFollowers": 15,
+                "websiteUrl": "http://www.baltesadvocatuur.nl/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 1157107,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "name": "Cobanoglu Limited Co",
+                "numFollowers": 22,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Education",
+                        "Consultancy",
+                        "Computers",
+                        "Import & Export"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.cobanoglugroup.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 138,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1987,
+                "id": 468048,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "110",
+                            "name": "Servicios de eventos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "TOULOUSE",
+                                "postalCode": "31000",
+                                "street1": "19 All\u00e9es Jean Jaur\u00e8s"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "75016",
+                                "street1": "36, avenue Raymond Poincar\u00e9"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Nice",
+                                "postalCode": "06299",
+                                "street1": "Immeuble Arenice 4\u00b0 \u00e9tage"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Singapore",
+                                "postalCode": "238881",
+                                "street1": "#09-01 Liat Towers,  541 Orchard Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Johannesburg",
+                                "postalCode": "2146 ",
+                                "street1": "PO Box 782243 Sandton"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "EUROPA GROUP",
+                "numFollowers": 2639,
+                "specialties": {
+                    "_total": 17,
+                    "values": [
+                        "Medecine",
+                        "Medical Industry",
+                        "Professional Congress Organiser",
+                        "Medical Publishing",
+                        "Digital Marketing",
+                        "Video transmision",
+                        "Scientific events",
+                        "Community Management",
+                        "Seminars",
+                        "Scientific Journal",
+                        "Medical Websites",
+                        "Medical communities",
+                        "Housing Bureau",
+                        "Travel Management",
+                        "Business Meeting Facilities",
+                        "Medical Education",
+                        "Event Organiser"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.europa-group.com"
+            }
+        ]
+    }
+}

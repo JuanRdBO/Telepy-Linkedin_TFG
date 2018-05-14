@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12564938,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mannheim",
+                                "postalCode": "68163",
+                                "street1": "1 Belchenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 4004020"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Wolfgang Wiegand",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.dialyse-mannheim.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1959,
+                "id": 2349052,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Westhausen",
+                                "postalCode": "73463",
+                                "street1": "Industriestrasse 1"
+                            },
+                            "contactInfo": {
+                                "fax": "0049 7363 81222",
+                                "phone1": "0049 7363 810"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Apex Tool Group GmbH",
+                "numFollowers": 1016,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Schraubtechnik/Tightening technology",
+                        "Schraubsteuerungen/Tightening controllers",
+                        "pneumatische und elektrische Werkzeuge/Pneumatic and electric tools",
+                        "Zubeh\u00f6r/Accessories"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.apexpowertools.eu"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2014,
+                "id": 4036402,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Montevideo",
+                                "postalCode": "11200",
+                                "street1": "Miguelete 2317"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(+598) 2407-9622"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "GameGear Uruguay",
+                "numFollowers": 29,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Representaciones",
+                        "Distribuci\u00f3n",
+                        "Product Marketing",
+                        "Venta"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.gamegear.com.uy"
+            }
+        ]
+    }
+}

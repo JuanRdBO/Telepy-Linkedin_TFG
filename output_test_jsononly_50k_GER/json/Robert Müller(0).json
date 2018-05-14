@@ -1,0 +1,43 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 33,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 5903961,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "92",
+                            "name": "Transporte por carretera o ferrocarril"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Liberty",
+                                "postalCode": "67351-7935",
+                                "street1": "3024 Cr 5500"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 6202515282"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Robert Muller",
+                "numFollowers": 5
+            }
+        ]
+    }
+}

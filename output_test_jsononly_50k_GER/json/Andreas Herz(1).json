@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12265239,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dortmund",
+                                "postalCode": "44137",
+                                "street1": "41 Kampstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 231144973"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Andreas Gorden",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.dr-gorden.de"
+            }
+        ]
+    }
+}

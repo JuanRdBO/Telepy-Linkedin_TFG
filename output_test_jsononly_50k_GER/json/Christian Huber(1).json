@@ -1,0 +1,52 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "id": 318327,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "41",
+                            "name": "Actividades bancarias"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Zurich",
+                                "postalCode": "8053",
+                                "street1": "Steinbruechelstrasse 16"
+                            },
+                            "contactInfo": {
+                                "fax": "+41 43 819 36 11",
+                                "phone1": "+41 43 819 36 10"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Christian Huber asset management",
+                "numFollowers": 14
+            }
+        ]
+    }
+}

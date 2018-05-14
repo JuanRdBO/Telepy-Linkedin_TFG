@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 3174535,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Brisbane",
+                                "postalCode": "",
+                                "street1": "Brisbane"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "1300 793 699"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "HSS-Solutions Australia",
+                "numFollowers": 28,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Occupational Health, Safety and Security Solutions",
+                        "Safety Systems Development",
+                        "Drug and alcohol testing",
+                        "Serious event investigation",
+                        "Leadership and development",
+                        "Training",
+                        "Consultancy Services"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://hss-solutions.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1761,
+                "id": 2099321,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "25",
+                            "name": "Art\u00edculos de consumo"
+                        }
+                    ]
+                },
+                "name": "A W Faber Castell",
+                "numFollowers": 10239,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Stationery Manufacturer",
+                        "School Supplies",
+                        "Office Supplies",
+                        "Art Material",
+                        "Premium Writing Instruments"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.faber-castell.in"
+            }
+        ]
+    }
+}

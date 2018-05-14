@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1977,
+                "id": 5101639,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "name": "Nakhaleh Carpets & Rugs",
+                "numFollowers": 173,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Carpets & Rugs",
+                        "Anti Bacterial Traetment",
+                        "Heat insualtion",
+                        "Anti-Static"
+                    ]
+                },
+                "status": {
+                    "code": "OPS",
+                    "name": "Operating Subsidiary"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.nakhalehcarpets.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 104004,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1995,
+                "id": 484807,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "135",
+                            "name": "Ingenier\u00eda industrial o mec\u00e1nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bhiwadi",
+                                "postalCode": "301019",
+                                "street1": "SP-1192G"
+                            },
+                            "contactInfo": {
+                                "fax": "+91 1493-222174",
+                                "phone1": "+91 1493-222174"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "K.K. METALS PRIVATE LIMITED",
+                "numFollowers": 1159,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "K.K. Metals Private Limited",
+                        "Closed Die Forgings",
+                        "Sanchay- The KM Department",
+                        "ISO, TS, Quality Certifications"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.kkmetals.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7348361,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "18",
+                            "name": "Cosm\u00e9tica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Greiz",
+                                "postalCode": "07973",
+                                "street1": "44 Kermannstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "03661455271"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Claudia M\u00fcller Kosmetikstudio",
+                "numFollowers": 0,
+                "websiteUrl": "beauty-care-greiz.de"
+            }
+        ]
+    }
+}

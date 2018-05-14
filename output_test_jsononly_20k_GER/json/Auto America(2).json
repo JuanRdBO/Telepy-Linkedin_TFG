@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 1623,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1946,
+                "id": 140853,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Tolleson",
+                                "postalCode": "85353",
+                                "street1": "901 N. 99th Ave."
+                            },
+                            "contactInfo": {
+                                "phone1": "(602) 242-1305"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Auto Body World",
+                "numFollowers": 1640,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Arizona's Leader in Collision Repair.  Arizona's largest privately-owned collision repair organization."
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "www.autobodyworld.com"
+            }
+        ]
+    }
+}

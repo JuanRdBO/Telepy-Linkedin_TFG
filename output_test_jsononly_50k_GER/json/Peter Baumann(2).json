@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12685388,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kaiserslautern",
+                                "postalCode": "67655",
+                                "street1": "33 Fabrikstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6317105520"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hypnosepraxis Peter Baumann",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.hypnosepraxis-baumann.de"
+            }
+        ]
+    }
+}

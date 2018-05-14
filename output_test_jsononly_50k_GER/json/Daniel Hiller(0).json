@@ -1,0 +1,57 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1999,
+                "id": 1950866,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "38",
+                            "name": "Bellas Artes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "W1B 4BT",
+                                "street1": "6 Heddon St"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+44 (0)20 7734 7760"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Pippy Houldsworth Gallery",
+                "numFollowers": 172,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.houldsworth.co.uk"
+            }
+        ]
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1964,
+                "id": 10519654,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "115",
+                            "name": "M\u00fasica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bologna",
+                                "postalCode": "40131",
+                                "street1": "Via Pier De' Crescenzi 12"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "051/6490868"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Roma",
+                                "postalCode": "00142",
+                                "street1": "Via Francesco Acri 26"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "065942496"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Tomassone",
+                "numFollowers": 13,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Chitarre",
+                        "Chitarre Acustiche",
+                        "Chitarre Elettriche",
+                        "Chitarre Folk",
+                        "Chitarre Mancine",
+                        "Chitarre Classiche",
+                        "Chitarre Archtop",
+                        "Chitarre Travel",
+                        "Chitarre 12 corde",
+                        "Pedaliere Effetti",
+                        "Bassi Elettrici",
+                        "Bassi Acustici",
+                        "Bassi Fretless",
+                        "Amplificatori"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.tomassone.it"
+            }
+        ]
+    }
+}

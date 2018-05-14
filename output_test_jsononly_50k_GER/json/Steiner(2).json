@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 953,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1987,
+                "id": 53408,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "33",
+                            "name": "Deportes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New Rochelle",
+                                "postalCode": "10801",
+                                "street1": "145 Huguenot Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "1-800-759-SCORE"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Steiner Sports",
+                "numFollowers": 7582,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Memorabilia",
+                        "Collectibles",
+                        "Sales",
+                        "Marketing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.steinersports.com/"
+            }
+        ]
+    }
+}

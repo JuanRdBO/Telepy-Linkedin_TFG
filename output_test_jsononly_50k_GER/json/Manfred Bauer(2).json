@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7571717,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Schmalkalden",
+                                "postalCode": "98574",
+                                "street1": "11 R\u00f6tweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "03683402982"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Manfred Bauer",
+                "numFollowers": 0,
+                "websiteUrl": "praxis-drbauer.de"
+            }
+        ]
+    }
+}

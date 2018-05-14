@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 202,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 2004,
+                "id": 144358,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dubai",
+                                "postalCode": "114627",
+                                "street1": "irise tower dubai"
+                            },
+                            "contactInfo": {
+                                "fax": "97143828501",
+                                "phone1": "+97143650500"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "KLING CONSULT GmbH",
+                "numFollowers": 5273,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Area and Master Planning",
+                        "Civil and Structural Engineering",
+                        "Architectural Design",
+                        "Mechanical & Electrical Engineering",
+                        "Landscape Design",
+                        "Interior Design",
+                        "Quantity Surveying",
+                        "Planning and Assessment",
+                        "Value Engineering",
+                        "Design Review, Expertise"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.klingconsult.com"
+            }
+        ]
+    }
+}

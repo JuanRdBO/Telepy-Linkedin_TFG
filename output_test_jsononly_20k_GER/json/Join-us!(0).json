@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 33188,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2016,
+                "id": 27060994,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lisboa",
+                                "postalCode": "1250-240",
+                                "street1": "Rua Saraiva de Carvalho"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Santar\u00e9m",
+                                "postalCode": "2000-376",
+                                "street1": "Rua D. Duarte de Almeida"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Join US IT",
+                "numFollowers": 144,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Project Management",
+                        "Business Analysis",
+                        "Enterprise Architecture",
+                        "Process Management",
+                        "Business Inteligence",
+                        "Outsourcing",
+                        "Solutions development"
+                    ]
+                },
+                "websiteUrl": "http://www.joinusit.pt"
+            }
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 34,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1996,
+                "id": 1979977,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "35",
+                            "name": "Pel\u00edculas y cine"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "28005",
+                                "postalCode": "28005",
+                                "street1": "Plaza del Cord\u00f3n 2 Bajo Izq"
+                            },
+                            "contactInfo": {
+                                "fax": "+34 913659301",
+                                "phone1": "+34 913664364"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Avaloncine",
+                "numFollowers": 1876,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Producci\u00f3n Cinematogr\u00e1fica",
+                        "Distribuci\u00f3n Audiovisual"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "@Avaloncine",
+                "websiteUrl": "www.avalonproductions.es"
+            }
+        ]
+    }
+}

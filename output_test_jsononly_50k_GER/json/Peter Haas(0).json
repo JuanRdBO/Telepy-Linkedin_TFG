@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7343071,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hungen",
+                                "postalCode": "35410",
+                                "street1": "Mittelgasse 13A"
+                            },
+                            "contactInfo": {
+                                "phone1": "0640250223"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Peter Haas",
+                "numFollowers": 2,
+                "websiteUrl": "bauelemente-peterhaas.de"
+            }
+        ]
+    }
+}

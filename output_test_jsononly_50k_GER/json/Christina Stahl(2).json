@@ -1,0 +1,87 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1995,
+                "id": 510111,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pewaukee",
+                                "postalCode": "53072",
+                                "street1": "2311 W Silvernail Rd"
+                            },
+                            "contactInfo": {
+                                "fax": "(262) 548-0803",
+                                "phone1": "(262) 548-8070"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Greenfield",
+                                "postalCode": "53220",
+                                "street1": "4700 47th St"
+                            },
+                            "contactInfo": {
+                                "fax": "(414) 325-2088",
+                                "phone1": "(414) 325-2080"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "American Advantage - Lindow Insurance",
+                "numFollowers": 61,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Auto Insurance",
+                        "Home Insurance",
+                        "Umbrella Insurance",
+                        "Motorcycle Insurance",
+                        "Boat Insurance",
+                        "Life Insurance",
+                        "Health Insurance",
+                        "Commercial Package Insurance",
+                        "Contractors Insurance",
+                        "Manufacturers Insurance"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://lindowinsurance.com/"
+            }
+        ]
+    }
+}

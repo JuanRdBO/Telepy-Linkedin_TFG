@@ -1,0 +1,113 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 45,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1946,
+                "id": 11354076,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "68",
+                            "name": "Ense\u00f1anza superior"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "S\u00e3o Paulo",
+                                "postalCode": "04696-000",
+                                "street1": "Av. Engenheiro Eus\u00e9bio Stevaux"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "\u00c1guas de S\u00e3o Pedro",
+                                "postalCode": "13525-000",
+                                "street1": "Pq. Dr. Oct\u00e1vio de Moura Andrade"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Campos do Jord\u00e3o",
+                                "postalCode": "12460-000",
+                                "street1": "Av. Frei Orestes Girardi"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "S\u00e3o Paulo",
+                                "postalCode": "01102-000",
+                                "street1": "Av. Tiradentes"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "S\u00e3o Paulo",
+                                "postalCode": "05047-060",
+                                "street1": "Rua Scipi\u00e3o"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Centro Universit\u00e1rio Senac",
+                "numFollowers": 12743,
+                "specialties": {
+                    "_total": 17,
+                    "values": [
+                        "Arquitetura e Urbanismo",
+                        "Beleza e Est\u00e9tica",
+                        "Certifica\u00e7\u00f5es em Tecnologia",
+                        "Comunica\u00e7\u00e3o e Artes",
+                        "Desenvolvimento Social",
+                        "Design",
+                        "Educa\u00e7\u00e3o",
+                        "Eventos e Lazer",
+                        "Gastronomia",
+                        "Gest\u00e3o Executiva",
+                        "Gest\u00e3o e Neg\u00f3cios",
+                        "Hotelaria e Turismo",
+                        "Meio Ambiente, Seguran\u00e7a e Sa\u00fade no Trabalho",
+                        "Moda ",
+                        "Responsabilidade Social",
+                        "Sa\u00fade e Bem-estar",
+                        "Tecnologia da Informa\u00e7\u00e3o"
+                    ]
+                },
+                "websiteUrl": "http://www.sp.senac.br/centrouniversitario"
+            }
+        ]
+    }
+}

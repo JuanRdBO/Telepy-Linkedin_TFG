@@ -1,0 +1,47 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 8256531,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "75",
+                            "name": "Administraci\u00f3n gubernamental"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gladbeck",
+                                "postalCode": "45964"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2043990"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Stadt Gladbeck",
+                "numFollowers": 16,
+                "websiteUrl": "http://www.gladbeck.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12233865,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "125",
+                            "name": "Medicina alternativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Amberg",
+                                "postalCode": "92224",
+                                "street1": "6 Herrnstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 9621917256"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Naturheilpraxis Petra Hermann",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.naturheilpraxis-petra-hermann.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 14,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1992,
+                "id": 15965,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "35",
+                            "name": "Pel\u00edculas y cine"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hvidovre",
+                                "postalCode": "2650",
+                                "street1": "Filmbyen 22"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Zentropa",
+                "numFollowers": 5668,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Film production"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.zentropa.dk"
+            }
+        ]
+    }
+}

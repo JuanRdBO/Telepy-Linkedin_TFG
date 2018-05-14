@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 35,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1984,
+                "id": 5134203,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "110",
+                            "name": "Servicios de eventos"
+                        }
+                    ]
+                },
+                "name": "Automotive Circle",
+                "numFollowers": 632,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.automotive-circle.com/"
+            }
+        ]
+    }
+}

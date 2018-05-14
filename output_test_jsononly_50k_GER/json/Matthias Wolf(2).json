@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7412686,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "B\u00fcttelborn",
+                                "postalCode": "64572",
+                                "street1": "Darmst\u00e4dter Stra\u00dfe 59A"
+                            },
+                            "contactInfo": {
+                                "phone1": "061529838138"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "MW Rechtsanwaltskanzlei - Matthias Wolf",
+                "numFollowers": 1,
+                "websiteUrl": "mw-kanzlei.de"
+            }
+        ]
+    }
+}

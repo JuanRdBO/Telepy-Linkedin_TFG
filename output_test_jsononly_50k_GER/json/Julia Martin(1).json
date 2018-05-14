@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 22,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1922,
+                "id": 15095825,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "68",
+                            "name": "Ense\u00f1anza superior"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "75005",
+                                "street1": "4 place Jussieu"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Institut de Statistique de l'Universit\u00e9 de Paris - ISUP",
+                "numFollowers": 1476,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Actuariat",
+                        "Biostatistiques",
+                        "Ing\u00e9nierie statistique et Data Science"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "www.isup.upmc.fr"
+            }
+        ]
+    }
+}

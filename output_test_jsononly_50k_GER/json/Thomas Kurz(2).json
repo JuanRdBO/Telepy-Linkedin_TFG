@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 14,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12237871,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Heusenstamm",
+                                "postalCode": "63150",
+                                "street1": "22 Rudolf-Braas-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 61041645"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Kurz GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.sport-kurz.de"
+            }
+        ]
+    }
+}

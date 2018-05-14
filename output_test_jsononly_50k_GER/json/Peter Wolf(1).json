@@ -1,0 +1,60 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 49,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2015,
+                "id": 11259424,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "111",
+                            "name": "Artesan\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Barcelona",
+                                "postalCode": "08023",
+                                "street1": "Barcelona"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Peter & Wolf BCN",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Dise\u00f1o textil",
+                        "Confecci\u00f3n textil",
+                        "Slow Fashion",
+                        "Productos Km. 0"
+                    ]
+                },
+                "websiteUrl": "www.peterandwolfbcn.com"
+            }
+        ]
+    }
+}

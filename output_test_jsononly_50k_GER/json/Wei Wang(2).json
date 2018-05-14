@@ -1,0 +1,107 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 21,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1966,
+                "id": 331697,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "38",
+                            "name": "Bellas Artes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Calgary",
+                                "postalCode": "T2S0B8",
+                                "street1": "Nat Christie Centre"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "403-245-4222"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Calgary",
+                                "postalCode": "T2R 1K7",
+                                "street1": "West Annex, 2nd Floor"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "403-245-2274"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Calgary",
+                                "postalCode": "T2S 0A5",
+                                "street1": "341-17 Ave SW"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "403-245-4549"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Edmonton",
+                                "postalCode": "T6G 2L8",
+                                "street1": "11120 - 82 Avenue NW"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "780-428-6839"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Alberta Ballet",
+                "numFollowers": 1421,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Performing Arts",
+                        "Dance",
+                        "Ballet",
+                        "Touring"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.albertaballet.com"
+            }
+        ]
+    }
+}

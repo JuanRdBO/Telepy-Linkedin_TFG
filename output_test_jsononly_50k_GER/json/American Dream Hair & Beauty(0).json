@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2011,
+                "id": 3082937,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Attleborough,",
+                                "postalCode": "NR17 2AF",
+                                "street1": "Queens Square"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Hair Extensions Norfolk - Rapunzel's Secret",
+                "numFollowers": 283,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Hair Extensions",
+                        "Clip In Extensions",
+                        "Micro Ring Extensions",
+                        "Bonded Hair Extensions"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.hair-extensions-norfolk.co.uk"
+            }
+        ]
+    }
+}

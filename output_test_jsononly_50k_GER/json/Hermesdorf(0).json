@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12223732,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Riedstadt",
+                                "postalCode": "64560",
+                                "street1": "20 R\u00f6merstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6158975097"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hermesdorf K\u00e4lte-Klima-W\u00e4rmepumpen GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.hermesdorf-klima.de"
+            }
+        ]
+    }
+}

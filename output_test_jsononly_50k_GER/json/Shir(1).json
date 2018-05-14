@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 56,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2016,
+                "id": 13640881,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Philippines",
+                                "postalCode": "1709",
+                                "street1": "Manila"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Shir",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Creative Direction",
+                        "Retail & Apparel",
+                        "Streetwear",
+                        "Fashion ",
+                        "Creative Consultancy",
+                        "Art Direction",
+                        "Brand Collaboration"
+                    ]
+                },
+                "websiteUrl": "www.instagram.com/shirclothing"
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 8203778,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "10",
+                            "name": "Servicios jur\u00eddicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Schwandorf",
+                                "postalCode": "92421",
+                                "street1": "20A Klosterstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 943175881"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Frank Simone",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.franksimone.com/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2009,
+                "id": 535991,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "46",
+                            "name": "Gesti\u00f3n de inversiones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20354",
+                                "street1": "Gro\u00dfe Theaterstr. 37 / Colonnaden"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Caldec Holding GmbH",
+                "numFollowers": 33,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "succession planning",
+                        "minority stakes in fast growing companies",
+                        "expansion capital for fast growing companies",
+                        "corporate carve-outs and spin-offs"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.caldec.de"
+            }
+        ]
+    }
+}

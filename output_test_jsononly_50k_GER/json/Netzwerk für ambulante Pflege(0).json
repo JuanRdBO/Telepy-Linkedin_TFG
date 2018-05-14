@@ -1,0 +1,81 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2016,
+                "id": 16171332,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "104",
+                            "name": "Dotaci\u00f3n y selecci\u00f3n de personal"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "F\u00fcrstenwalde",
+                                "postalCode": "15517",
+                                "street1": "Hauptsitz"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (3361) 33 18 316",
+                                "phone1": "+49 (3361) 33 18 315"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "StationBlau UG (haftungsbeschr\u00e4nkt)",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Gesundheits- und Krankenpflege",
+                        "Betreuungs- & Entlastungsleistungen \u00a7 45b SGB XI",
+                        "Leistungen der Pflegeversicherung SGB XI & SGB V",
+                        "Intensivmedizin & -pflege",
+                        "An\u00e4sthesie",
+                        "Beatmungsmedizin",
+                        "Altenpflege"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.stationblau.de"
+            }
+        ]
+    }
+}

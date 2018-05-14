@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2013,
+                "id": 5058842,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "88",
+                            "name": "Servicios para el individuo y la familia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70173",
+                                "street1": "Charlottenplatz 17"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 (0) 711 315 18 190"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "PLAYGROUNDS FOR THE WORLD gemeinn\u00fctzige UG",
+                "numFollowers": 110,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Projectmanagement",
+                        "Fundraising",
+                        "Free Play"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.playgroundsfortheworld.org"
+            }
+        ]
+    }
+}

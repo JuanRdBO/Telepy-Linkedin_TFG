@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 17,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12401213,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "95",
+                            "name": "Naval"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10627",
+                                "street1": "84 Pestalozzistra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3031518600"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Haushaltsservice Evelyn D\u00f6hle",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.doehle-service.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 25,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12501108,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "117",
+                            "name": "Pl\u00e1sticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bechtheim",
+                                "postalCode": "67595",
+                                "street1": "17 Winzerstra\u00dfe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Oliver Schmidt Kunststofftechnik",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.kunststofftechnik-schmidt.de"
+            }
+        ]
+    }
+}

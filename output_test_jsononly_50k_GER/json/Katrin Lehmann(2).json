@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 840,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7355739,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Neustadt in Sachsen",
+                                "postalCode": "01844",
+                                "street1": "69 Dresdner Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "03596509580"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Physiotherapie Katrin Lehmann",
+                "numFollowers": 1,
+                "websiteUrl": "physio-neustadt.de"
+            }
+        ]
+    }
+}

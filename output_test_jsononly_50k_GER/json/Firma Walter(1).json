@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 30,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12263543,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ramstein-Miesenbach",
+                                "postalCode": "66877",
+                                "street1": "7 Wacholderweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6371945454"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Firma Walter Becker",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.firma-walter-becker.de"
+            }
+        ]
+    }
+}

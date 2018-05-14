@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12851088,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ludwigshafen am Rhein",
+                                "postalCode": "67061",
+                                "street1": "147 Mundenheimer Str."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Andreas Heim",
+                "numFollowers": 0,
+                "websiteUrl": "http://andreas-heim.dkv.com"
+            }
+        ]
+    }
+}

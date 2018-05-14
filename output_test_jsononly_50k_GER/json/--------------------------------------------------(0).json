@@ -1,0 +1,378 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 21335394,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "id": 1009,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 31,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Armonk, New York",
+                                "postalCode": "10504",
+                                "street1": "International Business Machines Corp."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10022",
+                                "street1": "590 Madison Ave"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Sandton",
+                                "postalCode": "2196",
+                                "street1": "90 Grayston Dr"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Montevideo",
+                                "postalCode": "11000",
+                                "street1": "Plaza Independencia 721"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Phaya Thai",
+                                "postalCode": "10400",
+                                "street1": "388 Phahon Yothin Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Jakarta Barat",
+                                "postalCode": "11330",
+                                "street1": "Jalan Prof. Dr. Latumenten"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Philadelphia",
+                                "postalCode": "19103",
+                                "street1": "30 S 17th St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Melbourne",
+                                "postalCode": "3006",
+                                "street1": "60 City Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Prague",
+                                "postalCode": "148 00",
+                                "street1": "V Parku 2294/4"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Singapore",
+                                "postalCode": "486048",
+                                "street1": "9 Changi Business Park Central 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Rome",
+                                "postalCode": "00144",
+                                "street1": "Via Sciangai"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "12277",
+                                "street1": "Nahmitzer Damm 12"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Tampa",
+                                "postalCode": "33607",
+                                "street1": "3031 N Rocky Point Dr W"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Petaling Jaya",
+                                "postalCode": "47800",
+                                "street1": "First Avenue"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Helsinki",
+                                "postalCode": "00330",
+                                "street1": "Laajalahdentie 23"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bogota",
+                                "postalCode": "111111",
+                                "street1": "Carrera 53 100-25"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Moscow",
+                                "postalCode": "123112",
+                                "street1": "Presnenskaya naberezhnaya 10"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Dubai",
+                                "street1": "3 Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Chicago",
+                                "postalCode": "60606",
+                                "street1": "71 S Wacker Dr"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "75012",
+                                "street1": "50 Rue de Picpus"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bratislava",
+                                "postalCode": "821 09",
+                                "street1": "Mlynske nivy 16688/49"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Kuwait City",
+                                "street1": "Shuhada'A Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Delhi",
+                                "postalCode": "110070",
+                                "street1": "Vasant Kunj Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Rio de Janeiro",
+                                "postalCode": "22290-240",
+                                "street1": "Avenida Pasteur, 138"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Chalandri",
+                                "postalCode": "152 32",
+                                "street1": "284 Leoforos Kifisias"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Huntsville",
+                                "postalCode": "35824",
+                                "street1": "14212 Cochran Rd SW"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "El Salto",
+                                "postalCode": "45680",
+                                "street1": "Carretera al Castillo"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Madrid",
+                                "postalCode": "28002",
+                                "street1": "Calle de Corazon de Maria, 44"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Brno",
+                                "postalCode": "612 00",
+                                "street1": "Technicka 2995/21"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Southbury",
+                                "postalCode": "06488",
+                                "street1": "150 Kettletown Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Sydney",
+                                "postalCode": "2065",
+                                "street1": "601 Pacific Hwy"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "IBM",
+                "numFollowers": 4272958,
+                "specialties": {
+                    "_total": 17,
+                    "values": [
+                        "Cloud",
+                        "Mobile",
+                        "Cognitive",
+                        "Security",
+                        "Research",
+                        "Watson",
+                        "Analytics",
+                        "Consulting",
+                        "Commerce",
+                        "Experience Design",
+                        "Internet of Things",
+                        "Technology support",
+                        "Industry solutions",
+                        "Systems services",
+                        "IT iinfrastructure",
+                        "Resiliency services",
+                        "Financing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "ibm",
+                "websiteUrl": "http://www.ibm.com"
+            }
+        ]
+    }
+}

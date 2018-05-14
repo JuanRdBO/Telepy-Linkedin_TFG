@@ -1,0 +1,57 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2009,
+                "id": 5012891,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "name": "Physiotherapie Berlin Kreuzberg - Koerperwerkstatt f\u00fcr induktive Physiotherapie",
+                "numFollowers": 34,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Physiotherapie",
+                        "Manuelle Therapie",
+                        "Krankengymnastik am Ger\u00e4t",
+                        "R\u00fcckentraining",
+                        "CMD",
+                        "CRAFTA",
+                        "Maitland",
+                        "Kiefergelenk Therapie",
+                        "Tinnitus Behandlung",
+                        "Elektrotherapie",
+                        "Ultraschall"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.koerperwerkstatt-kreuzberg.de"
+            }
+        ]
+    }
+}

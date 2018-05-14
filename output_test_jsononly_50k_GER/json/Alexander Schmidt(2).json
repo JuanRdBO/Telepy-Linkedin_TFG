@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 18,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7559023,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40589",
+                                "street1": "Am Steinebr\u00fcck 88A"
+                            },
+                            "contactInfo": {
+                                "phone1": "0211746873"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Alexander Schmidt Malerbetrieb",
+                "numFollowers": 0,
+                "websiteUrl": "malermeister-schmidt.de"
+            }
+        ]
+    }
+}

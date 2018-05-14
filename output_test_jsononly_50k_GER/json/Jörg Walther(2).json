@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1979,
+                "id": 2744092,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "N\u00fcrnberg",
+                                "postalCode": "90402",
+                                "street1": "Am Tullnaupark 8"
+                            },
+                            "contactInfo": {
+                                "fax": "091158686818",
+                                "phone1": "09115868680"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kommunikationsagentur Schultze. Walther. Zahel. GmbH",
+                "numFollowers": 41,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Classic",
+                        "Trade",
+                        "Packaging",
+                        "Digital",
+                        "Creative shots",
+                        "Service"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.swz.de"
+            }
+        ]
+    }
+}

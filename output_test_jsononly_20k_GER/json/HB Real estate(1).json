@@ -1,0 +1,116 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 33,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1993,
+                "id": 1388519,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 6,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bratislava",
+                                "postalCode": "821 08",
+                                "street1": "Karad\u017ei\u010dova 12,"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Warsaw",
+                                "postalCode": "02-676",
+                                "street1": "Postepu 14"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Praha",
+                                "postalCode": "186 00",
+                                "street1": "Rohansk\u00e9 n\u00e1b\u0159e\u017e\u00ed 678/25"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Budapest",
+                                "postalCode": "1138",
+                                "street1": "V\u00e1ci \u00fat 144-150"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "EC4R 0DP",
+                                "street1": "5 Martin Lane"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10707",
+                                "street1": "Bleibtreustrasse 34/35"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "HB Reavis",
+                "numFollowers": 5969,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Real Estate Development",
+                        "Property Management",
+                        "Leasing",
+                        "Investment Management",
+                        "Construction"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.hbreavis.com"
+            }
+        ]
+    }
+}

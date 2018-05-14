@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1991,
+                "id": 805303,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "38",
+                            "name": "Bellas Artes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10023",
+                                "street1": "25 Central Park West"
+                            },
+                            "contactInfo": {
+                                "fax": "212.757.8013",
+                                "phone1": "212.757.8012"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Joseph K. Levene Fine Art, Ltd.",
+                "numFollowers": 1538,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Buy/Sell Art",
+                        "Paintings",
+                        "Contemporary Art",
+                        "Andy Warhol Art",
+                        "Jasper Johns Prints",
+                        "Cindy Sherman Photography",
+                        "Thomas Ruff Photography",
+                        "Prints & Multiples",
+                        "Jeff Koons Multiples",
+                        "Blue--Chip Art",
+                        "Cindy Sherman Photography",
+                        "Prints & Multiples",
+                        "Andy Warhol Art"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "jklfa",
+                "websiteUrl": "http://www.josephklevenefineartltd.com/"
+            }
+        ]
+    }
+}

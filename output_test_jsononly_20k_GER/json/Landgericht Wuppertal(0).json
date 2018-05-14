@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7393188,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wuppertal",
+                                "postalCode": "42103",
+                                "street1": "1 Eiland"
+                            },
+                            "contactInfo": {
+                                "phone1": "02024980"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Landgericht Wuppertal",
+                "numFollowers": 30
+            }
+        ]
+    }
+}

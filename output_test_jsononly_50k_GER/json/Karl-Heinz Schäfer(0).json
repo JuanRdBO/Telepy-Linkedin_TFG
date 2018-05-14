@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7355227,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Munster",
+                                "postalCode": "29633",
+                                "street1": "14 Rehrhofer Weg"
+                            },
+                            "contactInfo": {
+                                "phone1": "051923630"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Karl-Heinz Sch\u00e4fer",
+                "numFollowers": 0,
+                "websiteUrl": "schaefer-munster.de"
+            }
+        ]
+    }
+}

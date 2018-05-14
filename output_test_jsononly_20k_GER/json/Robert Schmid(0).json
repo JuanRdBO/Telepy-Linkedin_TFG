@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 5551449,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "14",
+                            "name": "Atenci\u00f3n sanitaria y hospitalaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lubbock",
+                                "postalCode": "79416-4732",
+                                "street1": "4404 6th St"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 8067935577"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Robert Schmid MD",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.lpsitexas.com/"
+            }
+        ]
+    }
+}

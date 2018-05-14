@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 30,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2017,
+                "id": 13284974,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ho Chi Minh",
+                                "postalCode": "70",
+                                "street1": "194/17 T\u00e2n th\u1edbi hi\u1ec7p 22, KP3, P.TTH, Qu\u1eadn 12, HCM "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dien Lanh Thanh Hai Chau",
+                "numFollowers": 4,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "thicongongdongmaylanh",
+                        "ban may lanh",
+                        "lap dat may lanh",
+                        "thi cong ong dong",
+                        "thi cong may lanh",
+                        "thi cong may lanh am tran",
+                        "thi cong may lanh treo tuong",
+                        "thi cong may lanh tu dung",
+                        "ong dong thai lan"
+                    ]
+                },
+                "websiteUrl": "http://maylanhchatluong.vn"
+            }
+        ]
+    }
+}

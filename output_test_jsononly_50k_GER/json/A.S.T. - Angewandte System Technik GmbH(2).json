@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 141836,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1926,
+                "id": 2196,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Chicago",
+                                "postalCode": "60606",
+                                "street1": "A.T. Kearney"
+                            },
+                            "contactInfo": {
+                                "fax": "312 223 6200",
+                                "phone1": "312 648 0111"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "A.T. Kearney",
+                "numFollowers": 157131,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Management Consulting"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "atkearney",
+                "websiteUrl": "http://atkearney.com/"
+            }
+        ]
+    }
+}

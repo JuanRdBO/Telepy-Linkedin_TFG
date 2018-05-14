@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2005,
+                "id": 3782381,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "134",
+                            "name": "Importar y exportar"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Nanjing",
+                                "postalCode": "",
+                                "street1": "Rm. 4207, B Bldg., New World Center, No. 88, Zhujiang Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Nanjing Specialcolor Technology Co., Ltd.",
+                "numFollowers": 53,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Large Format Printer",
+                        "Textile Directly Printing System",
+                        "Printer Spare Parts",
+                        "Printing Inks/Ink Cartridges",
+                        "UV Flatbed Printer",
+                        "Inkjet printer",
+                        "Printing Mateial"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.specialcolor.com/"
+            }
+        ]
+    }
+}

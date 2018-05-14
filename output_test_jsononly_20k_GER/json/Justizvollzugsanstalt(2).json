@@ -1,0 +1,43 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 52,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12712539,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "73",
+                            "name": "Judicial"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wuppertal",
+                                "postalCode": "42369",
+                                "street1": "6 Am Schmalenhof"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 202496360"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Justizvollzugsanstalt Wuppertal-Ronsdorf",
+                "numFollowers": 3
+            }
+        ]
+    }
+}

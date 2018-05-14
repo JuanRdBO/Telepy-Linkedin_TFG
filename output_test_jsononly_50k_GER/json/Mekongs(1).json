@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 13314186,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Luang Prabang",
+                                "street1": "49/3 Sakarine Road, "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Mekong Kingdoms ",
+                "numFollowers": 29,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Cruises",
+                        "River Boats",
+                        "Travel ",
+                        "Luxury Travel",
+                        "Bespoke Travel",
+                        "Adventure Holiday",
+                        "Boat Tours",
+                        "Sunset Cruise",
+                        "Food and Beverage"
+                    ]
+                },
+                "websiteUrl": "http://mekongkingdoms.com/"
+            }
+        ]
+    }
+}

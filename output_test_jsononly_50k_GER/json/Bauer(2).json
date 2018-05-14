@@ -1,0 +1,84 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 2781,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "id": 218315,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "126",
+                            "name": "Producci\u00f3n multimedia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "NW1 7DJ",
+                                "street1": "24-28 Oval Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "WC2H 8JG",
+                                "street1": "Endeavour House"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Peterborough",
+                                "postalCode": "PE2 6",
+                                "street1": "Lynch Wood"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Bauer Media",
+                "numFollowers": 31856,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Publishing",
+                        "Radio",
+                        "TV",
+                        "Digital"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.bauermedia.co.uk"
+            }
+        ]
+    }
+}

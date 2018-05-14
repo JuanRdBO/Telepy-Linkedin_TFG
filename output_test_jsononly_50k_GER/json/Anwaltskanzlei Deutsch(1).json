@@ -1,0 +1,100 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 18,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2000,
+                "id": 3226559,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "10",
+                            "name": "Servicios jur\u00eddicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "14199",
+                                "street1": "Hohenzollerndamm 123"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0)\ufeff 30 318 09 785",
+                                "phone1": "+49 (0)\ufeff 26550904"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Madrid",
+                                "postalCode": "28014",
+                                "street1": "Palacio Marques de Miraflores"
+                            },
+                            "contactInfo": {
+                                "fax": "+34 91 454 7001",
+                                "phone1": "+34 91 454 7012"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Potsdam",
+                                "postalCode": "14469",
+                                "street1": "Voltaireweg 4"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0) 331 900 072",
+                                "phone1": "+49 (0)331 900 071"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "G\u00fclpen & Garay Partnerschaftgesellschaft, Rechtsanw\u00e4lte - Abogados - Fachanw\u00e4lte",
+                "numFollowers": 331,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "International Private Law",
+                        "International Real State",
+                        "International Contract",
+                        "International Transport-Traffic",
+                        "International Tax Law",
+                        "International Family Law",
+                        "International Succession",
+                        "International Company Law",
+                        "International Sport Law",
+                        "International Arbitration"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://guelpen-garay.com"
+            }
+        ]
+    }
+}

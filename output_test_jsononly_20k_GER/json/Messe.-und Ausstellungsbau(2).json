@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 14,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1990,
+                "id": 2842129,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "99",
+                            "name": "Dise\u00f1o"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Schenefeld bei Hamburg",
+                                "postalCode": "22869",
+                                "street1": "Hasselbinnen 9"
+                            },
+                            "contactInfo": {
+                                "fax": "49 (0)40 840516-10",
+                                "phone1": "49 (0)40 840516-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ramont Messe- und Ausstellungsbau GmbH",
+                "numFollowers": 8,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Messebau, Museumsbau",
+                        "Vitrinen, Counter, Stellw\u00e4nde f\u00fcr Veranstaltungen"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ramont.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 554,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1949,
+                "id": 1861881,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "14",
+                            "name": "Atenci\u00f3n sanitaria y hospitalaria"
+                        }
+                    ]
+                },
+                "name": "Medical Center Health System",
+                "numFollowers": 2325,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Medical Center Hospital",
+                        "Medical Center Health System Foundation",
+                        "Center for Health & Wellness",
+                        "Center for Women & Infants",
+                        "Family Health Clinic",
+                        "MCH Sleep Center",
+                        "Permian Basin Healthcare Network",
+                        "ProCare",
+                        "Texas Tech Health Sciences Center"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.mchodessa.com"
+            }
+        ]
+    }
+}

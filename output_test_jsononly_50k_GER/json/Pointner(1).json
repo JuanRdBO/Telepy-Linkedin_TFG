@@ -1,0 +1,40 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 22233006,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "138",
+                            "name": "Material y equipo de negocios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "postalCode": "B18 6EW",
+                                "street1": "69 GREAT HAMPTON STREET BIRMINGHAM"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "POINTNER FINANZ LIMITED",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

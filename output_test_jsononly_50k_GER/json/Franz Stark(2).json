@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12790287,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Efringen-Kirchen",
+                                "postalCode": "79588",
+                                "street1": "34 Beim Breitenstein"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7628434"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "HOLZBAU KREBS STARK",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.holzbau-krebs.de"
+            }
+        ]
+    }
+}

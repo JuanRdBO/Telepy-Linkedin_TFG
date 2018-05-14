@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7352085,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bochum",
+                                "postalCode": "44805",
+                                "street1": "377 Castroper Hellweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "0234862624"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "J\u00fcrgen Hofmann GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "kfzhofmann.de"
+            }
+        ]
+    }
+}

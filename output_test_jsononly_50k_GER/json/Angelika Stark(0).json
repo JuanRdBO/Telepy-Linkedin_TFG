@@ -1,0 +1,46 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 3891936,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10107-0600",
+                                "street1": "250 W 57th St # 606"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 2122659119"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Artistic License Films",
+                "numFollowers": 14,
+                "websiteUrl": "http://www.artlic.com"
+            }
+        ]
+    }
+}

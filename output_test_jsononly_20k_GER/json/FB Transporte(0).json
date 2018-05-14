@@ -1,0 +1,97 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2000,
+                "id": 5399010,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Campinas",
+                                "postalCode": "13098-322",
+                                "street1": "Rua Guapuruvu, 377 - Sala 03 - Alphaville"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(19) 3397-4921"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Fortaleza",
+                                "postalCode": "60160196",
+                                "street1": "Av Dom Lu\u00eds 880 sala 506"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+55 85 3133.1656"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Campo Grande",
+                                "postalCode": "",
+                                "street1": "Rua Torquato Neto, 179"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+55 19 9 9933.1727"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "FB CONSULTORIA EMPRESARIAL",
+                "numFollowers": 300,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Desenvolvimento e implementa\u00e7\u00e3o de sistemas de gerenciamento de SSMA",
+                        "Treinamentos Dire\u00e7\u00e3o Defensiva",
+                        "Elabora\u00e7\u00e3o de procedimentos e manuais",
+                        "Fiscaliza\u00e7\u00e3o de Rota (Motorista Invis\u00edvel)",
+                        "Gest\u00e3o de Riscos",
+                        "Consultoria e Projetos",
+                        "Consultoria em Seguros"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.fbconsultoria.com.br"
+            }
+        ]
+    }
+}

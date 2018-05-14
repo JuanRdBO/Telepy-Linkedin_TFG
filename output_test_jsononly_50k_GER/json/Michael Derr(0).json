@@ -1,0 +1,61 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2018,
+                "id": 11395814,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "14",
+                            "name": "Atenci\u00f3n sanitaria y hospitalaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Franklin",
+                                "street1": "4323 Carothers Pkwy"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bone and Joint Institute of Tennessee",
+                "numFollowers": 103,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Orthopedics",
+                        "Sports Medicine",
+                        "Orthopedic Surgery",
+                        "Orthopaedics",
+                        "Orthopaedic Surgery",
+                        "Bone and Joint Pain",
+                        "Joint Pain",
+                        "Surgery"
+                    ]
+                },
+                "websiteUrl": "boneandjointtn.org"
+            }
+        ]
+    }
+}

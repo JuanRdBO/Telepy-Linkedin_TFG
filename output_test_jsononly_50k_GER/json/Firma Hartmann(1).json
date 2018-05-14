@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12565730,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bastheim",
+                                "postalCode": "97654",
+                                "street1": "4 M\u00fchltor"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 9773327"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hartmann-Reisen",
+                "numFollowers": 4,
+                "websiteUrl": "http://www.hartmann-bastheim.de"
+            }
+        ]
+    }
+}

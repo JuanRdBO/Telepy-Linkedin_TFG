@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12236538,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kassel, Hessen",
+                                "postalCode": "34123",
+                                "street1": "168 N\u00fcrnberger Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 561573626"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Praxis Voigtmann",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.praxis-voigtmann.de"
+            }
+        ]
+    }
+}

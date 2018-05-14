@@ -1,0 +1,32 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 22781838,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ixelles",
+                                "postalCode": "1050",
+                                "street1": "38 Rue Georges Lorand"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Roth, Andreas",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

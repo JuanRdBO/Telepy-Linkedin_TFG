@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12884790,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rothenburg ob der Tauber",
+                                "postalCode": "91541",
+                                "street1": "35 R\u00f6dergasse"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rolf Hoffmann Steuerberater",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.steuerkanzlei-rolf-hoffmann.de"
+            }
+        ]
+    }
+}

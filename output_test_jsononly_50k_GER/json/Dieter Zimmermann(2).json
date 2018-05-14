@@ -1,0 +1,51 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2017,
+                "id": 11535626,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "107",
+                            "name": "Organizaci\u00f3n pol\u00edtica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Cologne",
+                                "postalCode": "50668",
+                                "street1": "Ebertplatz 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Deutscher KI-Verband e.V.",
+                "numFollowers": 19,
+                "websiteUrl": "http://ki-verband.de/"
+            }
+        ]
+    }
+}

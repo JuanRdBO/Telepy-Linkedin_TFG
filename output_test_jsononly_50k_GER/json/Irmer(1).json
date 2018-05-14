@@ -1,0 +1,53 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 17,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1991,
+                "id": 2765542,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "name": "Irm\u00e9r Media AB",
+                "numFollowers": 10,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Annonsf\u00f6rs\u00e4ljning",
+                        "Grafisk profil",
+                        "Trycksaker",
+                        "Tidningsproduktion",
+                        "Annonsbyr\u00e5",
+                        "Reklambyr\u00e5",
+                        "Hemsidor"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.irmermedia.com"
+            }
+        ]
+    }
+}

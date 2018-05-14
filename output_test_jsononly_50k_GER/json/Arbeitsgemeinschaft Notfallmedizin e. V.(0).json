@@ -1,0 +1,46 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 8940964,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "13",
+                            "name": "Profesiones m\u00e9dicas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "H\u00f6velhof",
+                                "postalCode": "33161",
+                                "street1": "Zieglerstr. 1A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 52579341"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Arbeitsgemeinschaft Notfallmedizin e.V.",
+                "numFollowers": 8,
+                "websiteUrl": "http://www.agnf.org/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 21,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "foundedYear": 1999,
+                "id": 18359784,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "MALATYA",
+                                "postalCode": "44900",
+                                "street1": "1.OSB 2. CAD NO:43"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ALTUNTA\u015e MACH\u0130NERY",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "MACH\u0130NERY",
+                        "BAKERY",
+                        "MECHAN\u0130C",
+                        "INDUSTR\u0130AL",
+                        "MAK\u0130NE M\u00dcHEND\u0130SL\u0130K"
+                    ]
+                },
+                "websiteUrl": "http://altuntasmakina.com.tr/"
+            }
+        ]
+    }
+}

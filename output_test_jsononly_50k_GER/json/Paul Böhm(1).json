@@ -1,0 +1,76 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1974,
+                "id": 1052555,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Nuenen",
+                                "postalCode": "5674 TE",
+                                "street1": "Gulberg 23-25"
+                            },
+                            "contactInfo": {
+                                "fax": "+31(0)40 2838855",
+                                "phone1": "+31(0)40 2831706"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Vahle Nederland B.V.",
+                "numFollowers": 42,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "open/ongeisoleerde koperkoprail",
+                        "geisoleerde stroomrail",
+                        "compact sleepleiding",
+                        "kokersleepleiding",
+                        "contactloze energieoverdracht CPS",
+                        "dataoverdracht Powercom",
+                        "absoluut positionering APOS",
+                        "kabelwagensystemen",
+                        "veer-en motorkabeltrommels",
+                        "batterijlaadcontacten",
+                        "E-RTG",
+                        "Inspectie"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.vahle.nl"
+            }
+        ]
+    }
+}

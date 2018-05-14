@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2008,
+                "id": 5398067,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Flensburg",
+                                "postalCode": "24943",
+                                "street1": "Kanzleistr. 91-93"
+                            },
+                            "contactInfo": {
+                                "fax": "+49461889954049",
+                                "phone1": "+494618051990"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "CMF - Campus Marketing Flensburg e. V.",
+                "numFollowers": 5,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "CampusBowl",
+                        "CampusLeague",
+                        "CampusWear",
+                        "Klausurenabschlusspartys",
+                        "Events",
+                        "CampusViewing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.cmf-ev.de"
+            }
+        ]
+    }
+}

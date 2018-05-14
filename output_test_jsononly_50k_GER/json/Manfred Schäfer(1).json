@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12865637,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Duderstadt",
+                                "postalCode": "37115",
+                                "street1": "20 Im Tale"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Natursteinwerk Manfred Sch\u00e4fer GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.natursteinwerk-schaefer.de"
+            }
+        ]
+    }
+}

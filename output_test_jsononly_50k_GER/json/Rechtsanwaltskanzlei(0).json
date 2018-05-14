@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 1142,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2005,
+                "id": 1978918,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "name": "Rechtsanwaltskanzlei",
+                "numFollowers": 1096,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Ehe- und Familienrecht, Scheidungen, Obsorge",
+                        "Aufhebung von Lebensgemeinschaften",
+                        "Allgemeines Vertragsrecht",
+                        "Immobilien- Bau und Liegenschaftsrecht"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.torgersen.at"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12456434,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Aschersleben",
+                                "postalCode": "06449",
+                                "street1": "48 Heinrich-Heine-Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3473939511"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gastst\u00e4tte Stadion Der Eisenbahner",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.gaststaette-stadion-der-eisenbahner.de"
+            }
+        ]
+    }
+}

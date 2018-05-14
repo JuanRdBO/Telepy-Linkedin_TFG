@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7534619,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Fellbach",
+                                "postalCode": "70736",
+                                "street1": "17/48 H\u00f6henstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "07115284621"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wolf Johann GmbH & Co.",
+                "numFollowers": 1,
+                "websiteUrl": "wolfhaus.de"
+            }
+        ]
+    }
+}

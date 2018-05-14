@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1969,
+                "id": 6302443,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "95",
+                            "name": "Naval"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Palma de Mallorca",
+                                "postalCode": "07015",
+                                "street1": "Muelle Pelaires s/n"
+                            },
+                            "contactInfo": {
+                                "fax": "+34 971 70 16 58",
+                                "phone1": "+34 971 70 82 48"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Duesseldorf",
+                                "postalCode": "40212",
+                                "street1": "Koenigsallee 14"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 211 13866 523",
+                                "phone1": "+49 211 13866 520 / 21 / 22"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "dahm international Spain S.L.",
+                "numFollowers": 31,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Yacht  Brokerage",
+                        "Yacht Charter",
+                        "Yacht Management",
+                        "New Built"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.dahm-international.com/en/"
+            }
+        ]
+    }
+}

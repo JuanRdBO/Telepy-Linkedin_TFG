@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7519259,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Schnaittenbach",
+                                "postalCode": "92253",
+                                "street1": "Hermann-Dorfner-Stra\u00dfe 17B"
+                            },
+                            "contactInfo": {
+                                "phone1": "096222493"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Georg Wols P\u00e4chter Werner Busch",
+                "numFollowers": 0,
+                "websiteUrl": "elektro-wols.de"
+            }
+        ]
+    }
+}

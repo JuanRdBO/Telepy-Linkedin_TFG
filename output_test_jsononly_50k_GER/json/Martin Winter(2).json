@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 34,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1936,
+                "id": 346870,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "20",
+                            "name": "Art\u00edculos deportivos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hestra",
+                                "postalCode": "33027",
+                                "street1": "\u00c4sp\u00e5sv\u00e4gen 5"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+46 370 33 97 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Golden",
+                                "postalCode": "80401",
+                                "street1": "600 Corporate Circle"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "303-384-9969"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Hestra Gloves",
+                "numFollowers": 1699,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Gloves"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://hestragloves.com/"
+            }
+        ]
+    }
+}

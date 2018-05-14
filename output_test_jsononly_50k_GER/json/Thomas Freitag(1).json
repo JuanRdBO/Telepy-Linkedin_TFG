@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1975,
+                "id": 27133367,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "94",
+                            "name": "Aeron\u00e1utica/Aviaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "V\u00e4xj\u00f6",
+                                "postalCode": "352 50",
+                                "street1": "Flygplatsv\u00e4gen 2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "V\u00e4xj\u00f6 Sm\u00e5land Airport",
+                "numFollowers": 142,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Charter Operators",
+                        "Low cost airlines",
+                        "Traditional Airlines"
+                    ]
+                },
+                "websiteUrl": "www.smalandairport.se"
+            }
+        ]
+    }
+}

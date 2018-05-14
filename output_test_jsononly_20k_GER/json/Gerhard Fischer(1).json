@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12798641,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Karlsruhe Durlach",
+                                "postalCode": "76227",
+                                "street1": "16 Blumentorstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7219414860"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Gerhard Fischer",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.fischer-zahnarzt.de"
+            }
+        ]
+    }
+}

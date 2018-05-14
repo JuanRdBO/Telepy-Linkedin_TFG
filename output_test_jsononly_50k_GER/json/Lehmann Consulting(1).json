@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 18,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2003,
+                "id": 6616659,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ventura",
+                                "postalCode": "93001",
+                                "street1": "1589 Santa Barbara St."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "805-628-2181"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Lehmann & Partner International",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "International Business Consulting",
+                        "Europe - USA",
+                        "M&A",
+                        "Business Development"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.lpi-consulting.com"
+            }
+        ]
+    }
+}

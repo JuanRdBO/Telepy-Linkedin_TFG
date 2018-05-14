@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12474210,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Augsburg",
+                                "postalCode": "86150",
+                                "street1": "45 Rosenaustra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 821544132"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Grafikb\u00fcro Horst M\u00fcller",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.grafikmueller.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 27,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 23337309,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "64",
+                            "name": "Ganader\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "KAUTOKEINO",
+                                "postalCode": "9520",
+                                "street1": "Sarriluodda 31"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "SARA HENRIK ANDERSEN",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

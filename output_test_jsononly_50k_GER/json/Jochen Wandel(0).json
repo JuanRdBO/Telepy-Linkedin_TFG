@@ -1,0 +1,96 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1998,
+                "id": 53932,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": "50823",
+                                "street1": "Vogelsanger Str. 66"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10999",
+                                "street1": "Reichenberger Stra\u00dfe 124"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80797",
+                                "street1": "Infanteriestr. 11"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "denkwerk",
+                "numFollowers": 1205,
+                "specialties": {
+                    "_total": 17,
+                    "values": [
+                        "Research",
+                        "Platforms",
+                        "App Development",
+                        "Digital Media",
+                        "Analytics",
+                        "Social Media",
+                        "Experience Design",
+                        "Service Design",
+                        "Social Media",
+                        "Content Strategy",
+                        "Community Management",
+                        "Kampagnen",
+                        "SEO",
+                        "E-Commerce",
+                        "Content Management",
+                        "Web Development",
+                        "Software Development"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "denkwerk",
+                "websiteUrl": "http://denkwerk.com"
+            }
+        ]
+    }
+}

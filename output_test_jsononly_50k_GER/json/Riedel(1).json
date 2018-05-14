@@ -1,0 +1,56 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 420,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1756,
+                "id": 1033537,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "145",
+                            "name": "Cristal, cer\u00e1mica y hormig\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Edison",
+                                "postalCode": "08837",
+                                "street1": "95 Mayfield Ave"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Riedel Crystal of America",
+                "numFollowers": 1443,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "http://twitter.com/RiedelUSA",
+                "websiteUrl": "www.riedel.com"
+            }
+        ]
+    }
+}

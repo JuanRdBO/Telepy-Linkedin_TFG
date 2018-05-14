@@ -1,0 +1,51 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 41,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2017,
+                "id": 13640437,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "94",
+                            "name": "Aeron\u00e1utica/Aviaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dublin",
+                                "postalCode": "H104",
+                                "street1": "Malti Tower"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Aer Lingus",
+                "numFollowers": 204,
+                "websiteUrl": "https://aer-lingus.wixsite.com/free-voucher"
+            }
+        ]
+    }
+}

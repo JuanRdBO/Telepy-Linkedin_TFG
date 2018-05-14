@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 39,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1970,
+                "id": 580212,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "135",
+                            "name": "Ingenier\u00eda industrial o mec\u00e1nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "St. Charles",
+                                "postalCode": "60174",
+                                "street1": "445 Kautz Road"
+                            },
+                            "contactInfo": {
+                                "fax": "1-630-377-6657",
+                                "phone1": "1-800-777-2926"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Metzingen",
+                                "postalCode": "D-72555",
+                                "street1": "Ulmer Str. 128"
+                            },
+                            "contactInfo": {
+                                "fax": "49-7123-962-444",
+                                "phone1": "49-7123-962-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Lechler Inc.",
+                "numFollowers": 794,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Industrial Spray Nozzles",
+                        "AIr Pollution Control",
+                        "Engineering Solutions"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.lechlerusa.com"
+            }
+        ]
+    }
+}

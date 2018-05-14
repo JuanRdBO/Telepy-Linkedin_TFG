@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7390273,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Calw",
+                                "postalCode": "75365",
+                                "street1": "4 Georg-Baumann-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "070512418"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Herr Eberhard Bauer",
+                "numFollowers": 0,
+                "websiteUrl": "hausarzt-calw.de"
+            }
+        ]
+    }
+}

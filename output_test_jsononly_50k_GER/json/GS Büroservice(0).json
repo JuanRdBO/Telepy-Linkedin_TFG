@@ -1,0 +1,49 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1995,
+                "id": 18093100,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "138",
+                            "name": "Material y equipo de negocios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Erfurt",
+                                "postalCode": "99092",
+                                "street1": "Blumenstr. 70, Haus 2 "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "AS team B\u00fcrokonzept GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "https://as-team-erfurt.de"
+            }
+        ]
+    }
+}

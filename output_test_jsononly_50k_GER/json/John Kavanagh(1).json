@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 16910310,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "138",
+                            "name": "Material y equipo de negocios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "LANCASHIRE",
+                                "postalCode": "OL13 8GB",
+                                "street1": "26 DEERPLAY DRIVE"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "JOHN KAVANAGH LIMITED",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

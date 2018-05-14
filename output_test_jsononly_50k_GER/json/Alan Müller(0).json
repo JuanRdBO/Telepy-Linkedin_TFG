@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2001,
+                "id": 5088719,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "istanbul",
+                                "postalCode": "34840",
+                                "street1": "Mektep Cad. No : 36/B K\u00fc\u00e7\u00fckyal\u0131"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "istanbul",
+                                "postalCode": "34158",
+                                "street1": "\u0130stanbul Cad. No : 15/A Bak\u0131rk\u00f6y"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "\u0130kinci El Kol Saati Alan Yerler / 05327017803",
+                "numFollowers": 33,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "ikinci el saat alan yerler",
+                        "ikinci el rolex saat alan yerler",
+                        "ikinci el kol saati al\u0131m sat\u0131m",
+                        "ikinci el omega saat alanlar",
+                        "2.el audemars piguet saat alan yerler",
+                        "ikinci el vacheron constantin saat alanlar",
+                        "yeni maurice lacroix saat alan saat\u00e7iler",
+                        "ikinci el bretling saat al\u0131n\u0131r sat\u0131l\u0131r",
+                        "sertifikal\u0131 franck muller saat nas\u0131l satar\u0131m",
+                        "ikinci el rolex saat alan yerler",
+                        " 2.el chopard marka saat kimler al\u0131r"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.ikincielsaatalanyer.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2012,
+                "id": 18244778,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "88",
+                            "name": "Servicios para el individuo y la familia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10967",
+                                "street1": "Grimmstra\u00dfe 12c"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "DEUTSCHLAND RUNDET AUF",
+                "numFollowers": 12,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Vergabe von F\u00f6rdergeldern",
+                        "Corporate Social Responsibility",
+                        "Mikrospenden",
+                        "Wirkungsorientierung",
+                        "Innovative Spendenmodelle"
+                    ]
+                },
+                "websiteUrl": "www.deutschland-rundet-auf.de"
+            }
+        ]
+    }
+}

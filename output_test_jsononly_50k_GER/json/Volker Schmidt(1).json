@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 13,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12840385,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Drei Gleichen",
+                                "postalCode": "99869",
+                                "street1": "6 Hauptstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 36202799000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Volker Schmidt Verbundenheitstraining",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.verbundenheitstraining.de"
+            }
+        ]
+    }
+}

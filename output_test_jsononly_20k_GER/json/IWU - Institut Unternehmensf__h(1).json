@@ -1,0 +1,60 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 16,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "id": 21227,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "68",
+                            "name": "Ense\u00f1anza superior"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bloomington",
+                                "postalCode": "61701",
+                                "street1": "1312 Park St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Illinois Wesleyan University",
+                "numFollowers": 15899,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "small private liberal arts undegraduate institution"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "www.iwu.edu"
+            }
+        ]
+    }
+}

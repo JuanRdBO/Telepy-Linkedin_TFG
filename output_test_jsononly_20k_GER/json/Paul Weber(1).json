@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 21,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12462408,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Homburg",
+                                "postalCode": "66424",
+                                "street1": "6 Karlstra\u00dfe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Paul-Weber-Schule",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.bbz-homburg.de"
+            }
+        ]
+    }
+}

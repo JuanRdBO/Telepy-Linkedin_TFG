@@ -1,0 +1,110 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 41,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2012,
+                "id": 3151380,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "32",
+                            "name": "Restaurantes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Praha 1",
+                                "postalCode": "101 00",
+                                "street1": "Na Florenci 15"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+420 773 699 958"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Praha",
+                                "postalCode": "19800",
+                                "street1": "Chlumeck\u00e1 6"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+420 774 444 993"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Praha 6",
+                                "postalCode": "16108",
+                                "street1": "Leti\u0161t\u011b V\u00e1clava Havla - Aviatick\u00e1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "773699975"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Praha 6",
+                                "postalCode": "16108",
+                                "street1": "Leti\u0161t\u011b V\u00e1clava Havla - Aviatick\u00e1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "773699978"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Ranchero Food s.r.o.",
+                "numFollowers": 32,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.rancheros.cz"
+            }
+        ]
+    }
+}

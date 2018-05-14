@@ -1,0 +1,89 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 60,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2006,
+                "id": 884492,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "128",
+                            "name": "Bienes inmuebles comerciales"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "L\u00fcleburgaz",
+                                "postalCode": "39750",
+                                "street1": "Y\u0131lmaz mahallesi Edirne caddesi no:22/A "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "K\u0131rklareli",
+                                "postalCode": "39750",
+                                "street1": "www.gulergayrimenkul.com"
+                            },
+                            "contactInfo": {
+                                "fax": "02884172990",
+                                "phone1": "902884171401"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "L\u00dcLEBURGAZ G\u00dcLER EMLAK OF\u0130S\u0130",
+                "numFollowers": 180,
+                "specialties": {
+                    "_total": 16,
+                    "values": [
+                        "T\u00fcrkiye",
+                        "K\u0131rklareli",
+                        "L\u00fcleburgaz",
+                        "Sat\u0131l\u0131k",
+                        "Emlak",
+                        "Tarla",
+                        "\u00c7iftlik",
+                        "Arsa",
+                        "Arazi",
+                        "Daire",
+                        "Ev",
+                        "Konut",
+                        "\u00c7iftlik arazisi",
+                        "Fabrika",
+                        "Sanayi imarl\u0131 arsa",
+                        "Kiral\u0131k "
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "http://www.gulergayrimenkul.com"
+            }
+        ]
+    }
+}

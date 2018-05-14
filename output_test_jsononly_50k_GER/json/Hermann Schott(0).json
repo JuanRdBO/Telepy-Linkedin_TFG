@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1993,
+                "id": 1644556,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10623",
+                                "street1": "c/o TU Berlin EB 512"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+493034703880"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "CCT - Company Consulting Team e. V.",
+                "numFollowers": 202,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Marketing",
+                        "System- und Prozessanalysen",
+                        "IT",
+                        "Strategieberatungen",
+                        "Marktstudien"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "CCT_Berlin",
+                "websiteUrl": "www.cct-ev.de"
+            }
+        ]
+    }
+}

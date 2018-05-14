@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12477164,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Zossen",
+                                "postalCode": "15806",
+                                "street1": "Dorfstra\u00dfe 47A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3373115233"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Tischlerei Degner",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.degner-tischlerei.de"
+            }
+        ]
+    }
+}

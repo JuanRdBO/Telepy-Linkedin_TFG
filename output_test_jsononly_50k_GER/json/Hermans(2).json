@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 894,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1991,
+                "id": 650351,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "10",
+                            "name": "Servicios jur\u00eddicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Utrecht",
+                                "postalCode": "3522 HA",
+                                "street1": "Jutfaseweg 1"
+                            },
+                            "contactInfo": {
+                                "fax": "0302336677",
+                                "phone1": "0302336699"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hermans & Schuttevaer Notarissen N.V.",
+                "numFollowers": 309,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Ondernemingsrecht (profit en non-profit)",
+                        "Familierecht",
+                        "Commercieel vastgoed",
+                        "Particulier vastgoed",
+                        "Estate Planning",
+                        "Mediation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.herschut.nl"
+            }
+        ]
+    }
+}

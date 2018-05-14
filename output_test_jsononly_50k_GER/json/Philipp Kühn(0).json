@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7500772,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Laumersheim",
+                                "postalCode": "67229",
+                                "street1": "20 Gro\u00dfkarlbacher Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "06238656"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Philipp Kuhn",
+                "numFollowers": 2,
+                "websiteUrl": "weingut-philipp-kuhn.de"
+            }
+        ]
+    }
+}

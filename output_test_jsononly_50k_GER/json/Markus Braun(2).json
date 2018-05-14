@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12847105,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Saarbr\u00fccken",
+                                "postalCode": "66111",
+                                "street1": "14 Viktoriastr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 68133790"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Optik Braun By Markus",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.bymarkus.de"
+            }
+        ]
+    }
+}

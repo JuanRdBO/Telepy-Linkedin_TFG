@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12288710,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "142",
+                            "name": "Vino y licor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Neumagen-Dhron",
+                                "postalCode": "54347",
+                                "street1": "1 Br\u00fcckenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 65075317"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Weingut Stephan Kohl",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.weingut-stephan-kohl.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 16,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1999,
+                "id": 784507,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 9,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "N\u00fcrnberg",
+                                "postalCode": "90489",
+                                "street1": "\u00c4u\u00dfere Cramer-Klett-Stra\u00dfe 21"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20095",
+                                "street1": "Ballindamm 3"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10178",
+                                "street1": "Litfa\u00dfplatz 2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bonn",
+                                "postalCode": "53227",
+                                "street1": "Joseph-Schumpeter-Allee 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Eschborn",
+                                "postalCode": "65760",
+                                "street1": "D\u00fcsseldorfer Stra\u00dfe 13"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80636",
+                                "street1": "Erika-Mann-Str. 55"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Wien",
+                                "postalCode": "1010",
+                                "street1": "Schottenring 12"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Kosice",
+                                "postalCode": "040 01 ",
+                                "street1": "St\u00farova 27"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70173",
+                                "street1": "K\u00f6nigstra\u00dfe 1A"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Senacor Technologies",
+                "numFollowers": 1359,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "IT Consulting",
+                        "Technologien",
+                        "IT Transformation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.senacor.com"
+            }
+        ]
+    }
+}

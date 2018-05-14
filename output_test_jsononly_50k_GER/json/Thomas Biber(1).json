@@ -1,0 +1,92 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2006,
+                "id": 9419398,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "104",
+                            "name": "Dotaci\u00f3n y selecci\u00f3n de personal"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": "50933",
+                                "street1": "Stolberger Stra\u00dfe 313"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Wollerau",
+                                "postalCode": " CH-8832 ",
+                                "street1": "Sihleggstr. 23"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Thomas Biber Deutschland GmbH",
+                "numFollowers": 46,
+                "specialties": {
+                    "_total": 21,
+                    "values": [
+                        "SAP ",
+                        "SAP MM",
+                        "SAP FIORI",
+                        "SAP HANA",
+                        "SAP BI /BO",
+                        "IS-U",
+                        "SAP BW",
+                        "SAP HCM / PT/ PY/ Talentmanager",
+                        "SAP SD",
+                        "SAP FI/CO",
+                        "SAP CRM",
+                        "SAP Basis",
+                        "ABAP /4",
+                        "XI /PI/ PO",
+                        "Salesforce",
+                        "SAP PP/ PI",
+                        "SAP QM",
+                        "SAP WM",
+                        "SAP GTS",
+                        "SAP Security /CGR/ GRC",
+                        "SAP PLM"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.biber-associates.de/"
+            }
+        ]
+    }
+}

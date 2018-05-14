@@ -1,0 +1,121 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 592,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1945,
+                "id": 9420021,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "116",
+                            "name": "Log\u00edstica y cadena de suministro"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Germaringen",
+                                "postalCode": "87656",
+                                "street1": "Carl-Benz-Stra\u00dfe 8"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 8341 660015",
+                                "phone1": "+49 8341 66000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20539",
+                                "street1": "Peutestra\u00dfe 61-63"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 40 7885160",
+                                "phone1": "+49 40 788510"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Kaiserslautern",
+                                "postalCode": "67661",
+                                "street1": "Prof.-Dietrich-Str. 10"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 631 5355116",
+                                "phone1": "+49 631 535510"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Frankfurt",
+                                "postalCode": "60549",
+                                "street1": "Cargo City S\u00fcd"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 69 130206922",
+                                "phone1": "+49 69 13020690"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Mannheim",
+                                "postalCode": "68219",
+                                "street1": "Bochumer Str. 8"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 621 8044015",
+                                "phone1": "+49 621 804400"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Karl Heinz Dietrich GmbH & Co. KG",
+                "numFollowers": 128,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Kontraktlogistik",
+                        "Luftfracht",
+                        "LKW-Verkehre",
+                        "Seefracht",
+                        "Lagerlogistik"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.dietrich-logistic.com"
+            }
+        ]
+    }
+}

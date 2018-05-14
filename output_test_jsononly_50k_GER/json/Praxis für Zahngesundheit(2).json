@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 15,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7415731,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Freudenberg",
+                                "postalCode": "57258",
+                                "street1": "5 Lohm\u00fchle 3 -"
+                            },
+                            "contactInfo": {
+                                "phone1": "027343770"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Praxis F\u00fcr Zahngesundheit Dr. Nolting",
+                "numFollowers": 0,
+                "websiteUrl": "drnolting.de"
+            }
+        ]
+    }
+}

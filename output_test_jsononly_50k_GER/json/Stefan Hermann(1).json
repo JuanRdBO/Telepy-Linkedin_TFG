@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 2005,
+                "id": 8846587,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "32",
+                            "name": "Restaurantes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60549",
+                                "street1": "FAC1, Hugo Eckener Ring"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 69500726-99",
+                                "phone1": "+49 6965007260"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "casualfood gmbh",
+                "numFollowers": 53,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Fast casual food",
+                        "restaurant",
+                        "bar",
+                        "convenience",
+                        "food",
+                        "drinks",
+                        "take away",
+                        "travelfood ",
+                        "shop",
+                        "convenience shop",
+                        "Reisegstronomie"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.casualfood.de"
+            }
+        ]
+    }
+}

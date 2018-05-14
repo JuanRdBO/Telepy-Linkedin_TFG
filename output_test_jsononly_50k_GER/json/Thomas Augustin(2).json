@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1974,
+                "id": 3203488,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "26",
+                            "name": "Mobiliario"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "COUZEIX",
+                                "postalCode": "87270",
+                                "street1": "PA Ocealim"
+                            },
+                            "contactInfo": {
+                                "fax": "0555060605",
+                                "phone1": "0555064070"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "MAVILLE AGENCEMENT",
+                "numFollowers": 75,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "MAVILLE Agencement HOTELLERIE",
+                        "MAVILLE Agencement COMMERCES / ENSEIGNES",
+                        "MAVILLE Agencement ESPACES COLLECTIVITES",
+                        "MAVILLE Agencement Etablissements m\u00e9dico sociaux"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "maville-agencement.com"
+            }
+        ]
+    }
+}

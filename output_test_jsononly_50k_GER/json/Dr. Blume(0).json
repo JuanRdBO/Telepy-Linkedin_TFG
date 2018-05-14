@@ -1,0 +1,64 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2010,
+                "id": 3600536,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "13",
+                            "name": "Profesiones m\u00e9dicas"
+                        }
+                    ]
+                },
+                "name": "The Blume Skin Centre",
+                "numFollowers": 65,
+                "specialties": {
+                    "_total": 18,
+                    "values": [
+                        "Botox",
+                        "IPL Photofacial",
+                        "Juvederm",
+                        "VI Peel",
+                        "Facials",
+                        "Aesthetics",
+                        "Lasers",
+                        "Laser Hair Removal",
+                        "Ulthera",
+                        "Venus Freeze",
+                        "CoolSculpting",
+                        "Latisse",
+                        "Skin Medica",
+                        "Epionce",
+                        "Glo Minerals",
+                        "Elta MD",
+                        "Microneedling",
+                        "Chemical Peels"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://blumeskintreatment.com/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 95,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 27855419,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "MUMBAI",
+                                "postalCode": "400022",
+                                "street1": "1/96-C MOTIBAUGSION MATUNGA ROAD SION"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "C SEN INVESTYMENTS PRIVATE LTD",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

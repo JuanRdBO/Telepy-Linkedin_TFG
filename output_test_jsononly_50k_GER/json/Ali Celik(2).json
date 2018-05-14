@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1983,
+                "id": 28625999,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mal\u0131k\u00f6y Ba\u015fkent OSB",
+                                "postalCode": "06909",
+                                "street1": "Recep Tayyip Erdo\u011fan Bulvar\u0131"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "SWS Meri\u00e7 Grup \u00c7elik \u0130skele",
+                "numFollowers": 13,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "iskele",
+                        "in\u015faat",
+                        "end\u00fcstriyel tesisler",
+                        "Bak\u0131m",
+                        "iskele kiralama",
+                        "iskele kurulum",
+                        "iskele s\u00fcperviz\u00f6rl\u00fck",
+                        "iskele e\u011fitimi",
+                        "g\u00fcvenli iskele",
+                        "construction"
+                    ]
+                },
+                "websiteUrl": "www.meric-grup.com"
+            }
+        ]
+    }
+}

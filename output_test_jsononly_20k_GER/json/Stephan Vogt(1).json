@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12812207,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad Schwartau",
+                                "postalCode": "23611",
+                                "street1": "80 Kaltenh\u00f6fer Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 4514792344"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "SANIERUNG Stephan Vogt",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.altbau-sanierung-vogt.de"
+            }
+        ]
+    }
+}

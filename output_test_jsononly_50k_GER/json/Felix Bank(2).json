@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2015,
+                "id": 27109806,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Baar",
+                                "postalCode": "6340 ",
+                                "street1": "Oberneuhofstrasse 3"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Felix Zulauf, Zulauf Consulting",
+                "numFollowers": 74,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "global macro economics",
+                        "independant research",
+                        "political strategy",
+                        "global interest rates",
+                        "geopolitics",
+                        "foreign exchange",
+                        "commodities",
+                        "asset allocation",
+                        "cycles",
+                        "gold",
+                        "consulting"
+                    ]
+                },
+                "websiteUrl": "www.felixzulauf.com"
+            }
+        ]
+    }
+}

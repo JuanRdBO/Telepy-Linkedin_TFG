@@ -1,0 +1,53 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 935599,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "57",
+                            "name": "Petr\u00f3leo y energ\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Houston",
+                                "postalCode": "77098",
+                                "street1": "3311 Richmond Ave #309"
+                            },
+                            "contactInfo": {
+                                "fax": "713-640-5387",
+                                "phone1": "713-640-5500"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Azteca E&P International",
+                "numFollowers": 61,
+                "websiteUrl": "www.aztecaepi.com"
+            }
+        ]
+    }
+}

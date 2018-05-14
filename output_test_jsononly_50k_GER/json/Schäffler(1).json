@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 27,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1998,
+                "id": 6470013,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "92",
+                            "name": "Transporte por carretera o ferrocarril"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sydney",
+                                "postalCode": "2102",
+                                "street1": "Unit 5, 4 Prosperity Parade"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+61 2 9997101"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schaffler Pty Ltd",
+                "numFollowers": 44,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Railway Inverters",
+                        "Railway battery chargers",
+                        "Railway power system solutions",
+                        "Custom tailored solutions"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.schaffler.com"
+            }
+        ]
+    }
+}

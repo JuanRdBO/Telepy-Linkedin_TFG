@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1993,
+                "id": 1980049,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "123",
+                            "name": "Subcontrataciones/Offshoring"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Leuna",
+                                "postalCode": "06237",
+                                "street1": "Am Haupttor, B\u00fcrocenter"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10117",
+                                "street1": "Friedrichstra\u00dfe 194-199"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ICS adminservice GmbH",
+                "numFollowers": 45,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Payroll BRZ-HR\u00ae",
+                        "Finance and accounting",
+                        "Payroll P&I LOGA",
+                        "Financial Accounting",
+                        "Payroll SAP\u00ae ERP",
+                        "Treasury Management",
+                        "Travel expenses",
+                        "Cash Management",
+                        "Recruiting",
+                        "Controlling",
+                        "Consulting"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.ics-adminservice.de/impressum/"
+            }
+        ]
+    }
+}

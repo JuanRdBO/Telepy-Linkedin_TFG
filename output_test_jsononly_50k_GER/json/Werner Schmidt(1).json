@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7340098,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "15",
+                            "name": "Industria farmac\u00e9utica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Niederkassel",
+                                "postalCode": "53859",
+                                "street1": "18 Grandkaule"
+                            },
+                            "contactInfo": {
+                                "phone1": "0220876710"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Werner Schmidt Pharma GmbH",
+                "numFollowers": 5,
+                "websiteUrl": "werner-schmidt-pharma.de"
+            }
+        ]
+    }
+}

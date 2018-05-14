@@ -1,0 +1,39 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 126,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 15315077,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "PLANO",
+                                "postalCode": "75093",
+                                "street1": "3108 MIDWAY ROAD, SUITE 106"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 9726080359"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "DR. KIM KIRCHGESSNER MAALE, M.D., P.A.",
+                "numFollowers": 3,
+                "websiteUrl": "http://eyeplasticsplano.com"
+            }
+        ]
+    }
+}

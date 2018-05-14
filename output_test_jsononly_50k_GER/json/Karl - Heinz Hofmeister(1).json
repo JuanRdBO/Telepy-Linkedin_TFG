@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5482,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1989,
+                "id": 1111145,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "34",
+                            "name": "Alimentaci\u00f3n y bebidas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "San Diego",
+                                "postalCode": "92109",
+                                "street1": "5985 Santa Fe St."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "858-273-2739"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "San Diego",
+                                "postalCode": "92104",
+                                "street1": "5965 Santa Fe St."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "858-273-2739"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Karl Strauss Brewing Company",
+                "numFollowers": 3942,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Craft Beer",
+                        "Brewery Restaurants",
+                        "Brewery"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "@Karl_Strauss",
+                "websiteUrl": "www.karlstrauss.com"
+            }
+        ]
+    }
+}

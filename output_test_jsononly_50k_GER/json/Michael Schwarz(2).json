@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7431417,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad Urach",
+                                "postalCode": "72574",
+                                "street1": "14 Wilhelmstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "071259335033"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bestattungsinstitut Michael Schwarz",
+                "numFollowers": 0,
+                "websiteUrl": "schwarz-bestattungen.com"
+            }
+        ]
+    }
+}

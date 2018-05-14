@@ -1,0 +1,96 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1988,
+                "id": 17990266,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "25",
+                            "name": "Art\u00edculos de consumo"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hallam",
+                                "postalCode": "3803",
+                                "street1": "227 Princes Hwy"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "1300 722 102"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Glen Iris",
+                                "postalCode": "3146",
+                                "street1": "330 Tooronga Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "1300 722 102"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bayswater",
+                                "postalCode": "3153",
+                                "street1": "443 Mountain Highway"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "1300 722 102"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Melbourne Brick",
+                "numFollowers": 32,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Bricks",
+                        "Pavers",
+                        "Landscaping Products",
+                        "Artificial & Natural Grass",
+                        "Retaining Walls",
+                        "Stone Products"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.melbournebrick.com.au"
+            }
+        ]
+    }
+}

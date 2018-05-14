@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1875,
+                "id": 674533,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Naperville",
+                                "postalCode": "60540",
+                                "street1": "88 W Gartner Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Oswald's Pharmacy + Medical Equipment ",
+                "numFollowers": 38,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Prescriptions",
+                        "Medical Equipment",
+                        "Gifts",
+                        "Toys",
+                        "Durable Medical Equipment",
+                        "Homeopathy",
+                        "Supplements"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "http://www.OswaldsPharmacy.com"
+            }
+        ]
+    }
+}

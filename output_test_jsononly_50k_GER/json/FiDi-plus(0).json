@@ -1,0 +1,126 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 12,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1995,
+                "id": 2369323,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "116",
+                            "name": "Log\u00edstica y cadena de suministro"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dubai",
+                                "postalCode": "",
+                                "street1": "Plot M-00539, Street 732, Near Lipton Round About 13,"
+                            },
+                            "contactInfo": {
+                                "fax": "+971 4 8070580",
+                                "phone1": "+971 4 8070588"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Gurgaon",
+                                "postalCode": "122001",
+                                "street1": "Plot No 14, Electronic Hardware Technology Park,"
+                            },
+                            "contactInfo": {
+                                "fax": "+91 124 4036481",
+                                "phone1": "1800 102 0110"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Doha",
+                                "postalCode": "",
+                                "street1": "P.O. BOX 37397, LEVEL 3"
+                            },
+                            "contactInfo": {
+                                "fax": "+974 4 4568174",
+                                "phone1": "+974 4 4338000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Mumbai",
+                                "postalCode": "400 093",
+                                "street1": "C-409, 4th Floor, Floral Deck Plaza,"
+                            },
+                            "contactInfo": {
+                                "fax": "+91 22 42210028",
+                                "phone1": "+91 22 42210000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Chennai",
+                                "postalCode": "603002",
+                                "street1": "P - 10, 1st Avenue, Mahindra World City,"
+                            },
+                            "contactInfo": {
+                                "fax": "+91 44 32469159",
+                                "phone1": "(91-33) 2474 2928 / 3057 0173"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Interem Relocations (Interem)",
+                "numFollowers": 822,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "International Relocation",
+                        "Fine Arts Relocation",
+                        "Domestic Relocation",
+                        "Industrial Packing & Exhibition Handling",
+                        "Pet Relocation",
+                        "Information & Records Management Services",
+                        "Motor Vehicle Relocation",
+                        "Settling - In Service",
+                        "Office Relocation",
+                        "Storage & Warehousing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.interemrelocations.com"
+            }
+        ]
+    }
+}

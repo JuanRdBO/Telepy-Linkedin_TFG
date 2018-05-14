@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 32,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1921,
+                "id": 286543,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "115",
+                            "name": "M\u00fasica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Utrecht",
+                                "postalCode": "3500 AG",
+                                "street1": "Postbus 295"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+31(0)30-2524010"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Nederlandse Bachvereniging / Netherlands Bach Society",
+                "numFollowers": 1275,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "authentic approach",
+                        "baroque music",
+                        "Johann Sebastian Bach",
+                        "allofbach.com"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.bachvereniging.nl"
+            }
+        ]
+    }
+}

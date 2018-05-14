@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 14,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12796096,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "142",
+                            "name": "Vino y licor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Volkach",
+                                "postalCode": "97332",
+                                "street1": "16 Mittlere Zwingergasse"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 93814676"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Weingut Markus Schneider",
+                "numFollowers": 4,
+                "websiteUrl": "http://www.weingut-schneider-markus.de"
+            }
+        ]
+    }
+}

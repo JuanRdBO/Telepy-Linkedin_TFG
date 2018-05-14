@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7567011,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sankt Wendel",
+                                "postalCode": "66606",
+                                "street1": "24 Waldstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "068547174"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Franz Wagner Malerbetrieb",
+                "numFollowers": 0,
+                "websiteUrl": "farbgestaltung-wagner.de"
+            }
+        ]
+    }
+}

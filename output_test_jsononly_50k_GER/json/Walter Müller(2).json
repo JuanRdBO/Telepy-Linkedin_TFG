@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 13,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7369580,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Biblis",
+                                "postalCode": "68647",
+                                "street1": "34 Gewerbestra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0624599834"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Walter M\u00fcller Reise GmbH & Co. KG",
+                "numFollowers": 2,
+                "websiteUrl": "reisen-mueller.de"
+            }
+        ]
+    }
+}

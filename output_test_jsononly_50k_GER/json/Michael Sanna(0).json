@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7463908,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80804",
+                                "street1": "2 Prinz-Eugen-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "08921086574"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Praxis Am Luitpoldpark Michael Sanna",
+                "numFollowers": 0,
+                "websiteUrl": "praxis-sanna.de"
+            }
+        ]
+    }
+}

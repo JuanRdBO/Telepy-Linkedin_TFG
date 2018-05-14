@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12853003,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "17",
+                            "name": "Dispositivos m\u00e9dicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mannheim",
+                                "postalCode": "68167",
+                                "street1": "13-17 Ludolf-Krehl-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 620190190"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ulrich Keller Medizintechnik",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.ulrich-keller.de"
+            }
+        ]
+    }
+}

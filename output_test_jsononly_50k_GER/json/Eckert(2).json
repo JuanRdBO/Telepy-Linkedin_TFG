@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 401,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1958,
+                "id": 27694,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pittsburgh",
+                                "postalCode": "15219",
+                                "street1": "U.S. Steel Tower, 44th Floor"
+                            },
+                            "contactInfo": {
+                                "fax": "(412) 566-6099",
+                                "phone1": "(412) 566-6000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Eckert Seamans",
+                "numFollowers": 1787,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "full-service law firm"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.eckertseamans.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 27056097,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "142",
+                            "name": "Vino y licor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bruxelles",
+                                "postalCode": "1180",
+                                "street1": "Avenue Georges Lecointe, 50"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Cromb\u00e9 Wines 4.0 - L'agence des Grands Vins",
+                "numFollowers": 5,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Vin",
+                        "Champagne",
+                        "Vin nature",
+                        "Agence vinicole",
+                        "Vin bio",
+                        "Vin Biodynamie"
+                    ]
+                },
+                "websiteUrl": "www.thesupernaturals.be"
+            }
+        ]
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2000,
+                "id": 97161,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Amsterdam",
+                                "postalCode": "1507CC",
+                                "street1": "Ronde Tocht 1d"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Detroit",
+                                "postalCode": "48226",
+                                "street1": "19 Clifford St."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Richmond",
+                                "postalCode": "CA 94805",
+                                "street1": "6822 Del Monte Ave"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Cyberjaya",
+                                "postalCode": "63000",
+                                "street1": "C-2-16 CoPlace 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "WoodWing",
+                "numFollowers": 2655,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Publishing Solutions",
+                        "Multi-channel Publishing",
+                        "InDesign Plug-ins",
+                        "Digital Publishing",
+                        "Workflow Software",
+                        "Workflow Management",
+                        "Digital Asset Management",
+                        "Content Management",
+                        "CMS",
+                        "Web Content Management",
+                        "Adobe DPS",
+                        "Tablet Publishing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.woodwing.com"
+            }
+        ]
+    }
+}

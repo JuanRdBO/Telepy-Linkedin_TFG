@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 717,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 392591,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "135",
+                            "name": "Ingenier\u00eda industrial o mec\u00e1nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pune",
+                                "postalCode": "411001",
+                                "street1": "Office No. 101, Gran Exito,"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Speed Engineering Solutions Pvt. Ltd.",
+                "numFollowers": 621,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Engineering Services (CAE)",
+                        "Computer Aided Design, Modeling and Drafting (CAD)",
+                        "Finite Element Analysis (FEA)",
+                        "Computational Fluid Dynamics (CFD)",
+                        "Rotor Dynamics",
+                        "DoE",
+                        "Product Design"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.speed-engineering.co.in"
+            }
+        ]
+    }
+}

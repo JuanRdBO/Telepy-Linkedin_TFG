@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2011,
+                "id": 11497186,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "110",
+                            "name": "Servicios de eventos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rodgau",
+                                "postalCode": "63110",
+                                "street1": "H\u00fcgelstra\u00dfe 5"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Eventwerk Rodgau GmbH",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Eventagentur",
+                        "Event-Management",
+                        "Veranstaltungstechnik",
+                        "Event-Planung",
+                        "Lichttechnik",
+                        "Tontechnik",
+                        "DJ"
+                    ]
+                },
+                "websiteUrl": "https://www.eventwerk-rodgau.de/"
+            }
+        ]
+    }
+}

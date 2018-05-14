@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1995,
+                "id": 9210535,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Munich",
+                                "postalCode": "80796",
+                                "street1": "Elisabethstr. 36"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 89 130 178 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Artillerie",
+                "numFollowers": 40,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Illustration",
+                        "Concept Art",
+                        "Character Design",
+                        "Stoaryboard & Scribble",
+                        "Art Direction",
+                        "Logo & Icon",
+                        "Graphic Design",
+                        "Comic"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.die-artillerie.de"
+            }
+        ]
+    }
+}

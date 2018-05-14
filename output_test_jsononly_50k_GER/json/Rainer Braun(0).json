@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12187144,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Maikammer",
+                                "postalCode": "67487",
+                                "street1": "12 Marktstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 632157251"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rainer Braun",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.raumausstattung-braun.de"
+            }
+        ]
+    }
+}

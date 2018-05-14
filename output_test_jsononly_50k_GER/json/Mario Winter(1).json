@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2000,
+                "id": 63257,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "8",
+                            "name": "Telecomunicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Winter Park",
+                                "postalCode": "32789",
+                                "street1": "2233 Lee Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Yerevan",
+                                "postalCode": "0009",
+                                "street1": "105/1 Teryan Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Epygi Technologies, LLC",
+                "numFollowers": 954,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Telecommunications",
+                        "Voice over IP (VoIP)",
+                        "Video and Audio Conferencing",
+                        "IP PBX and Gateways",
+                        "Contact Center Solutions",
+                        "Unified Communications",
+                        "CloudPBX",
+                        "Cloud Solutions"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "Epygi_Tech",
+                "websiteUrl": "www.epygi.com"
+            }
+        ]
+    }
+}

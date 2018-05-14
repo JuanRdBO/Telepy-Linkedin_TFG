@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7325202,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Remseck am Neckar",
+                                "postalCode": "71686",
+                                "street1": "1 Hohe Anwand"
+                            },
+                            "contactInfo": {
+                                "phone1": "071467214"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bauernmarkt Leutenecker",
+                "numFollowers": 1,
+                "websiteUrl": "bauernmarkt-leutenecker.de"
+            }
+        ]
+    }
+}

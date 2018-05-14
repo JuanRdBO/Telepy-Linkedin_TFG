@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 14,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12407447,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Albbruck",
+                                "postalCode": "79774",
+                                "street1": "1 Fichtenweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 77551515"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Montageservice Michael Gro\u00df",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.ms-gross.de"
+            }
+        ]
+    }
+}

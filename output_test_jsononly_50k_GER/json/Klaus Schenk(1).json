@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7369858,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lichtenstein",
+                                "postalCode": "72805",
+                                "street1": "4 Henleinstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0712992580"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "KMS Klaus M\u00fcller Schenk GmbH",
+                "numFollowers": 3,
+                "websiteUrl": "kms-wasch.de"
+            }
+        ]
+    }
+}

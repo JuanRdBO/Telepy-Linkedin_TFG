@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12749496,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Braunschweig",
+                                "postalCode": "38114",
+                                "street1": "11 Aussigstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 53188689290"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Eric Jaremkewicz GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.bs-fenster.de"
+            }
+        ]
+    }
+}

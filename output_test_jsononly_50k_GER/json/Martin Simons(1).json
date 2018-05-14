@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12288016,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Krefeld",
+                                "postalCode": "47803",
+                                "street1": "106 H\u00fclser Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2151755605"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Martin Simons Innenausbau-Bauschreinerei",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.schreinerei-simons.de"
+            }
+        ]
+    }
+}

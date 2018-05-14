@@ -1,0 +1,86 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1998,
+                "id": 2790485,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "105",
+                            "name": "Formaci\u00f3n profesional"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10823",
+                                "street1": "Belziger St. 7"
+                            },
+                            "contactInfo": {
+                                "fax": "+49.(0)30. 31 50 82 29",
+                                "phone1": "+49.(0)30. 31 50 82 25"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Llucmajor",
+                                "postalCode": "07620",
+                                "street1": "Calle de Sa Fira"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Institut f\u00fcr angewandte Positive Psychologie -ifapp-",
+                "numFollowers": 67,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Coaching",
+                        "Training",
+                        "Inhouse",
+                        "Workshops",
+                        "Seminare",
+                        "NLP",
+                        "The Work of Byron Katie",
+                        "Positive Psychologie",
+                        "Systemik"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ifapp.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 28124566,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "34",
+                            "name": "Alimentaci\u00f3n y bebidas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pedrajas de San Esteban",
+                                "postalCode": "47430",
+                                "street1": "Calle Aldeanueva, 10"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Madrid",
+                                "postalCode": "28001",
+                                "street1": "Calle de Claudio Coello, 14"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "NaturSnacks - Alimentos Deshidratados Espa\u00f1oles S.L.",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "dried fruit",
+                        "dried kale",
+                        "kale chips",
+                        "fruit drying",
+                        "dried vegetables",
+                        "fruta deshidratada",
+                        "dried orange",
+                        "dried kiwi",
+                        "dried strawberry",
+                        "dried pear",
+                        "dried apple",
+                        "dried mango",
+                        "dried pineapple"
+                    ]
+                },
+                "websiteUrl": "https://www.natursnacks.es"
+            }
+        ]
+    }
+}

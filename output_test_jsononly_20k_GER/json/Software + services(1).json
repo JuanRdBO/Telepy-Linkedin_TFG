@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 146620,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1982,
+                "id": 3199831,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Leatherhead",
+                                "postalCode": "KT22 7TW",
+                                "street1": "Randalls Way"
+                            },
+                            "contactInfo": {
+                                "fax": "01372 374 248",
+                                "phone1": "01372 418 500"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bytes Software Services",
+                "numFollowers": 5676,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Software Licensing",
+                        "Software Asset Management",
+                        "Microsoft Licensing",
+                        "Cloud Services",
+                        "Virtualisation Services",
+                        "Storage Services",
+                        "Learning Services"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.bytes.co.uk"
+            }
+        ]
+    }
+}

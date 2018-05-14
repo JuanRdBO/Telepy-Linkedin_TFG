@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12241269,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Saarbr\u00fccken",
+                                "postalCode": "66117",
+                                "street1": "51 Deutschherrnstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 1717777990"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ERGO Versicherung Peter Kratz",
+                "numFollowers": 0,
+                "websiteUrl": "http://peter.kratz.ergo.de"
+            }
+        ]
+    }
+}

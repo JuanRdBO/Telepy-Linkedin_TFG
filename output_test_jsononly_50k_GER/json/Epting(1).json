@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 13,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 5807828,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "138",
+                            "name": "Material y equipo de negocios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Charlotte",
+                                "postalCode": "28206",
+                                "street1": "1320 Atando Ave"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 7049400940"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Epting Distributors Inc",
+                "numFollowers": 37,
+                "websiteUrl": "http://eptingdist.com"
+            }
+        ]
+    }
+}

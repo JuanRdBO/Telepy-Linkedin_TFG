@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 24495853,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "60",
+                            "name": "Sector textil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Curitiba",
+                                "postalCode": "81520-350",
+                                "street1": "Rua do Ouro 130"
+                            },
+                            "contactInfo": {
+                                "phone1": "+55 4130750352"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Claudia Josiane Kraus",
+                "numFollowers": 0,
+                "websiteUrl": "cjktransportes.com.br"
+            }
+        ]
+    }
+}

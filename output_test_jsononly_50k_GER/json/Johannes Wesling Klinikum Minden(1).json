@@ -1,0 +1,125 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1959,
+                "id": 3844195,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40474",
+                                "street1": "Josef-Gockeln-Stra\u00dfe 10"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 211 86704-100",
+                                "phone1": "+49 211 86704-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10789",
+                                "street1": "Rankestra\u00dfe 17"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 30 390497-27",
+                                "phone1": "+49 30 390497-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Erfurt",
+                                "postalCode": "99084",
+                                "street1": "Neuwerkstra\u00dfe 29"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 361 6442381",
+                                "phone1": "+49 361 57674-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Leipzig",
+                                "postalCode": "04107",
+                                "street1": "Ferdinand-Rhode-Stra\u00dfe 20"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 341 98485-55",
+                                "phone1": "+49 341 98485-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80801",
+                                "street1": "Ainmillerstra\u00dfe 35"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 89 38667994-29",
+                                "phone1": "+49 89 38667994-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "HDR GmbH",
+                "numFollowers": 256,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Objektplanung/Architektur",
+                        "Medizin- und Labortechnikplanung",
+                        "Generalplanung",
+                        "Machbarkeitsstudien",
+                        "Zielplanungen",
+                        "Bestandsoptimierung",
+                        "Consulting/Betriebsorganisationsplanung",
+                        "Innenraumarchitektur/Interieur Design",
+                        "Ausstattungsplanung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.hdrinc.com/de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 366,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1978,
+                "id": 2937287,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Fortaleza",
+                                "postalCode": "60160-230",
+                                "street1": "Av. Dom Luis, n\u00ba 807, 3\u00ba Andar - Meireles"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(85) 3105-8450"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "CDT Incorpora\u00e7\u00f5es & Construtora Douglas",
+                "numFollowers": 1284,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Constru\u00e7\u00e3o Civil"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.cdtincorporacoes.com.br"
+            }
+        ]
+    }
+}

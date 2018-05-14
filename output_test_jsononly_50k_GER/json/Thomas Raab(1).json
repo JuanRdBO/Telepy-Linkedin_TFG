@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7404919,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Baunach",
+                                "postalCode": "96148",
+                                "street1": "1 An Der Ziegelei"
+                            },
+                            "contactInfo": {
+                                "phone1": "095447932"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Tischlerei Thomas Raab-Kreyer",
+                "numFollowers": 0,
+                "websiteUrl": "tischlerei-raab-kreyer.de"
+            }
+        ]
+    }
+}

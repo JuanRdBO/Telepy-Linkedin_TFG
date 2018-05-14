@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1988,
+                "id": 6866605,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Tangerh\u00fctte",
+                                "postalCode": "39517",
+                                "street1": "Gie\u00dfereistra\u00dfe 8"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schubert GmbH",
+                "numFollowers": 20,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Starkstromtechnik",
+                        "Schwachstromtechnik",
+                        "Elektroanlagen",
+                        "Mittelspannungsanlagen",
+                        "Eigenstromversorgungsanlagen",
+                        "Niederspannungsschaltanlagen",
+                        "Beleuchtungsanlagen",
+                        "Blitzschutzanlagen",
+                        "Erdungsanlagen",
+                        "Niederspannungsinstallationen",
+                        "Telekommunikationsanlagen"
+                    ]
+                },
+                "websiteUrl": "http://www.schubert-gmbh.de/"
+            }
+        ]
+    }
+}

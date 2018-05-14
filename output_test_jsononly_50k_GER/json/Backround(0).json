@@ -1,0 +1,56 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 68,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2015,
+                "id": 10781583,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "\u0130stanbul",
+                                "postalCode": "34726",
+                                "street1": "Sar\u0131lale Sok. 16/10 "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Backround Agency",
+                "numFollowers": 6,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "backroundagency.com"
+            }
+        ]
+    }
+}

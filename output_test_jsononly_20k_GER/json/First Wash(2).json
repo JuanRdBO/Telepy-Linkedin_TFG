@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 721,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1999,
+                "id": 3200484,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "122",
+                            "name": "Servicios infraestructurales"
+                        }
+                    ]
+                },
+                "name": "First Aid 2000",
+                "numFollowers": 14,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Safety",
+                        "First Aid",
+                        "Disaster Preparedness",
+                        "Training"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.fa2000ca.com"
+            }
+        ]
+    }
+}

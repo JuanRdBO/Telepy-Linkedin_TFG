@@ -1,0 +1,53 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 21,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1919,
+                "id": 9585924,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "143",
+                            "name": "Art\u00edculos de lujo y joyas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lytham St. Annes",
+                                "postalCode": "FY81RE",
+                                "street1": "Adele House"
+                            },
+                            "contactInfo": {
+                                "phone1": "+44 1472344872"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Beaverbrooks",
+                "numFollowers": 702,
+                "websiteUrl": "www.beaverbrooks.co.uk"
+            }
+        ]
+    }
+}

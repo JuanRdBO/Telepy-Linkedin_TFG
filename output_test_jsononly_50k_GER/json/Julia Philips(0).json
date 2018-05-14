@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1999,
+                "id": 623646,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "S\u00e3o Paulo",
+                                "postalCode": "04726140",
+                                "street1": "Av Prof Alceu Maynard de Araujo"
+                            },
+                            "contactInfo": {
+                                "fax": "55 11 3544 4516",
+                                "phone1": "55 11 5641 9795"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "St Arquitetos Associados",
+                "numFollowers": 3272,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Architecture",
+                        "Planning",
+                        "Corporate design",
+                        "Interior Design and Construction."
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "@stephansteyer",
+                "websiteUrl": "www.st.arq.br"
+            }
+        ]
+    }
+}

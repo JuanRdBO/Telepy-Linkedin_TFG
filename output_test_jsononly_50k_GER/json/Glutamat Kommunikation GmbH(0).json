@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2009,
+                "id": 2207320,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10969",
+                                "street1": "Prinzessinnenstr. 19-20"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Glutamat Kommunikation GmbH",
+                "numFollowers": 65,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Content Produktion",
+                        "Content Kuration",
+                        "Content Distribution"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "glutamatberlin",
+                "websiteUrl": "www.glutamat.co"
+            }
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 237,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 2001,
+                "id": 3489087,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "\u0130stanbul",
+                                "postalCode": "34846",
+                                "street1": "Cevizli Tugay Yolu, No:59 Maltepe "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "AUTO KING",
+                "numFollowers": 665,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Micro Repair",
+                        "Mobile Parts Repair",
+                        "Auto Maintenance",
+                        "Medium and Large-Scale Damage Repair"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.autoking.com.tr"
+            }
+        ]
+    }
+}

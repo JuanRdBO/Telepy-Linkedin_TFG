@@ -1,0 +1,110 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1919,
+                "id": 7935781,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "60",
+                            "name": "Sector textil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Columbia",
+                                "postalCode": "29204",
+                                "street1": "2551 Forest Dr."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "803-254-8187"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "columbia",
+                                "postalCode": "29229",
+                                "street1": "800 Sparkleberry Ln."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(803) 782-7965"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Irmo",
+                                "postalCode": "29063",
+                                "street1": "317 Royal Tower Dr."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(803) 781-3055"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Columbia",
+                                "postalCode": "29206",
+                                "street1": "1615 N. Beltline Blvd."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(803) 782-0076"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Ed Robinson Laundry & Dry Cleaning",
+                "numFollowers": 19,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Free Pick Up & Delivery",
+                        "Laundered Shirts",
+                        "Alterations & Repairs",
+                        "Fire Restoration",
+                        "Bridal Services & Wedding Gowns",
+                        "Leather and Suede",
+                        "Comforters"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.edrobinsoncleaners.com/"
+            }
+        ]
+    }
+}

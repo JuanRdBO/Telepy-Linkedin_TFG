@@ -1,0 +1,94 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1932,
+                "id": 2843096,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Surf City",
+                                "postalCode": "08008",
+                                "street1": "200 North Long Beach Boulevard"
+                            },
+                            "contactInfo": {
+                                "fax": "609-361-9437",
+                                "phone1": "609-494-2111"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Tuckerton",
+                                "postalCode": "08087",
+                                "street1": "138 Railroad Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "609-296-7256",
+                                "phone1": "609-296-1131"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Pleasantville",
+                                "postalCode": "08232",
+                                "street1": "436 Mill Road"
+                            },
+                            "contactInfo": {
+                                "fax": "609-407-9984",
+                                "phone1": "609-407-9982"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Tuckerton Lumber Company",
+                "numFollowers": 33,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Andersen Windows",
+                        "Composite decking",
+                        "Weber Grills",
+                        "Benjamin Moore paints"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.tlcnj.com"
+            }
+        ]
+    }
+}

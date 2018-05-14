@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 11,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1937,
+                "id": 2165575,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "122",
+                            "name": "Servicios infraestructurales"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "EINDHOVEN",
+                                "postalCode": "5652 GA",
+                                "street1": "VAN KANSTRAAT 3"
+                            },
+                            "contactInfo": {
+                                "fax": "040-2519545",
+                                "phone1": "040-2517626"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Van Den Hoff Installatiebedrijf BV",
+                "numFollowers": 69,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.vandenhoff.nl"
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 2701,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1935,
+                "id": 163906,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "8",
+                            "name": "Telecomunicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Norwalk",
+                                "postalCode": "06851",
+                                "street1": "401 Merritt 7"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "203-614-5600"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Frontier Communications",
+                "numFollowers": 37847,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Telecom Services",
+                        "Internet Service Provider",
+                        "TV and Video Services Provider",
+                        "Residential Service Provider",
+                        "Small Business Service Provider",
+                        "Carrier Network Partner",
+                        "Fiber Networks",
+                        "Network Operations",
+                        "Consumer and Business Customer Care",
+                        "Social Baker Award Winner"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "@FrontierCorp & @StephSchifano",
+                "websiteUrl": "http://www.frontier.com"
+            }
+        ]
+    }
+}

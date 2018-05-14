@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12337900,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "22391",
+                                "street1": "Wellingsb\u00fcttler Weg 75B"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kulturkreis Torhaus",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.kulturkreis-torhaus.de"
+            }
+        ]
+    }
+}

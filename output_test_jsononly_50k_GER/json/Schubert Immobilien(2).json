@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7431049,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Speyer",
+                                "postalCode": "67346",
+                                "street1": "1 Paulstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "062326768701"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Annett Schubert- Immobilien",
+                "numFollowers": 0,
+                "websiteUrl": "schubert-immobilien.de"
+            }
+        ]
+    }
+}

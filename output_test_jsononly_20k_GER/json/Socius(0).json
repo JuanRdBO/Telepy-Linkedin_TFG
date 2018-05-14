@@ -1,0 +1,106 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 123,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1984,
+                "id": 22986,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dublin",
+                                "postalCode": "43017",
+                                "street1": "5747 Perimeter Drive"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Brecksville",
+                                "postalCode": "44141",
+                                "street1": "6802 West Snowville Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Cincinnati",
+                                "postalCode": "45209",
+                                "street1": "3805 Edwards Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Atlanta",
+                                "postalCode": "30328",
+                                "street1": "6285 Barfield Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Socius",
+                "numFollowers": 2282,
+                "specialties": {
+                    "_total": 15,
+                    "values": [
+                        "business consulting",
+                        "business intelligence",
+                        "Microsoft Dynamics",
+                        "Sage 100",
+                        "Dynamics GP",
+                        "Sage CRM",
+                        "Dynamics 365",
+                        "Office 365",
+                        "Dynamics CRM",
+                        "SYSPRO",
+                        "Dynamics AX",
+                        "Dynamics SL",
+                        "Dynamics NAV",
+                        "NetSuite",
+                        "Cloud"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "InterDynSocius",
+                "websiteUrl": "https://www.velosio.com"
+            }
+        ]
+    }
+}

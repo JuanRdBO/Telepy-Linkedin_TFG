@@ -1,0 +1,52 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1991,
+                "id": 9243895,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "name": "Investors Consulting Group LLC",
+                "numFollowers": 47,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Mortgage Loan Due Diligence",
+                        "Servicer Oversight, Review, CFPB Audits, Sales and Transfers",
+                        "Expert Witness Services",
+                        "Litigation and Pre-Litigation",
+                        "Mortgage Loan Compliance",
+                        "Trust Asset/Third Party Review"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.investorsconsulting.com"
+            }
+        ]
+    }
+}

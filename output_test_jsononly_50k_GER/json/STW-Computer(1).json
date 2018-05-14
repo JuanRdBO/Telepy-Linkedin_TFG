@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12119815,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Cardiff",
+                                "postalCode": "CF2 4 3RP",
+                                "street1": "3 St. Martins Row"
+                            },
+                            "contactInfo": {
+                                "phone1": "+44 2920489995"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "STW Computers",
+                "numFollowers": 0,
+                "websiteUrl": "http://stwcomputerscardiff.co.uk"
+            }
+        ]
+    }
+}

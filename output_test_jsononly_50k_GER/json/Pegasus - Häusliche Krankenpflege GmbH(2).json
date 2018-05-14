@@ -1,0 +1,95 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 2255,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1997,
+                "id": 16168542,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Schaumburg",
+                                "postalCode": "60173",
+                                "street1": "1111 Plaza Drive, Suite 790"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Chicago",
+                                "postalCode": "60606",
+                                "street1": "233 S Wacker Drive,"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bangalore",
+                                "postalCode": "560070",
+                                "street1": "#4085 A. 5th C Main"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Pegasus Knowledge Solutions",
+                "numFollowers": 4815,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Advanced Analytics",
+                        "Data Management",
+                        "Global Service Delivery",
+                        "Digital Transformation",
+                        "Predictive Analytics",
+                        "Machine Learning",
+                        "Visualization",
+                        "Prescriptive Analytics",
+                        "Cognitive",
+                        "Platform Agnostic",
+                        "Data Scientists",
+                        "Licensing and Evaluations",
+                        "POC/POV",
+                        "Recruiting"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "pksi.com"
+            }
+        ]
+    }
+}

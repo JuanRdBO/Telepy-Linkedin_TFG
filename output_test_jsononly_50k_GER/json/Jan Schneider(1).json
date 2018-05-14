@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 16,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7341050,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "12277",
+                                "street1": "169 Gro\u00dfbeerenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "03029032092"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kleintierpraxis Jan Schneider",
+                "numFollowers": 0,
+                "websiteUrl": "kleintierpraxis-schneider.com"
+            }
+        ]
+    }
+}

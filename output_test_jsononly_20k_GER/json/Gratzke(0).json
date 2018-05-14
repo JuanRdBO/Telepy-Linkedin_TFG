@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12863031,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "26",
+                            "name": "Mobiliario"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oelde",
+                                "postalCode": "59302",
+                                "street1": "3 Feldmark"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gr\u00e4tzke K\u00fcchen",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.graetzke-kuechen.de"
+            }
+        ]
+    }
+}

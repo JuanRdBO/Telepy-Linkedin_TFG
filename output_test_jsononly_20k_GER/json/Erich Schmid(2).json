@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7345138,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gomaringen",
+                                "postalCode": "72810",
+                                "street1": "7 Daimlerstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "070727387"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Erich Schmid U. S\u00f6hne GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "schmid-grabmale.de"
+            }
+        ]
+    }
+}

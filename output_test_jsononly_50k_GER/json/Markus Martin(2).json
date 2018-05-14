@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 16,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1996,
+                "id": 543892,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "126",
+                            "name": "Producci\u00f3n multimedia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "81541",
+                                "street1": "St.-Martin-Stra\u00dfe 66"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 89 74642-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "CHIP",
+                "numFollowers": 1074,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Online-Journalismus",
+                        "Test und Kaufberatung",
+                        "News",
+                        "Downloads",
+                        "Preisvergleich",
+                        "Verbraucher"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.chip.de/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 9,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2009,
+                "id": 643067,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "86",
+                            "name": "Servicios medioambientales"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Viseu",
+                                "postalCode": "3500-606",
+                                "street1": "Quinta da Alagoa Lote 222 - 1\u00ba Frente"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+351232436000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "NOCTULA - Consultores em Ambiente",
+                "numFollowers": 2128,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Consultoria Ambiental",
+                        "Programas de Monitoriza\u00e7\u00e3o Ambiental",
+                        "Estudos de Avalia\u00e7\u00e3o de Impacto Ambiental",
+                        "Due-Diligence Ambiental",
+                        "Licenciamento Ambiental e Industrial"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "NOCTULA_pt",
+                "websiteUrl": "http://www.noctula.pt"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 42,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7549223,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad Sch\u00f6nborn",
+                                "postalCode": "76669",
+                                "street1": "30 Eichendorffstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "072536121"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Lang Modellbau GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "modellbau-lang.de"
+            }
+        ]
+    }
+}

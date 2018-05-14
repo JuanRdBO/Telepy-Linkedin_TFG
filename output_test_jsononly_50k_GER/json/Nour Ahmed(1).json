@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2012,
+                "id": 10207786,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Cairo",
+                                "postalCode": "",
+                                "street1": "8 Mostafa Kamel St., Behind Florida Mall, Sheraton Heliopolis"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0020222687525"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Artbox Studios L.L.C",
+                "numFollowers": 201,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Graphic Design",
+                        "Photography",
+                        "Advertising",
+                        "Social Media",
+                        "Printing & Fabrication",
+                        "Audio & Video Production",
+                        "Media Buying"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.artbox-studios.com/"
+            }
+        ]
+    }
+}

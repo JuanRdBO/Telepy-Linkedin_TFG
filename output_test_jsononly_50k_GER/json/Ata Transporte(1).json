@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 16,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 566379,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "134",
+                            "name": "Importar y exportar"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "C.A.B.A",
+                                "postalCode": "C1278ABO",
+                                "street1": "R\u00edo Limay 1965"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "54 11 4360-9600"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "United Logistic Company SA",
+                "numFollowers": 1250,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "foreign trade",
+                        "imports",
+                        "exports",
+                        "freight forwarders",
+                        "logistics",
+                        "transport agents",
+                        "storage",
+                        "customer agents",
+                        "importaci\u00f3n",
+                        "exportaci\u00f3n"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ulc.com.ar"
+            }
+        ]
+    }
+}

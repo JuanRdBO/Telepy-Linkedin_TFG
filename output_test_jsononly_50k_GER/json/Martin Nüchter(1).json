@@ -1,0 +1,36 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2016,
+                "id": 18178705,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "34",
+                            "name": "Alimentaci\u00f3n y bebidas"
+                        }
+                    ]
+                },
+                "name": "Mocktails & Pancakes",
+                "numFollowers": 3,
+                "websiteUrl": "www.mocktailbar.nl"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12185707,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Remscheid",
+                                "postalCode": "42897",
+                                "street1": "8 Brehmstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2191998130"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sven M\u00fcller Steuerberater",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.stb-mueller.com"
+            }
+        ]
+    }
+}

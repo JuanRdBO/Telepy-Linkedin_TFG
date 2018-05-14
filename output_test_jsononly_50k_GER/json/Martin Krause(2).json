@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 18078022,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Praha",
+                                "postalCode": "11000",
+                                "street1": "Rybn\u00e1 716/24"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Czech VR Agency",
+                "numFollowers": 18,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Virtual reality",
+                        "Virtu\u00e1ln\u00ed realita",
+                        "Augmented reality",
+                        "VR",
+                        "AR",
+                        "Mixed reality",
+                        "Hyper reality",
+                        "XR"
+                    ]
+                },
+                "websiteUrl": "https://czechvrfest.com/"
+            }
+        ]
+    }
+}

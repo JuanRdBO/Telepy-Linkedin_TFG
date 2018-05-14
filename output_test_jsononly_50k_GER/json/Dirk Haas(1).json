@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 1988,
+                "id": 1967964,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "111",
+                            "name": "Artesan\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lelystad",
+                                "postalCode": "8212 AE",
+                                "street1": "Buitenplaats 131"
+                            },
+                            "contactInfo": {
+                                "phone1": "0320 244826"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Utrecht",
+                                "street1": "Nachtegaalstraat 3"
+                            },
+                            "contactInfo": {
+                                "phone1": "0320 244826"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Bos Fine Art",
+                "numFollowers": 31,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Galerie en Kunsthandel"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "@bosfineart",
+                "websiteUrl": "www.bosfineart.nl"
+            }
+        ]
+    }
+}

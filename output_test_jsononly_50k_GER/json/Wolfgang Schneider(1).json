@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 13,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12185091,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bielefeld",
+                                "postalCode": "33602",
+                                "street1": "37 Niederwall"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 521967770"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wolfgang Schneider Jan Wixforth",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.schneider-wixforth.de"
+            }
+        ]
+    }
+}

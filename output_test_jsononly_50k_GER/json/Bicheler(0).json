@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7338154,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70372",
+                                "street1": "27 Bahnhofstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "07115208770"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Franziska Bicheler",
+                "numFollowers": 0,
+                "websiteUrl": "augenaerzte-cannstatt.de"
+            }
+        ]
+    }
+}

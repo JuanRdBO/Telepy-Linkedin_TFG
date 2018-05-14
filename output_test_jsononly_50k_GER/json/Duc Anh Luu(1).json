@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "foundedYear": 2006,
+                "id": 18332864,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "H\u00e0 N\u1ed9i",
+                                "postalCode": "100000",
+                                "street1": "Khu Gi\u00e1o d\u1ee5c v\u00e0 \u0110\u00e0o t\u1ea1o, Khu C\u00f4ng ngh\u1ec7 cao H\u00f2a L\u1ea1c"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "\u0110\u1ea1i h\u1ecdc FPT",
+                "numFollowers": 17,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "\u0110\u00e0o t\u1ea1o c\u1eed nh\u00e2n"
+                    ]
+                },
+                "websiteUrl": "http://daihoc.fpt.edu.vn"
+            }
+        ]
+    }
+}

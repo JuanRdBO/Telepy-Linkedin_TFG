@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 312,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1950,
+                "id": 1841066,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sin el-Fil",
+                                "postalCode": "",
+                                "street1": "1st Floor, Bloc A, Basha Gardens Center (Bldg.7)"
+                            },
+                            "contactInfo": {
+                                "fax": "+961 1 511 109",
+                                "phone1": "+961 1 513 666"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Khalil Masri et Fils Sarl-Masri Sal Holding",
+                "numFollowers": 392,
+                "specialties": {
+                    "_total": 15,
+                    "values": [
+                        "due diligence",
+                        "investigation",
+                        "credit information",
+                        "credit rating",
+                        "intellectual property",
+                        "debt recovery",
+                        "market studies",
+                        "feasibility studies",
+                        "real estate valuation",
+                        "database",
+                        "assets search and tracing",
+                        "business development",
+                        "legal records",
+                        "background check",
+                        "pre-employment"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.masri.com.lb"
+            }
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2009,
+                "id": 974284,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wiesbaden",
+                                "postalCode": "65183",
+                                "street1": "Taunusstra\u00dfe 75"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 611 16898529",
+                                "phone1": "+49 611 16898530"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Die Heldenhelfer - Marketing f\u00fcr Gastgeber",
+                "numFollowers": 41,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Hotelmarketing",
+                        "Restaurantmarketing",
+                        "Gastronomiemarketing",
+                        "Eventmarketing",
+                        "Kulturmarketing",
+                        "K\u00fcnstlervermittlung",
+                        "Locationscouting und Locationvermarktung",
+                        "Stadtmarketing",
+                        "Hotelwerbung",
+                        "Restaurantwerbung",
+                        "Veranstaltungsorganisation",
+                        "Marketingberatung f\u00fcr Gastgeber"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "dieHeldenhelfer",
+                "websiteUrl": "http://www.die-heldenhelfer.de"
+            }
+        ]
+    }
+}

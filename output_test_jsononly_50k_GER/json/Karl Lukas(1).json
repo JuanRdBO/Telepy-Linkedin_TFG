@@ -1,0 +1,62 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1908,
+                "id": 765432,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "70",
+                            "name": "Investigaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dresden",
+                                "postalCode": "01069",
+                                "street1": "Beyer-Bau"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Institut f\u00fcr Angewandte Photophysik (IAPP) - TU Dresden",
+                "numFollowers": 422,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Organic Electronics",
+                        "Nanotechnology"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "www.iapp.de"
+            }
+        ]
+    }
+}

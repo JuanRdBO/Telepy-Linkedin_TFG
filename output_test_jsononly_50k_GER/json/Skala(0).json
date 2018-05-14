@@ -1,0 +1,87 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 407,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1937,
+                "id": 91871,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "34",
+                            "name": "Alimentaci\u00f3n y bebidas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oslo",
+                                "postalCode": "0663",
+                                "street1": "Grenseveien 92"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Trondheim",
+                                "street1": "Terminal 6"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Stavanger",
+                                "street1": "Lalandsvn 2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Skala AS",
+                "numFollowers": 1063,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Process design",
+                        "Engineering for food production",
+                        "Automation",
+                        "Project management",
+                        "Process equipment",
+                        "Operating machines",
+                        "Packaging solutions",
+                        "Industrial Computing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.skala.no"
+            }
+        ]
+    }
+}

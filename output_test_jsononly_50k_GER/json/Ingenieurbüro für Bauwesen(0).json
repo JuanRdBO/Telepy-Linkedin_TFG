@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 38,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7343046,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Adorf/Vogtland",
+                                "postalCode": "08626",
+                                "street1": "10 Markt"
+                            },
+                            "contactInfo": {
+                                "phone1": "0374232866"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ingenieurb\u00fcro F\u00fcr Bauwesen",
+                "numFollowers": 27,
+                "websiteUrl": "bauplanung-becker.de"
+            }
+        ]
+    }
+}

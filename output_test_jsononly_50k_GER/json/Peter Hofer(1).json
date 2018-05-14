@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7392895,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berg",
+                                "postalCode": "82335",
+                                "street1": "68 Kreuzweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "08151953244"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Peter U. Ingeborg H\u00f6fer",
+                "numFollowers": 0,
+                "websiteUrl": "ihbo.de"
+            }
+        ]
+    }
+}

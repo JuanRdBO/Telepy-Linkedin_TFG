@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7410895,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Baden-Baden",
+                                "postalCode": "76532",
+                                "street1": "63 Rheinstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "07221302170"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rechtsanwalt Michael Scholz",
+                "numFollowers": 0,
+                "websiteUrl": "ra-michael-scholz.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12707816,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wagh\u00e4usel",
+                                "postalCode": "68753",
+                                "street1": "59 Goethestra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 725472892"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Klaus Neumann GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.neumann-bad.de"
+            }
+        ]
+    }
+}

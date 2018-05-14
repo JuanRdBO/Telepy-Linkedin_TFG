@@ -1,0 +1,116 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 9,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1959,
+                "id": 764171,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "130",
+                            "name": "Gabinetes estrat\u00e9gicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Basel",
+                                "postalCode": "4052",
+                                "street1": "St. Alban-Vorstadt 24"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40213",
+                                "street1": "Schwanenmarkt 21"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70173",
+                                "street1": "Eberhardstr. 12"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10623",
+                                "street1": "Goethestra\u00dfe 85"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bremen",
+                                "postalCode": "28359",
+                                "street1": "Domshof 21"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Prognos AG",
+                "numFollowers": 833,
+                "specialties": {
+                    "_total": 15,
+                    "values": [
+                        "Wirtschaft",
+                        "Politik",
+                        "Gesundheit",
+                        "Soziales",
+                        "Familie",
+                        "Strukturpolitik",
+                        "Regionalentwicklung",
+                        "Innovation",
+                        "Technologie",
+                        "Bildung",
+                        "Infrastruktur",
+                        "Dialogverfahren",
+                        "Energie",
+                        "Klimaschutz",
+                        "Public Management"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.prognos.com"
+            }
+        ]
+    }
+}

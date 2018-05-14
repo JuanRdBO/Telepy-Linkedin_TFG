@@ -1,0 +1,61 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 24799224,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "13",
+                            "name": "Profesiones m\u00e9dicas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80331",
+                                "street1": "Orthop\u00e4dische Praxis am Isartor"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Orthosportiv",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Orthop\u00e4die",
+                        "Akupunktur",
+                        "Kinesiotaping",
+                        "Arthroskopie",
+                        "Endoprothetik",
+                        "Sto\u00dfwellentherapie"
+                    ]
+                },
+                "websiteUrl": "www.orthosportiv.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 139,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 3912371,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kerrville",
+                                "postalCode": "78028-9337",
+                                "street1": "410 Cotton Gin Ln"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 8302578588"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Huser Construction",
+                "numFollowers": 14,
+                "websiteUrl": "http://www.huserco.com"
+            }
+        ]
+    }
+}

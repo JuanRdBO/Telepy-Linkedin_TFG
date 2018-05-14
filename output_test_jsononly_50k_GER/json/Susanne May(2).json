@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7415298,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "136",
+                            "name": "Fotograf\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad Bevensen",
+                                "postalCode": "29549",
+                                "street1": "20 L\u00fcneburger Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "058211223"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Foto-Studio May Inh. Susanne May EK",
+                "numFollowers": 0,
+                "websiteUrl": "foto-may.de"
+            }
+        ]
+    }
+}

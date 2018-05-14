@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "id": 1055393,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "46",
+                            "name": "Gesti\u00f3n de inversiones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "postalCode": "60487"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Multi-Invest GmbH",
+                "numFollowers": 72,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Exklusivvertrieb des \u20acuro-Umtausch-Konto in Gold und Silber"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "http://www.silberstattgold.eu/?3023"
+            }
+        ]
+    }
+}

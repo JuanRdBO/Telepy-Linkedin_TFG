@@ -1,0 +1,100 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 18,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1903,
+                "id": 88013,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Carouge / Gen\u00e8ve",
+                                "postalCode": "CH-1227",
+                                "street1": "Av. Cardinal-Mermillod 36"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+41 58 201 35 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Nyon",
+                                "postalCode": "CH-1260",
+                                "street1": "Rue St-Jean 34"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+41 22 994 33 44"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Lausanne",
+                                "postalCode": "CH-1004",
+                                "street1": "Chemin des C\u00e8dres 11"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+41 21 641 27 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Brolliet SA",
+                "numFollowers": 2606,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "G\u00e9rance immobili\u00e8re",
+                        "Investissements immobiliers",
+                        "Ventes et locations r\u00e9sidentielles",
+                        "Copropri\u00e9t\u00e9s",
+                        "Immobilier commercial",
+                        "Architecture",
+                        "Ventes immeubles",
+                        "D\u00e9veloppement durable",
+                        "Promotion immobili\u00e8re",
+                        "Conseils"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.brolliet.ch/"
+            }
+        ]
+    }
+}

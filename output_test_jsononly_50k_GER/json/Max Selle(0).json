@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2016,
+                "id": 16241410,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Toronto",
+                                "postalCode": "",
+                                "street1": "3500 - 2 Bloor St. East"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Maxselle Media Inc.",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Complex Marketing Solution",
+                        "Web and App Development",
+                        "Graphic Design",
+                        "Digital and Offset Printing",
+                        "Marketing Research",
+                        "Video Production",
+                        "Photography",
+                        "Traditional Advertising",
+                        "Digital Advertising",
+                        "Social Media Marketing",
+                        "Customer Relationship, Experience and Retention"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://maxselle.com"
+            }
+        ]
+    }
+}

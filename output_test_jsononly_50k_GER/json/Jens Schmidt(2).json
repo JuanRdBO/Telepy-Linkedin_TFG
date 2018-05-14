@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12283189,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "92",
+                            "name": "Transporte por carretera o ferrocarril"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Alveslohe",
+                                "postalCode": "25486",
+                                "street1": "6 Fischwehrstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 41938800530"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schmidt Transporte, Jens Schmidt",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.schmidt-transporte-umzuege.de"
+            }
+        ]
+    }
+}

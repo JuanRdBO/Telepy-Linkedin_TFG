@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7476678,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": "51063",
+                                "street1": "8 Bruder-klaus-Platz"
+                            },
+                            "contactInfo": {
+                                "phone1": "02219641212"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rolf Und Volker Zimmermann OHG",
+                "numFollowers": 0,
+                "websiteUrl": "zimmermann-ohg.com"
+            }
+        ]
+    }
+}

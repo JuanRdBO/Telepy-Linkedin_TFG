@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 3329417,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Los Angeles",
+                                "postalCode": "90068",
+                                "street1": "3151 Cahuenga Blvd. West #304"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "323-424-4455"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Howling Wolf Productions",
+                "numFollowers": 65,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Film Production",
+                        "Storytelling",
+                        "Screenwriting",
+                        "Film Festivals"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.howlingwolfproductions.com"
+            }
+        ]
+    }
+}

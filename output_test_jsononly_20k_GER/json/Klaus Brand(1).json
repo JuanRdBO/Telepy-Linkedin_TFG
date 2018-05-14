@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 23,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1993,
+                "id": 553712,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "19",
+                            "name": "Industria textil y moda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Copenhagen",
+                                "postalCode": "2200",
+                                "street1": "Ryesgade 19C, 4. floor"
+                            },
+                            "contactInfo": {
+                                "fax": "+45 35371196",
+                                "phone1": "+45 35371166"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sams\u00f8e & Sams\u00f8e",
+                "numFollowers": 12247,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Danish Fashion Brand and Creative Collective"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.samsoe.com"
+            }
+        ]
+    }
+}

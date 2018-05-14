@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 1073,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2011,
+                "id": 2345283,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "104",
+                            "name": "Dotaci\u00f3n y selecci\u00f3n de personal"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hudson",
+                                "postalCode": "44236",
+                                "street1": "118 W Streetsboro Road, Suite 155"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "216-780-0865"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kuhn Global Talent, LLC",
+                "numFollowers": 4370,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Recruiting",
+                        "Talent Management",
+                        "Executive Search",
+                        "Due Diligence and Integration",
+                        "Human Resources",
+                        "Mergers & Acquisitions",
+                        "Talent Reviews and Succession Planning",
+                        "Leadership",
+                        "International Business",
+                        "Talent Discovery",
+                        "HR Strategy"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "jimkuhn16",
+                "websiteUrl": "www.kuhnglobaltalent.com"
+            }
+        ]
+    }
+}

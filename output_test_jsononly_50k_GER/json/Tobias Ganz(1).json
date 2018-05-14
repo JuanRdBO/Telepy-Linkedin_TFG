@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2002,
+                "id": 17888371,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "name": "seitenwind GmbH",
+                "numFollowers": 13,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Kommunikation und Design f\u00fcr Industrie und Technologie",
+                        "Digitale Medien: Website, Multitouch, Apps, User Interfaces",
+                        "Printmedien: Unternehmensbrosch\u00fcren, technische Dokumentationen, Jahresberichte",
+                        "Messe: Konzept, Design, Moderation bei der Ausf\u00fchrung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.seitenwind.com"
+            }
+        ]
+    }
+}

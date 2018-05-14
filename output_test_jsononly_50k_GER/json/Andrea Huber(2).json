@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7405703,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Roth",
+                                "postalCode": "91154",
+                                "street1": "38 Hilpoltsteiner Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "091714838"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Andrea Fiegl-Huber",
+                "numFollowers": 0,
+                "websiteUrl": "frauenarztpraxis-roth.de"
+            }
+        ]
+    }
+}

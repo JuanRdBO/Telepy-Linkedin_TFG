@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12343304,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Jena",
+                                "postalCode": "07749",
+                                "street1": "50 L\u00f6bstedter Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3641450710"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Architekt Thomas Philipp",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.architektphilipp.de"
+            }
+        ]
+    }
+}

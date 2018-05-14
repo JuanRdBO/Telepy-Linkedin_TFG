@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 13,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1968,
+                "id": 7477407,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "147",
+                            "name": "Automaci\u00f3n industrial"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rheinbreitbach",
+                                "postalCode": "53619",
+                                "street1": "33 Maarweg"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Weber Marking Systems GmbH",
+                "numFollowers": 29,
+                "specialties": {
+                    "_total": 16,
+                    "values": [
+                        "Marking Systems",
+                        "Coding Systems",
+                        "Thermal Inkjet",
+                        "Ink Jet Systems",
+                        "Markoprint",
+                        "Label Printing",
+                        "Printing Solutions",
+                        "Product Labels",
+                        "Label printer",
+                        "Labeling Systems",
+                        "RFID Systems",
+                        "Barcodes",
+                        "Tamper Evident",
+                        "Labelling",
+                        "Identification systems",
+                        "Industrial solutions"
+                    ]
+                },
+                "websiteUrl": "https://www.weber-marking.com"
+            }
+        ]
+    }
+}

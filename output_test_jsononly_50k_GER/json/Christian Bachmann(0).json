@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2016,
+                "id": 18043564,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Aarhus",
+                                "postalCode": "8000",
+                                "street1": "Europaplads 2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bachmann/Partners Advokatfirma",
+                "numFollowers": 24,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Advokatunders\u00f8gelser",
+                        "Erhvervsstrafferet",
+                        "Generationsskifte for velhavere",
+                        "Moms og afgiftsr\u00e5dgivning",
+                        "Retssager for erhvervslivet",
+                        "R\u00e5dgiveransvar",
+                        "Skattesager og r\u00e5dgivning ",
+                        "Selvanmeldelse - Gemte og glemte indt\u00e6gter og formuer",
+                        "Told",
+                        "Automobilbranchen"
+                    ]
+                },
+                "websiteUrl": "http://www.bachmann-partners.dk/"
+            }
+        ]
+    }
+}

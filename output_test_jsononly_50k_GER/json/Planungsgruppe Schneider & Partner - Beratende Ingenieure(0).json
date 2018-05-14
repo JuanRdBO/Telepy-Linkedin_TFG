@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2007,
+                "id": 18028976,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kamp-Lintfort",
+                                "postalCode": "47475",
+                                "street1": "Carl-Friedrich-Gau\u00df-Str. 52"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "02842 97361 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40470",
+                                "street1": "Vogelsanger Weg 111"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0211 9616 3"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Planungsgruppe Schneider & Partner mbB",
+                "numFollowers": 4,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Planung",
+                        "Beratung",
+                        "Bauleitung",
+                        "Gutachten/Sanierungskonzepte",
+                        "Energetische Bewertungen/Wirtschaftlichkeitsberechnungen"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.beratende-ingenieure.eu"
+            }
+        ]
+    }
+}

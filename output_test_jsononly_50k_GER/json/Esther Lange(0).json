@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1970,
+                "id": 2946180,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "38",
+                            "name": "Bellas Artes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "The Hague",
+                                "postalCode": "2596 BV",
+                                "street1": "Jan van Nassaustraat 76"
+                            },
+                            "contactInfo": {
+                                "fax": "+31 70 3242051",
+                                "phone1": "+31 70 3240987"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "A. Aardewerk Dutch Silver and Antique Jewels",
+                "numFollowers": 49,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Antique Dutch Silver",
+                        "Antique Jewellery"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.aardewerk.com"
+            }
+        ]
+    }
+}

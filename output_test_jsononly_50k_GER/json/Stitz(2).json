@@ -1,0 +1,64 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 17,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "foundedYear": 2018,
+                "id": 28119690,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Toronto",
+                                "street1": "100 King St W"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Stitz Litigation Professional Corporation",
+                "numFollowers": 13,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Employment Law",
+                        "Labour Law",
+                        "Canadian Workplace Laws",
+                        "Ontario Workplace Laws",
+                        "Workplace Regulatory Expert",
+                        "Legal contract, agreement and policy drafting",
+                        "unlawful competition",
+                        "wrongful dismissal",
+                        "human rights",
+                        "litigation lawyer and law firm",
+                        "constructive dismissal",
+                        "severance packages",
+                        "corporate restructuring"
+                    ]
+                },
+                "websiteUrl": "stitzlaw.ca"
+            }
+        ]
+    }
+}

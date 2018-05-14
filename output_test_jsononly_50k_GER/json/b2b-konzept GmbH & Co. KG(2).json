@@ -1,0 +1,95 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2014,
+                "id": 17895876,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Goeppingen",
+                                "postalCode": "73037",
+                                "street1": "Am Galgenberg 110"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+4971619565796"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "22393",
+                                "street1": "Kaetnerweg 13 a"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49406408633"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "W14 ORS",
+                                "street1": "30, North End House"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+442076038174"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Steinbeis Vertriebs- und Marketinginstitut (VMI)",
+                "numFollowers": 8,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Sales Management",
+                        "Marketing",
+                        "Pricing",
+                        "Branding",
+                        "B2B Marketing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.steinbeis-vmi.de"
+            }
+        ]
+    }
+}

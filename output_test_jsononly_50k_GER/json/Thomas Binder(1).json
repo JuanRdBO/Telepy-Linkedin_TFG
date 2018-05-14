@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7403276,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Z\u00f6rbig",
+                                "postalCode": "06780",
+                                "street1": "Zehbitzer Str. 51 OT"
+                            },
+                            "contactInfo": {
+                                "phone1": "0349479005731722"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Holzbau & Zimmerei Thomas Binder GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "holzbau-binder.com"
+            }
+        ]
+    }
+}

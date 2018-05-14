@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2003,
+                "id": 2302138,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Castle Rock",
+                                "postalCode": "80108",
+                                "street1": "6339 Sapphire Pointe Blvd"
+                            },
+                            "contactInfo": {
+                                "fax": "303-663-8520",
+                                "phone1": "720-489-6042"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "developersDen",
+                "numFollowers": 28,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Software Development",
+                        "Technical Training",
+                        "Network Engineering"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.developersden.com"
+            }
+        ]
+    }
+}

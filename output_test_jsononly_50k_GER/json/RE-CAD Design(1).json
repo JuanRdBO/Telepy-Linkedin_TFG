@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 578,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1996,
+                "id": 382096,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Vilnius",
+                                "postalCode": "LT-01108",
+                                "street1": "Lukiskiu str. 3, 6 floor."
+                            },
+                            "contactInfo": {
+                                "fax": "(+370 5) 2613021",
+                                "phone1": "(+370 5) 2124660"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "IN RE UAB",
+                "numFollowers": 98,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Software for CAD/CAM/CAE/PDM/PLM systems",
+                        "IT projects of complex implementation and integration of engineering software",
+                        "Engineering consulting services on structural analysis and design",
+                        "Training courses on CAD/CAM/CAE systems and technologies"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.inre.lt"
+            }
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 555,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1985,
+                "id": 3358512,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "105",
+                            "name": "Formaci\u00f3n profesional"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pacific Palisades",
+                                "postalCode": "90272",
+                                "street1": "P.O. Box 1745"
+                            },
+                            "contactInfo": {
+                                "fax": "(425) 270-3249",
+                                "phone1": "(888) 917-7797"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Heim Group",
+                "numFollowers": 242,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Keynote Sessions",
+                        "Executive Sessions",
+                        "Workshops",
+                        "Train The Trainer",
+                        "Executive Coaching",
+                        "Corporate Consulting"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.HeimGroup.com"
+            }
+        ]
+    }
+}

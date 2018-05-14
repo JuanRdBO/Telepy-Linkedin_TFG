@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 41117,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1992,
+                "id": 1267003,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "126",
+                            "name": "Producci\u00f3n multimedia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Madrid",
+                                "postalCode": "28010",
+                                "street1": "Paseo General Mart\u00ednez Campos, 15"
+                            },
+                            "contactInfo": {
+                                "fax": "+34914451487",
+                                "phone1": "+34915930330"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Multimedia Resources",
+                "numFollowers": 978,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Video Production",
+                        "Multimedia Development",
+                        "Digital Signage",
+                        "VFX"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.multimedia-resources.com"
+            }
+        ]
+    }
+}

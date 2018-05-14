@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7424918,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Roding",
+                                "postalCode": "93426",
+                                "street1": "4 Moosweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "09461912060"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schmid G\u00fcnther Elektroinstallation",
+                "numFollowers": 0,
+                "websiteUrl": "elektro-schmid-roding.de"
+            }
+        ]
+    }
+}

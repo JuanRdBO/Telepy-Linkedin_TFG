@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2009,
+                "id": 5147419,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "EC2A 3EY",
+                                "street1": "Unit 6, 36-42 New Inn Yard"
+                            },
+                            "contactInfo": {
+                                "fax": "+44 (0) 20 7359 4892",
+                                "phone1": "+44 (0) 20 7359 1793"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "\u00dcberRaum Architects",
+                "numFollowers": 264,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Private/public/commercial sector fit-out and workplace design",
+                        "refurbishment of listed buildings (Grade I and II)",
+                        "Interior design and bespoke furniture design",
+                        "government buildings",
+                        "residential developments",
+                        "exhibition design",
+                        "consultancy"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.uber-raum.com"
+            }
+        ]
+    }
+}

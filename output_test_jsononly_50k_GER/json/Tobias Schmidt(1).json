@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2009,
+                "id": 10308439,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mannheim",
+                                "postalCode": "68161",
+                                "street1": "S6, 35"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "suchdialog AG - Ihre Agentur f\u00fcr datengetriebene E-Business-L\u00f6sungen.",
+                "numFollowers": 102,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Digital Marketing",
+                        "Performance Marketing",
+                        "Search Engine Advertising",
+                        "Display Advertising",
+                        "Remarketing",
+                        "Social Media Marketing",
+                        "Paid Search",
+                        "Paid Social"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://suchdialog.de"
+            }
+        ]
+    }
+}

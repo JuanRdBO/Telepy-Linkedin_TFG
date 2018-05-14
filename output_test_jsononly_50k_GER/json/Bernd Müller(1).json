@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 24,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7383248,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Herborn",
+                                "postalCode": "35745",
+                                "street1": "2 Zum Gutshof"
+                            },
+                            "contactInfo": {
+                                "phone1": "0277257530"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bernd M\u00fcller GmbH & Co KG",
+                "numFollowers": 1,
+                "websiteUrl": "willi-lauber.de"
+            }
+        ]
+    }
+}

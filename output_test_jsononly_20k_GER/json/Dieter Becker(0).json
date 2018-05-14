@@ -1,0 +1,34 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12237166,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Griesheim",
+                                "postalCode": "64347",
+                                "street1": "9 Gr\u00fcner Weg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 1737063609"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dieter Becker",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

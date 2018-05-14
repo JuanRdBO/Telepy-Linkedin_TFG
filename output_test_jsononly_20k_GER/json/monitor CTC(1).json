@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2010,
+                "id": 1249252,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "12",
+                            "name": "Biotecnolog\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Avalon Beach NSW",
+                                "postalCode": "2107",
+                                "street1": "1B Paradise Ave"
+                            },
+                            "contactInfo": {
+                                "fax": "+61 2 8088 7097",
+                                "phone1": "+61 1300 282 482"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Genostics",
+                "numFollowers": 40,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Personalised cancer management and testing",
+                        "CTC count and analysis",
+                        "CTC biomarker analysis",
+                        "CTC chemosensitivity analysis"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.genostics.net"
+            }
+        ]
+    }
+}

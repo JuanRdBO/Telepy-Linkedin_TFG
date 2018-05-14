@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12256443,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Eging am See",
+                                "postalCode": "94535",
+                                "street1": "2 Vilshofener Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 85441766"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Adolf Klampfl",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.metzgerei-klampfl.de"
+            }
+        ]
+    }
+}

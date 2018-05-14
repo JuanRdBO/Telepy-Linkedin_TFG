@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2008,
+                "id": 293597,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Los Angeles",
+                                "postalCode": "90027",
+                                "street1": "Kaiser Permanente LA Medical Center"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Burbank",
+                                "postalCode": "91506",
+                                "street1": "Burbank Offices"
+                            },
+                            "contactInfo": {
+                                "phone1": "(323) 467-6868"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Laugh, M.D.",
+                "numFollowers": 49,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Comedy",
+                        "mobile",
+                        "film and video production",
+                        "mobisodes",
+                        "webisodes",
+                        "teaching at both USC and UCLA"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "http://www.laughmd.com"
+            }
+        ]
+    }
+}

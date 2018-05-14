@@ -1,0 +1,37 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 23,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 15990117,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "HOLLAND",
+                                "postalCode": "43528",
+                                "street1": "7318 INTERNATIONAL DR STE D"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "IMMERGRUN INC",
+                "numFollowers": 1,
+                "websiteUrl": "http://immergrun.org"
+            }
+        ]
+    }
+}

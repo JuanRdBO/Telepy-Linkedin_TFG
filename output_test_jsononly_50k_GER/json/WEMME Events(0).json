@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7461271,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "110",
+                            "name": "Servicios de eventos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "13089",
+                                "street1": "44 Prenzlauer Promenade"
+                            },
+                            "contactInfo": {
+                                "phone1": "030816160360"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "WEMME Events Veranstaltungstechnik",
+                "numFollowers": 15,
+                "websiteUrl": "wemme-events.de"
+            }
+        ]
+    }
+}

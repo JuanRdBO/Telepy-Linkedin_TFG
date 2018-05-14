@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 3652252,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "126",
+                            "name": "Producci\u00f3n multimedia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "SW11 3NA",
+                                "street1": "13 Old Swan Wharf"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+44 (0)207 9786 768"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Rome",
+                                "postalCode": "00155",
+                                "street1": "Via Pietro Fumaroli 14"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+39 06 22751149"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "kRomaFilm",
+                "numFollowers": 57,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://pro-labs.imdb.com/company/co0454522/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7563722,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Zschopau",
+                                "postalCode": "09405",
+                                "street1": "6 Straubeweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "0372520775"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Physiotherapie Andreas Uhlig",
+                "numFollowers": 0,
+                "websiteUrl": "physiotherapieandreasuhlig.de"
+            }
+        ]
+    }
+}

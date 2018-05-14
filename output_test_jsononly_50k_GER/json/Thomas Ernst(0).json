@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 30,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12328703,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "136",
+                            "name": "Fotograf\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10967",
+                                "street1": "Urbanstra\u00dfe 104A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 1723116470"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Ernst Fotografie",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.ernst-fotos.de"
+            }
+        ]
+    }
+}

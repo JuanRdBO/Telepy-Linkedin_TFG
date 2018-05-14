@@ -1,0 +1,81 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1976,
+                "id": 10941210,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Unterdietfurt",
+                                "postalCode": "84339",
+                                "street1": "Mitterweg 14"
+                            },
+                            "contactInfo": {
+                                "fax": "08721 7260",
+                                "phone1": "08721 1264 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Frontenhausen",
+                                "postalCode": "84160",
+                                "street1": "Bahnhofstra\u00dfe 74 c"
+                            },
+                            "contactInfo": {
+                                "fax": "08732 9373 860",
+                                "phone1": "08732 9373 858"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Allianz Generalvertretung Viktor Klapper & Co. OHG",
+                "numFollowers": 4,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Versicherungen",
+                        "Finanzen",
+                        "Baufinanzierung und Bausparen",
+                        "Investment"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.allianz-klapper.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2004,
+                "id": 9277404,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "35",
+                            "name": "Pel\u00edculas y cine"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Los Angeles",
+                                "postalCode": "90025",
+                                "street1": "10435 Santa Monica Blvd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "W1t 3QH",
+                                "street1": "75 Wells Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10002",
+                                "street1": "135 Bowery"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "New Orleans",
+                                "postalCode": "70112",
+                                "street1": "935 Gravier St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Lola Visual Effects",
+                "numFollowers": 2481,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Visual Effects",
+                        "Aging",
+                        "Cosmetic Work",
+                        "Face Replacements",
+                        "Feature Films"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.lolavfx.com"
+            }
+        ]
+    }
+}

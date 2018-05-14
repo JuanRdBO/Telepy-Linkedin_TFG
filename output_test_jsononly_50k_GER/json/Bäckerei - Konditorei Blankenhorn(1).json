@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 1215,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12769783,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oederan",
+                                "postalCode": "09569",
+                                "street1": "12 Chemnitzer Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 372924662"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "B\u00e4ckerei",
+                "numFollowers": 269,
+                "websiteUrl": "http://www.stollen-erzgebirge.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7541649,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "D\u00fclmen",
+                                "postalCode": "48249",
+                                "street1": "14 M\u00fcnsterstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "02594783463"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Harald Fischer",
+                "numFollowers": 0,
+                "websiteUrl": "fischer-immobilien.eu"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 197,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 1059465,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "31",
+                            "name": "Hosteler\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Engelberg",
+                                "postalCode": "6390",
+                                "street1": "Dorfstrasse 48"
+                            },
+                            "contactInfo": {
+                                "fax": "+41 41 639 70 71",
+                                "phone1": "+41 41 639 70 70"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hotel Central",
+                "numFollowers": 1791,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Authentic Indian Cuisine",
+                        "Group Travellers",
+                        "Traditional Swiss Style",
+                        "Bar with European Theme",
+                        "Catering Services",
+                        "Heated Indoor Swimming Pool and Sauna"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "www.central-engelberg.ch"
+            }
+        ]
+    }
+}

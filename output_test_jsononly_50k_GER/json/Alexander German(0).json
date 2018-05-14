@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 45,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2012,
+                "id": 2804401,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80637",
+                                "street1": "Sapporobogen 6-8"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10997",
+                                "street1": "Falckensteinstra\u00dfe 49"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Alexander Thamm GmbH",
+                "numFollowers": 368,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Data Science",
+                        "Big Data",
+                        "Data Intelligence",
+                        "Predictive Analytics",
+                        "Visualization",
+                        "Machine Learning",
+                        "Artificial Intelligence",
+                        "Deep Learning",
+                        "Consulting"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.alexanderthamm.com"
+            }
+        ]
+    }
+}

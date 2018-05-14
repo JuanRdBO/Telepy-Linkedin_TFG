@@ -1,0 +1,60 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2015,
+                "id": 24771895,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Z\u00fcrich",
+                                "postalCode": "8000"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bach M\u00fchle Fuchs Partner GmbH",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Architectual Design",
+                        "Concept Design",
+                        "Urban Design ",
+                        "Contextual and Cultural Analysis",
+                        "Building Regulations",
+                        "Technical Construction Detailing",
+                        "Furniture Design"
+                    ]
+                },
+                "websiteUrl": "http://www.bach-muehle-fuchs.ch/en/"
+            }
+        ]
+    }
+}

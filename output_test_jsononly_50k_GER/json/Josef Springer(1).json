@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7459801,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Philippsreut",
+                                "postalCode": "94158",
+                                "street1": "Hauptstra\u00dfe 6 A"
+                            },
+                            "contactInfo": {
+                                "phone1": "0855091000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schreinerei Josef Springer",
+                "numFollowers": 0,
+                "websiteUrl": "schreinerei-josefspringer.de"
+            }
+        ]
+    }
+}

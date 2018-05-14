@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7511556,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Freiburg im Breisgau",
+                                "postalCode": "79102",
+                                "street1": "34 Scheffelstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "076171594"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Frau Gabriele Treutler-Walter",
+                "numFollowers": 0,
+                "websiteUrl": "klassische-homoeopathie-freiburg.de"
+            }
+        ]
+    }
+}

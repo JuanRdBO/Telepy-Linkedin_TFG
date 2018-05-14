@@ -1,0 +1,85 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2008,
+                "id": 1754387,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Paris La D\u00e9fense",
+                                "postalCode": "92037",
+                                "street1": "1 place des Saisons"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Neuilly-Sur-Seine",
+                                "postalCode": "92200",
+                                "street1": "25 Rue du Bois de Boulogne"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Lighthouse.fr",
+                "numFollowers": 566,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Branding",
+                        "Marketing",
+                        "Communication",
+                        "Advertising",
+                        "Strategy",
+                        "Co-branding",
+                        "Licensing",
+                        "Sponsoring",
+                        "Client experience",
+                        "Luxury",
+                        "Fashion",
+                        "HNWI & UHNWI",
+                        "Consulting",
+                        "Hospitality"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.lighthouse.fr"
+            }
+        ]
+    }
+}

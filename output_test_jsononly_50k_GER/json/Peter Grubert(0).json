@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2015,
+                "id": 11353167,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "38",
+                            "name": "Bellas Artes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hammersmith",
+                                "postalCode": "W6 9JU",
+                                "street1": "lbhf Town Hall Extension King St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Neo-Contemporaries",
+                "numFollowers": 13,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Non-profit community arts practice-led",
+                        "Strategic Partnerships",
+                        "Exhibitions and Programmes",
+                        "Art-Promotion Initiatives",
+                        "Digital Strategies"
+                    ]
+                },
+                "websiteUrl": "http://neocontemps.bigcartel.com"
+            }
+        ]
+    }
+}

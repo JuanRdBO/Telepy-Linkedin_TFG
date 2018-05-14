@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 1861189,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "104",
+                            "name": "Dotaci\u00f3n y selecci\u00f3n de personal"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "",
+                                "street1": "Kirchnerstrasse 6/8"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0) 69 8700509 68",
+                                "phone1": "+49 (0) 69 8700509 40"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Brownian Motion GmbH",
+                "numFollowers": 223,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "IT",
+                        "ENERGY",
+                        "FINANCE & BANKING",
+                        "ENGINEERING"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.brownianmotion.eu"
+            }
+        ]
+    }
+}

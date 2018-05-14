@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 18,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7557614,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mayen",
+                                "postalCode": "56727",
+                                "street1": "Am Wasserturm 5B"
+                            },
+                            "contactInfo": {
+                                "phone1": "026512277"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Peter Schmitt Mineral\u00f6le GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "schmitt-mineraloele.de"
+            }
+        ]
+    }
+}

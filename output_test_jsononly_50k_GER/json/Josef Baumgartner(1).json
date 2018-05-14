@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12546989,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sachsenkam",
+                                "postalCode": "83679",
+                                "street1": "3 Tegernseer Weg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 80218753"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bauunternehmung Baumgartner",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.bau-baumgartner.de"
+            }
+        ]
+    }
+}

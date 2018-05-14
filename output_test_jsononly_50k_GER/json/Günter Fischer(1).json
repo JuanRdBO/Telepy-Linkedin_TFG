@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12437420,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Burglengenfeld",
+                                "postalCode": "93133",
+                                "street1": "20 Beim Klingentor"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 94715455"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Zahnarztpraxis Gunter Fischer",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.zahnarzt-gunter-fischer.de"
+            }
+        ]
+    }
+}

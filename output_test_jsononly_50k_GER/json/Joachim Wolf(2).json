@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1983,
+                "id": 1819275,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "36",
+                            "name": "Medios de difusi\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "S\u00e8te",
+                                "postalCode": "34200",
+                                "street1": "49 rue des cormorans"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0499572222"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "RTS LA RADIO DU SUD",
+                "numFollowers": 194,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.rtsfm.com"
+            }
+        ]
+    }
+}

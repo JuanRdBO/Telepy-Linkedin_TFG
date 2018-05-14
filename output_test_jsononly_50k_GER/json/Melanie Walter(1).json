@@ -1,0 +1,123 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2007,
+                "id": 9868218,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "13",
+                            "name": "Profesiones m\u00e9dicas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Conway",
+                                "postalCode": "29526",
+                                "street1": "394 Singleton Ridge Road"
+                            },
+                            "contactInfo": {
+                                "fax": "Atlantic Urology Clinics",
+                                "phone1": "8433472450"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Little River\\",
+                                "postalCode": "29566",
+                                "street1": "3600 Sea Mtn. Hwy"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "8433472450"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Georgetown",
+                                "postalCode": "29440",
+                                "street1": "580 Black River Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "8433472450"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Myrtle Beach",
+                                "postalCode": "29572",
+                                "street1": "823 82nd Parkway"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "8433472450"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Mullins",
+                                "postalCode": "29574",
+                                "street1": "2835 East Highway 76"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "8433472450"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Atlantic Urology Clinics",
+                "numFollowers": 52,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Urology",
+                        "Prostate Health",
+                        "Bladder & Urinary Health",
+                        "Kidney Health",
+                        "Testosterone & Hormonal Health",
+                        "Vasectomy",
+                        "Erectile Dysfunction / Impotence"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.atlanticurologyclinics.com"
+            }
+        ]
+    }
+}

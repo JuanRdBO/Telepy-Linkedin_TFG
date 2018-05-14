@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7495593,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Schwalmstadt",
+                                "postalCode": "34613",
+                                "street1": "4 An Der Feuerwache"
+                            },
+                            "contactInfo": {
+                                "phone1": "066913766"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schreinerei J\u00fcrgen Schenk GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "schenk-tischlerei.de"
+            }
+        ]
+    }
+}

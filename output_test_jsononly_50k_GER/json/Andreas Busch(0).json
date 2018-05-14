@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7474254,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40479",
+                                "street1": "99 Moltkestra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0211445326"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Andreas Busch GmbH Sanit\u00e4r Und Heizung",
+                "numFollowers": 1,
+                "websiteUrl": "andreas-busch-sanitaer.de"
+            }
+        ]
+    }
+}

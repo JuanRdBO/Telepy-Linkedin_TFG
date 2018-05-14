@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7564317,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Amberg",
+                                "postalCode": "92224",
+                                "street1": "24a Drahthammerstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "09621179222"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Andrea Meyer, Psychotherapeutin",
+                "numFollowers": 2,
+                "websiteUrl": "psychotherapie-amberg-meyer.de"
+            }
+        ]
+    }
+}

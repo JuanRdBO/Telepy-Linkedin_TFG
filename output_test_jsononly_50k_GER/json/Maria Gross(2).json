@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 5493800,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "38",
+                            "name": "Bellas Artes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10001-5583",
+                                "street1": "511 W 25th St Ste 404"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 2126750222"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "MARGARET THATCHER PROJECTS, INC.",
+                "numFollowers": 15,
+                "websiteUrl": "http://www.thatcherprojects.com/"
+            }
+        ]
+    }
+}

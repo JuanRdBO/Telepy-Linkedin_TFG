@@ -1,0 +1,60 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 3844643,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "L\u00fcnen",
+                                "postalCode": "44536",
+                                "street1": "Zum Pier 70"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 231 880834-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Cenesco GmbH",
+                "numFollowers": 12,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "IT-Infrastruktur",
+                        "IT-Projekte",
+                        "Digitalisierung",
+                        "IT-Consulting",
+                        "IT-Strategie",
+                        "Systemhaus",
+                        "Informationssicherheit"
+                    ]
+                },
+                "websiteUrl": "www.cenesco.de"
+            }
+        ]
+    }
+}

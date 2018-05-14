@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 749,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 10772807,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Musselburgh",
+                                "postalCode": "EH2 1 6TR",
+                                "street1": "31 Denholm Drive"
+                            },
+                            "contactInfo": {
+                                "phone1": "+44 1316653461"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "David John",
+                "numFollowers": 2,
+                "websiteUrl": "http://davidjohnkitchens.co.uk"
+            }
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 19,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2010,
+                "id": 1113283,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "144",
+                            "name": "Energ\u00eda renovable y medio ambiente"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ottobrunn",
+                                "postalCode": "D-85221",
+                                "street1": "Einsteinstrasse 28a"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Monfalcone",
+                                "postalCode": "I-34074",
+                                "street1": "Piazzale Salvo di Acquisto 11"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+39-328-4683009"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Rome",
+                                "postalCode": "I-00167",
+                                "street1": "Via Baldo degli Ubaldi 111"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "A2Wind",
+                "numFollowers": 898,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Development of wind rotorblades",
+                        "wind turbine load calculations",
+                        "engineering services for wind industry",
+                        "composites implementation",
+                        "applied reasearch",
+                        "innovation",
+                        "technology transfer from aerospace industry."
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.a2wind.net"
+            }
+        ]
+    }
+}

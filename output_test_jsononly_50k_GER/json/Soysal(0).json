@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 15,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1996,
+                "id": 1315789,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "\u0130stanbul",
+                                "postalCode": "34398",
+                                "street1": "Noramin \u0130\u015f Merkezi, Maslak Mahallesi, B\u00fcy\u00fckdere Cad. "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "SOYSAL",
+                "numFollowers": 1217,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "E\u011fitim",
+                        "Dan\u0131\u015fmanl\u0131k",
+                        "\u0130nsan Kaynaklar\u0131",
+                        "Konferans",
+                        "Yay\u0131nlar",
+                        "Me\u00e7hul M\u00fc\u015fteri Uygulamas\u0131",
+                        "Saha Denetimi",
+                        "Yay\u0131nlar",
+                        "Perakende Kataloglar\u0131",
+                        "Soysal Perakende Okulu",
+                        "Perakende G\u00fcnleri",
+                        "Perakende Liderler Konferans\u0131",
+                        "Merhaba Dergisi",
+                        "G\u00f6rsel Ma\u011fazac\u0131l\u0131k"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.soysal.com.tr"
+            }
+        ]
+    }
+}

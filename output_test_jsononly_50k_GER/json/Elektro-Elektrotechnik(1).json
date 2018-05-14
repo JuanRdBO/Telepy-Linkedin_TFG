@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 162,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1961,
+                "id": 2493936,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Viernheim",
+                                "postalCode": "68519",
+                                "street1": "Wallstadter Str. 4"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 6204 965514",
+                                "phone1": "+49 6204 96550"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Heddesheim",
+                                "postalCode": "68542",
+                                "street1": "Beindstr. 1"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 6203 44532",
+                                "phone1": "+49 6203 41509"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Elektro-Helfrich GmbH",
+                "numFollowers": 15,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Elektrotechnik",
+                        "Service",
+                        "Consumer Electronics"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.helfrich.de"
+            }
+        ]
+    }
+}

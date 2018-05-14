@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7499632,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Uttenreuth",
+                                "postalCode": "91080",
+                                "street1": "1 Erlanger Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0913152527"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "B\u00e4ckerei Konditorei B\u00f6hm Andreas B\u00f6hm",
+                "numFollowers": 0,
+                "websiteUrl": "baeckerei-boehm.de"
+            }
+        ]
+    }
+}

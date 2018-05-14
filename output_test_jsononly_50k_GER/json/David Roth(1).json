@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 32,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2000,
+                "id": 3593274,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "110",
+                            "name": "Servicios de eventos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Philadelphia",
+                                "postalCode": "19107",
+                                "street1": "1326 Spruce Street,"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "215-923-0800"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "David Roth Group",
+                "numFollowers": 11,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Event Management",
+                        "Trade Show Exhibits",
+                        "Event Planning",
+                        "Sales Meetings",
+                        "Exhibit Management",
+                        "Sales & Promotional Events",
+                        "Employee & Client Appreciation Events",
+                        "Graphic Design",
+                        "Product Launches",
+                        "Incentive Programs"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.davidrothgroup.com"
+            }
+        ]
+    }
+}

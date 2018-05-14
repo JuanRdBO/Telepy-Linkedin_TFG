@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7457278,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frechen",
+                                "postalCode": "50226",
+                                "street1": "3 Wilhelm-Hoffstadt-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0223483117"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hausmeisterservice Ralf Keller",
+                "numFollowers": 0,
+                "websiteUrl": "hausmeister-nrw.com"
+            }
+        ]
+    }
+}

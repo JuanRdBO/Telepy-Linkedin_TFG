@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7538615,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": "50999",
+                                "street1": "Am Rheinufer 23A"
+                            },
+                            "contactInfo": {
+                                "phone1": "02236963616"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dentallabor Oliver Buchholz GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "dentallabor-buchholz.de"
+            }
+        ]
+    }
+}

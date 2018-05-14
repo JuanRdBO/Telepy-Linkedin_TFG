@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1994,
+                "id": 6109314,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "121",
+                            "name": "Seguridad e investigaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Eemnes",
+                                "postalCode": "3755 BT",
+                                "street1": "3A Bramenberg"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "035-5259918"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gooiland Beveiliging B.V.",
+                "numFollowers": 38,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Beveiliging / bewaking",
+                        "Alarmopvolging / sleutelbeheer",
+                        "Afwezigheid- en vakantieservice",
+                        "Evenementenbeveiliging",
+                        "Receptieservice / Telefoondiensten",
+                        "Mobiele surveillance"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.gooilandbeveiliging.nl"
+            }
+        ]
+    }
+}

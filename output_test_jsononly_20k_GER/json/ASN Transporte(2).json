@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2008,
+                "id": 2365054,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "116",
+                            "name": "Log\u00edstica y cadena de suministro"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Alcala de Henares",
+                                "postalCode": "28806",
+                                "street1": "C/  Montevideo, 10 Naves B y C"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "91.884.18.55"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Cibeles Logistics",
+                "numFollowers": 121,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Logistica Integral",
+                        "Logistica Inversa",
+                        "Deposito y Custodia",
+                        "Control de Calidad",
+                        "Soluciones optimizacion",
+                        "3PL",
+                        "Distribucion",
+                        "E-commerce",
+                        "B2B",
+                        "B2C",
+                        "Almacenaje",
+                        "Transporte",
+                        "Handling",
+                        "Servicios personalizados"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.cibeleslogistics.es"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 404,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 20648890,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "91",
+                            "name": "Servicio al consumidor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "BARNSLEY",
+                                "postalCode": "S75 2TX",
+                                "street1": "18 KENSINGTON ROAD"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "MSP DESIGN AND CONSULT LIMITED",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

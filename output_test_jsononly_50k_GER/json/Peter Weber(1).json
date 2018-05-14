@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 25,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12269725,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hochdorf",
+                                "postalCode": "73269",
+                                "street1": "10/1 Max-Eyth-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 715358424"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Peter Weber, Extrusions- Werkzeuge GmbH",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.weber-extrusionswerkzeuge.de"
+            }
+        ]
+    }
+}

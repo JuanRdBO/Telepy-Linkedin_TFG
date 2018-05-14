@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7398987,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kierspe",
+                                "postalCode": "58566",
+                                "street1": "1 Vor Der Mark"
+                            },
+                            "contactInfo": {
+                                "phone1": "0235991530"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Polytec Kai Schr\u00f6der GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "polytec-kierspe.de"
+            }
+        ]
+    }
+}

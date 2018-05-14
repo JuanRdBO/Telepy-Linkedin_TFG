@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12885742,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Cottbus",
+                                "postalCode": "03044",
+                                "street1": "13 Heidering"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 254575567"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Integral Projekt GmbH",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.integral-projekt.de"
+            }
+        ]
+    }
+}

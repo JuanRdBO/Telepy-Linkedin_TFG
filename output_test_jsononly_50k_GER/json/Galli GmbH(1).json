@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1980,
+                "id": 10589700,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dietzenbach",
+                                "postalCode": "63128",
+                                "street1": "Waldstra\u00dfe 23-D5"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "06074-3755-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "AMIGO Spiel + Freizeit GmbH",
+                "numFollowers": 38,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Kartenspiele",
+                        "Familienspiele",
+                        "Kinderspiele",
+                        "Sammelkartenspiele",
+                        "Event- und Turnierorganisation",
+                        "Vertriebspartnerschaften mit Spielwaren- und Verlagsbereich"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.amigo-spiele.de"
+            }
+        ]
+    }
+}

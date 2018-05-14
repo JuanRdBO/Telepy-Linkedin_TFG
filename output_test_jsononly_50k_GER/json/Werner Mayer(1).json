@@ -1,0 +1,45 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 24593160,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "132",
+                            "name": "E-learning"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Belo Horizonte",
+                                "postalCode": "30840-490",
+                                "street1": "R Desembargador Jose Satyro, 324, Apt 202"
+                            },
+                            "contactInfo": {
+                                "fax": "+55 3131324949",
+                                "phone1": "+55 3130174499"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Werner Turivio Franco Mayer 08568849601",
+                "numFollowers": 0,
+                "websiteUrl": "codesistemas.com.br"
+            }
+        ]
+    }
+}

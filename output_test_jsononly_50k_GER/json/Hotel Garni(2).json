@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 447,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 9044116,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "31",
+                            "name": "Hosteler\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad Reichenhall",
+                                "postalCode": "83435",
+                                "street1": "Mozartstr. 7"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 8651976"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Hotel Garni Salzburger Hof",
+                "numFollowers": 5,
+                "websiteUrl": "http://www.salzburgerhof.de"
+            }
+        ]
+    }
+}

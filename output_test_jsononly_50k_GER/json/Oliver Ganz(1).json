@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 13,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12236663,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Essel",
+                                "postalCode": "29690",
+                                "street1": "20 Hannoversche Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 51519961330"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Oliver Dr\u00f6se GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.dachdecker-droese.de"
+            }
+        ]
+    }
+}

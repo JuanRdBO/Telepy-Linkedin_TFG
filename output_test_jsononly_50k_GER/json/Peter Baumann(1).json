@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7432883,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rot",
+                                "postalCode": "88430",
+                                "street1": "4 Talstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "083953295"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Peter Baumann Landmaschinen",
+                "numFollowers": 1,
+                "websiteUrl": "baumann-land-gartentechnik.de"
+            }
+        ]
+    }
+}

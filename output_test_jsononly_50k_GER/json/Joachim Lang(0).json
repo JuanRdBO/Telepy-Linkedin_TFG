@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1990,
+                "id": 3843788,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad Kissingen",
+                                "postalCode": "97688",
+                                "street1": "Altenbergweg 6"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0971-84-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Heiligenfeld GmbH",
+                "numFollowers": 80,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Klinik f\u00fcr Psychosomatik",
+                        "Privatklinik bei Burnout, Depression, Angstst\u00f6rungen, etc."
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.heiligenfeld.de"
+            }
+        ]
+    }
+}

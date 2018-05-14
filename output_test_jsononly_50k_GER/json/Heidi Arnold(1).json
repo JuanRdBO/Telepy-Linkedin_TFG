@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 3279264,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Vero Beach",
+                                "postalCode": "32963",
+                                "street1": "One Beachside Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "772-388-2350"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Vero Beach",
+                                "postalCode": "32963",
+                                "street1": "One Beachside Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "772-388-3888"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Orchid Island Golf and Beach Club",
+                "numFollowers": 166,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Golf Club",
+                        "Beach and Tennis Club",
+                        "Private Gated Residential Community",
+                        "Orchid Island Realty",
+                        "Arnold Palmer Golf Course",
+                        "Certified Audubon Cooperative Sanctuary"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.orchidislandgolfandbeachclub.com"
+            }
+        ]
+    }
+}

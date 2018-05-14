@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7564524,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sankt Ingbert",
+                                "postalCode": "66386",
+                                "street1": "28 Ludwigstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "068942067"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ritter Michael Rechtsanwalt",
+                "numFollowers": 1,
+                "websiteUrl": "ramr.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7427618,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60326",
+                                "street1": "55 Schmidtstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0696300000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Herbert M\u00fcller GmbH & Co. KG",
+                "numFollowers": 0,
+                "websiteUrl": "elektro-mueller.de"
+            }
+        ]
+    }
+}

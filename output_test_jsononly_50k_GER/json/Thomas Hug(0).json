@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2016,
+                "id": 10784780,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "100",
+                            "name": "Gesti\u00f3n de organizaciones sin \u00e1nimo de lucro"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pt. Jefferson",
+                                "postalCode": "11777",
+                                "street1": "c/o Fortuna Investors LLC"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "631-743-9555"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "The Thomas Matthew Miloscia Foundation, Inc.",
+                "numFollowers": 7,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Targeted Donations for Cancer Research",
+                        "Funding Scholarship at Chaminade High School in memory of Thomas Matthew Miloscia",
+                        "Targeted Donations to Organizations assisting Cancer Patients and Families",
+                        "Targeted Donations to individual families fighting cancer"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.thomasmiloscia.com"
+            }
+        ]
+    }
+}

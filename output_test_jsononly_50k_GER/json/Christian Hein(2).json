@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12264210,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lamstedt",
+                                "postalCode": "21769",
+                                "street1": "8 Gro\u00dfe Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 47737777"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hans-Christian Hein",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.praxis-dr-hein.de"
+            }
+        ]
+    }
+}

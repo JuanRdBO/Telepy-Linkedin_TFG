@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2005,
+                "id": 709180,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Miami",
+                                "postalCode": "33137",
+                                "street1": "3250 NE 1 AVE #313"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "305-503-0421"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Miami",
+                                "postalCode": "33131",
+                                "street1": "261 NE 1 St, 3rd Floor"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Macias Creative- Integrated Creative Content & Brand Development",
+                "numFollowers": 451,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Integrated Creative Content, Brand Campaign Development, in-house Multi Media Content Production, Digital & Interactive Solutions, Content Distribution & Media,  Consumer Experiences, Cross Platform Branding, Product Development, and Accultrated Insights"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.maciascreative.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 24,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12551238,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "12489",
+                                "street1": "111 Wassermannstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3067895085"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Der Hundesalon Pfiffikuss",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.pfiffikuss-hundefriseur.de"
+            }
+        ]
+    }
+}

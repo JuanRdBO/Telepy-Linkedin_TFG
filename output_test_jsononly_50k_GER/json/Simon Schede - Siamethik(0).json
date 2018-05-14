@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2012,
+                "id": 2475202,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "8",
+                            "name": "Telecomunicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Torino",
+                                "postalCode": "10148",
+                                "street1": "Via Paolo Veronese, 216/A"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0112745925"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Cusano Milanino",
+                                "postalCode": "20095",
+                                "street1": "VIA G. VERDI 17/D"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "02/89080801"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "EXAD S.R.L.",
+                "numFollowers": 84,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.exad.it"
+            }
+        ]
+    }
+}

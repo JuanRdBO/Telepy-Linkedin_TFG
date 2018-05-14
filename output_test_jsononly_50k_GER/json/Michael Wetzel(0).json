@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2009,
+                "id": 862584,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "108",
+                            "name": "Traducci\u00f3n y localizaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "postalCode": "10407"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "michael wetzel kunst\u00fcbersetzer",
+                "numFollowers": 11,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Fach\u00fcbersetzungen ins Englische (US/GB) und Lektorat (US) im Bereich Kunst"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "www.kunstuebersetzer.de"
+            }
+        ]
+    }
+}

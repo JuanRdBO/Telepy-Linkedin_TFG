@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12567836,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "142",
+                            "name": "Vino y licor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Osann-Monzel",
+                                "postalCode": "54518",
+                                "street1": "Forstweg 3A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6535676"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Weingut Harald Ludwig",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.weingut-ludwig.de"
+            }
+        ]
+    }
+}

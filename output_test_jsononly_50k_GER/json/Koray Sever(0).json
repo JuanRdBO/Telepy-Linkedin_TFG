@@ -1,0 +1,57 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 18262408,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "38",
+                            "name": "Bellas Artes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "istanbul",
+                                "postalCode": "34000",
+                                "street1": "Piri Mehmet Pa\u015fa Mah Pri Pa\u015fa Sk"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Patinart Dizayn Tic. Ltd. \u015eti.",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Mimari Dan\u0131\u015fmanl\u0131k Uygulama ",
+                        "Resim",
+                        "Heykel",
+                        "Seramik"
+                    ]
+                },
+                "websiteUrl": "www.patinart.com.tr"
+            }
+        ]
+    }
+}

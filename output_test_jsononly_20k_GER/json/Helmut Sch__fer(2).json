@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7513889,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Schlangen",
+                                "postalCode": "33189",
+                                "street1": "8 Germaniastra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "05252973180"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Helmut Sch\u00e4fer Beteiligungs GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "zimmerei-schaefer.de"
+            }
+        ]
+    }
+}

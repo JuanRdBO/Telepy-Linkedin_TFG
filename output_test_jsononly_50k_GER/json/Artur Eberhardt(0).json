@@ -1,0 +1,46 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 24830321,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "56",
+                            "name": "Miner\u00eda y metalurgia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sao Paulo",
+                                "postalCode": "04744-040",
+                                "street1": "R Iguatinga, 248, Blc 1"
+                            },
+                            "contactInfo": {
+                                "phone1": "+55 1155210133"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Artur Eberhardt",
+                "numFollowers": 2,
+                "websiteUrl": "fermod.com.br"
+            }
+        ]
+    }
+}

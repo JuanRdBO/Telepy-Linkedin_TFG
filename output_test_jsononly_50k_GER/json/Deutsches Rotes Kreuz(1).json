@@ -1,0 +1,49 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 32,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 2195446,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "100",
+                            "name": "Gesti\u00f3n de organizaciones sin \u00e1nimo de lucro"
+                        }
+                    ]
+                },
+                "name": "Deutsches Rotes Kreuz in Hessen, Volunta gGmbH",
+                "numFollowers": 172,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "National & International Voluntary Services",
+                        "International Cooperation",
+                        "Academy",
+                        "Humanitarian Affairs"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.volunta.de"
+            }
+        ]
+    }
+}

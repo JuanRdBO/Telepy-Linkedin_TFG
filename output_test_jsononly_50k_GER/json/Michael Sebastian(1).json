@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 40,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1995,
+                "id": 2758186,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Potts Point",
+                                "postalCode": "2011",
+                                "street1": "46A Macleay Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Sydney",
+                                "postalCode": "2001",
+                                "street1": "GPO Box 1703"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Michael Cassel Group",
+                "numFollowers": 758,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Live Entertainment",
+                        "Musical Theatre",
+                        "Theatre",
+                        "Concerts",
+                        "Production",
+                        "Major Events",
+                        "Management",
+                        "International Touring"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.michaelcassel.com"
+            }
+        ]
+    }
+}

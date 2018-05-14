@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7559530,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bielefeld",
+                                "postalCode": "33602",
+                                "street1": "49 Niederwall"
+                            },
+                            "contactInfo": {
+                                "phone1": "05215600252"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rechtsanwalt Thomas K\u00f6nig",
+                "numFollowers": 0,
+                "websiteUrl": "koenig-ra.de"
+            }
+        ]
+    }
+}

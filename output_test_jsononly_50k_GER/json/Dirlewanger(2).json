@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12238439,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gundelfingen an der Donau",
+                                "postalCode": "89423",
+                                "street1": "20 Bahnhofstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 90737504"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fritz Dirlewanger",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.friseur-dirlewanger.de"
+            }
+        ]
+    }
+}

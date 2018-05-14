@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12309671,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "81543",
+                                "street1": "118 Sch\u00f6nstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 275665982"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Oliver Hofmann",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.oliverhofmann.de"
+            }
+        ]
+    }
+}

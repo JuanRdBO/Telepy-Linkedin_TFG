@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 18,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12235909,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Leipzig",
+                                "postalCode": "04179",
+                                "street1": "R\u00fcckmarsdorfer Str. 22A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 342066120"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Reinwald GmbH",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.reinwald.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 2000,
+                "id": 2861340,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "19",
+                            "name": "Industria textil y moda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Shenzhen",
+                                "postalCode": "518001",
+                                "street1": "No.1104, Foreign Trade Group Building, Zhongxing Road, Luohu District"
+                            },
+                            "contactInfo": {
+                                "fax": "86-755-25605010",
+                                "phone1": "86-755-25605095"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Shenzhen",
+                                "postalCode": "518010",
+                                "street1": "14th & 5th Building, Second Industrial Zone, Bantian"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "TWO'S INTERNATIONAL CO., LTD.",
+                "numFollowers": 72,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Metal Zipper, Nylon Zipper, Plastic Zipper, Puller, Long Chain",
+                        "Snap Button, Jens Button, Rivet, Eyelet",
+                        "Alloy Shank Button, Sewing Snap, Hook&Bar, Buckle",
+                        "Polyester Button, Natural Button"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.twos-cn.com"
+            }
+        ]
+    }
+}

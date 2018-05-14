@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7390636,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Xanten",
+                                "postalCode": "46509",
+                                "street1": "Am Kerkend 14A"
+                            },
+                            "contactInfo": {
+                                "phone1": "028011239"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Michael P\u00fctz Friseure",
+                "numFollowers": 0,
+                "websiteUrl": "michaelpuetzfriseure.com"
+            }
+        ]
+    }
+}

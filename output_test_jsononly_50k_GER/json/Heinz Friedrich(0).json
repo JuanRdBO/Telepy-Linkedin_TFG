@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 8,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7324644,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ebersdorf bei Coburg",
+                                "postalCode": "96237",
+                                "street1": "28 Ehrlicherstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0956294000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Heinz Friedrich GmbH",
+                "numFollowers": 8,
+                "websiteUrl": "hf-stoffe.de"
+            }
+        ]
+    }
+}

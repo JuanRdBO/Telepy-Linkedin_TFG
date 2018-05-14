@@ -1,0 +1,112 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 19,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1989,
+                "id": 2586453,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "56",
+                            "name": "Miner\u00eda y metalurgia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Heitersheim",
+                                "postalCode": "79423",
+                                "street1": "Schillerstrasse 3"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 7634 4634",
+                                "phone1": "+49 7634 4644"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Klein Windhoek",
+                                "postalCode": "",
+                                "street1": "P.O. Box 90438 Klein Windhoek"
+                            },
+                            "contactInfo": {
+                                "fax": "+ 264 61 225 317",
+                                "phone1": "+ 264 61 225 292"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bamako",
+                                "postalCode": "",
+                                "street1": "Rue 28, porte 112"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+223 2217489"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Pernik",
+                                "postalCode": "2302",
+                                "street1": "kv. Dimova Mahala, Targovski Complex"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "terratec geophysical services GmbH&Co.KG",
+                "numFollowers": 437,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "surface geophysics",
+                        "borehole logging",
+                        "borehole TDEM",
+                        "flexibility",
+                        "safety",
+                        "innovation",
+                        "teamwork",
+                        "Horizontal boreholes",
+                        "Induced Polarization 2D 3D"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.terratec-geoservices.com/"
+            }
+        ]
+    }
+}

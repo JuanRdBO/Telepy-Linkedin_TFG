@@ -1,0 +1,101 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 57,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1999,
+                "id": 2410044,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Santa Rosa",
+                                "postalCode": "95403",
+                                "street1": "420 Aviation Blvd.,"
+                            },
+                            "contactInfo": {
+                                "fax": "707-543-4910",
+                                "phone1": "707-543-4900"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "San Francisco",
+                                "postalCode": "94111",
+                                "street1": "601 Montgomery St.,"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "415-362-6598"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Sacramento",
+                                "postalCode": "95814",
+                                "street1": "400 Capitol Mall"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "916-573-6900"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Friedemann Goldberg LLP",
+                "numFollowers": 63,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Banking Law",
+                        "Business Law",
+                        "Entertainment/Sports Law",
+                        "Estate Planning",
+                        "Intellectual Property",
+                        "Litigation",
+                        "Tax Law",
+                        "Trust and Probate Adminstration",
+                        "Real Estate/Real Property",
+                        "Creditor's Rights/Bankruptcy",
+                        "Insurance Law"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.frigolaw.com"
+            }
+        ]
+    }
+}

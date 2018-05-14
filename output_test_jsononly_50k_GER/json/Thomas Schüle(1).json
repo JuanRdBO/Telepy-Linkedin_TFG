@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 16,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12195115,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "70",
+                            "name": "Investigaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Leverkusen",
+                                "postalCode": "51375",
+                                "street1": "Johannes-Dott-Stra\u00dfe 1A"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas-Morus-Schule",
+                "numFollowers": 3,
+                "websiteUrl": "http://morus.nw.lo-net2.de"
+            }
+        ]
+    }
+}

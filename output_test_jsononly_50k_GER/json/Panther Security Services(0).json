@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 8,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 4667230,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Houston",
+                                "postalCode": "77014-1275",
+                                "street1": "14125 Cornerstone Village"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 2812608807"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Panther Security Services",
+                "numFollowers": 11,
+                "websiteUrl": "http://www.panthersecurityservice.com/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 49,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "id": 208035,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "8",
+                            "name": "Telecomunicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Jakarta Pusat",
+                                "postalCode": "10340",
+                                "street1": "Jl. H. Agus Salim No. 45  Kel. Kebon Sirih, Menteng"
+                            },
+                            "contactInfo": {
+                                "fax": "021-319-00303",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "PT. SMART TELECOM",
+                "numFollowers": 10899,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "telecommunication",
+                        "CDMA 1x EVDO rev A",
+                        "CDMA EVDO rev B"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "SMART_Telecom",
+                "websiteUrl": "www.smart-telecom.co.id"
+            }
+        ]
+    }
+}

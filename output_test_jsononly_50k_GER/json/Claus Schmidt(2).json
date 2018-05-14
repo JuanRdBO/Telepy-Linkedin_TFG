@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12398352,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Delmenhorst",
+                                "postalCode": "27755",
+                                "street1": "73 D\u00fcsternortstra\u00dfe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Claus-Herbert Schmidt",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.fahrschule-claus-schmidt.de"
+            }
+        ]
+    }
+}

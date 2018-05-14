@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7364222,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Murnau am Staffelsee",
+                                "postalCode": "82418",
+                                "street1": "13 Johannisstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "088416277300"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Helmut Huber GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "huber-management.de"
+            }
+        ]
+    }
+}

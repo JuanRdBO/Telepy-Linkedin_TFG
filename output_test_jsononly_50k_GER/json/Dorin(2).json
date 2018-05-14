@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 119,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2000,
+                "id": 2903204,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "121",
+                            "name": "Seguridad e investigaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Indianapolis",
+                                "postalCode": "46204",
+                                "street1": "445 N Pennsylvania St #714"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "317-661-4866"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dorin and Sons Locks",
+                "numFollowers": 25,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Residential Locksmith",
+                        "Automotive Locksmith",
+                        "Commercial Locksmith",
+                        "Emergency Locksmith"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.myindianapolislocksmith.com"
+            }
+        ]
+    }
+}

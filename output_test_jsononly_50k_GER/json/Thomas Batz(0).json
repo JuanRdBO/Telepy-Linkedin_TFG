@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1993,
+                "id": 2243154,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Marburg",
+                                "postalCode": "35043",
+                                "street1": "Im Rudert 15"
+                            },
+                            "contactInfo": {
+                                "fax": "0049 6421 9915 199",
+                                "phone1": "0049 6421 9915 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "INOSOFT AG",
+                "numFollowers": 52,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Desktop Deployment",
+                        "SharePoint Development & Solutions",
+                        "Unified Communications Solutions",
+                        "Software Engineering",
+                        "Augmented Reality",
+                        "Mixed Reality",
+                        "Industry 4.0 Solutions"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.INOSOFT.de"
+            }
+        ]
+    }
+}

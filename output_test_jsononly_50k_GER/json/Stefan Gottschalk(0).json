@@ -1,0 +1,127 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1973,
+                "id": 3847512,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "22113",
+                                "street1": "Pinkertweg 20"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "040/7909079-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Sarstedt",
+                                "postalCode": "31157",
+                                "street1": "Wenderter Str. 12"
+                            },
+                            "contactInfo": {
+                                "fax": "05066/808-999",
+                                "phone1": "05066/808-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Griesheim",
+                                "postalCode": "64347",
+                                "street1": "Gerhart-Hauptmann-Str. 20"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "06155/8741-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Kissing",
+                                "postalCode": "86438",
+                                "street1": "Peterhofstr. 3 a"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "08233/7919-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "N\u00fcrnberg",
+                                "postalCode": "90427",
+                                "street1": "Gie\u00dfener Str. 30"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0911/950669-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Calanbau Brandschutzanlagen GmbH",
+                "numFollowers": 115,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "station\u00e4re L\u00f6schanlagen",
+                        "Sprinkleranlagen",
+                        "Schauml\u00f6schanlagen",
+                        "Spr\u00fchflutanlagen",
+                        "Brandmeldeanlagen",
+                        "Frostschutz f\u00fcr Srpinkleranlagen",
+                        "Planung & Konstruktion",
+                        "Errichtung & Installation",
+                        "Service & Wartung",
+                        "Notdienst",
+                        "Sprinklerwartschulungen"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.fire-protection-solutions.com"
+            }
+        ]
+    }
+}

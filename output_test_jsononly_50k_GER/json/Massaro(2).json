@@ -1,0 +1,90 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 74,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2007,
+                "id": 3014672,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pittsburgh",
+                                "postalCode": "15238",
+                                "street1": "120 Delta Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "412-963-2800"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Bellefonte",
+                                "postalCode": "16823",
+                                "street1": "136 W. High Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "814-867-2060"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Massaro Construction Management Services, LLC",
+                "numFollowers": 231,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Construction Management",
+                        "Agency Construction Management",
+                        "Building Information Modeling (BIM)",
+                        "Program Management",
+                        "Consulting",
+                        "Facility Assessments",
+                        "Claims Consultation",
+                        "Move Management",
+                        "K-12",
+                        "Higher Education",
+                        "Non-profit",
+                        "Commercial",
+                        "Government"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.massarocms.com"
+            }
+        ]
+    }
+}

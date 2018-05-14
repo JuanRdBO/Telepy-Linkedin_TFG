@@ -1,0 +1,96 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2011,
+                "id": 2657939,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Brighton",
+                                "postalCode": "BN1 3XF",
+                                "street1": "Queensbury House"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "01273 634737"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Caterham",
+                                "postalCode": "CR3 6PB",
+                                "street1": "Quadrant House"
+                            },
+                            "contactInfo": {
+                                "fax": "01883 330202",
+                                "phone1": "01883 330335"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "EC3V 9EA",
+                                "street1": "60 Lombard Street"
+                            },
+                            "contactInfo": {
+                                "fax": "0207 111 7709",
+                                "phone1": "0207 111 7708"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "YourRecruit IT Limited",
+                "numFollowers": 280,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Recruitment",
+                        "Information Technology",
+                        "Information, Advice and Guidance",
+                        "Provision of Technical Staff",
+                        "Specialist IT Recruitment",
+                        "Salary Guidance and Technology Market Information"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.yourrecruitit.com"
+            }
+        ]
+    }
+}

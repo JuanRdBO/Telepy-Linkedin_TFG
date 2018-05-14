@@ -1,0 +1,64 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 24,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2013,
+                "id": 5074378,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "105",
+                            "name": "Formaci\u00f3n profesional"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Brandywine",
+                                "postalCode": "20613",
+                                "street1": "PO Box 540"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Peter Hess\u00ae Academies, USA \u2013 MD & WI",
+                "numFollowers": 35,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Certification in the Peter Hess \u00ae Sound Massage Method",
+                        "Sales of Peter Hess \u00ae Therapy Bowls",
+                        "Peter Hess \u00ae Sound Massage"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://peter-hess-academy.com"
+            }
+        ]
+    }
+}

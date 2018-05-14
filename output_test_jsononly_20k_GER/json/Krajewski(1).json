@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 41,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 23943468,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "137",
+                            "name": "Recursos humanos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Heist-op-den-Berg",
+                                "postalCode": "2223",
+                                "street1": "70 Leo Kempenaersstraat"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Krajewski, Ulrike",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

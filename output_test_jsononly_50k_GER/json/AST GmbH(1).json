@@ -1,0 +1,92 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 32,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2008,
+                "id": 2798570,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "117",
+                            "name": "Pl\u00e1sticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wauconda",
+                                "postalCode": "60084",
+                                "street1": "235 Industrial Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "847-487-1000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "AST Technology",
+                "numFollowers": 181,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Mold Monitoring Devices",
+                        "System Cooling Test Rig",
+                        "CVe Monitor & CVe Live",
+                        "System Cooling"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.asttech.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1990,
+                "id": 17908153,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": "50677",
+                                "street1": "Maria-Hilf-Stra\u00dfe 15"
+                            },
+                            "contactInfo": {
+                                "fax": "+49(0)221 3100833",
+                                "phone1": "+49(0)221 2718060"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ASTOC ARCHITECTS AND PLANNERS",
+                "numFollowers": 91,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "St\u00e4dtebau",
+                        "Architektur",
+                        "Generalplanung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.astoc.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1966,
+                "id": 18459738,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "56",
+                            "name": "Miner\u00eda y metalurgia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "S\u00fcdlohn",
+                                "postalCode": "46354 ",
+                                "street1": " Eichendorffstra\u00dfe 62"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Halberstadt",
+                                "postalCode": "38820",
+                                "street1": "In den langen St\u00fccken 19"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "BAUER GmbH",
+                "numFollowers": 16,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Stapler-Anbauger\u00e4te",
+                        "Umwelt-Lagertechnik",
+                        "Gefahrgut-Container",
+                        "Wertstoff- und Abfallcontainer"
+                    ]
+                },
+                "websiteUrl": "www.bauer-suedlohn.de"
+            }
+        ]
+    }
+}

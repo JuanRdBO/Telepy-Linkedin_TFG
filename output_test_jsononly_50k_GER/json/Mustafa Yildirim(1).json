@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2000,
+                "id": 3727922,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "23",
+                            "name": "Producci\u00f3n alimentaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Edincik",
+                                "postalCode": "10640",
+                                "street1": "Gelincik Kuyusu Mevkii"
+                            },
+                            "contactInfo": {
+                                "fax": "02667271553",
+                                "phone1": "02667271586"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Toprak Tar\u0131m G\u0131da Yem Ta\u015f.Hay. San. Ve Tic. Ltd. \u015eti.",
+                "numFollowers": 177,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.tekyem.com"
+            }
+        ]
+    }
+}

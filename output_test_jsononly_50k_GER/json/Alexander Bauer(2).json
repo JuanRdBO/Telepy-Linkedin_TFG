@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2006,
+                "id": 10167445,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "83",
+                            "name": "Imprenta"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Linz",
+                                "postalCode": "4020",
+                                "street1": "Zamenhofstrasse 43-45"
+                            },
+                            "contactInfo": {
+                                "fax": "0043 732 610 173",
+                                "phone1": "0043 732 660 861"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Global-print.com - \u00d6sterreichs Onlinedruckerei",
+                "numFollowers": 8,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Onlinedruckerei",
+                        "Offsetdruck",
+                        "Digitaldruck",
+                        "Internetdruckerei",
+                        "Brosch\u00fcren drucken",
+                        "Flyer drucken",
+                        "Drucksorten online bestellen",
+                        "Folder drucken",
+                        "Werbebanner drucken",
+                        "Visitenkarten drucken",
+                        "Plakate drucken",
+                        "Postkarten drucken",
+                        "Rollups drucken"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.global-print.com"
+            }
+        ]
+    }
+}

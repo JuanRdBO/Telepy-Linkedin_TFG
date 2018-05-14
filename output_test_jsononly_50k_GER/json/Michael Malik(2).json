@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2014,
+                "id": 18112129,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "47",
+                            "name": "Contabilidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Brisbane",
+                                "postalCode": "4000",
+                                "street1": "Po Box 100 Undwerwood Qld 4119"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Sandgate",
+                                "postalCode": "4017",
+                                "street1": "PO Box 425"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Worth Accounting Pty Ltd",
+                "numFollowers": 4,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Accounting",
+                        "Audit",
+                        "Tax",
+                        "Assurance",
+                        "Business Support",
+                        "Consultancy",
+                        "Bookkeeping"
+                    ]
+                },
+                "websiteUrl": "www.worthaccounting.com.au"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 90,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 28054316,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "PUNE",
+                                "postalCode": "410501",
+                                "street1": "PLOT NO 22 WMDCCHAKAN INDUSTRIAL COMLEX KHED"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "MARTIN FRANK (MOTION-CONTROL) PRIVATE LIMITED",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

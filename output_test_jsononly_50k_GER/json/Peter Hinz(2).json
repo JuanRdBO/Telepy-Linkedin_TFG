@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2004,
+                "id": 5223498,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "1",
+                            "name": "Departamento de defensa y del espacio exterior"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Herndon",
+                                "postalCode": "20171",
+                                "street1": "2465 Centreville Rd J17-730"
+                            },
+                            "contactInfo": {
+                                "fax": "703-842-8525",
+                                "phone1": "703-283-5890"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hinz Consulting",
+                "numFollowers": 72,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Business Development",
+                        "Strategy Facilitation",
+                        "Capture Management",
+                        "Proposal Management",
+                        "Proposal Writing",
+                        "Technical Writing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.hinzconsulting.com"
+            }
+        ]
+    }
+}

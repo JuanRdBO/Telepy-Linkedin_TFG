@@ -1,0 +1,76 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1967,
+                "id": 3108591,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "112",
+                            "name": "Manufactura el\u00e9ctrica y electr\u00f3nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Erice",
+                                "postalCode": "91100",
+                                "street1": "S.P. km 5,3 C/da S. Cusumano"
+                            },
+                            "contactInfo": {
+                                "fax": "+39 0923 567880",
+                                "phone1": "+39 0923 562794"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Layer Electronics s.r.l.",
+                "numFollowers": 1428,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Power electronics converters",
+                        "Industrial U.P.S.",
+                        "Electronic stabilizers",
+                        "Frequency converters",
+                        "Inverters",
+                        "Power supplies / Battery chargers",
+                        "Transformers",
+                        "Renewable energies",
+                        "Solar energy",
+                        "Wind energy",
+                        "On- and off-grid solutions",
+                        "Custom-made converters"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.layer.it"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 35,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 8912748,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Schlieren",
+                                "postalCode": "8952",
+                                "street1": "Bernstrasse 59"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Z\u00fcrich",
+                                "postalCode": "8008",
+                                "street1": "Dufourstrasse 182"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Porsche Zentrum Z\u00fcrich",
+                "numFollowers": 44,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Sportwagen",
+                        "SUV",
+                        "E-Mobility",
+                        "Karosserie & Lack",
+                        "Restaurierungen",
+                        "Porsche Service",
+                        "Porsche Classic Partner"
+                    ]
+                },
+                "websiteUrl": "http://www.porsche-zuerich.ch"
+            }
+        ]
+    }
+}

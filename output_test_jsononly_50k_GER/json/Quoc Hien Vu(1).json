@@ -1,0 +1,81 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 232,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "H",
+                    "name": "5001-10000"
+                },
+                "foundedYear": 1993,
+                "id": 540286,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "41",
+                            "name": "Actividades bancarias"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ho Chi Minh City",
+                                "postalCode": "",
+                                "street1": "442 Nguyen Thi Minh Khai st., ward 5, dist.3"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+84.8.39290999"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Hanoi",
+                                "postalCode": "",
+                                "street1": "10 Phan Chu Trinh st., Hoan Kiem Dist.,"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ACB - Asia Commercial Bank",
+                "numFollowers": 2090,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Commercial Banking",
+                        "Financial Markets",
+                        "Retail Banking",
+                        "Corporate Banking"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.acb.com.vn"
+            }
+        ]
+    }
+}

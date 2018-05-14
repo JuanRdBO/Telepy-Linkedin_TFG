@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 17,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 1569354,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "98",
+                            "name": "Relaciones p\u00fablicas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10001",
+                                "street1": "875 6th Avenue, Suite 1708"
+                            },
+                            "contactInfo": {
+                                "fax": "212-730-4811",
+                                "phone1": "212-730-4807"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gourvitz Communications",
+                "numFollowers": 15,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Broadcast PR",
+                        "Internet Media Tours (IMT)",
+                        "Satellite Media Tours (SMT)",
+                        "Co-Op SMTs",
+                        "Video Production",
+                        "B-roll Production",
+                        "TV Pitching Services",
+                        "Radio Pitching Services",
+                        "Audio News Releases (ANR)",
+                        "Multimedia News Releases (MNR)",
+                        "Sizzle Reels"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.gourvitzcommunications.com"
+            }
+        ]
+    }
+}

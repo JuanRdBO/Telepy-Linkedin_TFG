@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "id": 18029308,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "126",
+                            "name": "Producci\u00f3n multimedia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen ",
+                                "postalCode": "80331"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Success Stories Show",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Success Stories ",
+                        "Feminism ",
+                        "Frauen",
+                        "Erfolgsgeschichten ",
+                        "TV Format",
+                        "Moderation",
+                        "Frauenpower",
+                        "Talk",
+                        "Interview ",
+                        "Networking",
+                        "Startup",
+                        "Mindset",
+                        "Information",
+                        "Wissenswert"
+                    ]
+                },
+                "websiteUrl": "https://www.youtube.com/channel/UCgIES4Wg5Bx8R_YKz-zGfqA"
+            }
+        ]
+    }
+}

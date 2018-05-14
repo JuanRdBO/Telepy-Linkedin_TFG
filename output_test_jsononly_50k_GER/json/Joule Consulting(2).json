@@ -1,0 +1,40 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 14,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 20736852,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "129",
+                            "name": "Mercados capitales"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "postalCode": "W1J 5EN",
+                                "street1": "48 CHARLES STREET"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "JOULE CONSULTING GROUP LIMITED",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

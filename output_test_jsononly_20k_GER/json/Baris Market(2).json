@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1991,
+                "id": 18149956,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "146",
+                            "name": "Embalaje y contenedores\n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Istanbul",
+                                "postalCode": "34325",
+                                "street1": "Firuzkoy Mh. Baglarici Cd. No:73 Avcilar"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Amstelveen",
+                                "postalCode": "1186 CJ",
+                                "street1": "Stromboli 18"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Europe Packaging",
+                "numFollowers": 7,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Packaging Boxes",
+                        "Automotive Spare Parts Packaging",
+                        "OEM Packaging Supplier",
+                        "OES Packaging Supplier",
+                        "IAM Packaging Supplier"
+                    ]
+                },
+                "websiteUrl": "www.europepackaging.com"
+            }
+        ]
+    }
+}

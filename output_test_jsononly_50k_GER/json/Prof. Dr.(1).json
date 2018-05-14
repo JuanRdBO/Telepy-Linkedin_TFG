@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 1282,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "id": 441416,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "14",
+                            "name": "Atenci\u00f3n sanitaria y hospitalaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt",
+                                "postalCode": "60313",
+                                "street1": "Br\u00f6nnerstrasse 15"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "069-4033-539"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Prof. Dr. J\u00fcrgen Ahlers",
+                "numFollowers": 95,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Unfallchirurgie",
+                        "Orthop\u00e4die",
+                        "Physikalische Therapie",
+                        "Radiologie"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.unfallchirurgie.com"
+            }
+        ]
+    }
+}

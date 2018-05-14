@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12699416,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Weinheim",
+                                "postalCode": "69469",
+                                "street1": "24 Saarbr\u00fcckener Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6201257524"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wolfgang Hofmann Wasserbetten Hofmann",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.wasserbetten-hofmann.de"
+            }
+        ]
+    }
+}

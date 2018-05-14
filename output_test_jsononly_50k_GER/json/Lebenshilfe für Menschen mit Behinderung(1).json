@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 19,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1969,
+                "id": 784999,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "90",
+                            "name": "Organizaci\u00f3n c\u00edvica y social"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lauf a.d.Peg.",
+                                "postalCode": "91207",
+                                "street1": "Nessenm\u00fchlstr.35"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "09123 97 50 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Lebenshilfe N\u00fcrnberger Land e. V.",
+                "numFollowers": 86,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Fr\u00fchf\u00f6rderung",
+                        "F\u00f6rderzentrum geistige Entwicklung",
+                        "Kindertagesst\u00e4tten, Kinderkrippe",
+                        "WfbM",
+                        "Wohnheime",
+                        "F\u00f6rderst\u00e4tten",
+                        "FED (Familienentlastungsdienst)"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "http://www.twitter.com/lebenshilfe4u",
+                "websiteUrl": "http://www.lebenshilfe-nbg-land.de"
+            }
+        ]
+    }
+}

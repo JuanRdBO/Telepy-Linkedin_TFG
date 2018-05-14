@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "G",
+                    "name": "Government Agency"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1260,
+                "id": 379309,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "75",
+                            "name": "Administraci\u00f3n gubernamental"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Vianen",
+                                "postalCode": "4132 AS",
+                                "street1": "Voorstraat 30"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0347-369911"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gemeente Vianen",
+                "numFollowers": 916,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Gemeente",
+                        "Overheid",
+                        "Local government",
+                        "Dienstverlening bedrijven",
+                        "Dienstverlening burgers"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.vianen.nl"
+            }
+        ]
+    }
+}

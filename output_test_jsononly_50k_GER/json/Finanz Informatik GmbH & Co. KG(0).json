@@ -1,0 +1,91 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "id": 388882,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60486",
+                                "street1": "Theodor-Heuss-Allee 90"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 69 7 43 29  88 00",
+                                "phone1": "+49 69 7 43 29  0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Hannover",
+                                "postalCode": "30539",
+                                "street1": "Laatzener Stra\u00dfe 5"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 511 51 02  2 22 97",
+                                "phone1": "+49 511 51 02  0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "M\u00fcnster",
+                                "postalCode": "48147",
+                                "street1": "Nevinghoff 25"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 251 2 88 3 90 15",
+                                "phone1": "+49 2 51 2 88 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Finanz Informatik GmbH & Co. KG",
+                "numFollowers": 1134,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Gesamtbankenl\u00f6sungen",
+                        "IT-Services"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.f-i.de"
+            }
+        ]
+    }
+}

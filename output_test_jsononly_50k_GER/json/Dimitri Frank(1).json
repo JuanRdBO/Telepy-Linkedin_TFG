@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2004,
+                "id": 785997,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "111",
+                            "name": "Artesan\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Amsterdam",
+                                "postalCode": "1015EA",
+                                "street1": "Prinsengracht 110bg"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+31 20 4230489"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rockarchive",
+                "numFollowers": 30,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.rockarchive.nl"
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 419,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1939,
+                "id": 142569,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "23",
+                            "name": "Producci\u00f3n alimentaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Philadelphia",
+                                "postalCode": "19135",
+                                "street1": "5701 Tacony St"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "215-831-9000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Baltimore",
+                                "postalCode": "",
+                                "street1": "Parks Circle Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "1-800-333-1974"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Dietz and Watson",
+                "numFollowers": 2118,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Natural flavors never use artifical / Gluteen Free/ No MSG",
+                        "All Natural Nitrie Free"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.dietzandwatson.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 2009,
+                "id": 3220598,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ingolstadt",
+                                "postalCode": "85055",
+                                "street1": "Despag-Str. 4a"
+                            },
+                            "contactInfo": {
+                                "fax": "Telefax +49 8458 3332-333",
+                                "phone1": "+49 8458 3332-100"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Erlangen",
+                                "postalCode": "91058",
+                                "street1": "Am Wolfsmantel 46"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Ulm",
+                                "postalCode": "89081",
+                                "street1": "Lise-Meitner-Strasse 10"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "e.solutions GmbH",
+                "numFollowers": 1118,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Infotainment",
+                        "MMI",
+                        "Smart Display",
+                        "Virtual Cockpit"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.esolutions.de"
+            }
+        ]
+    }
+}

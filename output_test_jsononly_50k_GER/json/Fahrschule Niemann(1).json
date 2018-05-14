@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12553041,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oldenburg",
+                                "postalCode": "26131",
+                                "street1": "150 Hundsm\u00fchler Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 4415040575"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fahrschule Rolf Niemann",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.fs-niemann.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1996,
+                "id": 26362,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70435",
+                                "street1": "Schwieberdinger Stra\u00dfe 56"
+                            },
+                            "contactInfo": {
+                                "fax": "+44 (0) 1225 581 150",
+                                "phone1": "+44 (0) 1225 321 888"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70435",
+                                "street1": "Schwieberdinger Stra\u00dfe 56"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0)711 138183-10",
+                                "phone1": "+49 (0)711 138183-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "La Celle Saint Cloud",
+                                "postalCode": "78170",
+                                "street1": "10 Avenue du Clos Toutain"
+                            },
+                            "contactInfo": {
+                                "fax": "+33 (0) 897505900",
+                                "phone1": "+33 (0) 612401680"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "21013 Gallarate (VA)",
+                                "postalCode": "",
+                                "street1": "Via Carlo No\u00e8, 45"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "QA Systems - The Software Quality Company",
+                "numFollowers": 297,
+                "specialties": {
+                    "_total": 18,
+                    "values": [
+                        "Unit Test",
+                        "Testing Consultancy",
+                        "Integration Test",
+                        "Automated Test Tools",
+                        "Embedded Testing",
+                        "Code Coverage",
+                        "DO-178B/C",
+                        "Safety Critical",
+                        "C/C++",
+                        "Ada",
+                        "SGS TUV Certified",
+                        "IEC 61508",
+                        "ISO 26262",
+                        "EN 50128",
+                        "FDA / IEC 62304",
+                        "Dynamic Analysis",
+                        "IEC 60880",
+                        "Static Sourcecode Analysis"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.qa-systems.com/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12407516,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Nalbach",
+                                "postalCode": "66809",
+                                "street1": "11 Ziegelei"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 68387713"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kanalreinigung Bernd Jager",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.jagerkanalreinigung.de"
+            }
+        ]
+    }
+}

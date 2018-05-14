@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12759861,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rinteln",
+                                "postalCode": "31737",
+                                "street1": "1 Am Stumpfen Turm"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 57512066"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Axel Becker KG",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.axel-becker-kg.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1987,
+                "id": 27195657,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "75001",
+                                "street1": "8 rue de la vrilli\u00e8re"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wolkoff et Arnodin",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 15,
+                    "values": [
+                        "Communication",
+                        "Cr\u00e9ation",
+                        "Marketing",
+                        "Identit\u00e9 visuelle",
+                        "Conseil strat\u00e9gique",
+                        "Plateforme de marque",
+                        "Branding",
+                        "\u00c9dition",
+                        "Identit\u00e9 visuelle",
+                        "Shooting",
+                        "Cr\u00e9ation site internet",
+                        "Expertise Chine",
+                        "Luxe",
+                        "Mode",
+                        "Beaut\u00e9"
+                    ]
+                },
+                "websiteUrl": "http://wolkoff-arnodin.com/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1994,
+                "id": 15077629,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Linz",
+                                "postalCode": "4020",
+                                "street1": "Hopfengasse 25"
+                            },
+                            "contactInfo": {
+                                "fax": "0043 732 65 18 18 83",
+                                "phone1": "0043 732 65 18 18 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "INVENT Marketing und Tourismus GmbH",
+                "numFollowers": 30,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Motivationsprodukte",
+                        "Kundenbindungs- und Bonusprogramme",
+                        "Premium Hotelauswahl",
+                        "Incentive in Verkaufswettbewerben",
+                        "Empfehlungsmarketing",
+                        "Geschenk an Kunden, Mitarbeiter, H\u00e4ndler",
+                        "Anerkennung f\u00fcr \u00fcberdurchschnittliche Leistungen"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.invent-europe.com"
+            }
+        ]
+    }
+}

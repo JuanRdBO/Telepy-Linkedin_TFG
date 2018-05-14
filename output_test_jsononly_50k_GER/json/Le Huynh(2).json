@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 23,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 24159293,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "22",
+                            "name": "Supermercados"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "DRAMMEN",
+                                "postalCode": "3044",
+                                "street1": "Mallinggata 2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "SAIGON IMPORT MY DUNG LE HUYNH",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

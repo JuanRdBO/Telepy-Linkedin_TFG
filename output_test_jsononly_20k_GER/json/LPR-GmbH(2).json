@@ -1,0 +1,54 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 2011,
+                "id": 17920378,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "116",
+                            "name": "Log\u00edstica y cadena de suministro"
+                        }
+                    ]
+                },
+                "name": "ESLA - European Service Logistics Association",
+                "numFollowers": 32,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "European Night Express Logistics",
+                        "European network of Forward Stock Locations",
+                        "European network of Pick up Drop Off Points",
+                        "Spare Parts Warehousing",
+                        "Technical Courier Services",
+                        "SWAP Services",
+                        "Same Day Delivery Services",
+                        "Reverse Logistics & Waste Management"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "esla.info"
+            }
+        ]
+    }
+}

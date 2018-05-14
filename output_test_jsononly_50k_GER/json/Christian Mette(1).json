@@ -1,0 +1,85 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 10189896,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Cesena",
+                                "postalCode": "47521",
+                                "street1": "Via Cavalcavia, 90"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "054720583"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Cesenatico",
+                                "postalCode": "47042",
+                                "street1": "Viale Roma, 53"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0547-84278"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Generali Ina Assitalia Cesena Nord",
+                "numFollowers": 22,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "assicurazioni rca",
+                        "assicurazioni infortuni e malattia",
+                        "assicurazioni casa",
+                        "rischio impresa",
+                        "rischio commmercio",
+                        "assicurazioni rischi professionali",
+                        "assicurazioni caso morte e non autosufficienza",
+                        "investimenti",
+                        "piani di risparmio e previdenziali"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.generali.it"
+            }
+        ]
+    }
+}

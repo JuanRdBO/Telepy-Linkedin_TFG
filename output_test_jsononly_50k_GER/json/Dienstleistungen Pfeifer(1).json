@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12547282,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Chemnitz",
+                                "postalCode": "09224",
+                                "street1": "8 An Der Wiesenm\u00fchle"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 371382630"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Getr\u00e4nke Pfeifer GmbH",
+                "numFollowers": 16,
+                "websiteUrl": "http://www.getraenke-pfeifer.de"
+            }
+        ]
+    }
+}

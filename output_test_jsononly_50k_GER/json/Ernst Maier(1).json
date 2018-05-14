@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12804226,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Altenmarkt an der",
+                                "postalCode": "83352",
+                                "street1": "70 Wasserburger Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 862150820"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ernst Maier Spielplatzger\u00e4te GmbH",
+                "numFollowers": 6,
+                "websiteUrl": "http://www.spielplatzgeraete-maier.de"
+            }
+        ]
+    }
+}

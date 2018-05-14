@@ -1,0 +1,47 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 6198415,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "90",
+                            "name": "Organizaci\u00f3n c\u00edvica y social"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Altenholz",
+                                "postalCode": "24161",
+                                "street1": "Vordere Wurth 2a"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 4316514"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Lebenshilfe f\u00fcr Menschen mit geistiger Behinderung Ortsvereinigung Kiel e. V.",
+                "numFollowers": 57
+            }
+        ]
+    }
+}

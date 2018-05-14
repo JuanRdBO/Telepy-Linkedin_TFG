@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 1543,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12228612,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Waltrop",
+                                "postalCode": "45731",
+                                "street1": "62 Kieselstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 230973044"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "G\u00fcnther",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.anwalt-waltrop.de"
+            }
+        ]
+    }
+}

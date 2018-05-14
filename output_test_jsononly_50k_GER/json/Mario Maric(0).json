@@ -1,0 +1,45 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "foundedYear": 2015,
+                "id": 20941499,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "TEDDINGTON",
+                                "postalCode": "TW11 0HS",
+                                "street1": "31 QUEENS HOUSE LITTLE QUEENS ROAD"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "RAINMAR LTD",
+                "numFollowers": 2,
+                "websiteUrl": "http://rainmar.uk"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 25,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 25827236,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "ROSULT",
+                                "postalCode": "59230",
+                                "street1": "288 RUE DES ROSIERS"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "GULDNER CHRISTELLE",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

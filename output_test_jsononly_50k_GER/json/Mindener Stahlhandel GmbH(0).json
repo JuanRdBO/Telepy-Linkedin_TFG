@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7380429,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Minden",
+                                "postalCode": "32423",
+                                "street1": "18 Potsdamer Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "05713885070"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Mindener Stahlhandel GmbH",
+                "numFollowers": 7,
+                "websiteUrl": "mindener-stahlhandel.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 5956747,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "139",
+                            "name": "Atenci\u00f3n a la salud mental"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Amarillo",
+                                "postalCode": "79118",
+                                "street1": "6900 I H 40 W"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 8063554460"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Nina Stein LPC Lmft",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

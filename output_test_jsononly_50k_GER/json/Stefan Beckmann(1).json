@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1934,
+                "id": 1232909,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "60",
+                            "name": "Sector textil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Aachen",
+                                "postalCode": "52074",
+                                "street1": "Otto-Blumenthal-Str.1"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 241 80 22422",
+                                "phone1": "+49 241 80 23400"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Institut f\u00fcr Textiltechnik der RWTH Aachen University",
+                "numFollowers": 1140,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "textile machines",
+                        "textile processes.",
+                        "composites",
+                        "polymer technology",
+                        "high performance fibre materials",
+                        "textile preforming",
+                        "smart textiles",
+                        "medicine technology",
+                        "mechanical engineering"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ita.rwth-aachen.de"
+            }
+        ]
+    }
+}

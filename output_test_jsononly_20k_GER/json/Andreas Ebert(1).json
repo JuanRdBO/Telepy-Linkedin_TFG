@@ -1,0 +1,108 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1992,
+                "id": 383273,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "41",
+                            "name": "Actividades bancarias"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bochum",
+                                "postalCode": "44787",
+                                "street1": "Huestr. 17-19"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Frankfurt a.M.",
+                                "postalCode": "60322",
+                                "street1": "Eschersheimer Landstr. 49"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Ipswich",
+                                "postalCode": "IP1 3HS",
+                                "street1": "Crown House"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Brussels",
+                                "postalCode": "B-1000",
+                                "street1": "Warandeberg 3"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Crown Credit Services GmbH i.L.",
+                "numFollowers": 24,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Primary Servicing",
+                        "Special Servicing",
+                        "Outsourcing Solutions",
+                        "Portfolio Due Diligence",
+                        "Advisory"
+                    ]
+                },
+                "status": {
+                    "code": "OOB",
+                    "name": "Out of Business"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.crowngroupeurope.com"
+            }
+        ]
+    }
+}

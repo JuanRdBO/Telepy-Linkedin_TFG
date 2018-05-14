@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4409,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 11602931,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bathgate",
+                                "postalCode": "EH4 8 4LD",
+                                "street1": "Ballencrieff Reservoir"
+                            },
+                            "contactInfo": {
+                                "phone1": "+44 1506630808"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "The Vu",
+                "numFollowers": 2,
+                "websiteUrl": "http://thevu.co.uk"
+            }
+        ]
+    }
+}

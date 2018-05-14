@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7496119,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Idar-Oberstein",
+                                "postalCode": "55743",
+                                "street1": "37 Schachenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "067819640"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Heinz Mayer Ohg",
+                "numFollowers": 1,
+                "websiteUrl": "heinzmayer.de"
+            }
+        ]
+    }
+}

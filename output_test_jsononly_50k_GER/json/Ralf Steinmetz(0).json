@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7451709,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Framersheim",
+                                "postalCode": "55234",
+                                "street1": "20 Kirchstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "06733969264"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ralf Steinmetz",
+                "numFollowers": 0,
+                "websiteUrl": "steinmetzterrarienbau.de"
+            }
+        ]
+    }
+}

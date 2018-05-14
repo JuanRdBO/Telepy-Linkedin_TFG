@@ -1,0 +1,52 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2009,
+                "id": 1944915,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "105",
+                            "name": "Formaci\u00f3n profesional"
+                        }
+                    ]
+                },
+                "name": "Karakteradvies",
+                "numFollowers": 7,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Pedagogiek",
+                        "Persoonlijke ontwikkeling",
+                        "Communicatie",
+                        "Onwerpen trainingsmateriaal",
+                        "Individuele werkbegeleiding (coaching)",
+                        "Teamontwikkeling"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.karakteradvies.nl"
+            }
+        ]
+    }
+}

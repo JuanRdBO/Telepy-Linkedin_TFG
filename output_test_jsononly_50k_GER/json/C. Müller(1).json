@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 59,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12549064,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "N\u00fcrnberg",
+                                "postalCode": "90427",
+                                "street1": "23 Offenbacher Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 911301911"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "C. M\u00fcller - Rund Ums Haus",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.c-mueller.biz"
+            }
+        ]
+    }
+}

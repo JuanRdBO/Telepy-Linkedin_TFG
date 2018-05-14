@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2001,
+                "id": 16097653,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "148",
+                            "name": "Relaciones gubernamentales"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "WOODBRIDGE",
+                                "postalCode": "22191",
+                                "street1": "485 HARBOR SIDE STREET"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Palmetto",
+                                "postalCode": "34221",
+                                "street1": "1219 3rd Street Drive East"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "HARTWELL CAPITOL CONSULTING",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Lobbying",
+                        "Funding",
+                        "Technology",
+                        "Consulting",
+                        "Energy"
+                    ]
+                },
+                "websiteUrl": "http://hartwellcapitolconsulting.com"
+            }
+        ]
+    }
+}

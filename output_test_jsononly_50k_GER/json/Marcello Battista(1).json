@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2000,
+                "id": 2237279,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "111",
+                            "name": "Artesan\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Jesi",
+                                "postalCode": "60035",
+                                "street1": "Piazza della Repubblica, 9"
+                            },
+                            "contactInfo": {
+                                "fax": "+39 0731 226460",
+                                "phone1": "+39 0731 202944"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Jesi",
+                                "postalCode": "60035",
+                                "street1": "Piazza Federico II, 4"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Fondazione Pergolesi Spontini",
+                "numFollowers": 495,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Produzione teatrale",
+                        "Stagione Lirica",
+                        "Festival Pergolesi Spontini",
+                        "Formazione professionale"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "fpsjesi",
+                "websiteUrl": "www.fondazionepergolesispontini.com"
+            }
+        ]
+    }
+}

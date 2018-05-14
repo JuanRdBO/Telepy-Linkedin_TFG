@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 1834,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1908,
+                "id": 1589556,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Manhattan Beach",
+                                "postalCode": "90266",
+                                "street1": "1230 Rosecrans Ave. Suite 160"
+                            },
+                            "contactInfo": {
+                                "fax": "310.798.8883",
+                                "phone1": "310.798.3123"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Braun",
+                "numFollowers": 440,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Auctions",
+                        "Valuations",
+                        "Acquisitions",
+                        "Cost Segregation",
+                        "Appraisals",
+                        "Hybrid Brokerage"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "BraunInc",
+                "websiteUrl": "www.BraunCo.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2003,
+                "id": 6135215,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "10",
+                            "name": "Servicios jur\u00eddicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mannheim",
+                                "postalCode": "68163",
+                                "street1": "Eastside One"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (621) 42 271-31",
+                                "phone1": "+49 (621) 42 271-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Munich",
+                                "postalCode": "81675",
+                                "street1": "Prinzregentenstr. 68"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (89) 99 88 54-99",
+                                "phone1": "+49 (89) 99 88 54-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40211",
+                                "street1": "Toulouser Allee 3"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (211) 15 77 56-13",
+                                "phone1": "+49 (211) 15 77 56-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ISENBRUCK B\u00d6SL H\u00d6RSCHLER LLP",
+                "numFollowers": 45,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ib-patent.com"
+            }
+        ]
+    }
+}

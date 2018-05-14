@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 28,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2002,
+                "id": 9248742,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "34",
+                            "name": "Alimentaci\u00f3n y bebidas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Valle de los Chillos - San Rafael",
+                                "postalCode": "",
+                                "street1": "Grupo General  y Teniente Hugo Ort\u00edz"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0059323808046"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "La Bella Italia Ecuador",
+                "numFollowers": 47,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Comida italia - Productos Artesanales",
+                        "Reservaciones - Bodas - Matrimonios",
+                        "Productos Org\u00e1nicos - Productos hechos a mano",
+                        "Pizza - Pasta - Ravioli - Cannelloni - Postres - Declitaseen"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.facebook.com/labellaitaliaecuador"
+            }
+        ]
+    }
+}

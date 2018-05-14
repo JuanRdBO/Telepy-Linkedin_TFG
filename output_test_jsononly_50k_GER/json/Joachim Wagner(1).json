@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7509549,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Leverkusen",
+                                "postalCode": "51373",
+                                "street1": "56 Hardenbergstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "021469191"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Herr Joachim Wagner",
+                "numFollowers": 0,
+                "websiteUrl": "zahnarzt-joachim-wagner.de"
+            }
+        ]
+    }
+}

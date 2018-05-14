@@ -1,0 +1,106 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 384,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1883,
+                "id": 47509,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "68",
+                            "name": "Ense\u00f1anza superior"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Waleska",
+                                "postalCode": "30183-2981",
+                                "street1": "7300 Reinhardt Circle"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Alpharetta",
+                                "postalCode": "30005-4442",
+                                "street1": "North Fulton Campus"
+                            },
+                            "contactInfo": {
+                                "fax": "770-475-0263",
+                                "phone1": "770-720-9191"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Cartersville",
+                                "postalCode": "30120",
+                                "street1": "Cartersville Center"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "770-720-9191"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Marietta",
+                                "postalCode": "",
+                                "street1": "Marietta Center"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "770-720-9191"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Reinhardt University",
+                "numFollowers": 6370,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Graduate programs (MBA, MAT, MPA, MM, M.Ed)",
+                        "35 bachelor's degree programs",
+                        "Online Programs in Criminal Justice & Healthcare Administration",
+                        "Adult Programs in business, public safety",
+                        "Police Academy",
+                        "Falany Performing Arts Center",
+                        "Funk Heritage Center"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "http://www.reinhardt.edu"
+            }
+        ]
+    }
+}

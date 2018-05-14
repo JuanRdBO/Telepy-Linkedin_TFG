@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2009,
+                "id": 2324984,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "132",
+                            "name": "E-learning"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bristol",
+                                "postalCode": "BS3 1",
+                                "street1": "2 Ashton Gate Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "LUDINC",
+                "numFollowers": 23,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Real World Learning Games",
+                        "Transmedia Applications",
+                        "Learning Applications",
+                        "Disruptive Technologies",
+                        "Transmedia Development",
+                        "Online Distribution",
+                        "Games",
+                        "Storytelling"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "ludinc",
+                "websiteUrl": "http://ludinc.com"
+            }
+        ]
+    }
+}

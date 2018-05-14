@@ -1,0 +1,32 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 22440461,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Eupen",
+                                "postalCode": "4701",
+                                "street1": "23 de Grand Ry-Strasse"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Ernst, Claudia",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

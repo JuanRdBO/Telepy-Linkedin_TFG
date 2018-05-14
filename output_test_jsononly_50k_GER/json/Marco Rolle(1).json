@@ -1,0 +1,51 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2008,
+                "id": 2437266,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "name": "LAND ambienti di comunicazione",
+                "numFollowers": 40,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Ricerca e Concept",
+                        "Posizionamento e Design della comunicazione",
+                        "Comunicazione strategica",
+                        "Comunicazione corporate",
+                        "Campagna di comunicazione sociale"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.landcomunicazione.it"
+            }
+        ]
+    }
+}

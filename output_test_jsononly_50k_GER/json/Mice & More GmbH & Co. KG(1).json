@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1989,
+                "id": 10220694,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "110",
+                            "name": "Servicios de eventos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10719",
+                                "street1": "Knesebeckstr. 59/61"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40237",
+                                "street1": "Paulusstra\u00dfe 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "TEST GmbH & Co. KG / Travel Event Service Team",
+                "numFollowers": 40,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Hotelreservierung zu Messen und Kongresse",
+                        "Hotelzimmervermittlung",
+                        "Veranstaltungsorganisation",
+                        "Eventmanagement",
+                        "Travel Management",
+                        "MICE"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://test-berlin.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1992,
+                "id": 28967,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bratislava",
+                                "postalCode": "85101",
+                                "street1": "Einsteinova 24"
+                            },
+                            "contactInfo": {
+                                "fax": "+421 (2) 322 44 109",
+                                "phone1": "+421 (2) 322 44 111"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "San Diego",
+                                "postalCode": "92101",
+                                "street1": "610 West Ash Street 1700"
+                            },
+                            "contactInfo": {
+                                "fax": "(619) 876-5845",
+                                "phone1": "+1 (866) 343-ESET (3738)"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Vicente Lopez, Buenos Aires",
+                                "postalCode": "C1428ARS",
+                                "street1": "Juan Diaz de Solis 1270"
+                            },
+                            "contactInfo": {
+                                "fax": "+54 (11) 4788 9629",
+                                "phone1": "+54 (11) 4788 9213"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Singapore",
+                                "postalCode": "068893",
+                                "street1": "371 Beach Road, Keypoint Building #20-07"
+                            },
+                            "contactInfo": {
+                                "fax": "+65 6536 8224",
+                                "phone1": "+65 6308 9680"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ESET",
+                "numFollowers": 19062,
+                "specialties": {
+                    "_total": 16,
+                    "values": [
+                        "information technologies",
+                        "security",
+                        "protection",
+                        "IT",
+                        "mobile security",
+                        "virus protection",
+                        "anti malware",
+                        "mobile phone antivirus",
+                        "virus scan",
+                        "Windows",
+                        "endpoint suite",
+                        "antivirus",
+                        "smartphone security",
+                        "malware research",
+                        "machine learning",
+                        "cybersecurity"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "esetllc",
+                "websiteUrl": "http://www.eset.com"
+            }
+        ]
+    }
+}

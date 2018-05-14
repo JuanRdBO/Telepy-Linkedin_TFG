@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2012,
+                "id": 2503530,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "35",
+                            "name": "Pel\u00edculas y cine"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Koeln",
+                                "postalCode": "50825",
+                                "street1": "Vogelsangerstrasse 195a"
+                            },
+                            "contactInfo": {
+                                "fax": "+49  89 700 744-21",
+                                "phone1": "+49 221 506 087 39"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Freiburg",
+                                "postalCode": "79100",
+                                "street1": "Bertoldstrasse 20"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Neoxfilm GmbH",
+                "numFollowers": 70,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Filmproduktion",
+                        "Live Events",
+                        "TV Shows",
+                        "Liveclips",
+                        "Liveconcerts"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.neoxfilm.com"
+            }
+        ]
+    }
+}

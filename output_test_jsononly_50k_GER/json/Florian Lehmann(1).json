@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 2970587,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "G\u00f6ttingen",
+                                "postalCode": "37073",
+                                "street1": "Am Hasengraben 3"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 551 49248282"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "nevo - Training, Coaching, Entwicklung",
+                "numFollowers": 10,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Outdoor-Training",
+                        "HRD",
+                        "Konfliktmoderation",
+                        "Teamtraining"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.nevoteam.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 34,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 19424083,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "READING",
+                                "postalCode": "RG30 2BU",
+                                "street1": "16 HOLLINS WALK"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "MARTIN WINTER LTD",
+                "numFollowers": 1
+            }
+        ]
+    }
+}

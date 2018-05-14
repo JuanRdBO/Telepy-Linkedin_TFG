@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2002,
+                "id": 2281536,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "18",
+                            "name": "Cosm\u00e9tica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bernille",
+                                "postalCode": "19506",
+                                "street1": "7139 Bernville Rd"
+                            },
+                            "contactInfo": {
+                                "fax": "717-933-2241",
+                                "phone1": "1-800-630-4710"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Circadia by Dr. Pugliese",
+                "numFollowers": 1389,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "SWiCH Dermal Rejuvenation Professional Treatment",
+                        "Oxygen Rx Treatment",
+                        "The Pillowcase",
+                        "Advanced Professional Skin Care, Medical Edition Book"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "Circadiaskin",
+                "websiteUrl": "www.circadia.com"
+            }
+        ]
+    }
+}

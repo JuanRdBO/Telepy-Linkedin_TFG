@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 472,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 3909284,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Homer",
+                                "postalCode": "13077-9497",
+                                "street1": "1793 Oshea Rd"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 6077539873"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Michael May Construction",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.michaelmayconstruction.com"
+            }
+        ]
+    }
+}

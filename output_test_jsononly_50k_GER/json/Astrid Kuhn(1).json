@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12519896,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Aschaffenburg",
+                                "postalCode": "63739",
+                                "street1": "27 Frohsinnstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 602128696"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Astrid K\u00fchn",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.hautarztzentrum-frohsinnstrasse.de"
+            }
+        ]
+    }
+}

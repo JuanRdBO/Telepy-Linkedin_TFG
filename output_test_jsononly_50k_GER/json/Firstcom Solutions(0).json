@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2010,
+                "id": 8154477,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Singapore",
+                                "postalCode": "349245",
+                                "street1": "158 Kallang Way, #03-05"
+                            },
+                            "contactInfo": {
+                                "fax": "+65 68484284",
+                                "phone1": "+65 68484984"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Firstcom Solutions Pte Ltd",
+                "numFollowers": 108,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Web Design & Develpment",
+                        "Web Hosting",
+                        "Content Mangement System",
+                        "Web Maintenance",
+                        "E-Commerce",
+                        "Web Application",
+                        "Photography",
+                        "Copy Writing",
+                        "Online Marketing Solutions",
+                        "Branding & Design",
+                        "M1 Services",
+                        "Search Engine Optimization (SEO)",
+                        "Search Engine Marketing (SEM)"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.firstcom.com.sg"
+            }
+        ]
+    }
+}

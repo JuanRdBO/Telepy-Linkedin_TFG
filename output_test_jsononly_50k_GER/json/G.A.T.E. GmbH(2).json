@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 38,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7543423,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pressath",
+                                "postalCode": "92690",
+                                "street1": "8 Pfaffenreuth"
+                            },
+                            "contactInfo": {
+                                "phone1": "096446898234"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "E.T.G. Solartechnik GmbH & Co. KG",
+                "numFollowers": 4,
+                "websiteUrl": "etg-solar.de"
+            }
+        ]
+    }
+}

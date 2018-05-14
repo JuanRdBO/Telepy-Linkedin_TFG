@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 13,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7496493,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnster",
+                                "postalCode": "48143",
+                                "street1": "23 Joseph-K\u00f6nig-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "02511353093"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Martin Hahn - Unternehmensberatung",
+                "numFollowers": 1,
+                "websiteUrl": "martin-hahn.info"
+            }
+        ]
+    }
+}

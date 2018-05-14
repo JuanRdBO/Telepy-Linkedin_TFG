@@ -1,0 +1,64 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2004,
+                "id": 18060927,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20099",
+                                "street1": "Holzdamm 28 \u2013 32"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "redos",
+                "numFollowers": 42,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Retail",
+                        "Einzelhandelsimmobilien",
+                        "Immobilienwirtschaft",
+                        "Investition",
+                        "Co-Investor",
+                        "Core",
+                        "Core plus",
+                        "Value-Add"
+                    ]
+                },
+                "websiteUrl": "www.redos.de"
+            }
+        ]
+    }
+}

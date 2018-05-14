@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4808,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1983,
+                "id": 26521,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "97",
+                            "name": "Investigaci\u00f3n de mercado"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Syracuse",
+                                "postalCode": "13202",
+                                "street1": "120 Madison St."
+                            },
+                            "contactInfo": {
+                                "fax": "1-315-471-0115",
+                                "phone1": "1-888-8KSRINC"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "KS&R",
+                "numFollowers": 1625,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "market research",
+                        "qualitative research",
+                        "quantitative research",
+                        "innovation",
+                        "product development",
+                        "market opportunity",
+                        "market sizing",
+                        "market segmentation",
+                        "brand",
+                        "customer experience",
+                        "advertising testing",
+                        "channel and partner strategy",
+                        "pricing optimization",
+                        "buyer behavior"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.ksrinc.com"
+            }
+        ]
+    }
+}

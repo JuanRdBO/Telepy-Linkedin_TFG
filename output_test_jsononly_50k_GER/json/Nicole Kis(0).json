@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1991,
+                "id": 2070884,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "36",
+                            "name": "Medios de difusi\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Central Jakarta",
+                                "postalCode": "10310",
+                                "street1": "Menara BCA, Grand Indonesia suite 3801A, MH Thamrin 1"
+                            },
+                            "contactInfo": {
+                                "fax": "622123586490",
+                                "phone1": "622123586199"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "95.1 Kis FM - PT Radio Kirana Insan Suara",
+                "numFollowers": 117,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Morning Kis (Weekdays, 6-10 AM)",
+                        "Shut Up & Drive (Weekdays 4-8 PM)",
+                        "Wednesday Slow Machine (Wednesday, all day)",
+                        "Rock Weekend (Saturday, 24 hours)"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "kisfmjakarta",
+                "websiteUrl": "www.kisfmjakarta.com"
+            }
+        ]
+    }
+}

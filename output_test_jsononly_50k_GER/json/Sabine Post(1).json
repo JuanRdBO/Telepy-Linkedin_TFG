@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2011,
+                "id": 10570094,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Amersham",
+                                "postalCode": "HP6 6FA",
+                                "street1": "Anglo House"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+447540306070"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sabine Global Ltd",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Digital Marketing Transformation",
+                        "Digital strategy",
+                        "Pay per click advertising consultancy",
+                        "Digital transformation",
+                        "website masterplanning",
+                        "SEO",
+                        "marketing procurement",
+                        "ROI driven marketing",
+                        "performance marketing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.sabineglobal.com"
+            }
+        ]
+    }
+}

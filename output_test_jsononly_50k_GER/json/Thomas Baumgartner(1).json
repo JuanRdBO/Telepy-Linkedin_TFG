@@ -1,0 +1,85 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1906,
+                "id": 3738713,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "61",
+                            "name": "Productos de papel y forestales"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Filderstadt",
+                                "postalCode": "70794",
+                                "street1": "Fabrikstra\u00dfe 16"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0) 711 / 7702-700",
+                                "phone1": "+49 (0) 711 / 7702-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Deizisau",
+                                "postalCode": "73779",
+                                "street1": "Plochinger Stra\u00dfe 48"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 (0) 711 / 7702-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "HERMA Group",
+                "numFollowers": 639,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Etiketten und Selbstklebeprodukte f\u00fcr B\u00fcro & Zuhause",
+                        "Haftmaterial",
+                        "Etikettierer und Etikettiermaschinen",
+                        "Industrieetiketten",
+                        "Labels",
+                        "Self-adhesive Material",
+                        "Labeling Machines",
+                        "Labelers"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.herma.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12718424,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Eppingen",
+                                "postalCode": "75031",
+                                "street1": "6 Frauenbrunner Str."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Heinz Kr\u00fcger",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.sanitaer-krueger-eppingen.de"
+            }
+        ]
+    }
+}

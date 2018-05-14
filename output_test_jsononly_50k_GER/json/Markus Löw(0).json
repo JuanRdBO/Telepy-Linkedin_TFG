@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1973,
+                "id": 2508790,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "138",
+                            "name": "Material y equipo de negocios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Cincinnati",
+                                "postalCode": "45239",
+                                "street1": "7764B Colerain Avnue"
+                            },
+                            "contactInfo": {
+                                "fax": "513-922-1478",
+                                "phone1": "513-922-5883"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Markus Inc.- Office Products & School Supplies",
+                "numFollowers": 43,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "On-Time and Accurate Delivery of Office Products",
+                        "Office Furniture - Sales & Installation",
+                        "Custom School Supply Kits - PTO Program",
+                        "Computer & Printer Supplies for Most Brands"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.MarkusInc.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 34,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7387355,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bornheim",
+                                "postalCode": "53332",
+                                "street1": "Hessenweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "022356881174"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Martin M\u00fcller Naturstein EK",
+                "numFollowers": 2,
+                "websiteUrl": "steintrend.de"
+            }
+        ]
+    }
+}

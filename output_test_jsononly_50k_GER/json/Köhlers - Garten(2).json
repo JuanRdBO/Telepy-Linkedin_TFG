@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12744395,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sondershausen",
+                                "postalCode": "99706",
+                                "street1": "13 Knauffstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3632602207"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "K\u00f6hlers Daten Service",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.koehlers-daten-service.de"
+            }
+        ]
+    }
+}

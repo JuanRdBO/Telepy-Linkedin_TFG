@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 31,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12403065,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "13509",
+                                "street1": "43 B\u00fcro Jacobsenweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3043004890"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Uecker Vermessung",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.uecker-vermessung.de"
+            }
+        ]
+    }
+}

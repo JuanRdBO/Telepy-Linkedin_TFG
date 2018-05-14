@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7444373,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "E\u00dfleben",
+                                "postalCode": "99628",
+                                "street1": "48 Hirtengasse"
+                            },
+                            "contactInfo": {
+                                "phone1": "03637340600"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bernd Fr\u00f6hlich Elektroinstallation",
+                "numFollowers": 0,
+                "websiteUrl": "elektro-froehlich.de"
+            }
+        ]
+    }
+}

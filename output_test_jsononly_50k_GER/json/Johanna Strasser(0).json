@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1789,
+                "id": 10469904,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "63",
+                            "name": "Agricultura"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Niederabsdorf",
+                                "postalCode": "2272",
+                                "street1": "Haupstrasse"
+                            },
+                            "contactInfo": {
+                                "fax": "+43253620343",
+                                "phone1": "+4325367403"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Weinbau Strasser",
+                "numFollowers": 7,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Braugerste",
+                        "Weinbau",
+                        "Qualit\u00e4tsweizen",
+                        "Honig"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.strasser.wine"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1975,
+                "id": 3693205,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "82",
+                            "name": "Publicaciones"
+                        }
+                    ]
+                },
+                "name": "cream city review",
+                "numFollowers": 58,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.creamcityreview.org"
+            }
+        ]
+    }
+}

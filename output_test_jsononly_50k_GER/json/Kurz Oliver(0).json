@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2006,
+                "id": 1936459,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "126",
+                            "name": "Producci\u00f3n multimedia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20357",
+                                "street1": "Lagerstra\u00dfe 34a"
+                            },
+                            "contactInfo": {
+                                "fax": "494029867799",
+                                "phone1": "49402986770"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "TeraVolt GmbH",
+                "numFollowers": 103,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "IPTV",
+                        "Mobile TV",
+                        "TV",
+                        "Fernsehen"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.teravolt.tv"
+            }
+        ]
+    }
+}

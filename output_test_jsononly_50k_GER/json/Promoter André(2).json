@@ -1,0 +1,64 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 10052276,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Saint-Sauveur",
+                                "postalCode": "J0R 1R3",
+                                "street1": "300 chemin du Mont Saint-Sauveur"
+                            },
+                            "contactInfo": {
+                                "fax": "+1 450 227-0657",
+                                "phone1": "+1 514 449-9707"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Nymark Real Estate / Les immeubles Nymark",
+                "numFollowers": 0,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Real Estate Tranactions"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.nymarkplus.com"
+            }
+        ]
+    }
+}

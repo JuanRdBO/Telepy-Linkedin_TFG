@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 16,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12244179,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bremen",
+                                "postalCode": "28757",
+                                "street1": "17 Weserstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 421655151"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "J\u00fcrgen Meyer-M\u00f6hring",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.orthopaedie-vegesack.de"
+            }
+        ]
+    }
+}

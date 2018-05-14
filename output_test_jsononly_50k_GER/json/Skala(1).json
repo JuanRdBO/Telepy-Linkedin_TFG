@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 407,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2005,
+                "id": 2284758,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "126",
+                            "name": "Producci\u00f3n multimedia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Jakarta Selatan",
+                                "postalCode": "12830",
+                                "street1": "Jl. Gudang Peluru Barat IV no.8"
+                            },
+                            "contactInfo": {
+                                "fax": "+6221 8370-6709",
+                                "phone1": "+6221 829-7366"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "SKALA+",
+                "numFollowers": 117,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Architectural Design",
+                        "Interior Design",
+                        "Product Design",
+                        "Environmental Design"
+                    ]
+                },
+                "status": {
+                    "code": "OPS",
+                    "name": "Operating Subsidiary"
+                },
+                "twitterId": "skalaplusmags",
+                "websiteUrl": "www.skalaplus.com"
+            }
+        ]
+    }
+}

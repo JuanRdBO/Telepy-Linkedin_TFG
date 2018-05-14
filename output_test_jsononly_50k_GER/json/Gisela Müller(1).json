@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7517980,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dresden",
+                                "postalCode": "01169",
+                                "street1": "66 Altgorbitzer Ring"
+                            },
+                            "contactInfo": {
+                                "phone1": "03514111007"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "M\u00fcller Dental Inh. Gisela M\u00fcller",
+                "numFollowers": 0,
+                "websiteUrl": "mueller-dental.com"
+            }
+        ]
+    }
+}

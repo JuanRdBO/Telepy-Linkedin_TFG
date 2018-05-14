@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1998,
+                "id": 23529071,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gent",
+                                "postalCode": "9000",
+                                "street1": "30 Distelstraat"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "a154 architecten",
+                "numFollowers": 22,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "architectuur",
+                        "stadsontwikkeling",
+                        "restauratie",
+                        "renovatie",
+                        "projectontwikkeling",
+                        "interieur",
+                        "woningbouw"
+                    ]
+                },
+                "websiteUrl": "www.a154.be"
+            }
+        ]
+    }
+}

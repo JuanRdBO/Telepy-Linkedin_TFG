@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12360874,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wuppertal",
+                                "postalCode": "42283",
+                                "street1": "27 Wasserstra\u00dfe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Stefan Kuhn",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.kuhn-instandsetzung.de"
+            }
+        ]
+    }
+}

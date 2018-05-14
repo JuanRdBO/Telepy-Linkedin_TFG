@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 12,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12499291,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Leichlingen (Rheinland)",
+                                "postalCode": "42799",
+                                "street1": "11 Kradenpuhl"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 1737028020"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Stefan Weber-Werth",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.stefan-weber-werth.de"
+            }
+        ]
+    }
+}

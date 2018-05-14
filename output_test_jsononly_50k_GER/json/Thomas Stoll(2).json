@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1913,
+                "id": 27167667,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Winterthur",
+                                "postalCode": "8400",
+                                "street1": "Lagerhausstrasse 11"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hauseigent\u00fcmerverband (HEV) Region Winterthur",
+                "numFollowers": 21,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Verkauf",
+                        "Bewertung",
+                        "Vermietung",
+                        "Beratung",
+                        "Stockwerkeigentum",
+                        "Immobilienkauf",
+                        "Fachliteratur",
+                        "Wohnungsabnahme",
+                        "Rechtsberatung",
+                        "Interessenvertretung",
+                        "Mietrecht"
+                    ]
+                },
+                "websiteUrl": "https://www.hev-winterthur.ch"
+            }
+        ]
+    }
+}

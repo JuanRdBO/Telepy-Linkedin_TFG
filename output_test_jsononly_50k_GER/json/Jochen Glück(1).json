@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12275114,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gera",
+                                "postalCode": "07545",
+                                "street1": "Fredericistrasse"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 36529090"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gerageil",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.gerageil.de"
+            }
+        ]
+    }
+}

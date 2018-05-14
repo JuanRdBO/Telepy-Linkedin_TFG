@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 27,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 21320285,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "91",
+                            "name": "Servicio al consumidor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "CLEETHORPES",
+                                "postalCode": "DN35 8HP",
+                                "street1": "66 ST PETERS AVENUE"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "MICHAEL ARNOLD JOINERY LIMITED",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

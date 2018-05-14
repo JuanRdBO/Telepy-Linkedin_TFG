@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12871483,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Plauen",
+                                "postalCode": "08529",
+                                "street1": "25 \u00c4u\u00dfere Reichenbacher Str."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bestattungen Karin Werner",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.bestattungen-karin-werner.de"
+            }
+        ]
+    }
+}

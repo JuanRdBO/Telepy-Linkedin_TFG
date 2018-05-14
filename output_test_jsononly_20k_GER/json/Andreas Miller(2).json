@@ -1,0 +1,53 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2009,
+                "id": 2766688,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "name": "Aperture Entertainment",
+                "numFollowers": 240,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "talent management",
+                        "literary management",
+                        "film production",
+                        "tv production",
+                        "music distribution",
+                        "strategic career guidance",
+                        "brand building"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://en.wikipedia.org/wiki/Aperture_Entertainment"
+            }
+        ]
+    }
+}

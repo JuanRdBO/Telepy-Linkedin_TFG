@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2012,
+                "id": 2688923,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "19",
+                            "name": "Industria textil y moda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Istanbul",
+                                "postalCode": "",
+                                "street1": "Mim Kemal \u00d6ke Caddesi No: 17 Ni\u015fanta\u015f\u0131"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "444 8 684"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Shopigo.com",
+                "numFollowers": 2064,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Online Shopping",
+                        "Concept Store",
+                        "E-Commerce",
+                        "Fashion"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.shopigo.com"
+            }
+        ]
+    }
+}

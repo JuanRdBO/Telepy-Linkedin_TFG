@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 22702131,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "61",
+                            "name": "Productos de papel y forestales"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "LUNDE",
+                                "postalCode": "3825",
+                                "street1": "Haugen, Fl\u00e5bygd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "CHRISTIAN DOKSR\u00d8D GRUNER",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

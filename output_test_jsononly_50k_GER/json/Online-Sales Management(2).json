@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 12671,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1998,
+                "id": 2276787,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "59",
+                            "name": "Servicios p\u00fablicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Northampton",
+                                "postalCode": "NN4 7RG",
+                                "street1": "900 Pavilion Drive "
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0845 3370401"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Online Direct Limited",
+                "numFollowers": 1277,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "SME Energy Sales",
+                        "Corporate Energy Sales",
+                        "Energy Sales Technology",
+                        "Energy Management",
+                        "Outsourced Energy Sales Solutions",
+                        "Energy Sales Aggregator"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "@Online_Direct",
+                "websiteUrl": "http://www.onlinedirect.co.uk"
+            }
+        ]
+    }
+}

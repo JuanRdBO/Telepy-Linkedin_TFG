@@ -1,0 +1,43 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 14,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12794878,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gro\u00df-Gerau",
+                                "postalCode": "64521",
+                                "street1": "Brunecker Stra\u00dfe 2A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 61529777767"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Becker & Wei\u00df Immobilien",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

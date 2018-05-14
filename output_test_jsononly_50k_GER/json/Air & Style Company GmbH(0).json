@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2011,
+                "id": 3065111,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "25",
+                            "name": "Art\u00edculos de consumo"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "N\u00fcrnberg",
+                                "postalCode": "90419",
+                                "street1": "Bucher Stra\u00dfe 5"
+                            },
+                            "contactInfo": {
+                                "fax": "+49(0)911-3506499-21",
+                                "phone1": "0700/24225722"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ChackPack GmbH",
+                "numFollowers": 33,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Finest Travel Sets",
+                        "Transparent Toiletry Bags",
+                        "Care products in travel size",
+                        "Frenquent Flyers",
+                        "ChackPacker.com",
+                        "1% for the Planet"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://ChackPack.com"
+            }
+        ]
+    }
+}

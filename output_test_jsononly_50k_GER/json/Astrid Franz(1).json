@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7350788,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10719",
+                                "street1": "61 Pariser Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0308814554"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Frau Dr. Med. Astrid Franz",
+                "numFollowers": 0,
+                "websiteUrl": "dr-prehn.de"
+            }
+        ]
+    }
+}

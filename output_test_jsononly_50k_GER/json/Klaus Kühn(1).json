@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7425194,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hirschhorn (Pfalz)",
+                                "postalCode": "67732",
+                                "street1": "27 Bergstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "063087628"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Klaus Kuhn Fugenabdichtung",
+                "numFollowers": 0,
+                "websiteUrl": "fugenkuhn.de"
+            }
+        ]
+    }
+}

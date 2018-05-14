@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2010,
+                "id": 1459118,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "94",
+                            "name": "Aeron\u00e1utica/Aviaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "",
+                                "street1": "Church Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+441737844383"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Corporate Jet Investor",
+                "numFollowers": 521,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "aircraft finance",
+                        "corporate jet finance",
+                        "business jet finance",
+                        "helicopter finance",
+                        "Private jet finance"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "corpjetinvestor",
+                "websiteUrl": "www.corporatejetinvestor.com"
+            }
+        ]
+    }
+}

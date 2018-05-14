@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12393937,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "R\u00f6dermark",
+                                "postalCode": "63322",
+                                "street1": "25a Talstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2020110911"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Pabst",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.thomas-pabst.de"
+            }
+        ]
+    }
+}

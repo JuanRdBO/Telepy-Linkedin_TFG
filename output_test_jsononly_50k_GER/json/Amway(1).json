@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 275,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1959,
+                "id": 27020859,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "91",
+                            "name": "Servicio al consumidor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bursa",
+                                "postalCode": "16170",
+                                "street1": "Yenikaraman Mh. \u00d6mero\u011flu Sk."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Amway",
+                "numFollowers": 689,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "\u0130nsan Kaynaklar\u0131 Uzman\u0131",
+                        "\u0130leti\u015fim Uzman\u0131",
+                        "G\u00fczellik Uzman\u0131"
+                    ]
+                },
+                "websiteUrl": "http://www.amway.com.tr"
+            }
+        ]
+    }
+}

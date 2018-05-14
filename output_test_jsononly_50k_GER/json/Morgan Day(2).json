@@ -1,0 +1,121 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 190,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1994,
+                "id": 23682,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "104",
+                            "name": "Dotaci\u00f3n y selecci\u00f3n de personal"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "EC2Y 5AS",
+                                "street1": "9th floor"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Manchester",
+                                "postalCode": "M2 7HA",
+                                "street1": "Manchester Office"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Birmingham",
+                                "postalCode": "B2 4DU",
+                                "street1": "Birmingham Office"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bristol",
+                                "postalCode": "BS1 6BN",
+                                "street1": "Bristol Office"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "EC2Y 5",
+                                "street1": "125 London Wall"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Morgan Hunt",
+                "numFollowers": 22985,
+                "specialties": {
+                    "_total": 20,
+                    "values": [
+                        "Recruitment",
+                        "Public Sector",
+                        "Executive Search",
+                        "Accountancy & Finance",
+                        "Further Education",
+                        "HR",
+                        "Marketing & Communications",
+                        "Airports",
+                        "Rail",
+                        "FM",
+                        "Social Housing",
+                        "Social Care",
+                        "Revenues & Benefits",
+                        "Healthcare",
+                        "Policy & Strategy",
+                        "Property",
+                        "Construction",
+                        "Fundraising",
+                        "Charities",
+                        "Energy"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.morganhunt.com"
+            }
+        ]
+    }
+}

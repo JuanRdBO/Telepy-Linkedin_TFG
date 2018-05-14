@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 315,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12809457,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ahaus",
+                                "postalCode": "48683",
+                                "street1": "61 Fleehook"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 25616070950"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Malerfachbetrieb Heuten GmbH",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.maler-heuten.de"
+            }
+        ]
+    }
+}

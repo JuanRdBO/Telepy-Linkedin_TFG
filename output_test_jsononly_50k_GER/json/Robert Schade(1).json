@@ -1,0 +1,64 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1993,
+                "id": 1668580,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "39",
+                            "name": "Artes interpretativas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Toronto",
+                                "postalCode": "M9R 3Z7",
+                                "street1": "146 Willowridge Road"
+                            },
+                            "contactInfo": {
+                                "phone1": "416-761-7776"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Victoria Scholars Men's Choral Ensemble",
+                "numFollowers": 14,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Choral Music"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.victoriascholars.ca"
+            }
+        ]
+    }
+}

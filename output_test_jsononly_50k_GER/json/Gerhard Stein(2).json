@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 8725477,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Cincinnati",
+                                "postalCode": "45202-2448",
+                                "street1": "617 Vine St # 1409"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 5132211697"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Gerhardstein Branch & Laufman",
+                "numFollowers": 6,
+                "websiteUrl": "http://www.gbfirm.com/"
+            }
+        ]
+    }
+}

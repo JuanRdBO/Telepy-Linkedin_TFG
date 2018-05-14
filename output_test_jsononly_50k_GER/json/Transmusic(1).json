@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12285954,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Schwerin",
+                                "postalCode": "19055",
+                                "street1": "3 Friedrichstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3855214880"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Transmusic GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.transmusic.eu"
+            }
+        ]
+    }
+}

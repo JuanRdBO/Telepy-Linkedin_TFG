@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1974,
+                "id": 5324773,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "AICURZIO",
+                                "postalCode": "20886",
+                                "street1": "Via P.Sala, 8"
+                            },
+                            "contactInfo": {
+                                "fax": "0396093764",
+                                "phone1": "0396093756"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "REPCOM srl - Sensori e componenti per l'industria",
+                "numFollowers": 38,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Elettronica per l'industria",
+                        "Sensori",
+                        "Supporto al design",
+                        "Supporto tecnico"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.repcomsrl.com"
+            }
+        ]
+    }
+}

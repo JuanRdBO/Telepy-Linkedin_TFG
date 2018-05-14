@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12829893,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Me\u00dfstetten",
+                                "postalCode": "72469",
+                                "street1": "56 Hauptstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7579921096"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wendepunkt Fitness",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.wendepunkt-bewegt.de"
+            }
+        ]
+    }
+}

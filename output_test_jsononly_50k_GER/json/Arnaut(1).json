@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 13,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1991,
+                "id": 9455658,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Logro\u00f1o",
+                                "postalCode": "26005",
+                                "street1": "Gran V\u00eda Rey Juan Carlos I, 46"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+34 941 20 06 09"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Arnaut & Iberbrokers Asociados S. L.",
+                "numFollowers": 70,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Asesor\u00eda",
+                        "Consultor\u00eda",
+                        "Tributario",
+                        "Financiero"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.arnaut.es"
+            }
+        ]
+    }
+}

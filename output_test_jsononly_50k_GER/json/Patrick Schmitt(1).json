@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2000,
+                "id": 537051,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Portland",
+                                "postalCode": "97229",
+                                "street1": "NW Ryan St."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "503-768-4573"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Patrick Schmitt, designer Inc.",
+                "numFollowers": 12,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Custom home design",
+                        "customer satisfaction",
+                        "communication",
+                        "attention to detail"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "schmittdesign",
+                "websiteUrl": "www.psdesignerinc.com"
+            }
+        ]
+    }
+}

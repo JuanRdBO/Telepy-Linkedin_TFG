@@ -1,0 +1,101 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 20,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1995,
+                "id": 991684,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Portland",
+                                "postalCode": "97214",
+                                "street1": "1020 Southeast Harrison Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(503) 232-2447"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Seattle",
+                                "postalCode": "98122",
+                                "street1": "1501 E Madison St #250"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(206) 397-0558"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Hammer and Hand",
+                "numFollowers": 774,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Passive House",
+                        "Earth Advantage Homes",
+                        "LEED",
+                        "Home Performance with ENERGY STAR",
+                        "IMBUE Cabinets",
+                        "Upcycled Furniture",
+                        "SMEG appliances",
+                        "PHIUS+",
+                        "Home building",
+                        "Green building",
+                        "Remodeling",
+                        "Commercial Construction"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "hammerandhand.com"
+            }
+        ]
+    }
+}

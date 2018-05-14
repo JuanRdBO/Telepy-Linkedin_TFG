@@ -1,0 +1,81 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 178,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 3555599,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "O'Fallon",
+                                "postalCode": "63366",
+                                "street1": "100 Midland Park Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "636.887.4875",
+                                "phone1": "636.887.4868"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Hanke Constructors",
+                "numFollowers": 105,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Design/Build",
+                        "General Contractor",
+                        "Construction Manager",
+                        "LEED",
+                        "Governmental Contracting",
+                        "Building Information Modeling (BIM)"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.hankeconstructors.com"
+            }
+        ]
+    }
+}

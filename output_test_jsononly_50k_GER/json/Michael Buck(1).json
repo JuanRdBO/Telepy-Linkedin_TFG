@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 18,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 23138129,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "87",
+                            "name": "Env\u00edo de paquetes y carga"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "KLEPPEST\u00d8",
+                                "postalCode": "5301",
+                                "street1": "Stongafjellsvegen 24F"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "PETER MICHAEL BUCK",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1994,
+                "id": 9220332,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berne",
+                                "postalCode": "3011",
+                                "street1": "Marktgasse 37"
+                            },
+                            "contactInfo": {
+                                "fax": "+41 31 660 45 55",
+                                "phone1": "+41 31 660 45 44"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Uster",
+                                "postalCode": "8610",
+                                "street1": "Oberlandstrasse 104"
+                            },
+                            "contactInfo": {
+                                "fax": "+41 44 905 71 00",
+                                "phone1": "+41 44 905 71 11"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Entris Audit AG",
+                "numFollowers": 18,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Interne Revision",
+                        "Beratung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.entris-audit.ch"
+            }
+        ]
+    }
+}

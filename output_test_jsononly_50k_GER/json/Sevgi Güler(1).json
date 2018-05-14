@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2012,
+                "id": 6410588,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "14",
+                            "name": "Atenci\u00f3n sanitaria y hospitalaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "\u0130STANBUL",
+                                "postalCode": "",
+                                "street1": "Cumhuriyet Mah. Atat\u00fcrk Bul. No:5"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "4446656"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Birinci G\u00f6z Hastanesi",
+                "numFollowers": 99,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Genel G\u00f6z Muayenesi",
+                        "\u00c7ocuk G\u00f6z Sa\u011fl\u0131\u011f\u0131",
+                        "\u015ea\u015f\u0131l\u0131k",
+                        "Glokom (G\u00f6z Tansiyonu)",
+                        "Retina Hastal\u0131klar\u0131",
+                        "Kornea Hastal\u0131klar\u0131",
+                        "Okuloplasti",
+                        "Keratokonus",
+                        "Kontakt Lens",
+                        "Konjonktivit",
+                        "Lazer Operasyonlar\u0131"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.birincigoz.com"
+            }
+        ]
+    }
+}

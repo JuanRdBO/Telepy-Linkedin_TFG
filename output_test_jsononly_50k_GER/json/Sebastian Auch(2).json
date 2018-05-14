@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 55,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12220981,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Freiburg im Breisgau (Altstadt)",
+                                "postalCode": "79098",
+                                "street1": "7 Milchstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7617693509"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sebastian Ziegler",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.rfgt-fr.de"
+            }
+        ]
+    }
+}

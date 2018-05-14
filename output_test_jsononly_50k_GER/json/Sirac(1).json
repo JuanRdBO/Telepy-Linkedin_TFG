@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 19,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1987,
+                "id": 2426216,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "144",
+                            "name": "Energ\u00eda renovable y medio ambiente"
+                        }
+                    ]
+                },
+                "name": "SIRAC Southern Africa (Pty) Ltd",
+                "numFollowers": 82,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Domestic, commercial and industrial water heating and storage systems",
+                        "Energy audit and energy efficiency",
+                        "Swimming pool heating",
+                        "Space heating, HVAC"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.sirac.co.za"
+            }
+        ]
+    }
+}

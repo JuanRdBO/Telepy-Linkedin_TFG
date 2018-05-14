@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2009,
+                "id": 402720,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Westlake Village",
+                                "postalCode": "91361",
+                                "street1": "143 Triunfo Canyon Rd"
+                            },
+                            "contactInfo": {
+                                "fax": "805-413-8052",
+                                "phone1": "805-413-8000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Home Loan Advocates, Inc (HLA)",
+                "numFollowers": 20,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Distressed Properties",
+                        "Short Sale Negotiations",
+                        "Foreclsoure Avoidance",
+                        "Real Estate Investing",
+                        "Short Sales",
+                        "Real Estate Consulting"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.HomeLoanAdvocates.com"
+            }
+        ]
+    }
+}

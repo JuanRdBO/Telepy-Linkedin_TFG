@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12734670,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kulmbach",
+                                "postalCode": "95326",
+                                "street1": "5 Am Rasen"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 92218213987"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Computerservice Thomas Hahn",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.computerservice-thomas-hahn.de"
+            }
+        ]
+    }
+}

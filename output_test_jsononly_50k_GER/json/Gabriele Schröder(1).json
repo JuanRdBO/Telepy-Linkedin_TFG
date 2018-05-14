@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7365702,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Drolshagen",
+                                "postalCode": "57489",
+                                "street1": "5 Heiderhof"
+                            },
+                            "contactInfo": {
+                                "phone1": "0276171899"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Frau Gabriele Schr\u00f6der-Ziegeweidt",
+                "numFollowers": 0,
+                "websiteUrl": "werkzeugbau-schroeder.de"
+            }
+        ]
+    }
+}

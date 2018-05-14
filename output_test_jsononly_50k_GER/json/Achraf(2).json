@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 17,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2008,
+                "id": 13366037,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "name": "Dr Achraf Othman",
+                "numFollowers": 4,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Accessibility",
+                        "Assistive Technology",
+                        "Sign Language",
+                        "Machine Translation",
+                        "Machine Learning",
+                        "Research and Development",
+                        "Consulting"
+                    ]
+                },
+                "websiteUrl": "http://achrafothman.net"
+            }
+        ]
+    }
+}

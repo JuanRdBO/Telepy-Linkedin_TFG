@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7361777,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wuppertal",
+                                "postalCode": "42281",
+                                "street1": "4a Hugostra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0202662681"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hans Werner Wilhelm",
+                "numFollowers": 0,
+                "websiteUrl": "schreinerei-wilhelm.de"
+            }
+        ]
+    }
+}

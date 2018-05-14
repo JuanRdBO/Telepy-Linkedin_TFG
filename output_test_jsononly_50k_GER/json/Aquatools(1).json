@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 19285171,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "56",
+                            "name": "Miner\u00eda y metalurgia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "DUDLEY",
+                                "postalCode": "DY1 4RH",
+                                "street1": "NO 4 CASTLE COURT 2 CASTLEGATE WAY"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "AQUATOOLS LIMITED",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

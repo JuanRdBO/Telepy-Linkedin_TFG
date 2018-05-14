@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 625089,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Arnhem",
+                                "postalCode": "6827 AV",
+                                "street1": "Westervoortsedijk 73"
+                            },
+                            "contactInfo": {
+                                "fax": "026 \u2013 750 83 98",
+                                "phone1": "026 \u2013 750 83 83"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "REMA TIP TOP Nederland B.V.",
+                "numFollowers": 442,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "leverancier TPMS apparatuur",
+                        "leverancier fietsreparatiemateriaal en accessoires",
+                        "leverancier wielservicemateriaal",
+                        "leverancier bandenreparatiemateriaal"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.rema-tiptop.nl"
+            }
+        ]
+    }
+}

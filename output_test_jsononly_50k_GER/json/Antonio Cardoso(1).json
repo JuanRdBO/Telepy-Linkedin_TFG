@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 24,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 24889856,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Limeira",
+                                "postalCode": "13480-021",
+                                "street1": "Rua Percio Machado Gomes, 352"
+                            },
+                            "contactInfo": {
+                                "phone1": "+55 1934043020"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Osvail Antonio Cardoso De Moraes",
+                "numFollowers": 0,
+                "websiteUrl": "aerothermo.com.br"
+            }
+        ]
+    }
+}

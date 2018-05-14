@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 13,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12888080,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kaarst",
+                                "postalCode": "41564",
+                                "street1": "18 Stakerseite"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2131605152"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Baubiologie Manfred Schneider",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.baubiologie-schneider.de"
+            }
+        ]
+    }
+}

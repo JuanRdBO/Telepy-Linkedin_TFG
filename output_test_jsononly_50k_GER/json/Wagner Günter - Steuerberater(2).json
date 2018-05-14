@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12755122,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wasserburg am Inn",
+                                "postalCode": "83512",
+                                "street1": "3 Pfeffingerweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 80719044574"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. G\u00fcnter Wagner",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.tierarzt-wasserburg.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2014,
+                "id": 27243535,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "17",
+                            "name": "Dispositivos m\u00e9dicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "\u6df1\u5733",
+                                "postalCode": "518055",
+                                "street1": "\u4e5d\u7965\u5cad\u5de5\u4e1a\u533a"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Technology & Art Dental Lab",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "dental",
+                        "dentistry",
+                        "oursource services\u3001full dental lab services\u3001CAD/CAM\u548cdigital dental center"
+                    ]
+                },
+                "websiteUrl": "http://us.dental-lab.cn/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2015,
+                "id": 9399508,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "10",
+                            "name": "Servicios jur\u00eddicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20095",
+                                "street1": "Schauenburgerstra\u00dfe 10"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0)40. 30 37 529 - 10",
+                                "phone1": "+49 (0)40. 30 37 529 - 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Pier 11",
+                "numFollowers": 36,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Corporate",
+                        "M&A",
+                        "Finance",
+                        "Restructuring",
+                        "Commercial"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.pier11.de"
+            }
+        ]
+    }
+}

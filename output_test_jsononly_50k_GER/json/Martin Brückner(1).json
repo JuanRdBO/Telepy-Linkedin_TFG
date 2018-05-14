@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12512121,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "81",
+                            "name": "Peri\u00f3dicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60329",
+                                "street1": "78 Wilhelm-Leuschner-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 692710760"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "MBI Martin Br\u00fcckner Infosource",
+                "numFollowers": 5,
+                "websiteUrl": "http://www.mbi-infosource.de"
+            }
+        ]
+    }
+}

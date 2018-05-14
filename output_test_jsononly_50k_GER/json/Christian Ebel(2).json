@@ -1,0 +1,54 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2001,
+                "id": 2384819,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "name": "www.kikiwatch.com",
+                "numFollowers": 86,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "omegar watches",
+                        "wholesale omegar watches",
+                        "vintage omegar watches",
+                        "omegar watches on sale",
+                        "discount omegar watches",
+                        "swiss omegar watches",
+                        "omegar watches outlet",
+                        "omegar watches store"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.kikiwatch.com"
+            }
+        ]
+    }
+}

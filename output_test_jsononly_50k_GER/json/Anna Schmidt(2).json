@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12342226,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Weilheim an der Teck",
+                                "postalCode": "73235",
+                                "street1": "28 Obere Grabenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 70233211"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Anna Schmidt Zahn\u00e4rztin",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.zap-schmidt.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 141836,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1902,
+                "id": 1162545,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Indiana",
+                                "postalCode": "15701",
+                                "street1": "800 Philadelphia St."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "724-349-0599"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "S&T Bank",
+                "numFollowers": 2516,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Checking",
+                        "Savings",
+                        "Loans",
+                        "Credit Cards",
+                        "Online Banking",
+                        "Financing Solutions",
+                        "Treasury Management",
+                        "Merchant Services",
+                        "Benefit Management",
+                        "Wealth Management",
+                        "S&T Evergreen Insurance",
+                        "Member FDIC",
+                        "Equal Housing Lender"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.stbank.com"
+            }
+        ]
+    }
+}

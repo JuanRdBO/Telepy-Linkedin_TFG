@@ -1,0 +1,121 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 13,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 2789884,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "City of Industry",
+                                "postalCode": "91748",
+                                "street1": "17700 Castleton  St."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "626-282-6868"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "San Gabriel",
+                                "postalCode": "91776",
+                                "street1": "801 E. Valley Boulevard"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "626-282-6868"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "San Gabriel",
+                                "postalCode": "91776",
+                                "street1": "801 E. Valley Blvd Suite 206"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "1-800-600-5242"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "City of Industry",
+                                "postalCode": "91748",
+                                "street1": "17700 Castleton St. Suite 168"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "1-800-600-5242"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Los Angeles",
+                                "postalCode": "90012",
+                                "street1": "767 N. Hill St. Suite 106"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "1-800-600-5242"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Law Offices of Scott Warmuth",
+                "numFollowers": 94,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Personal Injury",
+                        "Auto Accidents",
+                        "Work Injury & Disability Claims",
+                        "Immigration",
+                        "Criminal Defense",
+                        "Intellectual Property"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.law888.com"
+            }
+        ]
+    }
+}

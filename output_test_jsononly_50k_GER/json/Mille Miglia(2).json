@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 26,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7568926,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kaufbeuren",
+                                "postalCode": "87600",
+                                "street1": "14 Kaiser-Max-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "083419600715"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Mille Miglia Frutta GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "mille-miglia-frutta.de"
+            }
+        ]
+    }
+}

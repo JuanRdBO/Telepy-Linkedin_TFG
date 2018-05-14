@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 16,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7389086,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60437",
+                                "street1": "15 Max-Holder-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "06950689909"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Matthias Schmidt GmbH - Stapler-Service",
+                "numFollowers": 0,
+                "websiteUrl": "gabelstapler-schmidt.de"
+            }
+        ]
+    }
+}

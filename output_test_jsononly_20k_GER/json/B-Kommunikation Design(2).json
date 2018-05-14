@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 73,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2000,
+                "id": 80275,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ikast",
+                                "postalCode": "7430",
+                                "street1": "Str\u00f8get 40"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "97 25 03 33"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Co3 webbureau",
+                "numFollowers": 2584,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Web design",
+                        "Web development",
+                        "Online Marketing",
+                        "Search Engine Optimization (SEO)",
+                        "webbureau",
+                        "markedsf\u00f8ring"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "co3_dk",
+                "websiteUrl": "https://www.co3.dk/"
+            }
+        ]
+    }
+}

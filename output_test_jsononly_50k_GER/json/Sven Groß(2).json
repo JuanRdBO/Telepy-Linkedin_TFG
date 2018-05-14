@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2005,
+                "id": 1723891,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40235",
+                                "street1": "Burgm\u00fcllerstra\u00dfe 28"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "TAKTZEIT GmbH - Marketing Kommunikation",
+                "numFollowers": 14,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Markenaktivierung",
+                        "Brand Identity",
+                        "Sales Strategy",
+                        "Trade Marketing",
+                        "Shopper Marketing",
+                        "Digital Solutions",
+                        "Web Development",
+                        "Positioning",
+                        "Communication Services",
+                        "Marketing Services",
+                        "B2B Marketing",
+                        "Sales Promotions",
+                        "Loyalty Programs"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.taktzeit.com"
+            }
+        ]
+    }
+}

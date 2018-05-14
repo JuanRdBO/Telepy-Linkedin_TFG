@@ -1,0 +1,83 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1993,
+                "id": 18503814,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gwarimpa,",
+                                "postalCode": "900001",
+                                "street1": " No. 90, 4th Avenue"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": " Port-Harcourt",
+                                "postalCode": "500272",
+                                "street1": " 26 Emekuku Street, D/Line, "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Lagos Island",
+                                "postalCode": "100242",
+                                "street1": "5th Floor St. Nicholas House, Catholic Mission Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Construction Kaiser Limited CKL",
+                "numFollowers": 85,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Building Construction",
+                        "Civil Engineering",
+                        "Mechanical Engineering",
+                        " Electrical Engineering",
+                        "Steel Fabrication",
+                        "Steel Erection",
+                        "Project Advisory"
+                    ]
+                },
+                "websiteUrl": "http://www.constructionkaiser.com"
+            }
+        ]
+    }
+}

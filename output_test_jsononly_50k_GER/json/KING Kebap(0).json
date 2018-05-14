@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12283524,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "23",
+                            "name": "Producci\u00f3n alimentaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "T\u00fcbingen",
+                                "postalCode": "72072",
+                                "street1": "44 Eugen-Bolz-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 74729842009"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "King Kebap",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.xn--kingkebapbhl-mlb.de"
+            }
+        ]
+    }
+}

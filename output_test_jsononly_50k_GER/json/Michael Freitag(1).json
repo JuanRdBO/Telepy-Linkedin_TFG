@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1967,
+                "id": 5312279,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hofheim/Taunus",
+                                "postalCode": "65719",
+                                "street1": "Nassaustr. 25"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 6122 - 16603",
+                                "phone1": "+49 6122 - 9107-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Str\u00f6hmann Steinkult GmbH",
+                "numFollowers": 51,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Yachten",
+                        "Hotels",
+                        "Private Villen",
+                        "Schwimmbad, Wellness,B\u00e4der",
+                        "D\u00fcnnstein",
+                        "Oberfl\u00e4chen",
+                        "Montage",
+                        "Refit + Repair",
+                        "Entwurf",
+                        "Unterst\u00fctzung bei Ausschreibungen"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.stroehmann.de"
+            }
+        ]
+    }
+}

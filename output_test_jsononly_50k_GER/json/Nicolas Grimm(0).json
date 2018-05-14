@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2002,
+                "id": 1120335,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "126",
+                            "name": "Producci\u00f3n multimedia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "PARIS",
+                                "postalCode": "75017",
+                                "street1": "33, avenue de Saint-Ouen"
+                            },
+                            "contactInfo": {
+                                "fax": "+33153311947",
+                                "phone1": "+33142295504"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "LES FILMS SAUVAGES",
+                "numFollowers": 113,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Production audivisuelle et cin\u00e9matographique",
+                        "Diffusion tous supports"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "http://www.filmsauvages.com"
+            }
+        ]
+    }
+}

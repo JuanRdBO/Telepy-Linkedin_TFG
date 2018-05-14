@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7520846,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dortmund",
+                                "postalCode": "44137",
+                                "street1": "12 Luisenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0231143912"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hans-Joachim G\u00fcnther GmbH",
+                "numFollowers": 2,
+                "websiteUrl": "guenther-probenahme.de"
+            }
+        ]
+    }
+}

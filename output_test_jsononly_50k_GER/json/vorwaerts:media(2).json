@@ -1,0 +1,98 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 546030,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2001,
+                "id": 37631,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Norwalk",
+                                "postalCode": "06854",
+                                "street1": "99 Washington Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "203.852.8001"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10013",
+                                "street1": "170 Varick Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "212.941.4470"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Los Angeles",
+                                "postalCode": "90024",
+                                "street1": "10880 Wilshire Boulevard"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "310.234.3555"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Media Storm",
+                "numFollowers": 13369,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Strategic Media Planning",
+                        "Advertising/Marketing",
+                        "Digital Strategy & Activation",
+                        "Programmatic Trading",
+                        "Search & Social",
+                        "Research & Analytics",
+                        "Strategy & Ideation",
+                        "Broadcast Buying"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "@mediastorm411",
+                "websiteUrl": "http://www.mediastorm.biz"
+            }
+        ]
+    }
+}

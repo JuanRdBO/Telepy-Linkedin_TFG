@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12248149,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "8",
+                            "name": "Telecomunicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad M\u00fcnstereifel",
+                                "postalCode": "53902",
+                                "street1": "16 Marktstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 22538715"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rechtsanwaltskanzlei Peter K\u00f6nig, Tel",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.rechtsanwaltskanzlei-peter-koenig.de"
+            }
+        ]
+    }
+}

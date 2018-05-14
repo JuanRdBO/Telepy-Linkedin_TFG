@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 431,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12489553,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Arnstadt",
+                                "postalCode": "99310",
+                                "street1": "2 August-Rost-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 73929780"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fischer GmbH Kunststoff Pr\u00e4zision",
+                "numFollowers": 6,
+                "websiteUrl": "http://www.fischer-kunststoff.de"
+            }
+        ]
+    }
+}

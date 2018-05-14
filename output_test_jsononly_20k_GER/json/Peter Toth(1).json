@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2015,
+                "id": 18129172,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "136",
+                            "name": "Fotograf\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Budapest",
+                                "postalCode": "1085",
+                                "street1": "J\u00f3zsef k\u00f6r\u00fat 65."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "T\u00f3th Bal\u00e1zs Fot\u00f3st\u00fadi\u00f3",
+                "numFollowers": 13,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "portait photography",
+                        "headshot photography"
+                    ]
+                },
+                "websiteUrl": "www.tb-photo.hu"
+            }
+        ]
+    }
+}

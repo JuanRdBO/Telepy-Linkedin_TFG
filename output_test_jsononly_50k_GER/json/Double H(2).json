@@ -1,0 +1,95 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 257,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2011,
+                "id": 2231875,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "19",
+                            "name": "Industria textil y moda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "N1 2SN",
+                                "street1": "Fashion House"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Manchester",
+                                "postalCode": "M12 6HE",
+                                "street1": "THE GROVE"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Dublin",
+                                "street1": "Unit 1, Fashion City Ballymount Road,"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Double H Agency",
+                "numFollowers": 352,
+                "specialties": {
+                    "_total": 15,
+                    "values": [
+                        "WholeSale",
+                        "Fashion",
+                        "Retailer",
+                        "Distributor",
+                        "Multibrand",
+                        "Agency",
+                        "menswear",
+                        "womenswear",
+                        "kidswear",
+                        "Trends",
+                        "Showroom",
+                        "clothing",
+                        "Catwalk",
+                        "Trade Shows",
+                        "Marketing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "@doubleHagency1",
+                "websiteUrl": "www.doublehagency.com"
+            }
+        ]
+    }
+}

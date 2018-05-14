@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2017,
+                "id": 18270262,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pasadena",
+                                "postalCode": "91107",
+                                "street1": "2653 E Villa Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Forty6Eleven, LLC",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Product Placement",
+                        "Home Renovation",
+                        "Home Decor",
+                        "Building Products"
+                    ]
+                },
+                "websiteUrl": "http://www.forty6eleven.com"
+            }
+        ]
+    }
+}

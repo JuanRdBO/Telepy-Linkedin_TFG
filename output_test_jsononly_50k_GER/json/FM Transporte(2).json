@@ -1,0 +1,97 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 11,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2004,
+                "id": 572613,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mexico D.F.",
+                                "postalCode": "03100",
+                                "street1": "Insurgentes Sur 800, piso 11, local 1, Colonia del Valle, Delegaci\u00f3n Benito Ju\u00e1rez."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(0155) 1520 1270"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Monterrey.",
+                                "postalCode": "64460",
+                                "street1": "Tecate No. 160, 2\u00ba. Piso Col. Mitras centro."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "Oficina 8183708788"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Pointer Mexico.",
+                "numFollowers": 1834,
+                "specialties": {
+                    "_total": 20,
+                    "values": [
+                        "Administraci\u00f3n.",
+                        "Localizaci\u00f3n.",
+                        "Rastreo.",
+                        "Gesti\u00f3n.",
+                        "Flotas.",
+                        "Flotillas.",
+                        "Veh\u00edculos.",
+                        "GPS.",
+                        "GPRS",
+                        "Sector Automotriz",
+                        "Sector Transporte",
+                        "Sector Transporte P\u00fablico",
+                        "Sector Vehiculos de Carga",
+                        "Sector Maquinaria pesada",
+                        "Contenedores",
+                        "Plataformas",
+                        "Cajas",
+                        "AVL",
+                        "FM",
+                        "Ubicaci\u00f3n."
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.pointer.mx"
+            }
+        ]
+    }
+}

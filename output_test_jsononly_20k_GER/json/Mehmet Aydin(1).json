@@ -1,0 +1,45 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 24374702,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "22",
+                            "name": "Supermercados"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "BERGEN",
+                                "postalCode": "5003",
+                                "street1": "747 Narvesen Vestre Torgealmenningen Bergen"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "BUTIKDRIFT MEHMET AYDIN",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

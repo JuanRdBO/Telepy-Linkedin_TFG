@@ -1,0 +1,127 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 1834,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1957,
+                "id": 62021,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "51",
+                            "name": "Ingenier\u00eda civil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Minneapolis",
+                                "postalCode": "55438",
+                                "street1": "11001 Hampshire Ave S"
+                            },
+                            "contactInfo": {
+                                "fax": "952.995.2020",
+                                "phone1": "952.995.2000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "St. Paul",
+                                "postalCode": "55110",
+                                "street1": "1826 Buerkle Road"
+                            },
+                            "contactInfo": {
+                                "fax": "651.487.1812",
+                                "phone1": "651.487.3245"
+                            },
+                            "isActive": false,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Duluth",
+                                "postalCode": "55807",
+                                "street1": "4511 West First Street"
+                            },
+                            "contactInfo": {
+                                "fax": "218-624-0196",
+                                "phone1": "218-624-4967"
+                            },
+                            "isActive": false,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "West Fargo",
+                                "postalCode": "58078",
+                                "street1": "526 10th Street NE"
+                            },
+                            "contactInfo": {
+                                "fax": "701.232.7817",
+                                "phone1": "701.232.8701"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Rochester",
+                                "postalCode": "55904",
+                                "street1": "4210 Highway 14 East"
+                            },
+                            "contactInfo": {
+                                "fax": "507.281.5303",
+                                "phone1": "507-281-2515"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Braun Intertec Corporation",
+                "numFollowers": 4705,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Geotechnical Engineering",
+                        "Construction Materials Testing",
+                        "Environmental Consulting",
+                        "Analytical Laboratory",
+                        "Drilling",
+                        "Nondestructive Examination",
+                        "Building Forensics",
+                        "Pavement Design & Analysis",
+                        "Brownfield Consulting",
+                        "Industrial Hygiene",
+                        "Flood Control Design"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "braunIntertec",
+                "websiteUrl": "https://braunintertec.com"
+            }
+        ]
+    }
+}

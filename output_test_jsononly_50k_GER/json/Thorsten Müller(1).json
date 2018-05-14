@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12759769,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "13088",
+                                "street1": "81 Meyerbeerstr."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thorsten M\u00fcller-Vetterkind Mediator BAFM",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.mueller-vetterkind.de"
+            }
+        ]
+    }
+}

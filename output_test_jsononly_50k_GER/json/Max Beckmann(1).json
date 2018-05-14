@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12425897,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60487",
+                                "street1": "70 Sophienstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6921236964"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Max-Beckmann-Schule",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.max-beckmann-schule.de"
+            }
+        ]
+    }
+}

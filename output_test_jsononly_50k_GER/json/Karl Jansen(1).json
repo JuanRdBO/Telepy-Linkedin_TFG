@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7335795,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rheinbach",
+                                "postalCode": "53359",
+                                "street1": "Industriestra\u00dfe 34A"
+                            },
+                            "contactInfo": {
+                                "phone1": "02226809647"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Karl-Heinz Jansen Heizungsbau",
+                "numFollowers": 1,
+                "websiteUrl": "jansen-haustechnik.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4839,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1983,
+                "id": 487741,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "postalCode": "55124"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Keller Williams Integrity Eagan",
+                "numFollowers": 1564,
+                "specialties": {
+                    "_total": 22,
+                    "values": [
+                        "Real Estate",
+                        "Coaching ",
+                        "Training",
+                        "Wealth Building",
+                        "Profit Share",
+                        "Personal Growth",
+                        "Financial Growth",
+                        "Homes",
+                        "Commercial Real Estate",
+                        "Culture",
+                        "Marketing",
+                        "Technology",
+                        "Keller Williams",
+                        "Achievement",
+                        "Leadership",
+                        "Millionaire",
+                        "Entrepreneur",
+                        "Sales",
+                        "Millionaire Real Estate Agent",
+                        "God",
+                        "Family",
+                        "Business"
+                    ]
+                },
+                "websiteUrl": "http://kweagan.yourkwoffice.com/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2002,
+                "id": 10154956,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "117",
+                            "name": "Pl\u00e1sticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Merseburg",
+                                "postalCode": "06217",
+                                "street1": "Brandisstrasse 4"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "POLYKUM e. V.",
+                "numFollowers": 14,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Wissens-, Innovations-, und Technologietransfer",
+                        "Netzwerk",
+                        "Workshops"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://polykum.de"
+            }
+        ]
+    }
+}

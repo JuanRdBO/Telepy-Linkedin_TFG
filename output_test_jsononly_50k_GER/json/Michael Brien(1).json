@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 33,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2010,
+                "id": 2149412,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "name": "Michael Levy Consulting",
+                "numFollowers": 36,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Marcom Strategy",
+                        "Email Marketing",
+                        "Social Media",
+                        "Direct Marketing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "mikelevy510",
+                "websiteUrl": "www.21stcenturycommunications.net"
+            }
+        ]
+    }
+}

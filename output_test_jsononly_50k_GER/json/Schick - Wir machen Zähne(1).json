@@ -1,0 +1,90 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 264,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "H",
+                    "name": "5001-10000"
+                },
+                "foundedYear": 2015,
+                "id": 10025523,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "25",
+                            "name": "Art\u00edculos de consumo"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "St Louis",
+                                "postalCode": "63017",
+                                "street1": "1350 Timberlake Manor Parkway"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Solingen",
+                                "postalCode": "42659",
+                                "street1": "Schutzenstrasse 110"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Shelton",
+                                "postalCode": "06484",
+                                "street1": "6 Research Dr"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Edgewell Personal Care",
+                "numFollowers": 18047,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Shaving",
+                        "Sun Care",
+                        "Feminine Care",
+                        "Infant Care",
+                        "Skin Care",
+                        "Pet Care",
+                        "Grooming",
+                        "Men's Skincare",
+                        "Shave Prep"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.edgewell.com"
+            }
+        ]
+    }
+}

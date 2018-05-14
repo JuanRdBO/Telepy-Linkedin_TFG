@@ -1,0 +1,107 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1999,
+                "id": 1055740,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "108",
+                            "name": "Traducci\u00f3n y localizaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bonn",
+                                "postalCode": "53115",
+                                "street1": "Clemens-August-Str. 16-18"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 228 98226 15",
+                                "phone1": "+49 228 98226 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Stockholm",
+                                "postalCode": "116 62",
+                                "street1": "G\u00f6tgatan 103"
+                            },
+                            "contactInfo": {
+                                "fax": "+46 8 615 18 07",
+                                "phone1": "+46 8 411 29 50"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Barcelona",
+                                "postalCode": "08018",
+                                "street1": "c/Almog\u00e0vers 66, 4\u00ba A"
+                            },
+                            "contactInfo": {
+                                "fax": "+34 93 183 30 37",
+                                "phone1": "+34 93 183 30 34"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Greve",
+                                "postalCode": "2670",
+                                "street1": "Korskildelund 6"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ADAPT Localization Services GmbH",
+                "numFollowers": 703,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Translation for the Life Sciences",
+                        "Software Localization",
+                        "Medical Translation",
+                        "Pharmaceutical Translation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.adapt-localization.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 33,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7339565,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Borken (Hessen)",
+                                "postalCode": "34582",
+                                "street1": "74 Bahnhofstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "05682730033"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Robert M\u00fcller",
+                "numFollowers": 1,
+                "websiteUrl": "uhren-optik-mueller.de"
+            }
+        ]
+    }
+}

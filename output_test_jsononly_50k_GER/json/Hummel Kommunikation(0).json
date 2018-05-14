@@ -1,0 +1,88 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2006,
+                "id": 1526653,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "140",
+                            "name": "Dise\u00f1o gr\u00e1fico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f8benhavn \u00d8",
+                                "postalCode": "2100",
+                                "street1": "Slagelsegade 5, 1. sal"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+4520728020"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Hadsten",
+                                "postalCode": "8370",
+                                "street1": "Ellemosevej 5"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+4540881220"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "WELOVEDESIGN",
+                "numFollowers": 75,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Grafisk design",
+                        "Marketing",
+                        "Produkt design",
+                        "B\u00f8ger og Magasiner",
+                        "Sociale Medier",
+                        "Branding",
+                        "Kommunikation",
+                        "PR",
+                        "Web / hjemmeside",
+                        "Webdesign / hjemmeside design",
+                        "Webshops"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.welovedesign.nu"
+            }
+        ]
+    }
+}

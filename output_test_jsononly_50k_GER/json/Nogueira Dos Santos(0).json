@@ -1,0 +1,86 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 13,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2015,
+                "id": 9273934,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "10",
+                            "name": "Servicios jur\u00eddicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "S\u00e3o Paulo",
+                                "postalCode": "05419-002",
+                                "street1": "Avenida Pedroso de Morais, 1553, cjs. 43 e 44"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "55 11 38131150"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Rio de Janeiro",
+                                "postalCode": "20030-021",
+                                "street1": "Avenida Presidente Wilson, 231, 5\u00ba andar"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "55 21 2103-7638"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Santos Bevilaqua Advogados",
+                "numFollowers": 432,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Direito Civil",
+                        "Direito Tribut\u00e1rio",
+                        "Direito Regulat\u00f3rio",
+                        "Direito do Trabalho",
+                        "Direito Societ\u00e1rio",
+                        "Seguros e Resseguros",
+                        "Benef\u00edcios",
+                        "Previd\u00eancia Complementar",
+                        "Sa\u00fade Suplementar"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "santosbevilaqua.com.br"
+            }
+        ]
+    }
+}

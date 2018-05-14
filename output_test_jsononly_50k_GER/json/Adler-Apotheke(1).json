@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 33,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12427946,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "15",
+                            "name": "Industria farmac\u00e9utica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bielefeld (Schildesche)",
+                                "postalCode": "33611",
+                                "street1": "41 Johannisstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 5215573770"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Adler Apotheke, Bielefeld",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.adlerapotheke.com"
+            }
+        ]
+    }
+}

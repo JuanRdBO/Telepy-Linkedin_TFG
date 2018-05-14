@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 18,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2004,
+                "id": 2899901,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "117",
+                            "name": "Pl\u00e1sticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "KLANG",
+                                "postalCode": "42450",
+                                "street1": "No. 11, Lorong Seri Gambut 1, KJ Techno Industrial"
+                            },
+                            "contactInfo": {
+                                "fax": "603 5162 7764",
+                                "phone1": "6035162 7767"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "DYNAMiC PLASTIC INDUSTRIES",
+                "numFollowers": 146,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Plastic Bottles",
+                        "Plastic Containers",
+                        "Plastic Caps",
+                        "Plastic Products"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.dpiplastic.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2007,
+                "id": 7098711,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Saarbr\u00fccken",
+                                "postalCode": "66121",
+                                "street1": "Brandenburger Platz 19"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 681 98038 38",
+                                "phone1": "+49 681 98038 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Janek Pfeufer Architektur GmbH",
+                "numFollowers": 10,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Architektur",
+                        "Innenarchitektur",
+                        "Bauleitung",
+                        "Projektsteuerung",
+                        "Projektentwicklung",
+                        "Beratung rund ums Bauen"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.janek-pfeufer.de"
+            }
+        ]
+    }
+}

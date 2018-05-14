@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7405920,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bielefeld",
+                                "postalCode": "33647",
+                                "street1": "Cheruskerstra\u00dfe 56A"
+                            },
+                            "contactInfo": {
+                                "phone1": "0521448020"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rudolf Peter & Sohn GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "peter-bedachungen.de"
+            }
+        ]
+    }
+}

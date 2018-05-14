@@ -1,0 +1,122 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2000,
+                "id": 2014088,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "26",
+                            "name": "Mobiliario"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Alexandria",
+                                "postalCode": "2015",
+                                "street1": "The Woolstores, Shed 74"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "1300 132 154"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Alexandria",
+                                "postalCode": "2015",
+                                "street1": "Building 7"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "1300 132 154"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Richmond",
+                                "postalCode": "3121",
+                                "street1": "132A Bridge Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "1300 132 154"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Fortitude Valley",
+                                "postalCode": "4006",
+                                "street1": "171 Robertson Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "1300 132 154"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Northbridge",
+                                "postalCode": "6003",
+                                "street1": "274 Newcastle Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "1300 132 154"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Living Edge",
+                "numFollowers": 2985,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Designer Furniture",
+                        "Commercial Furniture",
+                        "Residential Furniture",
+                        "Office fit outs",
+                        "CAD design",
+                        "Product procurement"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.livingedge.com.au"
+            }
+        ]
+    }
+}

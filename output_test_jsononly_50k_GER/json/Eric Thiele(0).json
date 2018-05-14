@@ -1,0 +1,103 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2009,
+                "id": 2365061,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "147",
+                            "name": "Automaci\u00f3n industrial"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Magdeburg",
+                                "postalCode": "39120",
+                                "street1": "Gustav - Ricker - Str. 62"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Wernau am Neckar",
+                                "postalCode": "73249",
+                                "street1": "Talstrasse 8"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "M\u00fclheim an der Ruhr",
+                                "postalCode": "45473",
+                                "street1": "Wiesenstra\u00dfe 35"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Dresden",
+                                "postalCode": "01129",
+                                "street1": "Kleiststra\u00dfe 16"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Steffenshagen",
+                                "postalCode": "18209",
+                                "street1": "Am Schulgarten 3"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Laserscanning Europe GmbH",
+                "numFollowers": 149,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Vertrieb und Vermietung von 3D Scannern und Software",
+                        "Zubeh\u00f6r f\u00fcr 3D Laserscanner",
+                        "Schulungen",
+                        "3D Modellierung von Punktwolken"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.laserscanning-europe.com"
+            }
+        ]
+    }
+}

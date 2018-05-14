@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 106,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12777808,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wunsiedel",
+                                "postalCode": "95632",
+                                "street1": "Schneckenm\u00fchle"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 92324762"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "P\u00f6hlmann",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.color-m.de"
+            }
+        ]
+    }
+}

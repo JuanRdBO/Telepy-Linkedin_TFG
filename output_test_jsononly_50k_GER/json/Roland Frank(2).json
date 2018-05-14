@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 6774038,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Luckenwalde",
+                                "postalCode": "14943",
+                                "street1": "22 Heinrich-Zille-Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "03371613341"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Seidlitz Frank-Roland Dr. Ingenieurb\u00fcro",
+                "numFollowers": 1,
+                "websiteUrl": "dr-seidlitz.de"
+            }
+        ]
+    }
+}

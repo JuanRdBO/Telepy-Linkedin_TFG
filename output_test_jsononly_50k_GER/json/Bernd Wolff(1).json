@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7543031,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Freiberg",
+                                "postalCode": "09599",
+                                "street1": "77 Hainichener Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "03731459285"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wolff Jana & Bernd Fitness Center",
+                "numFollowers": 0,
+                "websiteUrl": "fitness-freiberg.de"
+            }
+        ]
+    }
+}

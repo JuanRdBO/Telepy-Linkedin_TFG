@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2006,
+                "id": 27145232,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "70",
+                            "name": "Investigaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Heelsum",
+                                "postalCode": "6866DA",
+                                "street1": "Bennekomseweg 21"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ACT het Achterhoeks Centrum voor Technologie",
+                "numFollowers": 11,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Innovatie in de maakindustrie",
+                        "Internet of Things",
+                        "Robotica",
+                        "Leermiddelen creatie",
+                        "3D printing",
+                        "Artificial Intelligence",
+                        "Sensoring",
+                        "Flexibele Assemblage cellen",
+                        "Cobots",
+                        "Cybersecurity",
+                        "Verbinding",
+                        "Bionica"
+                    ]
+                },
+                "websiteUrl": "ACT-nu.nl"
+            }
+        ]
+    }
+}

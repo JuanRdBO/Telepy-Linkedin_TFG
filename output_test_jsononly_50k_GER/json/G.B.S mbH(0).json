@@ -1,0 +1,92 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1986,
+                "id": 68102,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lohmar",
+                                "postalCode": "53797",
+                                "street1": "Hauptstrasse 128"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 2246 109 109",
+                                "phone1": "+49 2246 109 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Rochester Hills",
+                                "postalCode": "48309",
+                                "street1": "3943 W. Hamlin Road"
+                            },
+                            "contactInfo": {
+                                "fax": "+1 248 276 6431",
+                                "phone1": "+1 248 276 6430"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Randers",
+                                "postalCode": "8960",
+                                "street1": "Haraldsvej 60"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Emitec G.m.b.H.",
+                "numFollowers": 671,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Metallic Substrates for Exhaust Gas After Treatment",
+                        "SCR Systems"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.emitec.com"
+            }
+        ]
+    }
+}

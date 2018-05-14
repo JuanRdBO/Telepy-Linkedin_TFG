@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 9008591,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ha\u00dfloch",
+                                "postalCode": "67454",
+                                "street1": "Hans-B\u00f6ckler-Str. 20"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6324926"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Klaus Mayer e.K.",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.klaus-mayer-bmw.de"
+            }
+        ]
+    }
+}

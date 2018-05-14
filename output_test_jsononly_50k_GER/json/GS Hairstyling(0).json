@@ -1,0 +1,57 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2004,
+                "id": 18210393,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "112",
+                            "name": "Manufactura el\u00e9ctrica y electr\u00f3nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wenzhou",
+                                "postalCode": "325025",
+                                "street1": "E Building No.111 Road,No.4 Street,Binhai Indutrial Zone,Wenzhou,Zhejiang,China"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sabeco Hair iron-Wenzhou Shunyi",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Beauty&Hairstyling",
+                        "Professional",
+                        "Manufacturer"
+                    ]
+                },
+                "websiteUrl": "www.zjsabeco.com"
+            }
+        ]
+    }
+}

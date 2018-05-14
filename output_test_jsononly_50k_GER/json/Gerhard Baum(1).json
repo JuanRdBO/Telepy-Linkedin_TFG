@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12263685,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ueckerm\u00fcnde",
+                                "postalCode": "17373",
+                                "street1": "5a Klaus-St\u00f6rtebeker-Weg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3977123264"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kfz Karosserieservice Gerhard Hebold",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.auto-reparatur-hebold.de"
+            }
+        ]
+    }
+}

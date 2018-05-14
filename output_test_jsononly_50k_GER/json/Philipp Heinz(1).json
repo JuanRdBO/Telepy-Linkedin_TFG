@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12258110,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "W\u00fcrselen",
+                                "postalCode": "52146",
+                                "street1": "11 Tittelsstrasse"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2405407466"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Heinz-philipp",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.heinz-philipp.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2006,
+                "id": 1340873,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "90",
+                            "name": "Organizaci\u00f3n c\u00edvica y social"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "75002",
+                                "street1": "28 rue du Sentier"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "01 43 71 39 48"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Agence nouvelle des solidarit\u00e9s actives (Ansa)",
+                "numFollowers": 353,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.solidarites-actives.com"
+            }
+        ]
+    }
+}

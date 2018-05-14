@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 16712,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2002,
+                "id": 503379,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "88",
+                            "name": "Servicios para el individuo y la familia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Chicago",
+                                "postalCode": "60647",
+                                "street1": "3533 W. North Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "773-342-4253",
+                                "phone1": "773-276-4900"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "La Casa Norte",
+                "numFollowers": 1801,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Youth & Families Confronting Homelessness",
+                        "Housing & Supportive Services",
+                        "Hunger & Food Initiatives",
+                        "Community Engagement"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "http://twitter.com/lacasanorte",
+                "websiteUrl": "www.lacasanorte.org"
+            }
+        ]
+    }
+}

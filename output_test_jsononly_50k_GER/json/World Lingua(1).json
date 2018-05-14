@@ -1,0 +1,83 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 151,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2014,
+                "id": 1179764,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "108",
+                            "name": "Traducci\u00f3n y localizaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Swansea",
+                                "postalCode": "SA1 8PL",
+                                "street1": "J-Shed"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+441792469990"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Lingua Translations Limited",
+                "numFollowers": 901,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Translation Services",
+                        "Interpreting Services",
+                        "Interpreting Services",
+                        "Telephone Interpreting",
+                        "Subtitling",
+                        "Transcription (multilingual)",
+                        "Native Translators"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "@veritas_group",
+                "websiteUrl": "http://www.lingua-translations.com;"
+            }
+        ]
+    }
+}

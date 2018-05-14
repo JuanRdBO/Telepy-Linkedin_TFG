@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12741037,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bonn",
+                                "postalCode": "53173",
+                                "street1": "Bonner Str. 67A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 228315084"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kfz-Meisterbetrieb J\u00f6rg Berner",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.kfz-berner.de"
+            }
+        ]
+    }
+}

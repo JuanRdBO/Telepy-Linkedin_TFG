@@ -1,0 +1,117 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 2014,
+                "id": 4807771,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Fellbach",
+                                "postalCode": "70736",
+                                "street1": "Wilhelm-Pfitzer-Stra\u00dfe 26"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 711 / 8 49 63 78 \u2013 999",
+                                "phone1": "+49 711 / 8 49 63 78 \u2013 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80807",
+                                "street1": "Taunusstr. 36"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 89 / 35 89 99 19 \u2013 999",
+                                "phone1": "+49 89 / 35 89 99 19 \u2013 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Ingolstadt",
+                                "postalCode": "85055",
+                                "street1": "Goethestr. 116"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 841 / 9 81 58 32 \u2013 999",
+                                "phone1": "+49 841 / 9 81 58 32 \u2013 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Friedrichshafen",
+                                "postalCode": "88046",
+                                "street1": "Otto-Lilienthal-Str. 2"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 7541 / 39 90 67 \u2013 100",
+                                "phone1": "+49 7541 / 39 90 67 \u2013 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Donaueschingen",
+                                "postalCode": "78166",
+                                "street1": "Herdstr. 15"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 771 / 8 97 78 99 \u2013 100",
+                                "phone1": "+49 771 / 8 97 78 99 \u2013 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ACONEXT",
+                "numFollowers": 257,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Systems Engineering",
+                        "Virtual Engineering",
+                        "Electronic Engineering"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.aconext.de"
+            }
+        ]
+    }
+}

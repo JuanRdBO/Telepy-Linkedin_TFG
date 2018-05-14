@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2007,
+                "id": 1527663,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "115",
+                            "name": "M\u00fasica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "11693",
+                                "street1": "Greater NYC Area"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "David White Jazz Orchestra",
+                "numFollowers": 59,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Modern Jazz",
+                        "Orchestral Jazz",
+                        "Big Band Jazz",
+                        "Jazz Composition",
+                        "Jazz Imporvisation",
+                        "Recording",
+                        "Live Performance"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "davidwhitejazz",
+                "websiteUrl": "davidwhitejazz.com"
+            }
+        ]
+    }
+}

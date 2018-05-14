@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7537367,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "94",
+                            "name": "Aeron\u00e1utica/Aviaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Vohburg an der Donau",
+                                "postalCode": "85088",
+                                "street1": "8 Alte Landgerichtsstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "084571252"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Reiseb\u00fcro Weber Inh. Andrea Windirsch",
+                "numFollowers": 0,
+                "websiteUrl": "reisebuero-weber-vohburg.de"
+            }
+        ]
+    }
+}

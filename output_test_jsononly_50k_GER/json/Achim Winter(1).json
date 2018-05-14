@@ -1,0 +1,51 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2008,
+                "id": 18090012,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "20",
+                            "name": "Art\u00edculos deportivos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Eppingen",
+                                "postalCode": "75031",
+                                "street1": "Berwanger Stra\u00dfe 19"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "sno22 GmbH",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.sno22.de/index_en.php?load=home"
+            }
+        ]
+    }
+}

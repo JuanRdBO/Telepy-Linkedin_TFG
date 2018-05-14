@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12422125,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wangen-Karsee",
+                                "postalCode": "88239",
+                                "street1": "3 Brenner"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 75061222"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Holzbau Prinz",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.holzbauprinz.de"
+            }
+        ]
+    }
+}

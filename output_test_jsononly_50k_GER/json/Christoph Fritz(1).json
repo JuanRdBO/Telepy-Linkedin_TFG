@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2008,
+                "id": 4988277,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "106",
+                            "name": "Capital de riesgo"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Munich",
+                                "postalCode": "80538",
+                                "street1": "Widenmayerstrasse 29"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0)89-2421 887-59",
+                                "phone1": "+49 (0)89-2421 887-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Acton Capital Partners",
+                "numFollowers": 590,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Venture Capital",
+                        "Internet",
+                        "Growth Capital",
+                        "Startups"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.actoncapital.com"
+            }
+        ]
+    }
+}

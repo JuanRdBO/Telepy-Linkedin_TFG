@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 13,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7343604,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "126",
+                            "name": "Producci\u00f3n multimedia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Montabaur",
+                                "postalCode": "56410",
+                                "street1": "27 Lilienstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "026024113"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Michael Jung",
+                "numFollowers": 1,
+                "websiteUrl": "bauelemente-jung.de"
+            }
+        ]
+    }
+}

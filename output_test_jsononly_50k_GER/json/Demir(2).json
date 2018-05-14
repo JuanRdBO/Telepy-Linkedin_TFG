@@ -1,0 +1,98 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 665,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1989,
+                "id": 1104888,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "ISTANBUL",
+                                "postalCode": "34394",
+                                "street1": "B\u00fcy\u00fckdere Caddesi \u00d6zsezen Is Merkezi No.122/B"
+                            },
+                            "contactInfo": {
+                                "fax": "0212 217 23 00",
+                                "phone1": "0212 288 68 44"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "ANKARA",
+                                "postalCode": "06540",
+                                "street1": "Paris Caddesi, Sili Meydani No:76"
+                            },
+                            "contactInfo": {
+                                "fax": "+90(0312) 427 39 82",
+                                "phone1": "+90(0312) 466 02 80"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "ADANA",
+                                "postalCode": "",
+                                "street1": "Atat\u00fcrk caddesi Gen \u0130\u015f Merkezi No:22  Kat: 2   Daire :5"
+                            },
+                            "contactInfo": {
+                                "fax": "+90(0 322) 459 68 18",
+                                "phone1": "+90(0 322) 459 68 08"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "KAYSER\u0130",
+                                "postalCode": "38010",
+                                "street1": "Gevhernesibe Mh. G\u00f6k Sk. Ge\u00e7idi Mesta\u015f Tegin Plaza No:12 Kat :4 Daire :33"
+                            },
+                            "contactInfo": {
+                                "fax": "+90(0 352) 231 57  07",
+                                "phone1": "+90(0 352) 231 57 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Demir Sigorta A.\u015e.",
+                "numFollowers": 1615,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.demirsigorta.com.tr"
+            }
+        ]
+    }
+}

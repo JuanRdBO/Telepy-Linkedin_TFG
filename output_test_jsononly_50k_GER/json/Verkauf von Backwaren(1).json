@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12492475,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "64",
+                            "name": "Ganader\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hungen",
+                                "postalCode": "35410",
+                                "street1": "6 Schulstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 1705387024"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Aquapac",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.aquapac-shop.de"
+            }
+        ]
+    }
+}

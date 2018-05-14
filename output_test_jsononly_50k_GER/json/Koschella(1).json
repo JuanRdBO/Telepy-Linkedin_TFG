@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12268061,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kassel",
+                                "postalCode": "34134",
+                                "street1": "5 Cred\u00e9stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 561941760"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Klaus Koschella",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.stb-koschella.de"
+            }
+        ]
+    }
+}

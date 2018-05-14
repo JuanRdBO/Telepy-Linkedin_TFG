@@ -1,0 +1,113 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 209,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1877,
+                "id": 1932324,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "25",
+                            "name": "Art\u00edculos de consumo"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Heilbronn",
+                                "postalCode": "74072",
+                                "street1": "Wollhausstr.60-62"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 7131 886 499",
+                                "phone1": "+49 7131 886 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bielefeld",
+                                "postalCode": "33689",
+                                "street1": "Fritz Eilers Junr. GmbH & Co. KG"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0) 5205 - 103-375",
+                                "phone1": "+49 (0) 5205 - 103-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Remda-Teichel",
+                                "postalCode": "07407",
+                                "street1": "Gewerbegebiet 2"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0)36743 340-98",
+                                "phone1": "+49 (0)36743 340-12"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Wolhusen",
+                                "postalCode": "6110",
+                                "street1": "Geschenkverpackungen und Servietten"
+                            },
+                            "contactInfo": {
+                                "fax": "+41 (0)41 492 52 52",
+                                "phone1": "+41 (0)41 492 51 51"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Baier & Schneider GmbH & Co KG",
+                "numFollowers": 342,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Diaries",
+                        "School Supplies",
+                        "Notebooks",
+                        "Arts & Crafts",
+                        "Gift Packaging",
+                        "Ledgers & Accounting Books",
+                        "Office Supplies",
+                        "Gift Items",
+                        "Promotional Products",
+                        "Organisers"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.brunnen.com/index_com.html"
+            }
+        ]
+    }
+}

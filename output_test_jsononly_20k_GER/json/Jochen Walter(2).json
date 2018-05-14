@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12543208,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70193",
+                                "street1": "131 Forststr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 71163672865"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Tga Fachplaner",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.tga-fachplaner.de"
+            }
+        ]
+    }
+}

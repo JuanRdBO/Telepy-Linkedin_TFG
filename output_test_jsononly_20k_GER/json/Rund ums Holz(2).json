@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 25,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12692266,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Passau",
+                                "postalCode": "94034",
+                                "street1": "34 Tittlinger Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 851955140"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Holz Mayrhofer GmbH",
+                "numFollowers": 6,
+                "websiteUrl": "http://www.holz-mayrhofer.de"
+            }
+        ]
+    }
+}

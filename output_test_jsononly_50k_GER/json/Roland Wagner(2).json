@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7375345,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ellwangen (Jagst)",
+                                "postalCode": "73479",
+                                "street1": "37 Marienstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "079612296"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Metzgerei Roland Wagner",
+                "numFollowers": 0,
+                "websiteUrl": "metzgerei-wagner.net"
+            }
+        ]
+    }
+}

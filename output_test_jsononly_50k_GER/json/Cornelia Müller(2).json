@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7329554,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Burg (bei Magdeburg)",
+                                "postalCode": "39288",
+                                "street1": "8 An Den Kr\u00e4henbergen"
+                            },
+                            "contactInfo": {
+                                "phone1": "03921457060"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Autohaus Cornelia M\u00fcller",
+                "numFollowers": 0,
+                "websiteUrl": "cmueller.nissan-haendler.de"
+            }
+        ]
+    }
+}

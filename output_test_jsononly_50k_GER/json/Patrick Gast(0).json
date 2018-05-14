@@ -1,0 +1,84 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 2649956,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Tongeren",
+                                "postalCode": "3700",
+                                "street1": "Sint-Truiderstraat"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Hasselt",
+                                "postalCode": "3500",
+                                "street1": "Kempische Steenweg"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Marke",
+                                "postalCode": "8510",
+                                "street1": "Engelse Wandeling"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "winfera bvba",
+                "numFollowers": 72,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Ramen en deuren",
+                        "Garagepoorten",
+                        "Rolluiken",
+                        "Renovatie en nieuwbouw, PVC, Hout, Alu"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.winfera.be"
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1985,
+                "id": 1827479,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Meeuwen",
+                                "postalCode": "3670",
+                                "street1": "Kerkplein 2b4"
+                            },
+                            "contactInfo": {
+                                "fax": "011 66 28 87",
+                                "phone1": "011 79 28 87"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Meeuwen",
+                                "postalCode": "3670",
+                                "street1": "Breekiezel 51"
+                            },
+                            "contactInfo": {
+                                "fax": "011 66 28 87",
+                                "phone1": "089 85 51 71"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Zakenkantoor Elen & Evens bvba",
+                "numFollowers": 12,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Verzekeringen",
+                        "Ondernemingen",
+                        "Particulieren",
+                        "Voertuigen"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "kantoor_elen",
+                "websiteUrl": "www.ZakenKantoorElenEnEvens.be"
+            }
+        ]
+    }
+}

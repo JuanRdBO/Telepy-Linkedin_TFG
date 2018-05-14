@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 33,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7449661,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bonn",
+                                "postalCode": "53117",
+                                "street1": "10 Christian-Lassen-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0228559290"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "K\u00f6nig & Partner Versorgungstechnik GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "koenig-partner.com"
+            }
+        ]
+    }
+}

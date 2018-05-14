@@ -1,0 +1,97 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 306,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1979,
+                "id": 853372,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "San Antonio",
+                                "postalCode": "78201",
+                                "street1": "6223 IH 10 West"
+                            },
+                            "contactInfo": {
+                                "fax": "(210) 341-1854",
+                                "phone1": "(210) 341-9711"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Austin",
+                                "postalCode": "78701",
+                                "street1": "1301 Nueces, Suite 101"
+                            },
+                            "contactInfo": {
+                                "fax": "(512) 494-0207",
+                                "phone1": "(512) 494-0200"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Corpus Christi",
+                                "postalCode": "78477",
+                                "street1": "615 N. Upper Broadway"
+                            },
+                            "contactInfo": {
+                                "fax": "(361) 883-0506",
+                                "phone1": "(361) 881-9643"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Brin & Brin, P.C.",
+                "numFollowers": 93,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Litigation",
+                        "Personal Injury",
+                        "Professional Negligence",
+                        "Commercial Litigation",
+                        "Insurance Litigation",
+                        "Business Transactions",
+                        "Health Law",
+                        "Appellate Law"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "www.brinandbrin.com"
+            }
+        ]
+    }
+}

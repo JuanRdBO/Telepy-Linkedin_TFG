@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2016,
+                "id": 15234359,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "17",
+                            "name": "Dispositivos m\u00e9dicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Eindhoven",
+                                "postalCode": "5644BB",
+                                "street1": "Boerhaavelaan 33"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+31 6 2713 9214"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "MD squared B.V.",
+                "numFollowers": 16,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Medical Consultancy for the Medical Device Industry",
+                        "Regulatory Support",
+                        "Medical Competence",
+                        "Value Creation",
+                        "Product Claim Management"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.md-squared.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1994,
+                "id": 286579,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "8",
+                            "name": "Telecomunicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kronberg",
+                                "postalCode": "61476",
+                                "street1": "Campus Kronberg 7"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (69) 633 99 199",
+                                "phone1": "+49 (69) 633 99 100"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80807",
+                                "street1": "Marcel-Breuer-Str. 17"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (89) 323 895 950",
+                                "phone1": "+49 (89) 323 895 900"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Balingen",
+                                "postalCode": "72336",
+                                "street1": "Schwarzenburgstr. 4"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (7433) 99 50 50",
+                                "phone1": "+49 (7433) 99 500"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Kloten",
+                                "postalCode": "8302",
+                                "street1": "Balz-Zimmermann-Stra\u00dfe 7"
+                            },
+                            "contactInfo": {
+                                "fax": "+41 43 211 28 99",
+                                "phone1": "+41 43 211 28 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Cointrin",
+                                "postalCode": "1216",
+                                "street1": "Avenue Louis-Casa\u00ef 51"
+                            },
+                            "contactInfo": {
+                                "fax": "+41 22 710 29 99",
+                                "phone1": "+ 41 22 710 29 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "MVC Mobile VideoCommunication GmbH",
+                "numFollowers": 181,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Skype for Business",
+                        "Cisco UC",
+                        "Video Conferencing",
+                        "Unified Communications",
+                        "Telepresence",
+                        "Video as a Service",
+                        "Usage & Adoption",
+                        "Projektberatung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.mvc.de"
+            }
+        ]
+    }
+}

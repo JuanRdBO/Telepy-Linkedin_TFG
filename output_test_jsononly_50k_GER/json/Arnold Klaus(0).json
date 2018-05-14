@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1995,
+                "id": 433821,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "35",
+                            "name": "Pel\u00edculas y cine"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wien",
+                                "postalCode": "1050",
+                                "street1": "Gartengasse 21"
+                            },
+                            "contactInfo": {
+                                "fax": "+43 1 5863040 43",
+                                "phone1": "+43 1 5863040"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Klaus Krall GmbH / k-effects",
+                "numFollowers": 59,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "digitale Postproduction",
+                        "3D Animation",
+                        "compositing",
+                        "3D Tracking",
+                        "DIT & Data handling",
+                        "color grading",
+                        "VFX-Design",
+                        "pre visualisation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.k-effects.com"
+            }
+        ]
+    }
+}

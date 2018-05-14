@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 2012,
+                "id": 10442662,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": "50825",
+                                "street1": "Lichtstra\u00dfe 25"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49221 8282 9544"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Pepperminds Deutschland GmbH",
+                "numFollowers": 87,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Fieldmarketing",
+                        "Sales Promotion",
+                        "Lead Generation",
+                        "Promotion&Aktionen",
+                        "Face-to-face-Sales",
+                        "Door-to-Door-Sales",
+                        "Fundraising"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.peppermindsdeutschland.de"
+            }
+        ]
+    }
+}

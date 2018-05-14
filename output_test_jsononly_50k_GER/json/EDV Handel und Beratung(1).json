@@ -1,0 +1,97 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 14,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1988,
+                "id": 3177777,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Munich",
+                                "postalCode": "81377",
+                                "street1": "F\u00fcrstenrieder Strasse 267"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 89 58 93 94 50",
+                                "phone1": "+49 89 58 93 94 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70191",
+                                "street1": "Rosensteinstra\u00dfe 22-24"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 89 58 63 94 50",
+                                "phone1": "+49 89 58 93 94 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "mip Management Informationspartner GmbH",
+                "numFollowers": 91,
+                "specialties": {
+                    "_total": 20,
+                    "values": [
+                        "Data Warehouse",
+                        "Business Intelligence",
+                        "Business Analytics",
+                        "IT Infrastruktur",
+                        "Data Mining",
+                        "Location Intelligence",
+                        "Daten  Integration",
+                        "Enterprise Search",
+                        "Predicitve Analytics",
+                        "Geodaten",
+                        "Statistik",
+                        "IoT ",
+                        "Fertigung",
+                        "Handel",
+                        "Mittelstand",
+                        "360 Grad Datenanalysen",
+                        "Unternehmensreporting",
+                        "Daten Visualisierung",
+                        "Dashboards ",
+                        "Industrie 4.0"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.mip.de/"
+            }
+        ]
+    }
+}

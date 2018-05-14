@@ -1,0 +1,45 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2008,
+                "id": 11236927,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "name": "Law Office of Alexander Berger",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Litigation",
+                        "General Counseling",
+                        "Contracts",
+                        "Employment Law"
+                    ]
+                },
+                "websiteUrl": "www.berger-law.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 93,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1985,
+                "id": 233220,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Malm\u00f6",
+                                "postalCode": "21122",
+                                "street1": "Norra Vallgatan 102"
+                            },
+                            "contactInfo": {
+                                "fax": "+4640103585",
+                                "phone1": "+4640234136"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Navigator Communications",
+                "numFollowers": 647,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Market communication",
+                        "Internal implementation",
+                        "Brand strategy",
+                        "Business intelligence",
+                        "PR",
+                        "Annual reports",
+                        "Healthcare communication",
+                        "Web strategy",
+                        "Social media strategy",
+                        "Digital strategy"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.navigator.se"
+            }
+        ]
+    }
+}

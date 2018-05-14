@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2015,
+                "id": 18109438,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "115",
+                            "name": "M\u00fasica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Nice"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dj Foxxer",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "DJ",
+                        "Mixage son",
+                        "Production musicale",
+                        "Light jockey"
+                    ]
+                },
+                "websiteUrl": "https://www.facebook.com/DjFoxxer/"
+            }
+        ]
+    }
+}

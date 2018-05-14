@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12853604,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Steinach",
+                                "postalCode": "94377",
+                                "street1": "27 Aufrother Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 9428948067"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gartengestaltung Stefan Heller",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.gartengestaltung-stefanheller.de"
+            }
+        ]
+    }
+}

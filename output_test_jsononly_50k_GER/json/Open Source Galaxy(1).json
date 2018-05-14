@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2016,
+                "id": 27144970,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "12",
+                            "name": "Biotecnolog\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Chapel Hill ",
+                                "postalCode": "27517",
+                                "street1": "11312 US 15-501 N"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Galaxy Enterprise by Intero Life Sciences ",
+                "numFollowers": 5,
+                "specialties": {
+                    "_total": 16,
+                    "values": [
+                        "Integrative bioinformatics",
+                        "data integration",
+                        "NGS",
+                        "multi  omics analysis",
+                        "variant analysis",
+                        "workflow design",
+                        "informatics outsourcing",
+                        "enterprise support",
+                        "platform optimization",
+                        "precision medicine",
+                        "professional service",
+                        "drug discovery",
+                        "disease interpretation",
+                        "clinical mass spectrometry",
+                        "biomarker identification",
+                        "pathway identification"
+                    ]
+                },
+                "websiteUrl": "https://www.galaxyinformatics.com/"
+            }
+        ]
+    }
+}

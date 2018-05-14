@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12494494,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Erkelenz",
+                                "postalCode": "41812",
+                                "street1": "66 Gewerbestr. S\u00fcd"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 20851110982"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wolfgang Peters Werkzeugschleiferei E.K",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.werkzeugschleiferei-peters.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2013,
+                "id": 10204731,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "125",
+                            "name": "Medicina alternativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Langenthal",
+                                "postalCode": "4900",
+                                "street1": "Marktgasse 12"
+                            },
+                            "contactInfo": {
+                                "fax": "062 923 18 20",
+                                "phone1": "062 923 18 18"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "TCM Praxis Ju",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Akupunktur",
+                        "Kr\u00e4utertherapie",
+                        "Schr\u00f6pfen"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.tcmju.ch"
+            }
+        ]
+    }
+}

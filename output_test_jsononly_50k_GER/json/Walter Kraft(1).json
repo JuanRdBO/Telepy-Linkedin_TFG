@@ -1,0 +1,118 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 13,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1941,
+                "id": 164676,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 6,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "San Francisco",
+                                "postalCode": "94111",
+                                "street1": "1001 Front St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10003",
+                                "street1": "230 Park Ave. South"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "SE1 2AP",
+                                "street1": "Riverside"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Central Hong Kong",
+                                "street1": "32 Hollywood Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Chiyoda-ku, Tokyo",
+                                "postalCode": "102-0093",
+                                "street1": "1-4-12, Hirakawacho"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Cincinnati",
+                                "postalCode": "45202",
+                                "street1": "110 Shillito Pl"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Landor",
+                "numFollowers": 57593,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Brand strategy",
+                        "Packaging design",
+                        "Brand identity design",
+                        "Internal brand engagement",
+                        "Naming & writing",
+                        "Research & insights",
+                        "Brand architecture",
+                        "Branded environments"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "landor_dot_com",
+                "websiteUrl": "http://landor.com"
+            }
+        ]
+    }
+}

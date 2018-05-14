@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2008,
+                "id": 2499331,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "name": "Chaney Group Holdings",
+                "numFollowers": 104,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "New Business Development",
+                        "Marketing",
+                        "Venture Capital",
+                        "Business Strategy",
+                        "Strategy",
+                        "Digital Media",
+                        "Sports Marketing",
+                        "Entrepreneurship",
+                        "Sports",
+                        "Private Equity",
+                        "Strategic Partnerships",
+                        "Mergers & Acquisitions"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "cghworld.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 14,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12492727,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kleve",
+                                "postalCode": "47533",
+                                "street1": "2 Boschstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 282172730"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Winkels Messe- Und Ausstellungsbau GmbH",
+                "numFollowers": 7,
+                "websiteUrl": "http://www.winkels-ausstellungsbau.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7535084,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10249",
+                                "street1": "23 Kochhannstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "03030641782"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Patrick Becker & Sebastian Meyer GbR",
+                "numFollowers": 1,
+                "websiteUrl": "2gramm.com"
+            }
+        ]
+    }
+}

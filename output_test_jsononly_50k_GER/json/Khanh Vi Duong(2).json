@@ -1,0 +1,51 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1,
+                "id": 13421325,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "H\u00e0 N\u1ed9i",
+                                "postalCode": "10000",
+                                "street1": "30 Tr\u1ea7n H\u1eefu D\u1ef1c, M\u1ef9 \u0110\u00ecnh, Nam T\u1eeb Li\u00eam"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "D\u1ef1 \u00e1n chung c\u01b0 Iris Garden M\u1ef9 \u0110\u00ecnh",
+                "numFollowers": 2,
+                "websiteUrl": "http://chungcuirisgardenmydinh.com/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7556513,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bonn Bad Godesberg",
+                                "postalCode": "53177",
+                                "street1": "14 Theodor-Heuss-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0228332226"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Chirurgische Praxis Dr. Dirk Meyer",
+                "numFollowers": 0,
+                "websiteUrl": "chirurgische-praxis-meyer.de"
+            }
+        ]
+    }
+}

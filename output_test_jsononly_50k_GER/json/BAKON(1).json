@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 18,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1986,
+                "id": 10867335,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Goes",
+                                "postalCode": "4462 GN",
+                                "street1": "Stanleyweg 1"
+                            },
+                            "contactInfo": {
+                                "fax": "+31 113  244 360",
+                                "phone1": "+31 113  244 330"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bakon Food Equipment B.V.",
+                "numFollowers": 106,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Spraying Machines",
+                        "Depositing Machines",
+                        "Ultrasonic Cutting Machines",
+                        "Bakery Equipment",
+                        "Enrobers",
+                        "Dipping machines",
+                        "Pastry Equipment"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.bakon.com"
+            }
+        ]
+    }
+}

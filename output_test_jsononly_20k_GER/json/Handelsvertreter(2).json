@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 37,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12305295,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": "50672",
+                                "street1": "22 Kaiser-Wilhelm-Ring"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2211209590"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Forum Handelsvertreter",
+                "numFollowers": 18,
+                "websiteUrl": "http://www.forum-handelsvertreter.de"
+            }
+        ]
+    }
+}

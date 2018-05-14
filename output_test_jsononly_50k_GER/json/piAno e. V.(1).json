@@ -1,0 +1,102 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 36,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2008,
+                "id": 923694,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stroud",
+                                "postalCode": "GL5 3EW",
+                                "street1": "New Mill,"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+44 1453 847000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Bangalore",
+                                "postalCode": "560 095",
+                                "street1": "No. 317/B"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Cristie Software Ltd",
+                "numFollowers": 1824,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Disaster Recovery",
+                        "Machine Migration",
+                        "Bare Machine Recovery",
+                        "Windows system recovery",
+                        "Linux system recovery",
+                        "AIX system recovery",
+                        "BMR for Spectrum Protect (TSM)",
+                        "BMR for Networker",
+                        "BMR for Avamar",
+                        "Machine Mobility",
+                        "BMR for Simpana",
+                        "Recovery testing",
+                        "Recovery assurance"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.cristie.com"
+            }
+        ]
+    }
+}

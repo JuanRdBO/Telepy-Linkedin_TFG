@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1937,
+                "id": 1713832,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "147",
+                            "name": "Automaci\u00f3n industrial"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Vinhedo",
+                                "postalCode": "13280-000",
+                                "street1": "Rua dos Cardeais, n\u00b0 41"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(19) 3826-8080"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "SSI SCH\u00c4FER Brasil",
+                "numFollowers": 2494,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Sistemas Log\u00edsticos (Logistics system)",
+                        "Armazenamento e Transporte (Storage and Conveying)",
+                        "Softwares Log\u00edsticos (Logistics Software)",
+                        "Solu\u00e7\u00e3o em Separa\u00e7\u00e3o e Prepara\u00e7\u00e3o de Pedidos (Picking solutions)",
+                        "Solu\u00e7\u00f5es Automatizadas (Automated Solutions)"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.ssi-schaefer.com/"
+            }
+        ]
+    }
+}

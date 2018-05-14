@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7373556,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Leipzig",
+                                "postalCode": "04157",
+                                "street1": "2 Sasstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "034190986490"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gothaer Generalagentur Jens Wagner",
+                "numFollowers": 0,
+                "websiteUrl": "wagner.gothaer.de"
+            }
+        ]
+    }
+}

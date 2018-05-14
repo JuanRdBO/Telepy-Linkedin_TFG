@@ -1,0 +1,76 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1997,
+                "id": 1895939,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Aachen",
+                                "postalCode": "52076",
+                                "street1": "Pontsheide 36"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 2408 7046-260",
+                                "phone1": "+49 2408 7046-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Janssen Cosmetics",
+                "numFollowers": 629,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Dry Skin",
+                        "Sensitive Skin",
+                        "Oily Skin",
+                        "Combination Skin",
+                        "Fair Skin",
+                        "Demanding Skin",
+                        "Skin Regeneration",
+                        "All Skin Needs",
+                        "Make Up",
+                        "Body",
+                        "Sun",
+                        "Man",
+                        "Biocosmetics",
+                        "Dr. Roland Sacher"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.janssen-cosmetics.com"
+            }
+        ]
+    }
+}

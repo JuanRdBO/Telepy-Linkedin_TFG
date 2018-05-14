@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12701423,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10709",
+                                "street1": "21-22 Johann-Georg-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 30887228722"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Barbara Bonk Steuerberaterin",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.bonk-steuerberaterin.de"
+            }
+        ]
+    }
+}

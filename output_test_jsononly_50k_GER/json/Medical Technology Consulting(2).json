@@ -1,0 +1,83 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 27840,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2009,
+                "id": 2144525,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "14",
+                            "name": "Atenci\u00f3n sanitaria y hospitalaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Vernon",
+                                "postalCode": "06066",
+                                "street1": "29 Naek Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(860) 872-2289"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Tolland",
+                                "postalCode": "06084",
+                                "street1": "1 Technology Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(860) 872-2289"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Medical Practice Partners",
+                "numFollowers": 1656,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Medical Revenue Cycle Management",
+                        "Electronic Health Records Services",
+                        "Information Technology",
+                        "Human Resources",
+                        "Credentialing",
+                        "Auditing Services"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.medicalpracticepartners.com"
+            }
+        ]
+    }
+}

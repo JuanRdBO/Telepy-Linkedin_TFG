@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12560502,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Flensburg",
+                                "postalCode": "24943",
+                                "street1": "6 Hafermarkt"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Simonelange.flensburg",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.simone-lange.de"
+            }
+        ]
+    }
+}

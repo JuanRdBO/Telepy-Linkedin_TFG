@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2006,
+                "id": 18306129,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gera",
+                                "postalCode": "07548",
+                                "street1": "Fasaneninsel 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "13509 ",
+                                "street1": "Wittestra\u00dfe 30 k"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "FUTUREDAT GmbH",
+                "numFollowers": 9,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "IT Service Management",
+                        "Consulting",
+                        "Weiterbildungen",
+                        "IT Security",
+                        "IT Lifecycle Management",
+                        "Compliance Management"
+                    ]
+                },
+                "websiteUrl": "http://www.futuredat.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7384717,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "138",
+                            "name": "Material y equipo de negocios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rostock",
+                                "postalCode": "18057",
+                                "street1": "11 L\u00fcbecker Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0381690760"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Horst Und Frank Schr\u00f6der GbR",
+                "numFollowers": 0,
+                "websiteUrl": "kassenundwaagen.de"
+            }
+        ]
+    }
+}

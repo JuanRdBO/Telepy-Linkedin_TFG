@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12679557,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad Hindelang",
+                                "postalCode": "87541",
+                                "street1": "Gundstra\u00dfe 2A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 83247123"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Stephan Vogt",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.beimvogt-oberjoch.de"
+            }
+        ]
+    }
+}

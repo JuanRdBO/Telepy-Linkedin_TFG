@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 109,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2012,
+                "id": 18225694,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "75116",
+                                "street1": "78, rue de la Faisanderie"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "NB Consulting",
+                "numFollowers": 8,
+                "specialties": {
+                    "_total": 17,
+                    "values": [
+                        "finance",
+                        "business plan",
+                        "CFO",
+                        "DAF",
+                        "Budget",
+                        "Pr\u00e9vision",
+                        "Comptabilit\u00e9 analytique",
+                        "Reporting",
+                        "Analyse de rentabilit\u00e9",
+                        "VC",
+                        "Fonds",
+                        "Contr\u00f4le de gestion",
+                        "Pilotage de l'entreprise",
+                        "cost killing",
+                        "comptabilit\u00e9",
+                        "tr\u00e9sorerie",
+                        "outils de pilotage"
+                    ]
+                },
+                "websiteUrl": "www.nbsf-consulting.com"
+            }
+        ]
+    }
+}

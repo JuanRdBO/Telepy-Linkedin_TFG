@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 19,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7527042,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kirchwalsede",
+                                "postalCode": "27386",
+                                "street1": "18 Am Osterfelde"
+                            },
+                            "contactInfo": {
+                                "phone1": "042691266"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "B\u00f6hling GmbH",
+                "numFollowers": 4,
+                "websiteUrl": "boehlingbau.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12356198,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Detmold",
+                                "postalCode": "32756",
+                                "street1": "74 Paulinenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 5231302418"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Naturo Bodenbel\u00e4ge",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.naturo-owl.de"
+            }
+        ]
+    }
+}

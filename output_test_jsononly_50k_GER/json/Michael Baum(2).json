@@ -1,0 +1,39 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 15285002,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "SILVER SPRING",
+                                "postalCode": "20910",
+                                "street1": "8830 CAMERON STREET, SUITE 105"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 3015871800"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "MICHAEL D. BAUM, M.D., P.A.",
+                "numFollowers": 1,
+                "websiteUrl": "http://marylandeye.com"
+            }
+        ]
+    }
+}

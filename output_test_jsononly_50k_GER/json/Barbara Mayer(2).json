@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7334302,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Freiburg im Breisgau",
+                                "postalCode": "79102",
+                                "street1": "20 Erwinstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "07615959671"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Frau Dipl.-Psych. Barbara Mayer",
+                "numFollowers": 0,
+                "websiteUrl": "freiburger-naturheilpraxis.de"
+            }
+        ]
+    }
+}

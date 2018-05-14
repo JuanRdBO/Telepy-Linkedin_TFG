@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2013,
+                "id": 2953801,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Comber",
+                                "postalCode": "BT23 5DT",
+                                "street1": "1st Floor, The Georgian House"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "02891 871 135"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ivory & Pearl Bridal Boutique",
+                "numFollowers": 87,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "wedding"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ivoryandpearl.com"
+            }
+        ]
+    }
+}

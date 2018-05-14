@@ -1,0 +1,95 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 449,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1978,
+                "id": 726427,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Augsburg",
+                                "postalCode": "86159",
+                                "street1": "Schertlinstra\u00dfe 23"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "81925",
+                                "street1": "Riesstra\u00dfe 16"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Ulm",
+                                "postalCode": "89077",
+                                "street1": "Schillerstra\u00dfe 1/1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "N\u00fcrnberg",
+                                "postalCode": "90402",
+                                "street1": "Am Tullnaupark 8"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Sonntag & Partner Partnerschaftsgesellschaft mbB",
+                "numFollowers": 149,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Rechtsberatung",
+                        "Steuerberatung",
+                        "Family Office",
+                        "Wirtschaftspr\u00fcfung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.sonntag-partner.de"
+            }
+        ]
+    }
+}

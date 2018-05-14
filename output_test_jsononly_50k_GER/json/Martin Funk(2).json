@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 22,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1912,
+                "id": 25177258,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "56",
+                            "name": "Miner\u00eda y metalurgia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hagen",
+                                "postalCode": "58119",
+                                "street1": "Ho\u00adhen\u00adlim\u00adbur\u00adger Stra\u00ad\u00dfe 95 "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Martin + Wei\u00dfgerber Kaltband",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Kaltband",
+                        "Spaltband",
+                        "Verpackungsstahlband"
+                    ]
+                },
+                "websiteUrl": "http://www.martin-weissgerber.de/"
+            }
+        ]
+    }
+}

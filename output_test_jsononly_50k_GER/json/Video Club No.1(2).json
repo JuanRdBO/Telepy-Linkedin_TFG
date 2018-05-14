@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 111,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1984,
+                "id": 314375,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "S\u00e3o Paulo",
+                                "postalCode": "04284-080",
+                                "street1": "Rua Abauna 44 - Sacom\u00e3"
+                            },
+                            "contactInfo": {
+                                "fax": "11-2272-4143",
+                                "phone1": "11-2066-8888"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "UZ Games",
+                "numFollowers": 1001,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Varejo especializado em Video Games",
+                        "Assist\u00eancia T\u00e9cnica Especializada em Video Games",
+                        "Franquia em Video Games"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.uzgames.com"
+            }
+        ]
+    }
+}

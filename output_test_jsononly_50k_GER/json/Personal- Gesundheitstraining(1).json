@@ -1,0 +1,109 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 1989,
+                "id": 1884187,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "125",
+                            "name": "Medicina alternativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kaufbeuren",
+                                "postalCode": "87600",
+                                "street1": "Neugablonzer Str.17"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "00491638848829"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Witten",
+                                "postalCode": "58456",
+                                "street1": "Von Elverfeldt Allee 12"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "00491638848829"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Kempten",
+                                "postalCode": "87439",
+                                "street1": "Landwehrstr.1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "00491638848829"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "F\u00fcssen",
+                                "postalCode": "87629",
+                                "street1": "Spitalgasse 4"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "00491638848829"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Rowek - Stunde der Mitte",
+                "numFollowers": 11,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Akupunktur",
+                        "Kr\u00e4utermedizin",
+                        "Tui Na Massage",
+                        "Tai Chi & Qi Gong",
+                        "Neijia-innere Kampfk\u00fcnste aus China",
+                        "Xing Yi Chuan - Boxen der 5 Wandlungsphasen"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.taichichuan.de"
+            }
+        ]
+    }
+}

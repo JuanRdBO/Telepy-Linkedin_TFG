@@ -1,0 +1,85 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2010,
+                "id": 3355834,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "",
+                                "street1": "7 Torriano Mews"
+                            },
+                            "contactInfo": {
+                                "fax": "+ 44 33 00 88 43 92",
+                                "phone1": "+ 44 33 00 88 43 91"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80538",
+                                "street1": "PL Gutscheinsysteme GmbH"
+                            },
+                            "contactInfo": {
+                                "fax": "+ 49 89 66 06 26 15 99",
+                                "phone1": "+ 49 89 66 06 26 15 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "givve\u00ae",
+                "numFollowers": 118,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Mitarbeitermotivation",
+                        "Benefit Programm",
+                        "Tankgutscheine",
+                        "Bonus",
+                        "Steuerfreier Sachbezug nach \u00a7 8 Abs. 2 Satz 11 EStG",
+                        "Sachzuwendungen nach \u00a7 37b EStG",
+                        "Steuerfreie Geschenke nach R 19.6, Abs. 1 LStR",
+                        "Steuerfreie Arbeitgeberleistungen"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.givve.com"
+            }
+        ]
+    }
+}

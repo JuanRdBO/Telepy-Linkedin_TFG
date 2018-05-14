@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 318,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7325629,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lastrup",
+                                "postalCode": "49688",
+                                "street1": "12 Ziegelstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "04472458"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Albers",
+                "numFollowers": 7,
+                "websiteUrl": "wohnerlebnis-albers.de"
+            }
+        ]
+    }
+}

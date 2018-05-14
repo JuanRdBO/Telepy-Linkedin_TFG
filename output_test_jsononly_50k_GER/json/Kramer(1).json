@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 1466,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12234315,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gerolstein",
+                                "postalCode": "54568",
+                                "street1": "25 Hillstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 659195750"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kr\u00e4mer",
+                "numFollowers": 14,
+                "websiteUrl": "http://www.ingenieurbuero-stefan-kraemer.de"
+            }
+        ]
+    }
+}

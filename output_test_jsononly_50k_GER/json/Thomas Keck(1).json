@@ -1,0 +1,64 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2015,
+                "id": 9262617,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "24",
+                            "name": "Electr\u00f3nica de consumo"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Seattle",
+                                "postalCode": "98102",
+                                "street1": "1127 10th Ave E"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gemio",
+                "numFollowers": 164,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Internet of Things",
+                        "Consumer Electronics",
+                        "Wearables"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.gogemio.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7334991,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oppenweiler",
+                                "postalCode": "71570",
+                                "street1": "9 Murrwiesenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "071914252"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gerhard Strobel GmbH",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

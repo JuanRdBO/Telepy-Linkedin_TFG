@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2012,
+                "id": 2806310,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Amstetten",
+                                "postalCode": "3300",
+                                "street1": "Josef Umdasch Platz 1"
+                            },
+                            "contactInfo": {
+                                "fax": "+43 7472 23 153 3225",
+                                "phone1": "+43 7472 23 153"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Form-on GmbH",
+                "numFollowers": 196,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Gebrauchtschalung",
+                        "Schalungskomponenten",
+                        "Deckenst\u00fctzen",
+                        "Schalungsplatten",
+                        "Schalungstr\u00e4ger",
+                        "Sperrholzplatten"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.form-on.com"
+            }
+        ]
+    }
+}

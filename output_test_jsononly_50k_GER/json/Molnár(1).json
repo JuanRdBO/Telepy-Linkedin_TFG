@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 145,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2003,
+                "id": 10824169,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "135",
+                            "name": "Ingenier\u00eda industrial o mec\u00e1nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Roswell",
+                                "postalCode": "30075",
+                                "street1": "10927 Crabapple Rd"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "7709925077"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Molnar Jordan & Associates Consulting Engineers",
+                "numFollowers": 8,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Electrical Engineering",
+                        "Mechanical Engineering"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://mojoengrs.com/home.php"
+            }
+        ]
+    }
+}

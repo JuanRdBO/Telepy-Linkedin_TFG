@@ -1,0 +1,49 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2006,
+                "id": 2791089,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "105",
+                            "name": "Formaci\u00f3n profesional"
+                        }
+                    ]
+                },
+                "name": "3E Trainingsakademie",
+                "numFollowers": 8,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Personalentwicklung",
+                        "F\u00fchrungskr\u00e4ftetraining",
+                        "Business Coaching"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.3e-trainingsakademie.de"
+            }
+        ]
+    }
+}

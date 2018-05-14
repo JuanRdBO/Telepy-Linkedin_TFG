@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 13,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7327194,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Witten",
+                                "postalCode": "58455",
+                                "street1": "27 Westfalenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "02302282530"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ZAPPE Verpackungsmaschinen GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "zappe-gmbh.de"
+            }
+        ]
+    }
+}

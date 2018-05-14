@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 21,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7473254,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "37",
+                            "name": "Museos e instituciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ratzeburg",
+                                "postalCode": "23909",
+                                "street1": "5 Domhof"
+                            },
+                            "contactInfo": {
+                                "phone1": "04541860720"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "A. Paul Weber - Museum",
+                "numFollowers": 0,
+                "websiteUrl": "weber-museum.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7429253,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oldenburg",
+                                "postalCode": "26125",
+                                "street1": "Ofenerdieker Stra\u00dfe 59A"
+                            },
+                            "contactInfo": {
+                                "phone1": "04411819373"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rechtsanwalt Kim M\u00fcller",
+                "numFollowers": 0,
+                "websiteUrl": "kim-mueller.de"
+            }
+        ]
+    }
+}

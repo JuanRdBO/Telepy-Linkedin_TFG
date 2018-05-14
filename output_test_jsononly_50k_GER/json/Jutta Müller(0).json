@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12284345,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bruchk\u00f6bel",
+                                "postalCode": "63486",
+                                "street1": "1 Martin-Luther-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 618176970"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Silbervitrine Jutta M\u00fcller",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.silbervitrine.de"
+            }
+        ]
+    }
+}

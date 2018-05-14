@@ -1,0 +1,86 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 722,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "H",
+                    "name": "5001-10000"
+                },
+                "foundedYear": 1975,
+                "id": 16525,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "41",
+                            "name": "Actividades bancarias"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Giza",
+                                "postalCode": "11213",
+                                "street1": "21/23 Charles De Gaulle Giza. P.O. Box 2430 Cairo, Egypt."
+                            },
+                            "contactInfo": {
+                                "fax": "35701945",
+                                "phone1": "37472000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "CIB Egypt",
+                "numFollowers": 75267,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Banking",
+                        "Commercial Banking",
+                        "Direct Investment",
+                        "Consumer Lending",
+                        "Transaction Services",
+                        "Cash Management",
+                        "Investment Banking",
+                        "Capital Markets",
+                        "Brokerage and Asset Management",
+                        "Wealth Management"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.cibeg.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7406948,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oberdorla",
+                                "postalCode": "99986",
+                                "street1": "10 Am Wasser"
+                            },
+                            "contactInfo": {
+                                "phone1": "03601750647"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Manfred Wei\u00df Und S\u00f6hne GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "zimmereiweiss.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1997,
+                "id": 10517191,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Linz",
+                                "postalCode": "4020",
+                                "street1": "Peter-Behrens-Platz 9"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+43 7320 93030"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Linz",
+                                "postalCode": "4020",
+                                "street1": "Hafenstra\u00dfe 2a"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+43 732 781298"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Wien",
+                                "postalCode": "1100",
+                                "street1": "Laxenburgerstrasse 2"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+43 732 781298"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Lunik2",
+                "numFollowers": 106,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Marketing",
+                        "Content",
+                        "Digital",
+                        "Strategy",
+                        "E-Commerce",
+                        "Typo3",
+                        "Web Applications"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.lunik2.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 2004,
+                "id": 891958,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 7,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Saint Thibault des Vignes",
+                                "postalCode": "77400",
+                                "street1": "3 Rue Louis de Broglie"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Pittsburgh",
+                                "postalCode": "15205",
+                                "street1": "5490 Campbells Run Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "San Sebastian de los Reyes",
+                                "postalCode": "28703",
+                                "street1": "Avda Camino de lo Cortao n\u00ba34 Nave 8"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": " Hollola",
+                                "postalCode": "15860 ",
+                                "street1": "Tarmontie 6E"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Hemel Hempstead",
+                                "postalCode": "HP2 7BW",
+                                "street1": "East Wing, Focus 31 Mark Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Arlandastad",
+                                "postalCode": "195 60",
+                                "street1": "Generatorgatan 9"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "R\u00f8dovre",
+                                "postalCode": "2610",
+                                "street1": "Krondalvej 9A"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ACRELEC",
+                "numFollowers": 3118,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Digital Self-service Kiosks",
+                        "Digital Displays",
+                        "Indoor and Outdoor Digital Solutions",
+                        "Digital Restaurant Solutions",
+                        "Digital Retail Solutions",
+                        "Bespoke Kiosk Design & Manufacturing",
+                        "Drive-thru Technology",
+                        "Digital Transformation Planning",
+                        "Order Confirmation Systems",
+                        "Retail"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.acrelec.com"
+            }
+        ]
+    }
+}

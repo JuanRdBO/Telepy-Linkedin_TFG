@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 54,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 6935311,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "91",
+                            "name": "Servicio al consumidor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "N\u00fcrnberg",
+                                "postalCode": "90459",
+                                "street1": "Pillenreuther Str. 66a"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 911450050"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Sch\u00f6pf Bankettservice GmbH",
+                "numFollowers": 15,
+                "websiteUrl": "http://www.schoepf-bankett.de"
+            }
+        ]
+    }
+}

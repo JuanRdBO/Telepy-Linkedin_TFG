@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12328865,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10317",
+                                "street1": "70 An Der Bucht"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3089638925"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Christian Schmid-Egger",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.ampulex.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1890,
+                "id": 3851715,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Glasgow",
+                                "postalCode": "G21 2QA",
+                                "street1": "331 Charles Street."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+44 141 553 4040"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Chester,",
+                                "postalCode": "CH4 0GZ",
+                                "street1": "Business Aviation Centre, Aviation Park,"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+44 (0)1244533966"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "XERVON Palmers Re Named Palmers Scaffolding UK Limited",
+                "numFollowers": 527,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Access & Scaffold Solutions",
+                        "Special Scaffolds",
+                        "Rolling Rig Scaffolds"
+                    ]
+                },
+                "status": {
+                    "code": "ACQ",
+                    "name": "Acquired"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.palmersgroup.co.uk"
+            }
+        ]
+    }
+}

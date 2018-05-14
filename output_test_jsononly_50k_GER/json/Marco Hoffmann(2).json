@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12378166,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wittlich",
+                                "postalCode": "54516",
+                                "street1": "34 Mozartstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 65719990"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Marcohoffmann.architektur",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.mhar.de"
+            }
+        ]
+    }
+}

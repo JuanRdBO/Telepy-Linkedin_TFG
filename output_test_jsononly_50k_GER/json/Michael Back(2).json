@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 594,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1985,
+                "id": 2318019,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "19",
+                            "name": "Industria textil y moda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Montclair",
+                                "postalCode": "91763",
+                                "street1": "5161 Richton St."
+                            },
+                            "contactInfo": {
+                                "fax": "909-581-7801",
+                                "phone1": "909-581-7800"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Michael Antonio Footwear Group",
+                "numFollowers": 584,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Shoes",
+                        "Accessories"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "@iheartmashoes",
+                "websiteUrl": "www.michaelantonio.com"
+            }
+        ]
+    }
+}

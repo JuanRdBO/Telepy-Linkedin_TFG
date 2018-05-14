@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 16,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12381351,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bergisch Gladbach",
+                                "postalCode": "51465",
+                                "street1": "30 Hornstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 220236815"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Architekturb\u00fcro Euteneuer",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.euteneuer-architekt.de"
+            }
+        ]
+    }
+}

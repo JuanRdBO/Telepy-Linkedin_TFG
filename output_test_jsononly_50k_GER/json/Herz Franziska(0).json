@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1967,
+                "id": 12175573,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "35",
+                            "name": "Pel\u00edculas y cine"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "81679",
+                                "street1": "Geibelstra\u00dfe 3"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0)89 30 90 407-77",
+                                "phone1": "+49 (0)89 4522449-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Neue M\u00fcnchner Fernsehproduktion",
+                "numFollowers": 8,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Filmproduktion",
+                        "TV-Produktion",
+                        "Fernsehproduktion"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://nmftv.de/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 12,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12506488,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60528",
+                                "street1": "19 Adolfstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 69672966"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gerhard M\u00fcller Sanit\u00e4re Anlagen GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.mueller-niederrad.de"
+            }
+        ]
+    }
+}

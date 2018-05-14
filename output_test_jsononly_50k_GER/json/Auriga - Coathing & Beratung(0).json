@@ -1,0 +1,104 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 197,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1990,
+                "id": 10025,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Woburn",
+                                "postalCode": "01801",
+                                "street1": "400 TradeCenter, Ste 5900"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Moscow",
+                                "postalCode": "117587",
+                                "street1": "125 Varshavskoe Shosse, Unit 16A"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Nizhny Novgorod",
+                                "postalCode": "603104",
+                                "street1": "6 Nartova St., office 829"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Rostov-on-Don",
+                                "postalCode": "344002",
+                                "street1": "74 Socialisticheskaya St., Liter A, office 910"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Vilnius",
+                                "street1": "Slezeviciaus 7"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Auriga",
+                "numFollowers": 2072,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "software R&D outsourcing",
+                        "mobile applications",
+                        "medical device software",
+                        "embedded software"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "AurigaInc",
+                "websiteUrl": "http://www.auriga.com"
+            }
+        ]
+    }
+}

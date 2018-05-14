@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 32,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7562284,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Schwerin",
+                                "postalCode": "19055",
+                                "street1": "35 L\u00fcbstorfer Weg"
+                            },
+                            "contactInfo": {
+                                "phone1": "01723247744"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Michael Becker Fliesenleger",
+                "numFollowers": 0,
+                "websiteUrl": "fliesenlegermeister-becker.de"
+            }
+        ]
+    }
+}

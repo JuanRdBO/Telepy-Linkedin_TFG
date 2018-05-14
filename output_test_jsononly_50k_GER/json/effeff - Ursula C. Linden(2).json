@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 19,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2011,
+                "id": 1973791,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt",
+                                "postalCode": "60389",
+                                "street1": "Rothschildallee 28a"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 69 13396389"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "effeff\u00ae | consulting for virtual business realities",
+                "numFollowers": 5,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "virtual teams",
+                        "assess - maturity of teams and systems",
+                        "virtual collaboration",
+                        "navigate - consulting re: people and technology",
+                        "collaboration technologies",
+                        "adopt - mobilization of teams & projects"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.effxeff.com"
+            }
+        ]
+    }
+}

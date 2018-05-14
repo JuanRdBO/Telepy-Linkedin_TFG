@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1966,
+                "id": 7221699,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Heringen (Werra)",
+                                "postalCode": "36266",
+                                "street1": "Industriestra\u00dfe 2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schwabenhaus GmbH & Co.KG",
+                "numFollowers": 20,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Fertighaus",
+                        "Einfamilienhaus",
+                        "Zweifamilienhaus",
+                        "Service",
+                        "Preis-Leistungs-Verh\u00e4ltnis",
+                        "innovative Hausprogramme",
+                        "attraktives Marktumfeld",
+                        "Hausbauunternehmen",
+                        "erfolgreiches Vertriebskonzept",
+                        "Hohe Kundenorientierung",
+                        "Profi-Hausverk\u00e4ufer (w/m)",
+                        "K\u00f6nigsklasse der Hausverk\u00e4ufer (w/m)"
+                    ]
+                },
+                "websiteUrl": "www.profi-hausverk\u00e4ufer.de"
+            }
+        ]
+    }
+}

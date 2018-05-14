@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 3322346,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Burlington",
+                                "postalCode": "L7M 5A5",
+                                "street1": "2180 Itabashi Way"
+                            },
+                            "contactInfo": {
+                                "fax": "905-681-9908",
+                                "phone1": "905-639-7676"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "905 Team",
+                "numFollowers": 10,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Real Estate Buying & Selling",
+                        "Early Entrance to New Construction Projects",
+                        "New Build Investment Opportunities",
+                        "Property Management"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.905team.ca/"
+            }
+        ]
+    }
+}

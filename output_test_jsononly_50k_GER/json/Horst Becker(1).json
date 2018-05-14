@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12721053,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Darmstadt",
+                                "postalCode": "64285",
+                                "street1": "33 Kiesbergstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 16090384750"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Horst Becker Montageservice",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.haustechnik-hb.de"
+            }
+        ]
+    }
+}

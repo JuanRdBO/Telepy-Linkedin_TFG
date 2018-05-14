@@ -1,0 +1,98 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1978,
+                "id": 826958,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pforzheim",
+                                "postalCode": "75179",
+                                "street1": "Heilbronnerstr. 10"
+                            },
+                            "contactInfo": {
+                                "fax": "+49-7231-15410-99",
+                                "phone1": "+497231-15410-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Largo",
+                                "postalCode": "33773",
+                                "street1": "8222 118th Avenue N"
+                            },
+                            "contactInfo": {
+                                "fax": "+17278281535",
+                                "phone1": "+17278281500"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Katunayake",
+                                "postalCode": "22222",
+                                "street1": "KEPZ 3"
+                            },
+                            "contactInfo": {
+                                "fax": "+94112252460",
+                                "phone1": "+94112252459"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Vellore",
+                                "postalCode": "632104",
+                                "street1": "Erayankadu"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+91 416 2206 000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "KRAMSKI GmbH",
+                "numFollowers": 192,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.kramski.com"
+            }
+        ]
+    }
+}

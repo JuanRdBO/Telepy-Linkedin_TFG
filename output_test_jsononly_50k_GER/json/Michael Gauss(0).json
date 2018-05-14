@@ -1,0 +1,96 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1968,
+                "id": 815821,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rochester",
+                                "postalCode": "14606",
+                                "street1": "Corprate Office and Sales"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "585-254-4500"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Buffalo",
+                                "postalCode": "14225",
+                                "street1": "40 Aero Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "716-631-0070"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Syracuse",
+                                "postalCode": "13206",
+                                "street1": "111 Leo Ave."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "315-463-6241"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Rochester",
+                                "postalCode": "14606",
+                                "street1": "1555 Emerson St"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "585-254-3140"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Abrasive-Tool Corp.",
+                "numFollowers": 206,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.abrasive-tool.com"
+            }
+        ]
+    }
+}

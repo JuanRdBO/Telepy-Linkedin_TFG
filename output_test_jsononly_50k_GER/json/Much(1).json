@@ -1,0 +1,91 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 127364,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1970,
+                "id": 28182,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Chicago",
+                                "postalCode": "60606",
+                                "street1": "191 North Wacker Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "312.521.2000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Irvine",
+                                "postalCode": "92614",
+                                "street1": "2 Park Plaza"
+                            },
+                            "contactInfo": {
+                                "fax": "949.385.5355",
+                                "phone1": "949.385.5353"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Much Shelist, P.C.",
+                "numFollowers": 683,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Commercial Finance",
+                        "Litigation & Dispute Resolution",
+                        "Construction Law",
+                        "Policyholders'\u200b Insurance Coverage",
+                        "Creditors'\u200b Rights & Business Bankruptcy",
+                        "Private Equity",
+                        "Health Care Law",
+                        "Real Estate Law",
+                        "Intellectual Property",
+                        "Labor & Employment",
+                        "Wealth Transfer & Succession Planning",
+                        "Startups & Venture Capital",
+                        "Mergers & Acquisitions",
+                        "Corporate Law"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.muchshelist.com"
+            }
+        ]
+    }
+}

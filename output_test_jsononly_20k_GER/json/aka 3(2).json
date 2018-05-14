@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 230,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 2009,
+                "id": 1207924,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "8",
+                            "name": "Telecomunicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Phnom Penh",
+                                "postalCode": "855",
+                                "street1": "No. 464A Monivong Blvd, Sangkat Tonle Bassac Khan Chamkarmorn"
+                            },
+                            "contactInfo": {
+                                "fax": "023868881",
+                                "phone1": "010201000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Smart Axiata",
+                "numFollowers": 4081,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "telecommunications",
+                        "Mobile Operator",
+                        "Internet Service Provider"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "SmartMobileKH",
+                "websiteUrl": "http://www.smart.com.kh"
+            }
+        ]
+    }
+}

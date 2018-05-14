@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 13,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1995,
+                "id": 3210737,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Weinheim",
+                                "postalCode": "",
+                                "street1": "Bergstra\u00dfe 45/1"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 6201 3986-12",
+                                "phone1": "+49 6201 3986-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "objective partner AG",
+                "numFollowers": 101,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Business Intelligence & Data Warehouse",
+                        "Realisierung von mobilen L\u00f6sungen",
+                        "Integration von Non-SAP und SAP-Systemen",
+                        "Softwareentwicklung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.objective-partner.de"
+            }
+        ]
+    }
+}

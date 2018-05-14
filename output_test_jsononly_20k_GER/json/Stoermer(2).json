@@ -1,0 +1,62 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2012,
+                "id": 11447734,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "139",
+                            "name": "Atenci\u00f3n a la salud mental"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pforzheim",
+                                "postalCode": "75172",
+                                "street1": "Lammstrasse 4"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Stoermer Coaching",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Burnout Pr\u00e4vention",
+                        "Erh\u00f6hung von Motivationen",
+                        "Ver\u00e4nderung eigener \u00dcberzeugungen",
+                        "Identifizierung des tieferen Sinns in der Arbeit",
+                        "Leistungssteigerung",
+                        "Business Hypnosen"
+                    ]
+                },
+                "websiteUrl": "http://michaelstoermer.com/"
+            }
+        ]
+    }
+}

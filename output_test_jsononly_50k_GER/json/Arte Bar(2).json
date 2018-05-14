@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 302,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2000,
+                "id": 743673,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "32",
+                            "name": "Restaurantes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Quito",
+                                "postalCode": "16450",
+                                "street1": "Chile Oe4-22  entre Venezuela y Garc\u00eda Moreno,"
+                            },
+                            "contactInfo": {
+                                "fax": "2511821",
+                                "phone1": "2511821"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Notansanto Arte Bar Restaurant",
+                "numFollowers": 18,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Restaurant",
+                        "comida quite\u00f1a",
+                        "comida internacional."
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "www.notansanto.com"
+            }
+        ]
+    }
+}

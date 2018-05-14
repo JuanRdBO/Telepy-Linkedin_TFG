@@ -1,0 +1,53 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1932,
+                "id": 12515255,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "61",
+                            "name": "Productos de papel y forestales"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Viersen",
+                                "postalCode": "41749",
+                                "street1": "Feldstra\u00dfe 9"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 216289660"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "KOHLSCHEIN GmbH & Co. KG",
+                "numFollowers": 25,
+                "websiteUrl": "http://www.kohlschein.de"
+            }
+        ]
+    }
+}

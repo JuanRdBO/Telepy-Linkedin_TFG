@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 49,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1973,
+                "id": 633394,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "140",
+                            "name": "Dise\u00f1o gr\u00e1fico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lewes",
+                                "postalCode": "BN7 1XY",
+                                "street1": "St Annes House"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Michael Bell Brand Communication",
+                "numFollowers": 217,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "brand consulting",
+                        "tactical campaigns",
+                        "creative design/copywriting",
+                        "video",
+                        "animation",
+                        "marketing support",
+                        "website design",
+                        "content creation",
+                        "SEO"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.michaelbell.co.uk"
+            }
+        ]
+    }
+}

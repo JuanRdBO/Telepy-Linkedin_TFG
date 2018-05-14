@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7420057,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Weyhe b. Bremen",
+                                "postalCode": "28844",
+                                "street1": "36 Memelstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "01607139036"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Personal Training J\u00f6rg Neumann",
+                "numFollowers": 1,
+                "websiteUrl": "jn-personaltraining.de"
+            }
+        ]
+    }
+}

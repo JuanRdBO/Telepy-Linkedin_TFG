@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 8842391,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "77",
+                            "name": "Cumplimiento de la ley"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Newby Hall",
+                                "postalCode": "HG4 5AE"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "WEATHERONLINE LIMITED",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.weatheronline.co.uk/"
+            }
+        ]
+    }
+}

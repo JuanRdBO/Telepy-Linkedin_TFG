@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 87,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "H",
+                    "name": "5001-10000"
+                },
+                "foundedYear": 2015,
+                "id": 10163464,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "95",
+                            "name": "Naval"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Odessa",
+                                "postalCode": "",
+                                "street1": "Malaya Arnautskaya 5"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "00380984961539"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Seacontact",
+                "numFollowers": 2437,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Crewing Agency",
+                        "Social network"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.seacontact.com"
+            }
+        ]
+    }
+}

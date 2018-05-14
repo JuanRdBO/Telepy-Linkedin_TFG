@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 13,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7527651,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "15",
+                            "name": "Industria farmac\u00e9utica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kassel",
+                                "postalCode": "34117",
+                                "street1": "21 Obere K\u00f6nigsstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "056115707"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Engel Apotheke Am Rathaus",
+                "numFollowers": 2,
+                "websiteUrl": "engel-apotheke-kassel.de"
+            }
+        ]
+    }
+}

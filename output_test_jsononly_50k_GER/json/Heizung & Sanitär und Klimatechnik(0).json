@@ -1,0 +1,88 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 18,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1953,
+                "id": 10246758,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bruneck",
+                                "postalCode": "39031",
+                                "street1": "St. Lorenznerstrasse 36"
+                            },
+                            "contactInfo": {
+                                "fax": "+390474538385",
+                                "phone1": "+390474572800"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Bozen",
+                                "postalCode": "39100",
+                                "street1": "Max-Planck-Stra\u00dfe 1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+393486905676"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "J.Schmidhammer GmbH",
+                "numFollowers": 35,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Heizung",
+                        "Sanit\u00e4r",
+                        "L\u00fcftung",
+                        "Dampfanlagen",
+                        "Industriek\u00e4lte",
+                        "Regelungstechnik",
+                        "Technische Gase",
+                        "Medizinische Gase",
+                        "VRV-K\u00fchltechnik",
+                        "Solarteur",
+                        "Klimatechnik"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.schmidhammer.it"
+            }
+        ]
+    }
+}

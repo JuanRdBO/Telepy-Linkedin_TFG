@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12218945,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Graben-Neudorf",
+                                "postalCode": "76676",
+                                "street1": "8 Dieselstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 234131068"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Mattm\u00fcller Getr\u00e4nkewelt",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.mattmueller-getraenkewelt.de"
+            }
+        ]
+    }
+}

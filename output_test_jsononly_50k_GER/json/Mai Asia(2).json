@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 142,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 1213557,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Chicago",
+                                "postalCode": "60614",
+                                "street1": "916 West Diversey Aveneue"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "773-634-9900"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "International TEFL Academy",
+                "numFollowers": 4623,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "TEFL TESOL training school",
+                        "Teaching English Overseas",
+                        "Teaching English Abroad",
+                        "Online TEFL Certification",
+                        "Chicago TEFL courses",
+                        "Europe TEFL Classes",
+                        "Latin America TEFL courses",
+                        "Asia TEFL Courses"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "@IntTEFLAcademy",
+                "websiteUrl": "www.InternationalTEFLAcademy.com"
+            }
+        ]
+    }
+}

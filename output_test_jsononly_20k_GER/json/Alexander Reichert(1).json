@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7448313,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Niedereschach",
+                                "postalCode": "78078",
+                                "street1": "19 Johann-Liesenberger-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0772864550"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Meo Org Alexander Reichert GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "medorganizer.de"
+            }
+        ]
+    }
+}

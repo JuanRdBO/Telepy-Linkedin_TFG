@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 6773935,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dietzenbach",
+                                "postalCode": "63128",
+                                "street1": "17 Hauptstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "0607429201"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fischer Tobias Dr. Med. Dent. Zahnarzt",
+                "numFollowers": 0,
+                "websiteUrl": "praxisfischer.de"
+            }
+        ]
+    }
+}

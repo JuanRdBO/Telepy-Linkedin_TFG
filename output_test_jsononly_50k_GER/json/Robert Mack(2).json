@@ -1,0 +1,97 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 497588,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "41",
+                            "name": "Actividades bancarias"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kingsport",
+                                "postalCode": "37660",
+                                "street1": "422 Broad Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "423-246-2265"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Kingsport",
+                                "postalCode": "37660",
+                                "street1": "1999 East Stone Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "423-857-2570"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bristol",
+                                "postalCode": "24201",
+                                "street1": "425 State Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "423-645-6609"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Johnson City",
+                                "postalCode": "37604",
+                                "street1": "862 Med Tech Parkway"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "423-979-0375"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "TriSummit Bank",
+                "numFollowers": 3186,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.trisummitbank.com"
+            }
+        ]
+    }
+}

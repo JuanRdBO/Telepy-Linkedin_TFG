@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7385629,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Altenstadt an der Waldnaab",
+                                "postalCode": "92665",
+                                "street1": "6 Auf Der Haide"
+                            },
+                            "contactInfo": {
+                                "phone1": "0960261760"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Automobile Andreas Forster E.K.",
+                "numFollowers": 0,
+                "websiteUrl": "auto-andreas-forster.de"
+            }
+        ]
+    }
+}

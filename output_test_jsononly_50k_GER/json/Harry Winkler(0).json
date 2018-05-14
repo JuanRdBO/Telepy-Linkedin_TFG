@@ -1,0 +1,76 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "G",
+                    "name": "Government Agency"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1808,
+                "id": 711908,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "75",
+                            "name": "Administraci\u00f3n gubernamental"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Vernon",
+                                "postalCode": "06066",
+                                "street1": "14 Park Place"
+                            },
+                            "contactInfo": {
+                                "fax": "(860) 870-3580",
+                                "phone1": "(860) 870-3599"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Town of Vernon",
+                "numFollowers": 344,
+                "specialties": {
+                    "_total": 15,
+                    "values": [
+                        "Hospitals",
+                        "Medical Services",
+                        "Retail",
+                        "Professional Services",
+                        "Industrial and Commercial business",
+                        "High Quality Town Services",
+                        "Education",
+                        "Parks",
+                        "Lakes",
+                        "Trails",
+                        "Recreation Facilities",
+                        "Museums",
+                        "Arts",
+                        "Highways access",
+                        "Sewer and Water"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "www.vernon-ct.gov"
+            }
+        ]
+    }
+}

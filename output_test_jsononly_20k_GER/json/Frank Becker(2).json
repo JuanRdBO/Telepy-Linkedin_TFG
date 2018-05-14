@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7529802,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Northeim",
+                                "postalCode": "37154",
+                                "street1": "12 Fliederstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0555165337"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Frank Becker Schornsteinfeger",
+                "numFollowers": 0,
+                "websiteUrl": "schornsteinfegermeister-becker.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 1282,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1983,
+                "id": 8492626,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "47",
+                            "name": "Contabilidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60439",
+                                "street1": "Zeilweg 42"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Prof. Dr. K. Schwantag \u00b7 Dr. P. Kraushaar Wirtschaftspr\u00fcfungsgesellschaft",
+                "numFollowers": 12,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Non Profit",
+                        "Familienunternehmen",
+                        "International t\u00e4tige Unternehmen",
+                        "Gewerbetreibende",
+                        "Privatpersonen",
+                        "Freiberufler",
+                        "Steuerberatung",
+                        "Rechnungswesen",
+                        "Lohnbuchhaltung",
+                        "Sanierungsberatung",
+                        "Insolvenzberatung",
+                        "Wirtschaftspr\u00fcfung",
+                        "Betriebswirtschaftliche Beratung",
+                        "Schenken & Erben"
+                    ]
+                },
+                "websiteUrl": "https://www.sk-wpg.de"
+            }
+        ]
+    }
+}

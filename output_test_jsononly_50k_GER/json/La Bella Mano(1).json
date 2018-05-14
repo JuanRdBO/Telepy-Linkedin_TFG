@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 28,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2012,
+                "id": 11463754,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Arese",
+                                "postalCode": "20020",
+                                "street1": "Via Volta, 34"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "La Bottega di UKI ",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Vendita e noleggio castelli gonfiabili",
+                        "Animazione e trucca bimbi per bambini",
+                        "Castelli gonfiabili e giochi per bambini"
+                    ]
+                },
+                "websiteUrl": "www.labottegadiuki.com"
+            }
+        ]
+    }
+}

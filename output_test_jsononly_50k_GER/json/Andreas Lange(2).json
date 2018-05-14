@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 13,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12253529,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20144",
+                                "street1": "58 Grindelberg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 404228706"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Glaserei Andreas Lange",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.glaserei-andreas-lange.de"
+            }
+        ]
+    }
+}

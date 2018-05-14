@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1991,
+                "id": 2087126,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Santa Monica",
+                                "postalCode": "90404",
+                                "street1": "2900 olympic Blvd."
+                            },
+                            "contactInfo": {
+                                "phone1": "310.260.7000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Beacon Pictures",
+                "numFollowers": 228,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Feature Films",
+                        "Stage Plays",
+                        "Television",
+                        "New Media content"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.beaconpictures.com"
+            }
+        ]
+    }
+}

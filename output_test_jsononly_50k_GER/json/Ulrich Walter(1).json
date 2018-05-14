@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12752196,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70174",
+                                "street1": "21 Theodor-Heuss-Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 71128441340"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ulrich-Walter-Schule",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.uw-ps.de"
+            }
+        ]
+    }
+}

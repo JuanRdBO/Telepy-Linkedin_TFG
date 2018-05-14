@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 149676,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "id": 243923,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "116",
+                            "name": "Log\u00edstica y cadena de suministro"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "postalCode": "44135"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "NA 2010 - The North American Material Handling & Logistics Show",
+                "numFollowers": 3524,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "material handling",
+                        "Logistics",
+                        "Manufacturing",
+                        "Distribution",
+                        "Supply Chain"
+                    ]
+                },
+                "websiteUrl": "http://www.nashow.com"
+            }
+        ]
+    }
+}

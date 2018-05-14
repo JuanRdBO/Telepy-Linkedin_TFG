@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12491498,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wolfen",
+                                "postalCode": "06766",
+                                "street1": "27 Neue Reihe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 349421991"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hausverwaltung Michael Specht",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.hausverwaltung-specht.de"
+            }
+        ]
+    }
+}

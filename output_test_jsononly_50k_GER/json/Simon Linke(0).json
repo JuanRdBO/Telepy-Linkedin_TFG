@@ -1,0 +1,55 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2010,
+                "id": 11479337,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "38",
+                            "name": "Bellas Artes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bergamo",
+                                "postalCode": "24121",
+                                "street1": "via Casalino 25"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Brambilla",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Contemporary Art"
+                    ]
+                },
+                "websiteUrl": "www.thomasbrambilla.com"
+            }
+        ]
+    }
+}

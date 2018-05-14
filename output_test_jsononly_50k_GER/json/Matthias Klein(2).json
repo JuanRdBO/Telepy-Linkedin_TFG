@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12741795,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin (Reinickendorf)",
+                                "postalCode": "13405",
+                                "street1": "20-22 Meteorstra\u00dfe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Die Matthias Klein Tischlerei",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.matthias-klein-tischlerei.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12721343,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hannover",
+                                "postalCode": "30161",
+                                "street1": "7 Hohenzollernstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 5113883275"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gerhard Wolf Organisationsberatung",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.wolf-beratung.com"
+            }
+        ]
+    }
+}

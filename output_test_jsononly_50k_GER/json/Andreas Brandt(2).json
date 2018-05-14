@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7356378,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Haan",
+                                "postalCode": "42781",
+                                "street1": "27-29 Neuer Markt"
+                            },
+                            "contactInfo": {
+                                "phone1": "02129957676"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Andreas Brandt",
+                "numFollowers": 0,
+                "websiteUrl": "orthopaedie-haan.de"
+            }
+        ]
+    }
+}

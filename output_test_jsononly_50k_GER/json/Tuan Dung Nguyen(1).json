@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 18,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2012,
+                "id": 13198727,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "63",
+                            "name": "Agricultura"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hcm",
+                                "postalCode": "70000",
+                                "street1": "165/14 Bach Dang P2 Q TanBinh"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0906790618"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Aquaponics Viet - Aquafarm.vn",
+                "numFollowers": 43,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Aquaponics Viet"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "ww.aquafarm.vn"
+            }
+        ]
+    }
+}

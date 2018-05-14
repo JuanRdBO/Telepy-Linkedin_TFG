@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12379306,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Klein R\u00f6nnau",
+                                "postalCode": "23795",
+                                "street1": "54 Eutiner Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 4551840716"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Joachim Klink",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.bad-heizung-klink.de"
+            }
+        ]
+    }
+}

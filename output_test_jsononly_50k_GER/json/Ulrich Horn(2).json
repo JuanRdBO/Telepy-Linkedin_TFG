@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12460755,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "W\u00fcrzburg",
+                                "postalCode": "97072",
+                                "street1": "26 Arndtstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 9312998880"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Ulrich Horn",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.horn-schuster-enderle.de"
+            }
+        ]
+    }
+}

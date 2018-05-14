@@ -1,0 +1,39 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 229,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 16138568,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "DENVILLE",
+                                "postalCode": "07834",
+                                "street1": "35 W MAIN ST, STE 106"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 9736250838"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "G. MARTIN MEYERS, P.C.",
+                "numFollowers": 0,
+                "websiteUrl": "http://gmeyerslaw.com"
+            }
+        ]
+    }
+}

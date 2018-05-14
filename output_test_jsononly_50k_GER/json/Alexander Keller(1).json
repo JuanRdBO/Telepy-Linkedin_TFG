@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 11,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2001,
+                "id": 3741181,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Nashville",
+                                "postalCode": "37215",
+                                "street1": "30 Burton Hills Blvd Suite 400"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "615-425-3600"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Alexander Brandau Partners | Keller Williams",
+                "numFollowers": 95,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Residential Real Estate"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.WorkWithAlex.com"
+            }
+        ]
+    }
+}

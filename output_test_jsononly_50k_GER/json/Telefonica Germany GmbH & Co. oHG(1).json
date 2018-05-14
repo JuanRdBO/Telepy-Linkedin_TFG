@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1999,
+                "id": 17933556,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Neu-Ulm",
+                                "postalCode": "89231",
+                                "street1": "Messerschmittstra\u00dfe 7"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "mission-one GmbH",
+                "numFollowers": 32,
+                "specialties": {
+                    "_total": 16,
+                    "values": [
+                        "E-Mail-Marketing",
+                        "Newsletter-Versand",
+                        "Website",
+                        "Kampagnenmanagement",
+                        "Technische Produktion",
+                        "Content-Marketing-Stretagie",
+                        "Apps",
+                        "Online-Shop",
+                        "Mobile",
+                        "Online-Entertainment",
+                        "Social Media",
+                        "Datenmanagement",
+                        "Kundendialog",
+                        "Kundenbindung",
+                        "Software Development",
+                        "Kundenentwicklung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.mission-one.de"
+            }
+        ]
+    }
+}

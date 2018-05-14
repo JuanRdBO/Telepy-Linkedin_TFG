@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 55,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 21775399,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "32",
+                            "name": "Restaurantes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "MID GLAMORGAN",
+                                "postalCode": "CF39 8JU",
+                                "street1": "71 WORCESTER COURT"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "NAM NAM RESTAURANT LTD",
+                "numFollowers": 4,
+                "websiteUrl": "http://annamrestaurant.com"
+            }
+        ]
+    }
+}

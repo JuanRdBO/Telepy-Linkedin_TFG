@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7326490,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Olfen",
+                                "postalCode": "59399",
+                                "street1": "58 Borker Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "025955400"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Lohmann. Die G\u00e4rtnerei GbR",
+                "numFollowers": 0,
+                "websiteUrl": "lohmann-garten.de"
+            }
+        ]
+    }
+}

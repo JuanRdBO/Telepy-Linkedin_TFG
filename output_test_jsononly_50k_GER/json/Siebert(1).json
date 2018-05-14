@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 242,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1996,
+                "id": 1035683,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "45",
+                            "name": "Banca de inversiones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York City",
+                                "postalCode": "10004",
+                                "street1": "100 Wall Street, 18th Floor"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "646-775-4860"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Siebert Cisneros Shank Co., L.L.C.",
+                "numFollowers": 1051,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.siebertcisnerosshank.com/"
+            }
+        ]
+    }
+}

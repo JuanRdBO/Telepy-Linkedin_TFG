@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 22,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 21944048,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "122",
+                            "name": "Servicios infraestructurales"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "SIDCUP",
+                                "postalCode": "DA15 7DR",
+                                "street1": "73 STATION ROAD"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "73 STATION ROAD RESIDENTS MANAGEMENT COMPANY LIMITED",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

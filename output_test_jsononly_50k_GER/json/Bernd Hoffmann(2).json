@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12297903,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": "51065",
+                                "street1": "49 Frankfurter Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 221624680"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Zahnarzt Dr. Bernd Hoffmann",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.zahnarzt-dr-hoffmann.de"
+            }
+        ]
+    }
+}

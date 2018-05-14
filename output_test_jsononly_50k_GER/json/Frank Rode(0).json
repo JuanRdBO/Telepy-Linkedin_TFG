@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12797633,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Morschen",
+                                "postalCode": "34326",
+                                "street1": "51 Kalter Strauchweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 276749044"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Frank Rode",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.rb-techn.de"
+            }
+        ]
+    }
+}

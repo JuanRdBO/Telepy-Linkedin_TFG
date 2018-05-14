@@ -1,0 +1,76 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2013,
+                "id": 18383990,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt (Oder)",
+                                "postalCode": "15234",
+                                "street1": "Birnbaumsm\u00fchle 65"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Linkparts GmbH",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 20,
+                    "values": [
+                        "international",
+                        "trade",
+                        "auto",
+                        "parts",
+                        "import",
+                        "export",
+                        "warranty",
+                        "quality",
+                        "boxing",
+                        "railway",
+                        "airfreight",
+                        "seafreight",
+                        "customs",
+                        "clearance",
+                        "factory",
+                        "production",
+                        "network",
+                        "connection",
+                        "internet",
+                        "volts"
+                    ]
+                },
+                "websiteUrl": "http://www.linkparts.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 278,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1895,
+                "id": 7297,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Perth",
+                                "postalCode": "6009",
+                                "street1": "300 Murray St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Perth",
+                                "postalCode": "6000",
+                                "street1": "300 Murray Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Bankwest",
+                "numFollowers": 25039,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Personal Banking",
+                        "Business Banking",
+                        "Commercial Banking",
+                        "Corporate and Private Banking. Trade Finance",
+                        "Agri Business Finance",
+                        "Credit Cards",
+                        "and other Financial Services"
+                    ]
+                },
+                "status": {
+                    "code": "OPS",
+                    "name": "Operating Subsidiary"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.bankwest.com.au"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12729730,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fclheim an der Ruhr",
+                                "postalCode": "45468",
+                                "street1": "38 Bahnstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2083758762"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Ralf Lange",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.kardiologie-mh.de"
+            }
+        ]
+    }
+}

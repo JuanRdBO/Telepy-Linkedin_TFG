@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12560846,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ginsheim-Gustavsburg",
+                                "postalCode": "65462",
+                                "street1": "4 Richard-Wagner-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 61421616664"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Bernd Koch",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.debeko.de"
+            }
+        ]
+    }
+}

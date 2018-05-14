@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2014,
+                "id": 6637804,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "46",
+                            "name": "Gesti\u00f3n de inversiones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Cham",
+                                "postalCode": "6330",
+                                "street1": "Alte Steinhauserstr. 21"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+41 41 5880 362"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "SpeedLab AG",
+                "numFollowers": 29,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Algo Trading",
+                        "Finanzdienstleistungen",
+                        "Verm\u00f6gensverwaltung",
+                        "Asset Management",
+                        "SaaS",
+                        "K\u00fcnstliche Intelligenz",
+                        "Artificial Intelligence"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.speedlab.ag/"
+            }
+        ]
+    }
+}

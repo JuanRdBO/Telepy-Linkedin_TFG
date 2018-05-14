@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2010,
+                "id": 2779373,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Carlsbad",
+                                "postalCode": "92011",
+                                "street1": "7188 Avenida Encinas"
+                            },
+                            "contactInfo": {
+                                "fax": "(760) 602-0407",
+                                "phone1": "(760) 602-0400"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ace Hardware Carlsbad",
+                "numFollowers": 44,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Computerized Paint and Color Matching",
+                        "Key Duplication and Lock Servicing",
+                        "Automotive Chip Key Duplication",
+                        "Screen Repair",
+                        "Weber Grill Assembly with Purchase",
+                        "Knife Sharpening",
+                        "Battery Center",
+                        "Propane Tank",
+                        "Bissell Big Green Cleaning Rental",
+                        "Free Local Delivery"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.acecarlsbad.com/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12367749,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wasserburg am Inn",
+                                "postalCode": "83512",
+                                "street1": "6 Salzsenderzeile"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 807151928"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Franz Nachbar",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.dr-nachbar.de"
+            }
+        ]
+    }
+}

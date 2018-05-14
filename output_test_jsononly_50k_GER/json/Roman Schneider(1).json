@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12431014,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bremen",
+                                "postalCode": "28195",
+                                "street1": "2 Langenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 421326361"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Roman Kroupa GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.kroupa.de"
+            }
+        ]
+    }
+}

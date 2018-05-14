@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2015,
+                "id": 11679721,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "115",
+                            "name": "M\u00fasica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "street1": "955 Coney Island Ave"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Christopher Copland - Music",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 15,
+                    "values": [
+                        "drums",
+                        "music education",
+                        "music appreciation",
+                        "indie music",
+                        "music production",
+                        "soul music",
+                        "jazz music",
+                        "sight reading",
+                        "practice techniques",
+                        "college prep",
+                        "advising for young artists",
+                        "community art practices",
+                        "arts programming",
+                        "event organizing",
+                        "leadership"
+                    ]
+                },
+                "websiteUrl": "https://soundcloud.com/chris-copland"
+            }
+        ]
+    }
+}

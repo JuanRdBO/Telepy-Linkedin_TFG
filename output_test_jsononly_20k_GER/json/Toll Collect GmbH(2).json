@@ -1,0 +1,53 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "foundedYear": 1948,
+                "id": 28657774,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dorsten",
+                                "postalCode": "46286",
+                                "street1": "Baddenkamp 5"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Rhede",
+                                "postalCode": "46414",
+                                "street1": "Landwehr 14"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Autohaus Wietholt GmbH & Co. KG ",
+                "numFollowers": 1,
+                "websiteUrl": "http://wietholt-daf.de/"
+            }
+        ]
+    }
+}

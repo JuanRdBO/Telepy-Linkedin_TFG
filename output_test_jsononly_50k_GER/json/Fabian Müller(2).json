@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7395274,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "13581",
+                                "street1": "8 Seeburger Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "03035105300"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr.med. Susanne M\u00fcller-Fabian",
+                "numFollowers": 0,
+                "websiteUrl": "frauenaerztin-spandau.de"
+            }
+        ]
+    }
+}

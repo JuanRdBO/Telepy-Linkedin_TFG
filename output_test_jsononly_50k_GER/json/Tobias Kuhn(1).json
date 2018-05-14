@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12823787,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dillenburg",
+                                "postalCode": "35687",
+                                "street1": "16 Hauptstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 27716525"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Salon Orfgen",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.salon-orfgen.de"
+            }
+        ]
+    }
+}

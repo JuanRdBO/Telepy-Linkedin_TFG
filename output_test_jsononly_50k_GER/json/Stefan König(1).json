@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7512544,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "W\u00fcrzburg",
+                                "postalCode": "97070",
+                                "street1": "29 Karmelitenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0931354770"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rechtsanwalt Stefan K\u00f6nig",
+                "numFollowers": 1,
+                "websiteUrl": "familienrecht-wuerzburg.de"
+            }
+        ]
+    }
+}

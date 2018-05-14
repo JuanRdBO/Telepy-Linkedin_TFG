@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7324402,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sulzfeld",
+                                "postalCode": "75056",
+                                "street1": "6 Avizer-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "07269911017"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rolf Kr\u00fcger Zimmergesch\u00e4ft",
+                "numFollowers": 0,
+                "websiteUrl": "krueger-holzbau.de"
+            }
+        ]
+    }
+}

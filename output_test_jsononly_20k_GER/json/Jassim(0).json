@@ -1,0 +1,81 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 49,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1979,
+                "id": 711740,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "138",
+                            "name": "Material y equipo de negocios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kuwait City",
+                                "postalCode": "13089",
+                                "street1": "Shuwaikh Port"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Doha",
+                                "postalCode": "",
+                                "street1": "P.O. Box 41210"
+                            },
+                            "contactInfo": {
+                                "fax": "+974 4450 1255",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Jassim Transport & Stevedoring Co. K.S.C.C.",
+                "numFollowers": 2655,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Ports Management",
+                        "Contract Logistics",
+                        "Equipment Leasing",
+                        "Power Rental"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.jtckw.com"
+            }
+        ]
+    }
+}

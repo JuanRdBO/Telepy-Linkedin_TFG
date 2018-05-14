@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2005,
+                "id": 719962,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "140",
+                            "name": "Dise\u00f1o gr\u00e1fico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "95110"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "fONfEk",
+                "numFollowers": 27,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "design graphique",
+                        "graphisme",
+                        "logo",
+                        "cr\u00e9ation d'identit\u00e9",
+                        "charte graphique",
+                        "webdesign",
+                        "print",
+                        "marketing",
+                        "publicit\u00e9",
+                        "photographie",
+                        "illustration",
+                        "\u00e9dition",
+                        "animation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "www.fonfek.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7324533,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Krombach",
+                                "postalCode": "63829",
+                                "street1": "Birkenstra\u00dfe 12A"
+                            },
+                            "contactInfo": {
+                                "phone1": "06024638086"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rechtsanwaltskanzlei Philip Koch",
+                "numFollowers": 1,
+                "websiteUrl": "kanzlei-koch.de"
+            }
+        ]
+    }
+}

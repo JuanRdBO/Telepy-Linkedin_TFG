@@ -1,0 +1,83 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 12671,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2005,
+                "id": 1827424,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Alphen aan den Rijn",
+                                "postalCode": "2408ZE",
+                                "street1": "Zuidpoolsingel 8"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+31 172 477 445"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Amsterdam",
+                                "postalCode": "1013AP",
+                                "street1": "Danzigerkade 65a"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+31 850 215 160"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "The online company BV",
+                "numFollowers": 2867,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Conversiemanagement",
+                        "Interim e-business management",
+                        "E-commerce implementation",
+                        "Affiliate management",
+                        "Creatie",
+                        "Online media"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "onlinecompany",
+                "websiteUrl": "http://theonlinecompany.com"
+            }
+        ]
+    }
+}

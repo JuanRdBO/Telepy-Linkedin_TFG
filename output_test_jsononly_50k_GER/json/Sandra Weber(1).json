@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12720670,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Neuss",
+                                "postalCode": "41460",
+                                "street1": "104 Sternstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 21311783800"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sternpraxis Sandra Weber",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.sternpraxis.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12291485,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lindenfels",
+                                "postalCode": "64678",
+                                "street1": "56 Hauptstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6255772"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ideen Schreinerei Schmidt",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.ideen-schreinerei-schmidt.de"
+            }
+        ]
+    }
+}

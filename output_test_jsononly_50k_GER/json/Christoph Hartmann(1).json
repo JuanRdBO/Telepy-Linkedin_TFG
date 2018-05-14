@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7390617,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80636",
+                                "street1": "39 Blutenburgstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "089184465"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Valerie Zinsser Und Christoph Hartmann",
+                "numFollowers": 0,
+                "websiteUrl": "herzkoenig.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12459254,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Fahrenzhausen",
+                                "postalCode": "85777",
+                                "street1": "9 Dorfstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 8133446"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Josef Schmid Schreinerei",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.schreiner-sepp.de"
+            }
+        ]
+    }
+}

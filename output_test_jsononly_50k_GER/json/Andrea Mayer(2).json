@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 946062,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "110",
+                            "name": "Servicios de eventos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10010",
+                                "street1": "43 W. 24th St."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "212-954-1954"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ray Bloch Productions ",
+                "numFollowers": 251,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Event Production",
+                        "Media Design",
+                        "Headline Entertainment",
+                        "Learning & Development",
+                        "Virtual Meetings",
+                        "Event Planning",
+                        "Audience Aquisition",
+                        "Event Management"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.raybloch.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12568041,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kirchwalsede",
+                                "postalCode": "27386",
+                                "street1": "6 Am Sch\u00fctzenholz"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bernd Schwacke",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.elektro-schwacke.de"
+            }
+        ]
+    }
+}

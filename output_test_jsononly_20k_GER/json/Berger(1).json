@@ -1,0 +1,120 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2302,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1963,
+                "id": 770133,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "59",
+                            "name": "Servicios p\u00fablicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Saint-Modeste",
+                                "postalCode": "G0L 3W0",
+                                "street1": "121, 1er Rang"
+                            },
+                            "contactInfo": {
+                                "fax": "418-867-3929",
+                                "phone1": "418-862-4462"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Bay du Vin",
+                                "postalCode": "E1N 5P4",
+                                "street1": "149, chemin Bay-du-Vin"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Hadashville",
+                                "postalCode": "R0E 0X0",
+                                "street1": "43037, Provincial Road  503"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Baie Ste. Anne",
+                                "postalCode": "E9A 1R7",
+                                "street1": "4188, route 117"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Sulphur Springs",
+                                "postalCode": "75482-1116",
+                                "street1": "8822, Texas Highway 19N"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Berger",
+                "numFollowers": 1001,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Growing media",
+                        "Peat Moss",
+                        "Growing mix",
+                        "Horticulture"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.berger.ca"
+            }
+        ]
+    }
+}

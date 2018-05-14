@@ -1,0 +1,355 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "id": 10877912,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 29,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wien",
+                                "postalCode": "1030",
+                                "street1": "Boerhaavegasse 6"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Eisenstadt",
+                                "postalCode": "7000",
+                                "street1": "Rusterstra\u00dfe 12-16"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Gro\u00dfpetersdorf",
+                                "postalCode": "7503",
+                                "street1": "Ungarnstra\u00dfe 10"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Mattersburg",
+                                "postalCode": "7210",
+                                "street1": "Gustav-Degen-Gasse 3a"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Neusiedl/See",
+                                "postalCode": "7100",
+                                "street1": "Franz-Liszt-Gasse 25-27"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Oberpullendorf",
+                                "postalCode": "7350",
+                                "street1": "Hauptstra\u00dfe 34/2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Oberwart",
+                                "postalCode": "7400",
+                                "street1": "Schulgasse 17"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Klagenfurt",
+                                "postalCode": "9020",
+                                "street1": "Villacher Ring 11"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Villach",
+                                "postalCode": "9524",
+                                "street1": "Europastra\u00dfe 8"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Wolfsberg",
+                                "postalCode": "9400",
+                                "street1": "Johann-Offner-Stra\u00dfe 26"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "G\u00e4nserndorf",
+                                "postalCode": "2230",
+                                "street1": "Eichamtstra\u00dfe 5-7"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Gloggnitz",
+                                "postalCode": "2640",
+                                "street1": "Wiener Stra\u00dfe 2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Gm\u00fcnd",
+                                "postalCode": "3950",
+                                "street1": "Schlo\u00dfparkgasse 6"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Hollabrunn",
+                                "postalCode": "2020",
+                                "street1": "Amtsgasse 21"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Horn",
+                                "postalCode": "3580",
+                                "street1": "Josef-Kirchner-Gasse 5 "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Mistelbach",
+                                "postalCode": "2130",
+                                "street1": "Franz-Josef-Stra\u00dfe 38"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Neunkirchen",
+                                "postalCode": "2620",
+                                "street1": "Rohrbacherstra\u00dfe 44"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "St. P\u00f6lten",
+                                "postalCode": "3100",
+                                "street1": "Br\u00e4uhausgasse 5/2/8"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Waidhofen/Thaya",
+                                "postalCode": "3830",
+                                "street1": "Raiffeisenpromenade 2/1/6"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Wr. Neustadt",
+                                "postalCode": "2700",
+                                "street1": "Baumkirchnerring 6/2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Linz",
+                                "postalCode": "4021",
+                                "street1": "Hasnerstra\u00dfe 2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Ried",
+                                "postalCode": "4910",
+                                "street1": "Bahnhofstra\u00dfe 39b"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Steyr",
+                                "postalCode": "4400",
+                                "street1": "Leopold-Werndl-Stra\u00dfe 44/1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Innsbruck",
+                                "postalCode": "6020",
+                                "street1": "Brixnerstra\u00dfe 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Salzburg",
+                                "postalCode": "5020",
+                                "street1": "ST.-Julien-Stra\u00dfe 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bruck/Mur",
+                                "postalCode": "8600",
+                                "street1": "Koloman-Wallisch-Platz 10"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Graz",
+                                "postalCode": "8020",
+                                "street1": "Niesenbergergasse 37"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Leibnitz",
+                                "postalCode": "8430",
+                                "street1": "Dechant-Thaller-Stra\u00dfe 39/3"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Liezen",
+                                "postalCode": "8940",
+                                "street1": "Rathhausplatz 3"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "LBG \u00d6sterreich GmbH Wirtschaftspr\u00fcfung & Steuerberatung",
+                "numFollowers": 103,
+                "specialties": {
+                    "_total": 15,
+                    "values": [
+                        "Steuerberatung",
+                        "nationales und internationales Steuerrecht",
+                        "Finanzstrafrecht",
+                        "Rechtsformberatung",
+                        "Jahresabschluss",
+                        "Buchhaltung, Kostenrechnung",
+                        "Personalverrechnung",
+                        "Gutachten",
+                        "Unternehmensberatung",
+                        "Business-Software",
+                        "Kaufm\u00e4nnische Organisation",
+                        "Unternehmensgr\u00fcndung, -nachfolge, -kauf, -verkauf, -\u00fcbernahme",
+                        "Unternehmensbewertung",
+                        "Planung, Kalkulation, Controlling",
+                        "Wirtschaftspr\u00fcfung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.lbg.at"
+            }
+        ]
+    }
+}

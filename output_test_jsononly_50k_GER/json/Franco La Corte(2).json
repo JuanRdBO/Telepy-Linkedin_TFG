@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2016,
+                "id": 16158723,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "147",
+                            "name": "Automaci\u00f3n industrial"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "S\u00e3o Paulo",
+                                "postalCode": "03021-000",
+                                "street1": "Rua Catumbi, 560"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+55 11 3587 2110"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Flow - Morgan Tecnica",
+                "numFollowers": 24,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "CAD/CAM Solutions",
+                        "Consultative Selling",
+                        "Services",
+                        "Consulting and Auditing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.flowbr.com.br"
+            }
+        ]
+    }
+}

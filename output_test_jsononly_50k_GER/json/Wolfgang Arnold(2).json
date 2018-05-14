@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7371125,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Essen",
+                                "postalCode": "45355",
+                                "street1": "7 Bocholder Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0201680200"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dental-Labor Wolfgang Arnold GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "dentallabor-arnold.de"
+            }
+        ]
+    }
+}

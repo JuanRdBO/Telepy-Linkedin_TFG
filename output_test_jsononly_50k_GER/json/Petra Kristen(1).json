@@ -1,0 +1,43 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 3704604,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Keputih",
+                                "postalCode": "60111",
+                                "street1": "Nomor X Blok TG2 No.1, Jalan Galaxi Klampis Asri Utara V Blok D3 No.3"
+                            },
+                            "contactInfo": {
+                                "phone1": "0315935252"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "SD Kristen Petra 5",
+                "numFollowers": 1
+            }
+        ]
+    }
+}

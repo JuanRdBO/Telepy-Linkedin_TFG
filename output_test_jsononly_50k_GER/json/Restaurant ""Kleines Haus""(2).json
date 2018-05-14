@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12535229,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "75",
+                            "name": "Administraci\u00f3n gubernamental"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Allensbach",
+                                "postalCode": "78476",
+                                "street1": "12 Konstanzer Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 75338010"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gemeinde Allensbach",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.allensbach.de"
+            }
+        ]
+    }
+}

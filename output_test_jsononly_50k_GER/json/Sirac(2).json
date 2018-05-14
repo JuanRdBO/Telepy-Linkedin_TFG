@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 19,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2009,
+                "id": 11223316,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "137",
+                            "name": "Recursos humanos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lyon"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "SIRAC - Sp\u00e9cialiste de la mise \u00e0 disposition de personnel",
+                "numFollowers": 53,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "ressources humaines",
+                        "secr\u00e9tariat",
+                        "contr\u00f4le de gestion",
+                        "communication",
+                        "informatique",
+                        "marketing",
+                        "finance",
+                        "formation",
+                        "comptabilit\u00e9",
+                        "salari\u00e9s \u00e0 temps partiel",
+                        "ETTP temps partag\u00e9"
+                    ]
+                },
+                "websiteUrl": "http://www.sirac-ettp-temps-partiel.fr/"
+            }
+        ]
+    }
+}

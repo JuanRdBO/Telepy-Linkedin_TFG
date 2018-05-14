@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 348,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2005,
+                "id": 2465336,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "70",
+                            "name": "Investigaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rome",
+                                "postalCode": "00165",
+                                "street1": "Via Innocenzo XI, 7"
+                            },
+                            "contactInfo": {
+                                "fax": "+39.(0)6.99704962",
+                                "phone1": "+39.(0)6.99704781"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Clinical Trial Consulting",
+                "numFollowers": 608,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Medical Writing, Quality Management, Independent Quality Assurance, Monitoring, Clinical Trial Application, Pharmacovigilance."
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "."
+            }
+        ]
+    }
+}

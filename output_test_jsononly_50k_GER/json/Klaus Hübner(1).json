@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12420165,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bremen",
+                                "postalCode": "28219",
+                                "street1": "52 Auguststr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 4219887184"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Klaus-Peter H\u00fcbner",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.kapeh.de"
+            }
+        ]
+    }
+}

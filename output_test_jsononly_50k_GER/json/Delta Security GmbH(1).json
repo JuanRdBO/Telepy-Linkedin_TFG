@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12376533,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Troisdorf",
+                                "postalCode": "53840",
+                                "street1": "39 Am B\u00fcrgerhaus"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2213550350"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Delta Security-Service GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.delta-sec.de"
+            }
+        ]
+    }
+}

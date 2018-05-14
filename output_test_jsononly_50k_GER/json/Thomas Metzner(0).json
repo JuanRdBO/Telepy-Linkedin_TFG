@@ -1,0 +1,105 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2014,
+                "id": 10654783,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "33",
+                            "name": "Deportes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dresden",
+                                "postalCode": "",
+                                "street1": "Zum Schmiedeberg 38"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 174 / 429 40 10"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Graz / Wien / Linz",
+                                "postalCode": "",
+                                "street1": "Hauptstrasse"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+ 43 66 05 14 53 19"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "K\u00f6ln / D\u00fcsseldorf / M\u00f6nchengladbach",
+                                "postalCode": "",
+                                "street1": "Hauptstrasse"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 174 / 429 40 10"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "",
+                                "street1": "Hauptstrasse"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 174 / 429 40 10"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Fu\u00dfballschule TeaM-Soccer",
+                "numFollowers": 4,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Fu\u00dfball-Camps",
+                        "Fu\u00dfballtraining in Schulen und Kindergarten",
+                        "Personaltrainer Einzelpersonen und Gruppentraining",
+                        "Sportsachen"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.team-soccer.eu"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7437506,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "18",
+                            "name": "Cosm\u00e9tica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Grafing bei M\u00fcnchen",
+                                "postalCode": "85567",
+                                "street1": "12 Oberanger"
+                            },
+                            "contactInfo": {
+                                "phone1": "080923070168"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Biu Ti - Kosmetik Und Fu\u00dfpflegestudio",
+                "numFollowers": 0,
+                "websiteUrl": "biuti.de"
+            }
+        ]
+    }
+}

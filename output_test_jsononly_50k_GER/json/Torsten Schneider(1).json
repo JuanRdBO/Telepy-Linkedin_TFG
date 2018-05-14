@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7432977,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Leitzkau",
+                                "postalCode": "39279",
+                                "street1": "27 Karl-Marx-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "039241366"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Tischlerei Torsten Schneider",
+                "numFollowers": 0,
+                "websiteUrl": "tischlerei-torsten-schneider.de"
+            }
+        ]
+    }
+}

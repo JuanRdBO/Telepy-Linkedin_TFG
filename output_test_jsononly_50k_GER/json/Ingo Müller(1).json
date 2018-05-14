@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12677856,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Siegen",
+                                "postalCode": "57076",
+                                "street1": "1 Hauptmarkt"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2714852779"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Weidenauer Goldschmiede Ingo M\u00fcller GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.weidenauergoldschmiede.de"
+            }
+        ]
+    }
+}

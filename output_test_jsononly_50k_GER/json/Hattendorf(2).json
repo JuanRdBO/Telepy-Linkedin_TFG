@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 3933615,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Herndon",
+                                "postalCode": "20170-4819",
+                                "street1": "459 Carlisle Dr # A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 7039040800"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Al Hattendorf Associates",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.alhattendorf.com"
+            }
+        ]
+    }
+}

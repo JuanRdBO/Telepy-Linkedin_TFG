@@ -1,0 +1,121 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 726,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1904,
+                "id": 1626777,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "112",
+                            "name": "Manufactura el\u00e9ctrica y electr\u00f3nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Cincinnati",
+                                "postalCode": "45242-1480",
+                                "street1": "11320 Grooms Road"
+                            },
+                            "contactInfo": {
+                                "fax": "855-242-3571",
+                                "phone1": "800-877-6875"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Twinsburg",
+                                "postalCode": "44087-2599",
+                                "street1": "2057-D East Aurora Road"
+                            },
+                            "contactInfo": {
+                                "fax": "330-425-1863",
+                                "phone1": "800-521-1358"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Schuster Electronics",
+                "numFollowers": 247,
+                "specialties": {
+                    "_total": 20,
+                    "values": [
+                        "Cable Assembly",
+                        "Connectors",
+                        "Displays",
+                        "Power Supplies",
+                        "Semiconductors",
+                        "Capacitors",
+                        "Terminal Blocks",
+                        "Batteries",
+                        "Enclosures",
+                        "Board Level Hardware",
+                        "Surge Protection",
+                        "Switches",
+                        "Heat Sinks",
+                        "LED",
+                        "LCD",
+                        "Transducers",
+                        "Sound Products",
+                        "Transformers",
+                        "Filters",
+                        "Magnetics"
+                    ]
+                },
+                "status": {
+                    "code": "OPS",
+                    "name": "Operating Subsidiary"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.SchusterUSA.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 157,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1994,
+                "id": 3221873,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "89",
+                            "name": "Instituciones religiosas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Cape Town",
+                                "postalCode": "7130",
+                                "street1": "Section 3 Gants, Fabriek Street"
+                            },
+                            "contactInfo": {
+                                "fax": "0218537220",
+                                "phone1": "0218537771"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Steenberg",
+                                "postalCode": "",
+                                "street1": "Celie Road"
+                            },
+                            "contactInfo": {
+                                "fax": "0217016943",
+                                "phone1": "0217018860"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Cape Town",
+                                "postalCode": "",
+                                "street1": "Clock Tower"
+                            },
+                            "contactInfo": {
+                                "fax": "0218537220",
+                                "phone1": "0218537771"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "The Bay Christian Family Church",
+                "numFollowers": 46,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "CFCI Bible School",
+                        "Global Outreach",
+                        "Celebration Music",
+                        "H2O Youth",
+                        "The Bay Heirforce Children's Ministry",
+                        "Home Cells",
+                        "Prayer Ministry"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.thebaycfc.org.za"
+            }
+        ]
+    }
+}

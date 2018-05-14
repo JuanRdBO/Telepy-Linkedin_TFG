@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 34,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1999,
+                "id": 3000489,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "127",
+                            "name": "Animaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Los Angeles",
+                                "postalCode": "90038",
+                                "street1": "940 N Mansfield Ave"
+                            },
+                            "contactInfo": {
+                                "fax": "3234667711",
+                                "phone1": "3234667388"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ShadowMachine",
+                "numFollowers": 1486,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "2D Animation",
+                        "Animation",
+                        "Film",
+                        "Television",
+                        "Stop-Motion",
+                        "Commercial"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.shadowmachine.com"
+            }
+        ]
+    }
+}

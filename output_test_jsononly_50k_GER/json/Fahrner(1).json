@@ -1,0 +1,118 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 28,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "id": 1170455,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 6,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Eau Claire",
+                                "postalCode": "54702",
+                                "street1": "6615 US HW 12W"
+                            },
+                            "contactInfo": {
+                                "fax": "715-874-6717",
+                                "phone1": "715-874-6070"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Kaukauna",
+                                "postalCode": "54130",
+                                "street1": "860 Eastline Road"
+                            },
+                            "contactInfo": {
+                                "fax": "920-759-1019",
+                                "phone1": "920-759-1008"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Plover",
+                                "postalCode": "54467",
+                                "street1": "2800 Mecca Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "715-341-1054",
+                                "phone1": "715-341-2868"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Frederic",
+                                "postalCode": "54837",
+                                "street1": "3468 115th Street"
+                            },
+                            "contactInfo": {
+                                "fax": "715-653-2553",
+                                "phone1": "715-653-2535"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Saginaw",
+                                "postalCode": "48601",
+                                "street1": "2224 Veterans Memorial Parkway"
+                            },
+                            "contactInfo": {
+                                "fax": "989-752-9205",
+                                "phone1": "989-752-9200"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Waunakee",
+                                "postalCode": "53597",
+                                "street1": "316 Raemisch Road"
+                            },
+                            "contactInfo": {
+                                "fax": "608-849-6470",
+                                "phone1": "608-849-6466"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Fahrner Asphalt Sealers, LLC.",
+                "numFollowers": 138,
+                "websiteUrl": "www.fahrnerasphalt.com"
+            }
+        ]
+    }
+}

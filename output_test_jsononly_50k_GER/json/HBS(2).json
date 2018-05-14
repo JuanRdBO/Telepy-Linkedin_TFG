@@ -1,0 +1,81 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 320,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1985,
+                "id": 1180652,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Richardson",
+                                "postalCode": "75080",
+                                "street1": "3400 Waterview"
+                            },
+                            "contactInfo": {
+                                "fax": "972-234-4475",
+                                "phone1": "972-234-4444"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Stratford",
+                                "postalCode": "N5A 3Z2",
+                                "street1": "240 Norfolk Street"
+                            },
+                            "contactInfo": {
+                                "fax": "519-272-2723",
+                                "phone1": "519-272-1500"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "HBS Systems",
+                "numFollowers": 1035,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Dealership Management Systems",
+                        "Customer Relationship Management",
+                        "Electronic Data Conversion",
+                        "System Implementation & Training"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.hbssystems.com"
+            }
+        ]
+    }
+}

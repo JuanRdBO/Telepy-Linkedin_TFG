@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2002,
+                "id": 16213516,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "136",
+                            "name": "Fotograf\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Athens",
+                                "postalCode": "11742",
+                                "street1": "Makryanni 19-21"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Impact Images -",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Photography",
+                        "Photojournalism",
+                        "Exhibitions",
+                        "Copyright management"
+                    ]
+                },
+                "status": {
+                    "code": "ACQ",
+                    "name": "Acquired"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://web.archive.org/web/20021003172506/http://www.impactimages.gr/"
+            }
+        ]
+    }
+}

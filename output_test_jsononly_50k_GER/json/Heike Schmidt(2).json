@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7503640,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Essen",
+                                "postalCode": "45356",
+                                "street1": "22 Germaniastra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "02018675786"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Tabakwaren Heike Schmidt",
+                "numFollowers": 0,
+                "websiteUrl": "tabakwaren-schmidt.de"
+            }
+        ]
+    }
+}

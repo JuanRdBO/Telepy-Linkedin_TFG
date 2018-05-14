@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7465684,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kreuztal",
+                                "postalCode": "57223",
+                                "street1": "403 Marburger Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0273221905"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "G\u00fcnter Weber Schlosserei",
+                "numFollowers": 0,
+                "websiteUrl": "kunstschmiede-weber.de"
+            }
+        ]
+    }
+}

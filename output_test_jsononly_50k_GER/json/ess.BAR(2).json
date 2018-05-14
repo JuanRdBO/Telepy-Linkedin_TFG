@@ -1,0 +1,64 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 24,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2015,
+                "id": 11175457,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "90",
+                            "name": "Organizaci\u00f3n c\u00edvica y social"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "75013",
+                                "street1": "15 rue Jean Antoine de Baif"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ESS'pace",
+                "numFollowers": 41,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Entrepreneuriat \u00e9tudiant ",
+                        "Bar",
+                        "Coworking",
+                        "Espace culturel",
+                        "Privatisation de salles",
+                        "Restaurant",
+                        "Tiers-lieu",
+                        "ESS"
+                    ]
+                },
+                "websiteUrl": "www.esspace.coop"
+            }
+        ]
+    }
+}

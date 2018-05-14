@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1976,
+                "id": 10610928,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "99",
+                            "name": "Dise\u00f1o"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Torre di Mosto",
+                                "postalCode": "30020",
+                                "street1": "Via Triestina Accesso E"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+39 (0)421 319600"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Magis Official",
+                "numFollowers": 1189,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Design Furniture",
+                        "Furnishings",
+                        "Furniture",
+                        "Industrial design",
+                        "Design"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.magisdesign.com"
+            }
+        ]
+    }
+}

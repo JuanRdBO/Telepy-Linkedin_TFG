@@ -1,0 +1,43 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7547086,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "18",
+                            "name": "Cosm\u00e9tica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wunstorf",
+                                "postalCode": "31515",
+                                "street1": "2 K\u00fcsterstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "050319696882"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Elixier Cosmetics Heike M\u00fcller",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

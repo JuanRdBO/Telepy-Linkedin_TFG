@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12456090,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Regen",
+                                "postalCode": "94209",
+                                "street1": "19 Schlesische Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 99214471"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Polsterei Michael Kreuzer",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.kreuzer-polsterei.de"
+            }
+        ]
+    }
+}

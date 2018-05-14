@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12727333,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Burghausen",
+                                "postalCode": "84489",
+                                "street1": "26 Robert-Koch-Stra\u00dfe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Markus Braun",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.der-diabetologe.de"
+            }
+        ]
+    }
+}

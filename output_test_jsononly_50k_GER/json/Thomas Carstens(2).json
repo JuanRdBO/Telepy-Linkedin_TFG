@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12428093,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "144",
+                            "name": "Energ\u00eda renovable y medio ambiente"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mildstedt",
+                                "postalCode": "25866",
+                                "street1": "40 Mauweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 4618660"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Walter Thomas Carstens GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.wtcarstens.de"
+            }
+        ]
+    }
+}

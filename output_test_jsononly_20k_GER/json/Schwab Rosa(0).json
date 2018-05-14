@@ -1,0 +1,49 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1980,
+                "id": 11474354,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "36",
+                            "name": "Medios de difusi\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Santa Rosa",
+                                "postalCode": "95405",
+                                "street1": "1410 Neotomas Ave"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "North Bay Advertising",
+                "numFollowers": 1,
+                "websiteUrl": "https://www.northbayadvertising.com"
+            }
+        ]
+    }
+}

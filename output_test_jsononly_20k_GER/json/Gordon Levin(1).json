@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2007,
+                "id": 603449,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "100",
+                            "name": "Gesti\u00f3n de organizaciones sin \u00e1nimo de lucro"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Montale Rangone (Mo)",
+                                "postalCode": "41051",
+                                "street1": "Via Cavani 7"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Direct Digital",
+                "numFollowers": 47,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "New Media",
+                        "Contemporary Art",
+                        "Art Exhibition",
+                        "Live Performance"
+                    ]
+                },
+                "status": {
+                    "code": "RRG",
+                    "name": "Reorganizing"
+                },
+                "twitterId": "http://twitter.com/direct_digital",
+                "websiteUrl": "www.directdigital.org"
+            }
+        ]
+    }
+}

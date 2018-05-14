@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12399864,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "B\u00fcnde",
+                                "postalCode": "32257",
+                                "street1": "168 Neue Str.21 Und Herforder Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 1715070709"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fahrschule Michael Schr\u00f6der",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.fahrschule-schroeder.com"
+            }
+        ]
+    }
+}

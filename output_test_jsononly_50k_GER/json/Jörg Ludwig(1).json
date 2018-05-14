@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7359706,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Krefeld",
+                                "postalCode": "47798",
+                                "street1": "Gutenbergstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "02151844990"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ludwig Und J\u00f6rg Thorissen",
+                "numFollowers": 0,
+                "websiteUrl": "thorissen.de"
+            }
+        ]
+    }
+}

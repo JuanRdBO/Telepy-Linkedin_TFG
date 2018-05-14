@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1985,
+                "id": 3336637,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "name": "La Lampe Ilumina\u00e7\u00e3o",
+                "numFollowers": 564,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Ilumina\u00e7\u00e3o",
+                        "Projeto de Ilumina\u00e7\u00e3o",
+                        "Design em Ilumina\u00e7\u00e3o",
+                        "Ilumina\u00e7\u00e3o decorativa"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.lalampe.com.br/"
+            }
+        ]
+    }
+}

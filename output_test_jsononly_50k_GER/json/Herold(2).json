@@ -1,0 +1,94 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 232,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1994,
+                "id": 1792665,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "51",
+                            "name": "Ingenier\u00eda civil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Nanaimo",
+                                "postalCode": "V9T 2H1",
+                                "street1": "3701 Shenton Rd"
+                            },
+                            "contactInfo": {
+                                "fax": "250 751-8559",
+                                "phone1": "250 751-8558"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Victoria",
+                                "postalCode": "V8V 4T6",
+                                "street1": "1051 Vancouver St."
+                            },
+                            "contactInfo": {
+                                "fax": "250-590-4392",
+                                "phone1": "250-590-4875"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Fort Nelson",
+                                "postalCode": "V0C 1R0",
+                                "street1": "RR1, Box 7, Valleyview Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "250-774-4675"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Herold Engineering Limited",
+                "numFollowers": 896,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Residential/Commercial Structural Engineering",
+                        "Civil Engineering",
+                        "Industrial/Marine Structural Engineering",
+                        "Highway/Logging Bridge Engineering"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.HeroldEngineering.com"
+            }
+        ]
+    }
+}

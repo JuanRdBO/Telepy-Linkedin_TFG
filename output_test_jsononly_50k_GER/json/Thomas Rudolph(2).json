@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12780916,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Herzberg am Harz",
+                                "postalCode": "37412",
+                                "street1": "26 Junkernstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 55212211"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Grundschule Nicolaischule",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.nicolaischule-herzberg.de"
+            }
+        ]
+    }
+}

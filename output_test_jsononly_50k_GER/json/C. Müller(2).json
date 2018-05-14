@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 59,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2008,
+                "id": 2782372,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "47",
+                            "name": "Contabilidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Brookwater",
+                                "postalCode": "4300",
+                                "street1": "14 Canopy Court"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0403160368"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "C&C Muller Accounting & Bookkeeping Services",
+                "numFollowers": 10,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Bookkeeping",
+                        "Budgeting & Cashflow Forecasting",
+                        "MYOB Certified Consultant",
+                        "Management Accounting"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ccmuller.com.au"
+            }
+        ]
+    }
+}

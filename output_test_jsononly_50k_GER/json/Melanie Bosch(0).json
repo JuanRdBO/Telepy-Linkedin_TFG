@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2015,
+                "id": 10365643,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "14",
+                            "name": "Atenci\u00f3n sanitaria y hospitalaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "'s-Hertogenbosch",
+                                "postalCode": "5211BN",
+                                "street1": "Koningsweg 72"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "06-21919013"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Voedingsadvies Brabant",
+                "numFollowers": 7,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Voeding en di\u00ebtetiek",
+                        "Coeliakie",
+                        "Maagdarmproblemen",
+                        "FODMAP",
+                        "glutenvrij dieet"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.voedingsadviesbrabant.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 9583053,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bonn",
+                                "postalCode": "53179",
+                                "street1": "R\u00f6merplatz 5"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 22890289"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Hallo Pizza",
+                "numFollowers": 28,
+                "websiteUrl": "http://www.hallo-pizza.de"
+            }
+        ]
+    }
+}

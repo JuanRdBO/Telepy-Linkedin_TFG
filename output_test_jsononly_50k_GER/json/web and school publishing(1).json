@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 164,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1995,
+                "id": 672303,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "82",
+                            "name": "Publicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Brooklyn",
+                                "postalCode": "11211",
+                                "street1": "217 Havemeyer Street, 3rd Floor"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "StarChefs",
+                "numFollowers": 8311,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Chefs",
+                        "food trends",
+                        "travel",
+                        "web publishing",
+                        "restaurants",
+                        "culinary arts",
+                        "restaurant management",
+                        "cooking",
+                        "pastry arts",
+                        "bartenders",
+                        "sommeliers",
+                        "restaurant industry",
+                        "hospitality"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.starchefsjobfinder.com"
+            }
+        ]
+    }
+}

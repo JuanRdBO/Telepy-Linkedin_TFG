@@ -1,0 +1,114 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 3726429,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dubuque",
+                                "postalCode": "52003",
+                                "street1": "100 Bryant Street"
+                            },
+                            "contactInfo": {
+                                "fax": "563-557-7001",
+                                "phone1": "563-557-1440"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Clinton",
+                                "postalCode": "52732",
+                                "street1": "511 South 4th Street"
+                            },
+                            "contactInfo": {
+                                "fax": "563-241-4884",
+                                "phone1": "563-259-4349"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Manchester",
+                                "postalCode": "52057",
+                                "street1": "709 West Main Street"
+                            },
+                            "contactInfo": {
+                                "fax": "563-927-7473",
+                                "phone1": "563-927-7301"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Platteville",
+                                "postalCode": "53818",
+                                "street1": "1270 N. Water Street"
+                            },
+                            "contactInfo": {
+                                "fax": "608-348-8960",
+                                "phone1": "608-348-8955"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Great River Oral & Maxillofacial Surgery, P.C.",
+                "numFollowers": 29,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Oral Surgery",
+                        "Wisdom Teeth Removal",
+                        "Dental Implants",
+                        "Bone Grafting",
+                        "Orthognathic/ Jaw Surgery",
+                        "Botox",
+                        "TMJ",
+                        "Sleep Apnea",
+                        "Facial Trauma",
+                        "Impacted Teeth Exposure",
+                        "Temporary Orthodontic Anchorage",
+                        "Digital Imaging",
+                        "Oral Pathology",
+                        "Reconstructive Surgery"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.greatriveroms.com"
+            }
+        ]
+    }
+}

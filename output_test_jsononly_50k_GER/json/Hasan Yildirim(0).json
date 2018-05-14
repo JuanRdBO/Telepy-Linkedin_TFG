@@ -1,0 +1,86 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1972,
+                "id": 5083032,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "\u0130stanbul",
+                                "postalCode": "34724",
+                                "street1": "Merkez mah.  akar cad. itower plaza no:03 ofisno:91-92 bomonti"
+                            },
+                            "contactInfo": {
+                                "fax": "2122408753",
+                                "phone1": "4442189"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "istanbul",
+                                "postalCode": "",
+                                "street1": "pa\u015fa mahallesi hasret caddesi bah\u00e7e sokak bomonti18 no:18"
+                            },
+                            "contactInfo": {
+                                "fax": "2122408753",
+                                "phone1": "4442189"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "YILDIRIM YAPI GRUBU",
+                "numFollowers": 327,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Construction",
+                        "customer services",
+                        "projects to produce",
+                        "after sales services",
+                        "Interior Design",
+                        "Contractors",
+                        "Real Estate",
+                        "environmental Compliance",
+                        "Public Health     1architecture"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.yyg.com.tr"
+            }
+        ]
+    }
+}

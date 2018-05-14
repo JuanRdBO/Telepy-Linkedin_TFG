@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 1552,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1985,
+                "id": 1242480,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "47",
+                            "name": "Contabilidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "W5 3AY",
+                                "street1": "12-15 Hanger Green"
+                            },
+                            "contactInfo": {
+                                "fax": "020 8354 9010",
+                                "phone1": "020 8354 9000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Stern",
+                "numFollowers": 189,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Accounts & Audit",
+                        "Tax Planning",
+                        "Bookkeeping & Reporting",
+                        "Xero Setup & Implementation",
+                        "Property Tax",
+                        "Xero Training",
+                        "Landlord Taxation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "@sternandcompany",
+                "websiteUrl": "www.stern.co.uk"
+            }
+        ]
+    }
+}

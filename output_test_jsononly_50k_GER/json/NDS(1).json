@@ -1,0 +1,110 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 404,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1999,
+                "id": 1190259,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ocala",
+                                "postalCode": "34470",
+                                "street1": "512 East Silver Springs Blvd"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "352-840-9593"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Thane West",
+                                "postalCode": "400615",
+                                "street1": "8th Floor, MBC Infotech Park, Near Hypercity, Ghodbandar Rd, Kasarvadavali"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "022 4129 3100"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Dubai. U.A.E.",
+                                "postalCode": "",
+                                "street1": "Dubai Internet City,"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+97145148645"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bangalore-38",
+                                "postalCode": "",
+                                "street1": "Awfis Space Solution Pvt Ltd"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "NDS Global",
+                "numFollowers": 4465,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "MS Project Online",
+                        "CRM Online",
+                        "MS SharePoint",
+                        "Office365",
+                        "MS Dynamics AX",
+                        "Business Intelligence",
+                        "Azure"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ndsglobal.com"
+            }
+        ]
+    }
+}

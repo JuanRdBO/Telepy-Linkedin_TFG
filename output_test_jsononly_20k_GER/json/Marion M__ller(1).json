@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12231373,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40235",
+                                "street1": "66 Geibelstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 20102013"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Marion M\u00fcller-Schroll",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.skulptur-aus-stein.de"
+            }
+        ]
+    }
+}

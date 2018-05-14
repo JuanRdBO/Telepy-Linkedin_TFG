@@ -1,0 +1,60 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2005,
+                "id": 12792813,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamm",
+                                "postalCode": "59065",
+                                "street1": "M\u00fcnsterstra\u00dfe 5"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "FKT42 GmbH",
+                "numFollowers": 4,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "iOS App-Entwicklung",
+                        "Android App-Entwicklung",
+                        "Windows App-Entwicklung",
+                        "Web-Entwicklung Frontend",
+                        "Web-Entwicklung Backend",
+                        "Softwareentwicklung macOS",
+                        "Softwareentwicklung Windows",
+                        "AutoCAD Plugin-Entwicklung"
+                    ]
+                },
+                "websiteUrl": "https://www.fkt42.de"
+            }
+        ]
+    }
+}

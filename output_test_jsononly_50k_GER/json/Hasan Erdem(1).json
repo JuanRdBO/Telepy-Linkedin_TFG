@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1983,
+                "id": 10810095,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "\u0130stanbul",
+                                "postalCode": "34357",
+                                "street1": "Vi\u015fnezade Mah. Ac\u0131su Sok. No: 9/4 "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Pimodek Mimari Tasar\u0131m - Uygulama",
+                "numFollowers": 37,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "mimarl\u0131k",
+                        "uygulama",
+                        "proje",
+                        "tasar\u0131m",
+                        "architecture",
+                        "construction",
+                        "design",
+                        "project",
+                        "i\u00e7 mekan tasar\u0131m\u0131",
+                        "interior design"
+                    ]
+                },
+                "status": {
+                    "code": "OPS",
+                    "name": "Operating Subsidiary"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.pimodek.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2004,
+                "id": 2677403,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "143",
+                            "name": "Art\u00edculos de lujo y joyas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10036",
+                                "street1": "22 W 48th Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "212-300-8620"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Across the",
+                                "postalCode": "",
+                                "street1": "Precious Jewelry Salons"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "and Vancouver",
+                                "postalCode": "",
+                                "street1": "Toronto"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Tokyo",
+                                "postalCode": "",
+                                "street1": "Ginza, Shinjuku"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Doha",
+                                "postalCode": "",
+                                "street1": "Stores"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Mimi So International",
+                "numFollowers": 888,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Fine Jewelry",
+                        "Fashion",
+                        "Diamonds",
+                        "Celebrities",
+                        "Designer Jewelry",
+                        "Jewelry Refurbishment",
+                        "Gems",
+                        "Gold and Platinum",
+                        "Custom Jewelry",
+                        "Styling"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.mimiso.com"
+            }
+        ]
+    }
+}

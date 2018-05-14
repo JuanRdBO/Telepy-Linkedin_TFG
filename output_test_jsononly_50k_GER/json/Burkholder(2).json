@@ -1,0 +1,81 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 58,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1961,
+                "id": 1655214,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ephrata",
+                                "postalCode": "17522",
+                                "street1": "621 Martindale Road"
+                            },
+                            "contactInfo": {
+                                "fax": "888.428.7469",
+                                "phone1": "866.839.3426"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Denver",
+                                "postalCode": "17517",
+                                "street1": "75 Kurtz Road"
+                            },
+                            "contactInfo": {
+                                "fax": "888.428.7469",
+                                "phone1": "866.839.3426"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Burkholder Paving",
+                "numFollowers": 44,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Driveways",
+                        "Parking Lots",
+                        "Streets",
+                        "Walkways"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.burkholderpaving.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 27114397,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "125",
+                            "name": "Medicina alternativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Huntington",
+                                "postalCode": "11743",
+                                "street1": "380 Park Avenue"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Holistic Alternatives",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Acupuncture",
+                        "Acupressure",
+                        "Massage Therapy",
+                        "Reiki Master",
+                        "Oriental Medicine",
+                        "Meditation"
+                    ]
+                },
+                "websiteUrl": "https://holistic-alternatives.us/"
+            }
+        ]
+    }
+}

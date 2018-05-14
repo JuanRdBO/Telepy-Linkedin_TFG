@@ -1,0 +1,88 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2004,
+                "id": 2151201,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Auckland",
+                                "street1": "2/15 Swanson Road"
+                            },
+                            "contactInfo": {
+                                "phone1": "0211171110"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Auckland",
+                                "street1": "EastMed"
+                            },
+                            "contactInfo": {
+                                "fax": "021 778 849",
+                                "phone1": "0211171110"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Adelaide",
+                                "street1": "Wood Street"
+                            },
+                            "contactInfo": {
+                                "phone1": "08) 8374 2176"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "EveryBODY_Massage",
+                "numFollowers": 17,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Massage",
+                        "Remedial-therapies",
+                        "neuromuscular-skeletal",
+                        "mobile",
+                        "clinic"
+                    ]
+                },
+                "status": {
+                    "code": "RRG",
+                    "name": "Reorganizing"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ebmassage.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2010,
+                "id": 1698061,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "24",
+                            "name": "Electr\u00f3nica de consumo"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Brooklyn",
+                                "postalCode": "11205",
+                                "street1": "Building 292, Suite 411, Brooklyn Navy Yard"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Soliddd Corp",
+                "numFollowers": 35,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Autostereo 3D",
+                        "Optics",
+                        "Liquid Crystal  Lens Technology",
+                        "Lenticular",
+                        "Displays",
+                        "Signage Technology"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "SoliDDDcorp",
+                "websiteUrl": "www.soliddd.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10654,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7460626,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Offenburg",
+                                "postalCode": "77652",
+                                "street1": "Schwalbenrain 2A"
+                            },
+                            "contactInfo": {
+                                "phone1": "078191430"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dienstleistungen GmbH",
+                "numFollowers": 46,
+                "websiteUrl": "argus-dienstleistungen.de"
+            }
+        ]
+    }
+}

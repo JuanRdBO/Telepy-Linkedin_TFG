@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2016,
+                "id": 17893015,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "110",
+                            "name": "Servicios de eventos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Brussels",
+                                "postalCode": "",
+                                "street1": "THE EGG BRUSSELS"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "The HR Congress",
+                "numFollowers": 690,
+                "specialties": {
+                    "_total": 17,
+                    "values": [
+                        "Human Capital Management",
+                        "Leadership",
+                        "HR Conferences",
+                        "Workforce Analytics",
+                        "Employer Branding",
+                        "HR Business Partnering",
+                        "Performance Management",
+                        "Culture",
+                        "Change",
+                        "HR Outsourcing",
+                        "HR Shared Services",
+                        "Digital Organization",
+                        "Talent Management",
+                        "Succession Management",
+                        "Recruitment",
+                        "Employee Experience",
+                        "Onboarding"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.hr-congress.com"
+            }
+        ]
+    }
+}

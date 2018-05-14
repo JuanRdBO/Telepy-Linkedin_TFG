@@ -1,0 +1,98 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1977,
+                "id": 9357305,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "144",
+                            "name": "Energ\u00eda renovable y medio ambiente"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hattingen",
+                                "postalCode": "45527",
+                                "street1": "Heiskampstr. 10"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0) 23 24 / 96 48-755",
+                                "phone1": "+49 (0) 23 24 / 96 48-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Torrent (Valencia)",
+                                "postalCode": "46900",
+                                "street1": "Avenida Ol\u00edmpica N\u00ba 2-B"
+                            },
+                            "contactInfo": {
+                                "fax": "+34 96 111 92 73",
+                                "phone1": "+34 96 091 53 99"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Oberhoffen sur Moder",
+                                "postalCode": "67240",
+                                "street1": "67c rue de la Gare"
+                            },
+                            "contactInfo": {
+                                "fax": "+33 388 062394",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "RESOL GmbH",
+                "numFollowers": 283,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Solarregler",
+                        "Heizungsregler",
+                        "Frischwasserregler",
+                        "Systemregler",
+                        "Solarstationen",
+                        "Sp\u00fcl- und Bef\u00fcllstationen",
+                        "Visualisierung von Solar- und Heizungsanlagen",
+                        "Smart Home Anwendungen",
+                        "Apps f\u00fcr Solar und Heizung",
+                        "Heizen mit PV"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.resol.de"
+            }
+        ]
+    }
+}

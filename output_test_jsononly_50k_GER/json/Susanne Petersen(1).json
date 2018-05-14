@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7566283,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Neuried",
+                                "postalCode": "77743",
+                                "street1": "2 Altenheimer Weg"
+                            },
+                            "contactInfo": {
+                                "phone1": "07807955870"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ad Acta Susanne Petersen E.K.",
+                "numFollowers": 0,
+                "websiteUrl": "ad-acta.com"
+            }
+        ]
+    }
+}

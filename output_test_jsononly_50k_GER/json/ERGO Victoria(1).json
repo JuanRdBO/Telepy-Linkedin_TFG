@@ -1,0 +1,43 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 6233069,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "146",
+                            "name": "Embalaje y contenedores\n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Angerm\u00fcnde",
+                                "postalCode": "16278",
+                                "street1": "Berliner Str. 75"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3331213"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ERGO VICTORIA Generalagentur Anke H\u00fcbner",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

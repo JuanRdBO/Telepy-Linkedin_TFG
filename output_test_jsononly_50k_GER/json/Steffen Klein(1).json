@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12255439,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dresden",
+                                "postalCode": "01217",
+                                "street1": "45 Possendorfer Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3514013668"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Malermeister Steffen Klein",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.malermeister-steffen-klein.de"
+            }
+        ]
+    }
+}

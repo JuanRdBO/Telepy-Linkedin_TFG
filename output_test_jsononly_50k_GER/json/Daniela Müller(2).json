@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7455209,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kreuztal",
+                                "postalCode": "57223",
+                                "street1": "38 Grubenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "02732203626"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ForYou-Nails By Daniela M\u00fcller",
+                "numFollowers": 0,
+                "websiteUrl": "foryou-nails.de"
+            }
+        ]
+    }
+}

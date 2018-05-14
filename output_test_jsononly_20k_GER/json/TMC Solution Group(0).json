@@ -1,0 +1,125 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 10,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 2002,
+                "id": 2750,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 6,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bellevue",
+                                "postalCode": "98004",
+                                "street1": "10900 NE 4th Avenue"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Courbevoie",
+                                "postalCode": "92400",
+                                "street1": "9/11 All\u00e9e de l'Arche"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Chicago",
+                                "postalCode": "60661",
+                                "street1": "500 W Madison St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Oslo",
+                                "postalCode": "0254",
+                                "street1": "Cort Adelers gate 30"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "EC1V 1NS",
+                                "street1": "Angel Square"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Mississauga",
+                                "postalCode": "L5N",
+                                "street1": "2239 Argentia Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Egencia",
+                "numFollowers": 22434,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Business travel",
+                        "Online booking",
+                        "Travel agents",
+                        "Travel purchasing",
+                        "Technology",
+                        "Travel agency",
+                        "TMC",
+                        "Travel Management ",
+                        "Travel Management Company",
+                        "Corporate Travel",
+                        "Corporate Travel Management",
+                        "Travel",
+                        " Travel app",
+                        "Travel purchasing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "@EGENCIA",
+                "websiteUrl": "https://www.egencia.com"
+            }
+        ]
+    }
+}

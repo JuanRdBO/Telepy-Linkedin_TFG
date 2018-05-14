@@ -1,0 +1,52 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 89,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2012,
+                "id": 9397357,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "name": "Matrix Nodes",
+                "numFollowers": 336,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Digital Transformation",
+                        "Technology",
+                        "Marketing",
+                        "Integrated Communications & Public Relations",
+                        "Creative",
+                        "Content Marketing"
+                    ]
+                },
+                "status": {
+                    "code": "OPS",
+                    "name": "Operating Subsidiary"
+                },
+                "twitterId": "",
+                "websiteUrl": "matrixnodes.com"
+            }
+        ]
+    }
+}

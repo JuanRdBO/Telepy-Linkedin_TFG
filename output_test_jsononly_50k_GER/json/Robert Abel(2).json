@@ -1,0 +1,52 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2013,
+                "id": 5086498,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "86",
+                            "name": "Servicios medioambientales"
+                        }
+                    ]
+                },
+                "name": "Suus & Abel Sustainable",
+                "numFollowers": 17,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Interactieve belevinslessen over duurzaamheid",
+                        "Gastlessen over hergebruik",
+                        "Kleding",
+                        "Zwerfafval",
+                        "Duurzame energie",
+                        "Energie & Water"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.suusenabel.nl"
+            }
+        ]
+    }
+}

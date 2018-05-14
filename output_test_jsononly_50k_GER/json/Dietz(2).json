@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 419,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1994,
+                "id": 331737,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Troy",
+                                "postalCode": "48084",
+                                "street1": "2075 W Big Beaver Rd"
+                            },
+                            "contactInfo": {
+                                "fax": "248-646-3744",
+                                "phone1": "248-341-3999"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dietz Property Group",
+                "numFollowers": 468,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Identifying investment real estate opportunities and realizing their potential"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.dietzpropertygroup.com"
+            }
+        ]
+    }
+}

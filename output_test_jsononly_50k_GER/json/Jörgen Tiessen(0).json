@@ -1,0 +1,112 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 145,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 2002,
+                "id": 41640,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "8",
+                            "name": "Telecomunicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Link\u00f6ping",
+                                "postalCode": "583 35",
+                                "street1": "Diskettgatan 11B"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Prague",
+                                "postalCode": "100 00",
+                                "street1": "Kubanske namesti 11"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Norcross",
+                                "postalCode": "GA 30092",
+                                "street1": "3284 Medlock Bridge Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Dublin",
+                                "postalCode": "D08 HKR9",
+                                "street1": "The Digital Hub, Dublin 8, D08 HKR9, Ireland"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "street1": "2 Eastbourne Terrace"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Zenterio",
+                "numFollowers": 1353,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "IT",
+                        "DVB",
+                        "IPTV",
+                        "Broadcast",
+                        "Telco",
+                        "UI",
+                        "Design",
+                        "DTT",
+                        "DTH",
+                        "CATV",
+                        "Data Analytics",
+                        "Interactive Advertising"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "zenterio.com"
+            }
+        ]
+    }
+}

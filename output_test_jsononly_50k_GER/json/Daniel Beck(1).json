@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 13,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1953,
+                "id": 311806,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "68",
+                            "name": "Ense\u00f1anza superior"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Seattle",
+                                "postalCode": "98101",
+                                "street1": "600 Stewart Street, Suite 600"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "206-623-4494"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Independent Colleges of Washington",
+                "numFollowers": 903,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Independent Colleges of Washington promotes the unique educational opportunities of independent colleges in Washington, supports value of choice to ensure the success of college students, and advocates for the value of higher education to the state."
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "http://twitter.com/#!/ICW",
+                "websiteUrl": "www.ICWashington.org"
+            }
+        ]
+    }
+}

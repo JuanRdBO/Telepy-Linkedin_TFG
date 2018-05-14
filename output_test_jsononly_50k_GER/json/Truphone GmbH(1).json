@@ -1,0 +1,81 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2006,
+                "id": 205078,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "7",
+                            "name": "Semiconductores"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "22525",
+                                "street1": "Holstenkamp 54"
+                            },
+                            "contactInfo": {
+                                "fax": "+4940891064",
+                                "phone1": "+4940891062"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Moscow",
+                                "postalCode": "124498",
+                                "street1": "Driveway #4922, 4 building 3"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+74999950773"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Cellnetrix (acquired by Truphone)",
+                "numFollowers": 88,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "smart card operating system development",
+                        "java card applications and tools",
+                        "consultancy and technical support",
+                        "smart card middleware"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "cellnetrix",
+                "websiteUrl": "http://www.cellnetrix.com"
+            }
+        ]
+    }
+}

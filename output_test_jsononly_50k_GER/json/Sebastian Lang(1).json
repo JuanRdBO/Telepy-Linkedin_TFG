@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 9,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1948,
+                "id": 1537114,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "39",
+                            "name": "Artes interpretativas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hobart",
+                                "postalCode": "7000",
+                                "street1": "1 Davey Steet"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "1800 001 190"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Tasmanian Symphony Orchestra",
+                "numFollowers": 200,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www..tso.com.au"
+            }
+        ]
+    }
+}

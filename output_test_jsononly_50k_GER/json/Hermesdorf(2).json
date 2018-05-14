@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12567574,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Klein Pampau",
+                                "postalCode": "21514",
+                                "street1": "18 Hasenb\u00f6ge"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 41553768"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rettungsfallschirm-Service Hermesdorf",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.rettungsfallschirme.de"
+            }
+        ]
+    }
+}

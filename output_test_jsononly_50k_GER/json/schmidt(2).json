@@ -1,0 +1,85 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3837,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1997,
+                "id": 10782202,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Montevideo",
+                                "postalCode": "",
+                                "street1": "Servando G\u00f3mez 3460"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+598 2 600 34 76"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Asuncion",
+                                "postalCode": "",
+                                "street1": "Ruta 12 KM 3,5 Camino A Chaco'i"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0985131803"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Schmidt.",
+                "numFollowers": 133,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Construcci\u00f3n",
+                        "Ingenier\u00eda",
+                        "Premoldeados de Hormig\u00f3n",
+                        "Arquitectura",
+                        "Montaje",
+                        "Dise\u00f1o",
+                        "Innovaci\u00f3n",
+                        "Precast Concrete"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.schmidt.com.uy"
+            }
+        ]
+    }
+}

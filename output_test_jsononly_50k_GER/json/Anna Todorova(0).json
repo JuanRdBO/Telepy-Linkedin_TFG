@@ -1,0 +1,55 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2007,
+                "id": 13399342,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "82",
+                            "name": "Publicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {},
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Vermilion Publishing",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "children's  literature",
+                        "young adult's literature",
+                        "academic books",
+                        "journal",
+                        "literary translation"
+                    ]
+                },
+                "websiteUrl": "http://www.vermilion-books.info/p/english.html"
+            }
+        ]
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 554,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1978,
+                "id": 149772,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "14",
+                            "name": "Atenci\u00f3n sanitaria y hospitalaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Reston",
+                                "postalCode": "20191",
+                                "street1": "1902 Campus Commons Drive, Suite 650"
+                            },
+                            "contactInfo": {
+                                "fax": "703-390-5819",
+                                "phone1": "703-390-2300"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Livonia",
+                                "postalCode": "48152",
+                                "street1": "17197 N. Laurel Park Dr."
+                            },
+                            "contactInfo": {
+                                "fax": "734-779-9799",
+                                "phone1": "734-779-9700"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "THE MEDICAL TEAM",
+                "numFollowers": 4097,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Certified Home Health Care Services",
+                        "Skilled Nursing",
+                        "Physical Therapy",
+                        "Occupational Therapy",
+                        "Speech Therapy",
+                        "Medical Social Services",
+                        "Private Duty",
+                        "Personal Care Services",
+                        "Health Screenings",
+                        "Educational Wellness Programs",
+                        "Behavioral Home Health",
+                        "Catastrophic Care"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.medicalteam.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1978,
+                "id": 3625883,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ligist",
+                                "postalCode": "8563",
+                                "street1": "Steinberg 209"
+                            },
+                            "contactInfo": {
+                                "fax": "+43 3143/2180-20",
+                                "phone1": "+43 3143/2180"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Voitsberg",
+                                "postalCode": "8570",
+                                "street1": "Grillparzerstra\u00dfe 2"
+                            },
+                            "contactInfo": {
+                                "fax": "+43 3142/22234-20",
+                                "phone1": "+43 3142/22234"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Auto Scheer GmbH & Co KG",
+                "numFollowers": 8,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Handel mit Personenkraftwagen der Marken Renault, Dacia, Jeep und Alfa Romeo",
+                        "Reparaturen von Personenkraftwagen",
+                        "Abwicklung von Versicherungssch\u00e4den bei Kraftfahrzeugen",
+                        "Finanzierung von Kraftfahrzeugen"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.auto-scheer.at"
+            }
+        ]
+    }
+}

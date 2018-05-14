@@ -1,0 +1,86 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1978,
+                "id": 5134055,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Tuzla",
+                                "postalCode": "34953",
+                                "street1": "\u0130stanbul Anadolu Yakas\u0131 OSB 3. Sokak No.11"
+                            },
+                            "contactInfo": {
+                                "fax": "+ 90 216 593 93 10",
+                                "phone1": "+90 216 593 93 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Tuzla",
+                                "postalCode": "34957",
+                                "street1": "\u0130stanbul End\u00fcstri ve Ticaret Serbest B\u00f6lgesi"
+                            },
+                            "contactInfo": {
+                                "fax": "+90 216 394 14 44",
+                                "phone1": "+90 216 394 14 24"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Kale Makina Pazarlama A.\u015e.",
+                "numFollowers": 1220,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Kompakt \u0130\u015f Makinalar\u0131",
+                        "\u0130thalat & \u0130hracat",
+                        "Sat\u0131\u015f Sonras\u0131 Hizmetler",
+                        "Sat\u0131\u015f",
+                        "\u0130\u015f Makinalar\u0131",
+                        "Avant",
+                        "Gehl",
+                        "Kubota",
+                        "Thwaites"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.kalemakina.com.tr"
+            }
+        ]
+    }
+}

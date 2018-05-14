@@ -1,0 +1,62 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2014,
+                "id": 18493143,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "136",
+                            "name": "Fotograf\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40476",
+                                "street1": "R\u00f6merstra\u00dfe 4"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fotoliebe",
+                "numFollowers": 0,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Fotostudio",
+                        "Portraitfotografie",
+                        "Hochzeitsfotografie",
+                        "Businessfotografie",
+                        "Bildbearbeitung",
+                        "Bewerbungsfotos",
+                        "Fotografie On Location",
+                        "Familienfotografie"
+                    ]
+                },
+                "websiteUrl": "www.fotoliebe-fotografie.de"
+            }
+        ]
+    }
+}

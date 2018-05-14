@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 2929121,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20354",
+                                "street1": "Esplanade 40"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Duesseldorf",
+                                "postalCode": "40477",
+                                "street1": "Schwerinstra\u00dfe 22"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "dgroup GmbH (now part of Accenture Consulting)",
+                "numFollowers": 678,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Consulting",
+                        "Implementation",
+                        "Communication",
+                        "Digital Transformation",
+                        "Exponential Organization",
+                        "Digital Business Model Innovation",
+                        "Startup-as-a-Service"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.d-group.com"
+            }
+        ]
+    }
+}

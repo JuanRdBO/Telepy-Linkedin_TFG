@@ -1,0 +1,94 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 19,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1974,
+                "id": 974450,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "135",
+                            "name": "Ingenier\u00eda industrial o mec\u00e1nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Itatiba",
+                                "postalCode": "13252-200",
+                                "street1": "Rodovia Engenheiro Const\u00e2ncio Cintra"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Rio de Janeiro",
+                                "postalCode": "20091-007",
+                                "street1": "Rua Visconde de Inha\u00fama, 83 \u2013 17\u00ba andar - Centro"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bogot\u00e1 D.C.",
+                                "street1": "Cra. 13 No. 93\u201340, Piso 4"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "M\u00e9xico D.F.",
+                                "postalCode": "03810",
+                                "street1": " Av. Insurgentes Sur 863 - Col. Napoles, Benito Juarez"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Vulkan do Brasil",
+                "numFollowers": 4610,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Solu\u00e7\u00f5es em Transmiss\u00e3o de Pot\u00eancia Industrial e Naval",
+                        "Tecnologia de Conex\u00e3o sem Solda para Sistemas de Refrigera\u00e7\u00e3o e Ar Condicionado",
+                        "Freios e Sistemas de Frenagem Industrial",
+                        "Componentes para Propuls\u00e3o Naval e Gera\u00e7\u00e3o de Energia"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.vulkan.com"
+            }
+        ]
+    }
+}

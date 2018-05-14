@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2007,
+                "id": 3109804,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "38",
+                            "name": "Bellas Artes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "NW8 8EE",
+                                "street1": "11 Church St"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+44(0)2077245548"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Patrick Heide Contemporary Art",
+                "numFollowers": 49,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Contemporary Art",
+                        "Works on paper",
+                        "Drawings"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.patrickheide.com"
+            }
+        ]
+    }
+}

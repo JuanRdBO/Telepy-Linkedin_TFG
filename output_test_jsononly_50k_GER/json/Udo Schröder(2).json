@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7462784,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dortmund",
+                                "postalCode": "44319",
+                                "street1": "Kamergstr.10"
+                            },
+                            "contactInfo": {
+                                "phone1": "0231712131"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Udo Schr\u00f6der GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "udo-schroeder-gmbh.de"
+            }
+        ]
+    }
+}

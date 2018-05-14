@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12492700,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Siegen",
+                                "postalCode": "57072",
+                                "street1": "20 Obergraben"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 27123669"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Susanne Hoffmann-Stein",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.hoffmann-stein.de"
+            }
+        ]
+    }
+}

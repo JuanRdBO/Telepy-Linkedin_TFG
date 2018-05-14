@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7394216,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Reutlingen",
+                                "postalCode": "72764",
+                                "street1": "9 Kaiserpassage"
+                            },
+                            "contactInfo": {
+                                "phone1": "07121346550"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr.med. Andreas Von Pfeil",
+                "numFollowers": 0,
+                "websiteUrl": "jugendmedizin-reutlingen.de"
+            }
+        ]
+    }
+}

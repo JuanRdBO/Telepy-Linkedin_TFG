@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 28306902,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sao Paulo",
+                                "postalCode": "03054-040",
+                                "street1": "Rua Cel Antonio Marcelo 59 Sl"
+                            },
+                            "contactInfo": {
+                                "phone1": "+55 1123820915"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Robertgraf",
+                "numFollowers": 0,
+                "websiteUrl": "robertgraf.com.br"
+            }
+        ]
+    }
+}

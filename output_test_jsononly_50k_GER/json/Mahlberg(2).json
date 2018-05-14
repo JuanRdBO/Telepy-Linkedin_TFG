@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 22,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12805623,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oldenburg",
+                                "postalCode": "26122",
+                                "street1": "27 Achternstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 882528710"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Mahlberg & Meyer",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.juweliere-mahlberg-meyer.de"
+            }
+        ]
+    }
+}

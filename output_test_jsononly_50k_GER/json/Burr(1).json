@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 462,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12227316,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Nonnweiler",
+                                "postalCode": "66620",
+                                "street1": "4 In Der Allwies"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 687366990"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Burr",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.hans-burr.de"
+            }
+        ]
+    }
+}

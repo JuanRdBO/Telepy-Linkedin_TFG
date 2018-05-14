@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12692618,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Emsdetten",
+                                "postalCode": "48282",
+                                "street1": "20 Grevener Damm"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 257289622"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Klaus-Peter Kranz",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.kranz-jagd.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2005,
+                "id": 461953,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "110",
+                            "name": "Servicios de eventos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Alamaty",
+                                "postalCode": "050000",
+                                "street1": "Shevchenko str, 162j, office 110"
+                            },
+                            "contactInfo": {
+                                "fax": "+7 727 272 39 03",
+                                "phone1": "+7 727 272 39 03"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Caspian Business Events",
+                "numFollowers": 93,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Events, Conferences, Congresses and Exhibitions",
+                        "Publishing, Website Building",
+                        "Exhibitions: The company that aims to help your to meet business partners in the Eurasian markets",
+                        "Marketing, Email Marketing, SEO"
+                    ]
+                },
+                "status": {
+                    "code": "OOB",
+                    "name": "Out of Business"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.caspian-events.kz"
+            }
+        ]
+    }
+}

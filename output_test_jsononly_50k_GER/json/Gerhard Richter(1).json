@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 17,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1892,
+                "id": 118210,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "37",
+                            "name": "Museos e instituciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Fort Worth",
+                                "postalCode": "76107",
+                                "street1": "3200 Darnell"
+                            },
+                            "contactInfo": {
+                                "fax": "817.735.1161",
+                                "phone1": "817.738.9215"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Modern Art Museum of Fort Worth",
+                "numFollowers": 1823,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Modern art",
+                        "Contemporary art",
+                        "Exhibitions",
+                        "Education",
+                        "Museum",
+                        "Sculpture",
+                        "Painting",
+                        "Mixed Media",
+                        "Films"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.themodern.org"
+            }
+        ]
+    }
+}

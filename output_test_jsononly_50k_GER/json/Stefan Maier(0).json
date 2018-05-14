@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12257964,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Reutlingen",
+                                "postalCode": "72762",
+                                "street1": "24 Hans-Reyhing-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 712121931"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Stefan Maier Industrieservice GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.maier-industrieservice.de"
+            }
+        ]
+    }
+}

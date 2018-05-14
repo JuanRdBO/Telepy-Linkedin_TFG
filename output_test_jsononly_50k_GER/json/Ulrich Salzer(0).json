@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 1768,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 2006,
+                "id": 394295,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "17",
+                            "name": "Dispositivos m\u00e9dicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Chesterfield",
+                                "postalCode": "63005",
+                                "street1": "18221 Edison Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "636-519-0271",
+                                "phone1": "636-519-0268"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ulrich medical USA",
+                "numFollowers": 1327,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Spinal Implants",
+                        "Medical Devices",
+                        "Surgical Instruments"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ulrichmedicalusa.com"
+            }
+        ]
+    }
+}

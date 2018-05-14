@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 9059214,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "137",
+                            "name": "Recursos humanos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60320",
+                                "street1": "Raimundstra\u00dfe 100"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 1751575728"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Karin Koch B\u00fcrodienstleistungen",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.kkbd.de"
+            }
+        ]
+    }
+}

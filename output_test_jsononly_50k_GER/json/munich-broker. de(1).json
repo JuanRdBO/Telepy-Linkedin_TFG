@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1964,
+                "id": 40306,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Brussels",
+                                "postalCode": "1000",
+                                "street1": "Bischoffsheimlaan 1-8"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "DKV Belgium",
+                "numFollowers": 4422,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Hospital Insurance",
+                        "Outpatient and Dental Insurance",
+                        "Loss of Income Insurance",
+                        "Long Term Care Insurance",
+                        "Expat Insurance Plans"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.dkv.be"
+            }
+        ]
+    }
+}

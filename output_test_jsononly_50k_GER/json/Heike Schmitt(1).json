@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12258176,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Aachen",
+                                "postalCode": "52076",
+                                "street1": "66 Florastra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 240881580"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Heike Schmitt Aachen",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.heikes-nagelstudio.de"
+            }
+        ]
+    }
+}

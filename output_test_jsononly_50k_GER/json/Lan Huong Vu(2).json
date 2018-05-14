@@ -1,0 +1,86 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 46,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2007,
+                "id": 2374996,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "91",
+                            "name": "Servicio al consumidor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "H\u1ed3 Ch\u00ed Minh",
+                                "postalCode": "",
+                                "street1": "150 L\u00ea Quang \u0110\u1ecbnh, P.14, Q. B\u00ecnh Th\u1ea1nh"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "62899007"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "H\u1ed3 Ch\u00ed Minh",
+                                "postalCode": "",
+                                "street1": "110 Ho\u00e0ng Hoa Th\u00e1m, P.7, Q.B\u00ecnh Th\u1ea1nh"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "T\u00f3c Vi\u1ec7t Beauty Salon",
+                "numFollowers": 52,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "T\u1ea1o ki\u1ec3u t\u00f3c",
+                        "Trang \u0111i\u1ec3m",
+                        "Ch\u0103m s\u00f3c t\u00f3c chuy\u00ean nghi\u1ec7p",
+                        "D\u1ecbch v\u1ee5 T\u1ea1o ki\u1ec3u v\u00e0 trang \u0111i\u1ec3m t\u1eadn n\u01a1i",
+                        "\u0110\u00e0o t\u1ea1o c\u00e1 nh\u00e2n",
+                        "Ch\u01b0\u01a1ng tr\u00ecnh \"Unleash Your Beauty\" d\u00e0nh cho Doanh nghi\u1ec7p",
+                        "Ch\u0103m s\u00f3c da",
+                        "studio",
+                        "Ch\u0103m s\u00f3c m\u00f3ng"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://tocvietpro.com"
+            }
+        ]
+    }
+}

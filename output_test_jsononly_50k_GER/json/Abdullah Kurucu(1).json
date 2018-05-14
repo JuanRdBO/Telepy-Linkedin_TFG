@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1963,
+                "id": 5056600,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "33",
+                            "name": "Deportes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bursa",
+                                "postalCode": "",
+                                "street1": "\u0130zmir yolu, 4.km, \u00d6zl\u00fcce Kav\u015fa\u011f\u0131, Bursaspor \u00d6zl\u00fcce Tesisleri"
+                            },
+                            "contactInfo": {
+                                "fax": "02244166306",
+                                "phone1": "4441963"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bursaspor",
+                "numFollowers": 420,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.bursaspor.org.tr/"
+            }
+        ]
+    }
+}

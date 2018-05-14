@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1992,
+                "id": 840694,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "70",
+                            "name": "Investigaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Jena",
+                                "postalCode": "07745",
+                                "street1": "Beutenbergstr. 11"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fritz Lipmann Institute (FLI) Leibniz Institute on Aging",
+                "numFollowers": 259,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Biomedical Aging Research",
+                        "Next Generation Sequencing",
+                        "Core Technologies",
+                        "Stem Cell & Cancer Research"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.leibniz-fli.de"
+            }
+        ]
+    }
+}

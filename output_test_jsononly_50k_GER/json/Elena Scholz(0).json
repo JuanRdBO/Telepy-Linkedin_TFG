@@ -1,0 +1,93 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2002,
+                "id": 5042199,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "W1G 8TR",
+                                "street1": "44 New Cavendish Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "020 7935 8999"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "WC1B 5HJ",
+                                "street1": "33 Southampton Row"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "020 8455 1122"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "NW11 0DL",
+                                "street1": "8 Hallswelle Parade"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "020 7831 5777"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "BeigePlus Ltd",
+                "numFollowers": 41,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Ladies designer fashion",
+                        "Marina Rinaldi",
+                        "Plus size",
+                        "Elena Miro",
+                        "Verpass"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.beigeplus.com"
+            }
+        ]
+    }
+}

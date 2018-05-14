@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12843217,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kahl am Main",
+                                "postalCode": "63796",
+                                "street1": "1 Bruchgraben"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6188900370"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Peter Fuchs Logistik GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.fuchs-logistik.de"
+            }
+        ]
+    }
+}

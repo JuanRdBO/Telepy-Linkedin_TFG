@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12451180,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Arnsberg",
+                                "postalCode": "59759",
+                                "street1": "49 Heinrich-L\u00fcbke-Stra\u00dfe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Herbert Schmidt Leuchtenfabrik GmbH",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.schmidt-leuchten.com"
+            }
+        ]
+    }
+}

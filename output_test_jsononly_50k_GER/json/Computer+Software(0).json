@@ -1,0 +1,54 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 31339,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 11606426,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stourbridge",
+                                "postalCode": "DY8 4BA",
+                                "street1": "146 Brettell Lane"
+                            },
+                            "contactInfo": {
+                                "phone1": "+44 1384392571"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Concord",
+                                "postalCode": "01742",
+                                "street1": "25 Commonwealth Ave"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Computer Software",
+                "numFollowers": 379,
+                "websiteUrl": "http://hrcomputing.co.uk"
+            }
+        ]
+    }
+}

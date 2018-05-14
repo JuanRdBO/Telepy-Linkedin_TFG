@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7542253,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Medlingen",
+                                "postalCode": "89441",
+                                "street1": "6 An Der Linde"
+                            },
+                            "contactInfo": {
+                                "phone1": "090733364"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Mayer Kurt Ger\u00fcstbau Holzbau",
+                "numFollowers": 0,
+                "websiteUrl": "mayer-holz-geruest.de"
+            }
+        ]
+    }
+}

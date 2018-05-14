@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12335013,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Niedereschach",
+                                "postalCode": "78078",
+                                "street1": "19 Johann-Liesenberger-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 77286455"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "MED ORG Alexander Reichert GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.medundorg.de"
+            }
+        ]
+    }
+}

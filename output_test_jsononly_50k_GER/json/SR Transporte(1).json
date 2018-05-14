@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 51,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1980,
+                "id": 2664965,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "92",
+                            "name": "Transporte por carretera o ferrocarril"
+                        }
+                    ]
+                },
+                "name": "RTE Rodonaves",
+                "numFollowers": 10096,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Transporte",
+                        "Carga Fracionada",
+                        "Carga Dedicada",
+                        "Solu\u00e7\u00f5es em Transporte"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.rte.com.br"
+            }
+        ]
+    }
+}

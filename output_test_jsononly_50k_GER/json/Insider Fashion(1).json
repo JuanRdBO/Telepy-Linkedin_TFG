@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 224,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 2007,
+                "id": 167354,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10016",
+                                "street1": "2 Park Ave"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+1 877 445 8692"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gilt.com",
+                "numFollowers": 62902,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Digital Retail",
+                        "Retail",
+                        "Fashion",
+                        "Digital Merchandise",
+                        "E-boutique"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "GiltGroupe",
+                "websiteUrl": "http://www.gilt.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 32,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1995,
+                "id": 1650821,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Jundia\u00ed",
+                                "postalCode": "",
+                                "street1": "Rua Hilda Del Nero Bisquolo"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(11) 4522-5770"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Joinville",
+                                "postalCode": "89202200",
+                                "street1": "Rua S\u00e3o Paulo, 31 - Bucarein"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(47) 3801-1752"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Rio de Janeiro",
+                                "postalCode": "20040030",
+                                "street1": "Rua do Ouvidor, 130 sala 821 -  Centro"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(21) 3173-7755"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Humanus Tecnologia para Gest\u00e3o de Pessoas",
+                "numFollowers": 1953,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Folha de Pagamento",
+                        "eSocial",
+                        "Ponto Eletr\u00f4nico",
+                        "Cargos e Sal\u00e1rios",
+                        "Or\u00e7amento e Controle de Pessoal",
+                        "Recrutamento e Sele\u00e7\u00e3o",
+                        "Indicadores de RH",
+                        "Treinamento e Desenvolvimento",
+                        "Sa\u00fade Ocupacional",
+                        "Avalia\u00e7\u00e3o de Desempenho",
+                        "Portal RH",
+                        "Processos Trabalhistas"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "human_us",
+                "websiteUrl": "www.humanus.net.br"
+            }
+        ]
+    }
+}

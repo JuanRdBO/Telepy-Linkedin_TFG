@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2010,
+                "id": 2081694,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10178",
+                                "street1": "Poststr. 12"
+                            },
+                            "contactInfo": {
+                                "fax": "+4930202155511",
+                                "phone1": "+493020215550"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Ludwig & Braun Rechtsanwaltsgesellschaft mbH",
+                "numFollowers": 13,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Property Law",
+                        "Tax Law",
+                        "Corporate Law",
+                        "International Law"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.lblex.de"
+            }
+        ]
+    }
+}

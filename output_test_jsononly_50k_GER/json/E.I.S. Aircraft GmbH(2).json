@@ -1,0 +1,61 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2016,
+                "id": 27109073,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "52",
+                            "name": "Industria aeroespacial y aviaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Baden-Baden",
+                                "postalCode": "76530",
+                                "street1": "Lichtentalerstr.  14"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hybrid-Airplane Technologies GmbH",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Luft- und Raumfahrttechnik",
+                        "Softwareentwicklung",
+                        "Ultraleichtbau",
+                        "CAE (CAD & CFD)",
+                        "Prototypenbau"
+                    ]
+                },
+                "websiteUrl": "http://www.hybrid-airplane.com"
+            }
+        ]
+    }
+}

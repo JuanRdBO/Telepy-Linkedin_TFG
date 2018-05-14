@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 22,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1991,
+                "id": 3561170,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Darmstadt",
+                                "postalCode": "64295",
+                                "street1": "Mina-Rees-Stra\u00dfe 5A"
+                            },
+                            "contactInfo": {
+                                "fax": "+ 49 6151 397690 200",
+                                "phone1": "+ 49 6151 397690 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "K\u00fchne BSB GmbH",
+                "numFollowers": 84,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "F\u00f6rdertechnik",
+                        "Kranbau",
+                        "Maschinenbau",
+                        "Anlagenbau",
+                        "Anlagenbau",
+                        "Fliegende Bauten",
+                        "Betriebsfestigkeit",
+                        "Dynamik",
+                        "KRASTA",
+                        "Finite Elemente Analyse"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.kuehne-bsb.de"
+            }
+        ]
+    }
+}

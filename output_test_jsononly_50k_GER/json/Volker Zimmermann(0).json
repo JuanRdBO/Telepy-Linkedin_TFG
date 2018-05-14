@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12792360,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Murr",
+                                "postalCode": "71711",
+                                "street1": "50 Hindenburgstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 714425605"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Raumausstattung Volker Zimmermann",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.raumausstattung-zimmermann.com"
+            }
+        ]
+    }
+}

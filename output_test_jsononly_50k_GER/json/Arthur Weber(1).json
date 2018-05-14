@@ -1,0 +1,120 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1868,
+                "id": 18346017,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "49",
+                            "name": "Materiales de construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 7,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Seewen",
+                                "postalCode": "6423",
+                                "street1": "Wintersried 7"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Schattdorf",
+                                "postalCode": "6467",
+                                "street1": "Milit\u00e4rstrasse 10"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "K\u00fcssnacht",
+                                "postalCode": "6403",
+                                "street1": "Chli Ebnet 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Lachen",
+                                "postalCode": "8853",
+                                "street1": "Feldmoosstrasse 51"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Einsiedeln",
+                                "postalCode": "8840",
+                                "street1": "Langr\u00fctistrasse 43"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Steinhausen",
+                                "postalCode": "6312",
+                                "street1": "Industriestrasse 57b"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Jona",
+                                "postalCode": "8645",
+                                "street1": "Buechstrasse 27"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Arthur Weber AG",
+                "numFollowers": 19,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Sicherheitstechnik",
+                        "Haustechnik",
+                        "Handwerkerzentren",
+                        "Arbeitsschutz",
+                        "Bautechnik",
+                        "Stahltechnik",
+                        "Energietechnik",
+                        "Spenglerei"
+                    ]
+                },
+                "websiteUrl": "www.arthurweber.ch"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1988,
+                "id": 1462779,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "51",
+                            "name": "Ingenier\u00eda civil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Suffern",
+                                "postalCode": "10901",
+                                "street1": "2 Executive Boulevard"
+                            },
+                            "contactInfo": {
+                                "fax": "845-368-3366",
+                                "phone1": "845-368-3330"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Geiger Engineers",
+                "numFollowers": 85,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "tensile membrane structures",
+                        "long-span roof structures",
+                        "sports facilities",
+                        "entertainment and theater specialty structures"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.geigerengineers.com/"
+            }
+        ]
+    }
+}

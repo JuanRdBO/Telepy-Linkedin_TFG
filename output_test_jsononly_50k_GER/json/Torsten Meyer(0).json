@@ -1,0 +1,54 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 27090733,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "32",
+                            "name": "Restaurantes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f8benhavn K",
+                                "postalCode": "1058",
+                                "street1": "Havnegade 44"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Restaurant STUDIO",
+                "numFollowers": 10,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Gastronomi"
+                    ]
+                },
+                "websiteUrl": "www.thestandardcph.dk"
+            }
+        ]
+    }
+}

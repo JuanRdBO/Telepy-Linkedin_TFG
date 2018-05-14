@@ -1,0 +1,98 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2003,
+                "id": 29837,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "104",
+                            "name": "Dotaci\u00f3n y selecci\u00f3n de personal"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f8benhavn",
+                                "street1": "Stamholmen 151"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Aalborg",
+                                "street1": "Skelagervej 375E"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "\u00c5rhus",
+                                "postalCode": "8000",
+                                "street1": "Marselis Tv\u00e6rvej 4"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Hvidovre",
+                                "postalCode": "2650",
+                                "street1": "Stamholmen 157"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Unique Human Capital",
+                "numFollowers": 3735,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Executive Search",
+                        "Board Search",
+                        "Search & Selection",
+                        "International Search",
+                        "Recruitment",
+                        "Executive Outplacement",
+                        "Talent Management & Assessment",
+                        "Career Development",
+                        "Assessment"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.uhc.dk"
+            }
+        ]
+    }
+}

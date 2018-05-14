@@ -1,0 +1,61 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 13,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 18058229,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Steinbach",
+                                "postalCode": "61449",
+                                "street1": "Obergasse 21"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "MultiBox Management GmbH",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "KingSize Garagen",
+                        "XXL Garagen",
+                        "Self Storage",
+                        "Lager",
+                        "Kapitalanlage",
+                        "Mieten & Kaufen"
+                    ]
+                },
+                "websiteUrl": "www.multibox-garagen.com"
+            }
+        ]
+    }
+}

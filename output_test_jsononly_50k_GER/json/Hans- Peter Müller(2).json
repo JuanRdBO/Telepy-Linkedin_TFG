@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12492390,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankenthal (Pfalz)",
+                                "postalCode": "67227",
+                                "street1": "Zuckerfabrikstra\u00dfe 2 A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6233299120"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hans-Peter M\u00fcller-Weisbrod",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.dr-mueller-weisbrod.de"
+            }
+        ]
+    }
+}

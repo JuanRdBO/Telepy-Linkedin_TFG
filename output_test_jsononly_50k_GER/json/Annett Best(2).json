@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2013,
+                "id": 1179436,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "22083",
+                                "street1": "Flotowstra\u00dfe 26A"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49-(0)40-3344 2456"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "AOSK | ANNETT OEDING STRATEGY & COMMUNICATION",
+                "numFollowers": 111,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Corporate Communication",
+                        "Strategy",
+                        "PR-Coaching",
+                        "Supervision",
+                        "Employer Branding",
+                        "Positioning",
+                        "Public Relations"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.aosk.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7573404,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Holzheim",
+                                "postalCode": "86684",
+                                "street1": "1 Gartenweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "08276589319"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schreinerei G\u00fcnther Schmid GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "schreinerei-gschmid.de"
+            }
+        ]
+    }
+}

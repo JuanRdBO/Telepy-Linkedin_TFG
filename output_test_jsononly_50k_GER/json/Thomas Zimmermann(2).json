@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 17,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12674211,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "R\u00f6dermark",
+                                "postalCode": "63322",
+                                "street1": "Mozartstra\u00dfe 14A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 1705756271"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Zimmermann Immobilienmanagement",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.tz-immobilienmanagement.de"
+            }
+        ]
+    }
+}

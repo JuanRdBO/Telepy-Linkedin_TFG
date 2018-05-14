@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 419,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12761828,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "104",
+                            "name": "Dotaci\u00f3n y selecci\u00f3n de personal"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Saarlouis",
+                                "postalCode": "66740",
+                                "street1": "4 Oberf\u00f6rstereistra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6831761670"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Personaldienstleistungen GmbH",
+                "numFollowers": 5,
+                "websiteUrl": "http://www.hspersonaldienstleistungen.de"
+            }
+        ]
+    }
+}

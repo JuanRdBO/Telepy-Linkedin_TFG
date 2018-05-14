@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7411130,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamminkeln-Dingden",
+                                "postalCode": "46499",
+                                "street1": "15 Zum Tollberg"
+                            },
+                            "contactInfo": {
+                                "phone1": "02852960390"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Werner Schmitz",
+                "numFollowers": 0,
+                "websiteUrl": "schmitz-fenster.de"
+            }
+        ]
+    }
+}

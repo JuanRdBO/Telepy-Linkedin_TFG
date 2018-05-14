@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 1287,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1996,
+                "id": 1144031,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Alsdorf",
+                                "postalCode": "52477",
+                                "street1": "Carl-Zeiss-Strasse 5"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0240492100"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Anwaltskanzlei Ferner",
+                "numFollowers": 42,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Strafrecht (criminal defense)",
+                        "IT-Recht (IT-Law)",
+                        "Urheberrecht (copyright law)",
+                        "Wettbewerbsrecht (competition law)",
+                        "Arbeitsrecht (employment law)",
+                        "(IT-)Vertragsrecht & AGB-Recht (contract law)",
+                        "Domainrecht (domain law)",
+                        "Markenrecht (Intellectual property, IP)"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.ferner-alsdorf.de"
+            }
+        ]
+    }
+}

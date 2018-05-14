@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1964,
+                "id": 1551812,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Olpe",
+                                "postalCode": "57462",
+                                "street1": "In der W\u00fcste 16"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 2761-94550"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Neuhaus & Partner",
+                "numFollowers": 15,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Steuerberatung",
+                        "Managementberatung",
+                        "Verm\u00f6gensplanung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.neuhaus-partner.de"
+            }
+        ]
+    }
+}

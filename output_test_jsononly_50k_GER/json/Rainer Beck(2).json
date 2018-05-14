@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12490016,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80686",
+                                "street1": "17 Hansastra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 89574034"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Musikreisen Rainer J. Beck",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.musikreisen-beck.de"
+            }
+        ]
+    }
+}

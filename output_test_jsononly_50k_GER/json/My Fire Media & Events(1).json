@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "id": 18403671,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "105",
+                            "name": "Formaci\u00f3n profesional"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lincolnshire",
+                                "postalCode": "PE12 ",
+                                "street1": "Spalding"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Taz Thornton",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 24,
+                    "values": [
+                        "Public speaking",
+                        "Visibility",
+                        "Coaching",
+                        "NLP",
+                        "Enterprise mentoring",
+                        "Empowerment",
+                        "Speaker training",
+                        "Personal brand",
+                        "Keynote speaker",
+                        "Published author",
+                        "Social media",
+                        "Presentation skills",
+                        "Corporate communication",
+                        "Team cohesion",
+                        "Mind, Body, Spirit",
+                        "Confidence",
+                        "Team building",
+                        "Motivational speaker",
+                        "Public Relations",
+                        "Brand development",
+                        "Publishing",
+                        "Digital publishing",
+                        "Vlogging",
+                        "Confidence coaching"
+                    ]
+                },
+                "websiteUrl": "www.TazThornton.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 31,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1989,
+                "id": 2675582,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wei\u00dfenfels",
+                                "postalCode": "06667",
+                                "street1": "Lassalleweg 51"
+                            },
+                            "contactInfo": {
+                                "fax": "03443 - 393010",
+                                "phone1": "03443 - 39300"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Andreas Schmidt D\u00e4cher & Fassaden GmbH",
+                "numFollowers": 31,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Dachabdichtungen",
+                        "Dacheindeckung",
+                        "Fassadenbau",
+                        "Erneuerbare Energien"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.asdach.de"
+            }
+        ]
+    }
+}

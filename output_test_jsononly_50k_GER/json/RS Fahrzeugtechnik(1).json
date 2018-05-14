@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12371486,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bautzen",
+                                "postalCode": "02625",
+                                "street1": "17 K\u00e4the- Kollwitz- Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3591384838"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rs-tunes Fahrzeugtechnik",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.rs-tunes.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 26,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2000,
+                "id": 10517106,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lima",
+                                "postalCode": "25",
+                                "street1": "Calle 1 N\u00b0 110"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "941523897"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "H&P Consultoria de Procesos",
+                "numFollowers": 15,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Gestion de Procesos",
+                        "Sistema de Gestion de la Calidad",
+                        "Gestion de Riesgos",
+                        "Auditoria Administrativa y Gestion de la Calidad"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.hpprocesos.com"
+            }
+        ]
+    }
+}

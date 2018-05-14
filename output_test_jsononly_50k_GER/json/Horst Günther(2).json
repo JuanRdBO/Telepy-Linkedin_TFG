@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12188126,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Schwielowsee",
+                                "postalCode": "14548",
+                                "street1": "1 Glindower Weg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3031828205"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Horst-Peter G\u00fcnther",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.makler-guenther.de"
+            }
+        ]
+    }
+}

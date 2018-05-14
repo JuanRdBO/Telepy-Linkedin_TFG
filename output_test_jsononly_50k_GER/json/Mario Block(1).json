@@ -1,0 +1,52 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2003,
+                "id": 5097580,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "115",
+                            "name": "M\u00fasica"
+                        }
+                    ]
+                },
+                "name": "3A Entertainment",
+                "numFollowers": 346,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Concert promoter",
+                        "Festivals",
+                        "Tour production",
+                        "Tour marketing",
+                        "Tour ticketing",
+                        "Events"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.3AEntertainment.co.uk"
+            }
+        ]
+    }
+}

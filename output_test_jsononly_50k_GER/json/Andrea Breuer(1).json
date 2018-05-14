@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12212831,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20148",
+                                "street1": "Rothenbaumchaussee 76E"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 4042948989"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "K\u00f6rperpsychotherapie Andrea Breuer",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.koerper-psychotherapie.hamburg"
+            }
+        ]
+    }
+}

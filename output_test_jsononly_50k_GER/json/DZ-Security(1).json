@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 13,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1971,
+                "id": 126000,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "117",
+                            "name": "Pl\u00e1sticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bangsaothong",
+                                "postalCode": "10540",
+                                "street1": "139 Bangplee Industrial Estate"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+66 2705 1939"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "dz card (International) Ltd.",
+                "numFollowers": 997,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Plastic Card Manufacturer",
+                        "Smart Cards",
+                        "Loyalty Cards",
+                        "Member Cards",
+                        "SIM Cards",
+                        "Gift Cards",
+                        "Scratch Cards",
+                        "Near Field Communications"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.dzcard.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 54,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12481801,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Herne",
+                                "postalCode": "44652",
+                                "street1": "11 Mindener Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 23259689946"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Putz-Stuck-Trockenbau Michael Wiegand",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.trockenbauwiegand.de"
+            }
+        ]
+    }
+}

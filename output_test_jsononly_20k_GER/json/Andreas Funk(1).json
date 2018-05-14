@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2000,
+                "id": 6994774,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dresden",
+                                "postalCode": "01219",
+                                "street1": "Wiener Stra\u00dfe 80b"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "nubix Software-Design GmbH",
+                "numFollowers": 7,
+                "specialties": {
+                    "_total": 16,
+                    "values": [
+                        "wireless network",
+                        "Sensor-Funk-Netzwerk",
+                        "sensor radio network",
+                        "Softwareentwicklung",
+                        "App Entwicklung",
+                        "Automotive",
+                        "mobile Anwendungen",
+                        "mobile applications",
+                        "softwaredesign",
+                        "Certified Scrum Developer",
+                        "Oracle Certified Professional Java Programmer",
+                        "Oracle Certified Professional Java Developer",
+                        "Oracle Certified Master Java Enterprise Architect",
+                        "Oracle Warehouse Builder ",
+                        "Microsoft Certified Professional",
+                        "ON Command CCM Spezialist"
+                    ]
+                },
+                "websiteUrl": "nubix.de"
+            }
+        ]
+    }
+}

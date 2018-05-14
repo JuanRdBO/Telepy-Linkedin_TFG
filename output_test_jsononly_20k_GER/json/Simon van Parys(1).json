@@ -1,0 +1,43 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 23128745,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "63",
+                            "name": "Agricultura"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Perwez",
+                                "postalCode": "1360",
+                                "street1": "50 Chauss\u00e9e de Wavre"
+                            },
+                            "contactInfo": {
+                                "phone1": "+32 472388207"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "VAN PARYS GABRIEL & VAN PARYS SIMON ADF",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

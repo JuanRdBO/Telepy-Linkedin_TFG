@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 113,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1981,
+                "id": 10889139,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "88",
+                            "name": "Servicios para el individuo y la familia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80333",
+                                "street1": "Brienner Stra\u00dfe 46"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "089 38397978"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Addis Abeba",
+                                "postalCode": "P.O. Box 2568",
+                                "street1": "Bole Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Stiftung Menschen f\u00fcr Menschen Karlheinz B\u00f6hms \u00c4thiopienhilfe",
+                "numFollowers": 38,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Entwicklungszusammenarbeit",
+                        "Fundraising"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.menschenfuermenschen.org"
+            }
+        ]
+    }
+}

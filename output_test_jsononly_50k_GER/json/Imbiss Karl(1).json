@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12706304,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dassel",
+                                "postalCode": "37586",
+                                "street1": "59 Sollingtor"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 55648925"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Karl Schwerdtfeger",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.fleischerei-schwerdtfeger.de"
+            }
+        ]
+    }
+}

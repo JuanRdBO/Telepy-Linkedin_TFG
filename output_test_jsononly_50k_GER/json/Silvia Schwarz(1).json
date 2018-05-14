@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12386108,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10319",
+                                "street1": "30 Volkradstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 305125133"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Salon Silvia Schwarz",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.friseur-schwarz.de"
+            }
+        ]
+    }
+}

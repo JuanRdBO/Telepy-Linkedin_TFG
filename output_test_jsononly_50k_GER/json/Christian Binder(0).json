@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1971,
+                "id": 1914800,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "83",
+                            "name": "Imprenta"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Warren",
+                                "postalCode": "48089",
+                                "street1": "21950 Hoover"
+                            },
+                            "contactInfo": {
+                                "fax": "586-757-4181",
+                                "phone1": "586-757-5005"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "The John Christian Company",
+                "numFollowers": 22,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "binding",
+                        "binders",
+                        "diecutting",
+                        "uv coating",
+                        "embossing",
+                        "packaging",
+                        "point of purchase display"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.johnchristian.com"
+            }
+        ]
+    }
+}

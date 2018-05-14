@@ -1,0 +1,62 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 1306,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2016,
+                "id": 13606159,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Shanghai ",
+                                "postalCode": "200000",
+                                "street1": "129 Datian Road "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "SSi ",
+                "numFollowers": 16,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Education",
+                        "Study Abroad",
+                        "Sustainability ",
+                        "Environment ",
+                        "Adventure ",
+                        "Internships"
+                    ]
+                },
+                "websiteUrl": "http://ssisustainability.com/"
+            }
+        ]
+    }
+}

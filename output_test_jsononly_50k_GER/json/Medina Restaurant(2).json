@@ -1,0 +1,90 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 27,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 2007,
+                "id": 2274470,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "94",
+                            "name": "Aeron\u00e1utica/Aviaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Inwood",
+                                "postalCode": "11096",
+                                "street1": "45 Rason Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Oxford",
+                                "postalCode": "06478",
+                                "street1": "7 Juliano Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "2032640692"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "121 Inflight Catering",
+                "numFollowers": 2376,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Customer Service",
+                        "Hospitality",
+                        "Western Cuisine",
+                        "Halal Cuisine",
+                        "Japanese Cuisine",
+                        "Indian Cuisine",
+                        "Private aviation catering",
+                        "Commercial airline catering",
+                        "Business & Industry Service",
+                        "Airport Lounges",
+                        "Private event catering",
+                        "Laundry Service",
+                        "Dietary Restriction Catering"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://121inflight.com/"
+            }
+        ]
+    }
+}

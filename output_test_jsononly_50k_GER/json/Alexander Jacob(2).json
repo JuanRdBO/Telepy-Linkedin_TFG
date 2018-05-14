@@ -1,0 +1,38 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 16,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 15480176,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "SEATTLE",
+                                "postalCode": "98108",
+                                "street1": "612 S LUCILE ST"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 2068906960"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "JACOB ALEXANDER HOMES LLC",
+                "numFollowers": 1
+            }
+        ]
+    }
+}

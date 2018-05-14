@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12891124,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "142",
+                            "name": "Vino y licor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Steinweiler",
+                                "postalCode": "76872",
+                                "street1": "1 Obergasse"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6349929410"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Weingut Frank Bohlender",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.weingut-bohlender.de"
+            }
+        ]
+    }
+}

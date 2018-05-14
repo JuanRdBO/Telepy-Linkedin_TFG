@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 244,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2016,
+                "id": 27099627,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "North Kansas City",
+                                "postalCode": "64116",
+                                "street1": "1761 Burlington "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Chicken N Pickle",
+                "numFollowers": 25,
+                "specialties": {
+                    "_total": 21,
+                    "values": [
+                        "Pickleball",
+                        "Corporate Events ",
+                        "Team Builders",
+                        "Tournaments",
+                        "Local Produce",
+                        "Live Entertainment",
+                        "Watch Parties",
+                        "Craft Beer",
+                        "Happy Hours",
+                        "Special Occasions",
+                        "Executive Chef",
+                        "Professional Event Planners",
+                        "Customer Appreciation",
+                        "Networking",
+                        "Events",
+                        "Charity ",
+                        "Local",
+                        "Games",
+                        "Sports",
+                        "Family Entertainment ",
+                        "Dog-Friendly "
+                    ]
+                },
+                "websiteUrl": "www.chickennpickle.com"
+            }
+        ]
+    }
+}

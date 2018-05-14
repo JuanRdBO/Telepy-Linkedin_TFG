@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7351945,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "136",
+                            "name": "Fotograf\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Magdeburg",
+                                "postalCode": "39114",
+                                "street1": "8 An Der \u00d6lm\u00fchle"
+                            },
+                            "contactInfo": {
+                                "phone1": "03918868392"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Michael Kranz - Fotografie",
+                "numFollowers": 0,
+                "websiteUrl": "michaelkranz-fotografie.de"
+            }
+        ]
+    }
+}

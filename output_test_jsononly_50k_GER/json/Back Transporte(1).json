@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 52,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2016,
+                "id": 10423870,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "87",
+                            "name": "Env\u00edo de paquetes y carga"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Madrid",
+                                "postalCode": "28014",
+                                "street1": "Carrera de San Jer\u00f3nimo, 15"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "OnTruck",
+                "numFollowers": 1713,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Transporte",
+                        "Log\u00edstica"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.ontruck.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2013,
+                "id": 3708935,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "121",
+                            "name": "Seguridad e investigaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Indianapolis",
+                                "postalCode": "46219",
+                                "street1": "2 Johnson Ave"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "317-775-0888"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "American Alarm Company",
+                "numFollowers": 20,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "sales@theamericanalarm.com"
+            }
+        ]
+    }
+}

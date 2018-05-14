@@ -1,0 +1,51 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 60,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1995,
+                "id": 5312669,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "name": "Lefran\u00e7ois Agence marketing B2B",
+                "numFollowers": 23,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "marketing b2b",
+                        "strat\u00e9gies m\u00e9dia",
+                        "publicit\u00e9",
+                        "Communication",
+                        "Design graphique"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.lefrancoismarketing.com"
+            }
+        ]
+    }
+}

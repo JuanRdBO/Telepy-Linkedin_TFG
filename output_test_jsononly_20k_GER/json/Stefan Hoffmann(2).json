@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2016,
+                "id": 11064961,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "23",
+                            "name": "Producci\u00f3n alimentaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Vienna",
+                                "postalCode": "1220",
+                                "street1": "Schafflerhofstra\u00dfe 156 Austria"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+43 1 7741333"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bl\u00fcn",
+                "numFollowers": 22,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Stefan Bauer, CEO",
+                        "Michael Berlin, Co-CEO",
+                        "Gregor Hoffmann, COO",
+                        "Bernhard Zehetbauer, CFO"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.bluen.at"
+            }
+        ]
+    }
+}

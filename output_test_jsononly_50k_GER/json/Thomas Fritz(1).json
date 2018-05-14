@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7351564,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "26",
+                            "name": "Mobiliario"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "\u00d6tzingen",
+                                "postalCode": "56244",
+                                "street1": "Malbergstra\u00dfe 9A"
+                            },
+                            "contactInfo": {
+                                "phone1": "02602934220"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Malerbetrieb Thomas Fritz",
+                "numFollowers": 0,
+                "websiteUrl": "fritz-malerbetrieb.de"
+            }
+        ]
+    }
+}

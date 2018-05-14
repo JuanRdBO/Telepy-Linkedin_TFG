@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 717,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "id": 2761,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "112",
+                            "name": "Manufactura el\u00e9ctrica y electr\u00f3nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Columbus",
+                                "postalCode": "43085",
+                                "street1": "1050 Dearborn Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+1 614 888 0246"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Emerson Network Power",
+                "numFollowers": 151113,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Thermal Management",
+                        "Service and Consulting",
+                        "Power Management",
+                        "IT Management",
+                        "Unified Infrastructure",
+                        "Software",
+                        "Data Center",
+                        "Communication Networks"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "http://twitter.com/#!/EmrsnNPDataCntr",
+                "websiteUrl": "www.EmersonNetworkPower.com"
+            }
+        ]
+    }
+}

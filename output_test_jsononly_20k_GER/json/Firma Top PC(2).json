@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1992,
+                "id": 10503070,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "112",
+                            "name": "Manufactura el\u00e9ctrica y electr\u00f3nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Praha 4 - Bran\u00edk",
+                                "postalCode": "142 00",
+                                "street1": "Novodvorsk\u00e1 994"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+420226772111"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ASICentrum spol. s r.o.",
+                "numFollowers": 99,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "n\u00e1vrh integrovan\u00fdch obvod\u016f",
+                        "v\u00fdvoj embedded software"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.asicentrum.cz"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 11,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2015,
+                "id": 10295222,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "118",
+                            "name": "Seguridad del ordenador y de las redes"
+                        }
+                    ]
+                },
+                "name": "Van Den Hoff Informatiebeveiliging",
+                "numFollowers": 2,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.vandenhoff.consulting"
+            }
+        ]
+    }
+}

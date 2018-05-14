@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2008,
+                "id": 7522837,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Meerbusch",
+                                "postalCode": "40667",
+                                "street1": "Witzfeldstra\u00dfe 47B"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "02132759075"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Personal Trainer Wolf",
+                "numFollowers": 41,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Personal Training 1: 1 | Fitness | TRX-Training",
+                        "Food Coaching",
+                        "Mitarbeitermotivation  | employee motivation",
+                        "Manager-Fitness | Company-Fitness"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "personaltrainer-wolf.de"
+            }
+        ]
+    }
+}

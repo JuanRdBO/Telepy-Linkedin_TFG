@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1936,
+                "id": 7315467,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "26",
+                            "name": "Mobiliario"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kippenheim",
+                                "postalCode": "77971",
+                                "street1": "Kippenheimer Str. 6"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hiller Objektm\u00f6bel GmbH",
+                "numFollowers": 16,
+                "specialties": {
+                    "_total": 21,
+                    "values": [
+                        "M\u00f6bel",
+                        "Stapelst\u00fchle",
+                        "St\u00fchle",
+                        "Klapptische",
+                        "Tische",
+                        "Stehtische",
+                        "Sonderm\u00f6bel",
+                        "Individueller M\u00f6belbau",
+                        "Reihenst\u00fchle",
+                        "Innenausbau",
+                        "Hallenst\u00fchle",
+                        "Veranstaltungsst\u00fchle",
+                        "Objektm\u00f6bel",
+                        "Officeeinrichtung",
+                        "B\u00fcrom\u00f6bel",
+                        "Designst\u00fchle",
+                        "Designm\u00f6bel",
+                        "Design",
+                        "Sitzm\u00f6bel",
+                        "Loungem\u00f6bel",
+                        "Lobbym\u00f6bel"
+                    ]
+                },
+                "websiteUrl": "hiller-moebel.de"
+            }
+        ]
+    }
+}

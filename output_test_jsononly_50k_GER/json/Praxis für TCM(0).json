@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12425616,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "125",
+                            "name": "Medicina alternativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mechernich",
+                                "postalCode": "53894",
+                                "street1": "42 An Der Barbarakapelle"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Praxis F\u00fcr TCM Und Osteopathie",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.tcm-osteopathie-kurpgoweit.de"
+            }
+        ]
+    }
+}

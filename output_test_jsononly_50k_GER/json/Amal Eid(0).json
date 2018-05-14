@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2014,
+                "id": 10329626,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "82",
+                            "name": "Publicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Cambridge",
+                                "postalCode": "",
+                                "street1": "Massachusetts Ave."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "San Francisco",
+                                "postalCode": "",
+                                "street1": "Maine St."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Bharat Babies",
+                "numFollowers": 34,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Children's Books",
+                        "Diverse Children's Books",
+                        "Multicultural Media",
+                        "Indian Culture"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.bharatbabies.com"
+            }
+        ]
+    }
+}

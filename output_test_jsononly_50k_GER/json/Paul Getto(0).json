@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1984,
+                "id": 702002,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "89",
+                            "name": "Instituciones religiosas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Roma",
+                                "postalCode": "00186",
+                                "street1": "Piazza di Sant'Apollinare, 49"
+                            },
+                            "contactInfo": {
+                                "fax": "00390668164400",
+                                "phone1": "003906681641"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Roma",
+                                "postalCode": "00186",
+                                "street1": "Via dei Farnesi, 83"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "00390668164500"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Pontificia Universit\u00e0 della Santa Croce",
+                "numFollowers": 2447,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Teologia",
+                        "Diritto Canonico",
+                        "Filosofia",
+                        "Comunicazione Sociale Istituzionale",
+                        "Scienze Religiose"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.pusc.it"
+            }
+        ]
+    }
+}

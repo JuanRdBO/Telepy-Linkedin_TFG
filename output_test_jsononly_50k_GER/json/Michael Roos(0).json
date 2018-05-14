@@ -1,0 +1,37 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 15745757,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "SEATTLE",
+                                "postalCode": "98125",
+                                "street1": "13701 42ND AVE NE"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "MICHAEL ROOS FOUNDATION",
+                "numFollowers": 0,
+                "websiteUrl": "http://michaelroosfoundation.org"
+            }
+        ]
+    }
+}

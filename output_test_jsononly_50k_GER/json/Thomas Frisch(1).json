@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12779689,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kleinmachnow",
+                                "postalCode": "14532",
+                                "street1": "4 Adolf-Grimme-Ring"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Blumen Kleinmachnow",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.blumen-kleinmachnow.de"
+            }
+        ]
+    }
+}

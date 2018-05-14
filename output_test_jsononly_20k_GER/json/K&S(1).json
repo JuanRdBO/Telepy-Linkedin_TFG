@@ -1,0 +1,102 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 26447,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1986,
+                "id": 3555117,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "104",
+                            "name": "Dotaci\u00f3n y selecci\u00f3n de personal"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "75017",
+                                "street1": "82-86 boulevard des batignolles"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "01 42 60 93 59"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Lille",
+                                "postalCode": "59800",
+                                "street1": "6 Rue Jean Roisin"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "03 28 38 97 27"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Nice",
+                                "postalCode": "06200",
+                                "street1": "455 promenade des anglais"
+                            },
+                            "contactInfo": {
+                                "fax": "04 92 01 10 11",
+                                "phone1": "04 92 01 10 10"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "KS",
+                "numFollowers": 2618,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Interim",
+                        "Prestation de Service",
+                        "Mode",
+                        "Luxe",
+                        "Retail",
+                        "Beaut\u00e9",
+                        "Cosm\u00e9tique",
+                        "RH",
+                        "Recrutement",
+                        "Promotion des ventes",
+                        "street marketing",
+                        "Animation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://ks-groupe.com/"
+            }
+        ]
+    }
+}

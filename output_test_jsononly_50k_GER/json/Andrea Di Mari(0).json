@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2014,
+                "id": 5340919,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Roma",
+                                "postalCode": "00153",
+                                "street1": "via Cesare Pascarella, 12"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Numerica Risk",
+                "numFollowers": 130,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Attuariato per le assicurazioni",
+                        "Solvency II",
+                        "Attuariato per la previdenza",
+                        "Gestione amministrativa e finanziaria per la previdenza",
+                        "Merger & Acquisition",
+                        "Enterprise Risk Management",
+                        "Principi Contabili Internazionali IAS/IFRS",
+                        "Finanza quantitativa"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.numericarisk.it"
+            }
+        ]
+    }
+}

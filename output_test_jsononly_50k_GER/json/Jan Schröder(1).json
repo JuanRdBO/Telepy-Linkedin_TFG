@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12814848,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10117",
+                                "street1": "65 Charlottenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 30408173"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": ". Jan Schr\u00f6der Beratung",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.jan-schroeder-beratung.de"
+            }
+        ]
+    }
+}

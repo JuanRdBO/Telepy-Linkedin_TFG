@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12487439,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pforzheim",
+                                "postalCode": "75172",
+                                "street1": "26 Am Waisenhauspl."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 72314436357"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Praxis Wolfgang Fritz Pforzheim",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.praxis-wolfgang-fritz.de"
+            }
+        ]
+    }
+}

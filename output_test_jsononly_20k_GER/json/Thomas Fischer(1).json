@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 34,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7406112,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Aschaffenburg",
+                                "postalCode": "63739",
+                                "street1": "9 Treibgasse"
+                            },
+                            "contactInfo": {
+                                "phone1": "0602126477"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Fischer Briefmarken-Klotz",
+                "numFollowers": 2,
+                "websiteUrl": "scandia-briefmarken.de"
+            }
+        ]
+    }
+}

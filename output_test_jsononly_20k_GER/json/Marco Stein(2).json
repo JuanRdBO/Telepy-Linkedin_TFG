@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1985,
+                "id": 4840715,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bernardsville",
+                                "postalCode": "07924",
+                                "street1": "12 Mine Brook Road"
+                            },
+                            "contactInfo": {
+                                "fax": "(908) 766-4808",
+                                "phone1": "(908) 766-4700"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Diamond Dream Fine Jewelers",
+                "numFollowers": 98,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Luxury Jewelry",
+                        "Services and Repairs",
+                        "Custom Jewelry",
+                        "Appraisals",
+                        "Watches and Timepieces"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.diamonddreamjewelers.com/"
+            }
+        ]
+    }
+}

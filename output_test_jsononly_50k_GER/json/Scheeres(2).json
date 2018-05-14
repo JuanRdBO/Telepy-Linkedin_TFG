@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 25084889,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "25",
+                            "name": "Art\u00edculos de consumo"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "APELDOORN",
+                                "postalCode": "7324BA",
+                                "street1": "Boogschutterstraat 40"
+                            },
+                            "contactInfo": {
+                                "phone1": "+31 553689549"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Scheeres Handelmaatschappij B.V.",
+                "numFollowers": 2,
+                "websiteUrl": "www.scheeres.nl"
+            }
+        ]
+    }
+}

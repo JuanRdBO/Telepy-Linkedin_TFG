@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7445203,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "F\u00f6hren",
+                                "postalCode": "54343",
+                                "street1": "1 Burgweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "065021516"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schmitt Karl Heinz",
+                "numFollowers": 0,
+                "websiteUrl": "cssf.de"
+            }
+        ]
+    }
+}

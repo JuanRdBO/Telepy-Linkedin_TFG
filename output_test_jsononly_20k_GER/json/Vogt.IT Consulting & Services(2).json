@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 11573644,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sheffield Beach",
+                                "postalCode": "4391",
+                                "street1": "16 Colwyn Dr"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Hillcrest",
+                                "postalCode": "3650",
+                                "street1": "36 Westriding Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Vogt Consulting Electrical Engineers",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Electrical Engineering",
+                        "Electronic Engineering"
+                    ]
+                },
+                "websiteUrl": "https://www.vogtconsulting.co.za/"
+            }
+        ]
+    }
+}

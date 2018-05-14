@@ -1,0 +1,47 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 80,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 1913,
+                "id": 2176643,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "141",
+                            "name": "Desarrollo y comercio internacional"
+                        }
+                    ]
+                },
+                "name": "ESCHENBACH OPTIK FRANCE",
+                "numFollowers": 90,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Optics (frames, sunglasses, low vision equipment)"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.eschenbach-optik.com"
+            }
+        ]
+    }
+}

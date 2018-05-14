@@ -1,0 +1,108 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2004,
+                "id": 2645004,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "8",
+                            "name": "Telecomunicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Flensburg",
+                                "postalCode": "24941",
+                                "street1": "Lise-Meitner-Str 4"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 (0) 461 66 280-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10785",
+                                "street1": "Linkstr. 2"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 30 72 62 97-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bonn",
+                                "postalCode": "53227",
+                                "street1": "Konrad-Zuse-Platz 5"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 800 444 54 54"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "22769",
+                                "street1": "Haferweg 38"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 800 444 54 54"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "net group Beteiligungen GmbH & Co. KG",
+                "numFollowers": 88,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Telekommunikation",
+                        "Breitband-Internet",
+                        "Mehrwertdienste",
+                        "IPTV",
+                        "L\u00f6sungen f\u00fcr Contact Center",
+                        "Business Process Outsourcing",
+                        "Payment Clearing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.netgroup-beteiligungen.de"
+            }
+        ]
+    }
+}

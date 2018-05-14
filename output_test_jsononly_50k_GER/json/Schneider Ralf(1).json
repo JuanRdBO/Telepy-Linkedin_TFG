@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 11,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1994,
+                "id": 2307898,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Moscow",
+                                "postalCode": "105120",
+                                "street1": "3/9, 3-rd Syromiatnichesky per."
+                            },
+                            "contactInfo": {
+                                "fax": "+7 (495) 723-7277",
+                                "phone1": "+7 (495) 723-7227"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Saint-Petersburg",
+                                "postalCode": "191002",
+                                "street1": "5, Raz'yezzhaya street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+ 7 (812) 324 3393"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "UTS",
+                "numFollowers": 2326,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Business Travel",
+                        "MICE",
+                        "Accommodation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.utstravel.ru"
+            }
+        ]
+    }
+}

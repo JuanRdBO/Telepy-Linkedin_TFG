@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2001,
+                "id": 1192321,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "63",
+                            "name": "Agricultura"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gualala",
+                                "postalCode": "95445",
+                                "street1": "P.O. Box 339"
+                            },
+                            "contactInfo": {
+                                "fax": "(707) 884-9640",
+                                "phone1": "(707) 884-9640"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Red Dog Ranch",
+                "numFollowers": 20,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Organic Produce",
+                        "Organic Lamb",
+                        "Ranch Rub"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.RedDogRanch.com"
+            }
+        ]
+    }
+}

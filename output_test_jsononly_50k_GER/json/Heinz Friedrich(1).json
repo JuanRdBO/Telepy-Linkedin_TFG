@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12431322,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "L\u00fcneburg",
+                                "postalCode": "21337",
+                                "street1": "3 Sophia-von-Bodendike-Platz"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 413136227"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Heinz Friedrich Meyer",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.heinz-friedrich-meyer-stiftung.de"
+            }
+        ]
+    }
+}

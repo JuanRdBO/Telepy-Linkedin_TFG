@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 231,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1949,
+                "id": 1045277,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "54",
+                            "name": "Productos qu\u00edmicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sentmenat",
+                                "postalCode": "08181",
+                                "street1": "Gato P\u00e9rez, 33"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+34 93 745 64 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Scharlab,S.L.",
+                "numFollowers": 3590,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "chemicals",
+                        "sales",
+                        "commercial",
+                        "material",
+                        "laboratory",
+                        "microbiology",
+                        "chromatography",
+                        "safety",
+                        "hygiene",
+                        "equipment",
+                        "scharlau",
+                        "culture media",
+                        "solvents"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.scharlab.com"
+            }
+        ]
+    }
+}

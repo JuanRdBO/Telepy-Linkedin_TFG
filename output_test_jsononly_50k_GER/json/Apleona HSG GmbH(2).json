@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2005,
+                "id": 3220183,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "33",
+                            "name": "Deportes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60528",
+                                "street1": "M\u00f6rfelder Landstra\u00dfe 362"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 (0)69 - 23 80 80 121"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Stadion Frankfurt Management GmbH - Betreibergesellschaft der Commerzbank-Arena",
+                "numFollowers": 142,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Sporteinrichtung",
+                        "Veranstaltungslocation",
+                        "Multifunktions-Arena",
+                        "Events",
+                        "Sportveranstaltungen",
+                        "Konzerte",
+                        "Kongresse",
+                        "Event-Location",
+                        "Stadion",
+                        "Tagungen",
+                        "Konzertvenue"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.commerzbank-arena.de"
+            }
+        ]
+    }
+}

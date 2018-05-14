@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12829950,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "88",
+                            "name": "Servicios para el individuo y la familia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "N\u00fcrnberg",
+                                "postalCode": "90482",
+                                "street1": "5 M\u00f6geldorfer Hauptstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 9115978878"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Pflegedienst Regenbogen GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.regenbogen-pflegedienst.de"
+            }
+        ]
+    }
+}

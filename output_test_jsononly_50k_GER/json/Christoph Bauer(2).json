@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7370362,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Weilheim in Oberbayern",
+                                "postalCode": "82362",
+                                "street1": "2 Oberer Graben"
+                            },
+                            "contactInfo": {
+                                "phone1": "08812772"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bauer Christoph Hairdressing",
+                "numFollowers": 0,
+                "websiteUrl": "cb-hairdressing.de"
+            }
+        ]
+    }
+}

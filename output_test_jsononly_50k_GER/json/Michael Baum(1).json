@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7400075,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Eschenburg",
+                                "postalCode": "35713",
+                                "street1": "5 Pfaffenacker"
+                            },
+                            "contactInfo": {
+                                "phone1": "02774207364"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fernsehservice Michael Baum",
+                "numFollowers": 0,
+                "websiteUrl": "fernsehservice-michaelbaum.de"
+            }
+        ]
+    }
+}

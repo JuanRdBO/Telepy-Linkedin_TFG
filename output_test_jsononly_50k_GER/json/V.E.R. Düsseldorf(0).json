@@ -1,0 +1,56 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1950,
+                "id": 18119329,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "105",
+                            "name": "Formaci\u00f3n profesional"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": " 50679",
+                                "street1": "Picassoplatz 1c"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "BWV im Rheinland e.V.",
+                "numFollowers": 13,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Berufliche Aus- und Weiterbildung",
+                        "Vermittlung von Versicherungsfachwissen "
+                    ]
+                },
+                "websiteUrl": "https://rheinland.bwv.de/startseite/"
+            }
+        ]
+    }
+}

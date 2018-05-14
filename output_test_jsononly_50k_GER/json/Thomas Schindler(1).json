@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12524678,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "81739",
+                                "street1": "74 Koboldstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 896600470"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Schindler Steuerberater",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.schindler-steuerberater.de"
+            }
+        ]
+    }
+}

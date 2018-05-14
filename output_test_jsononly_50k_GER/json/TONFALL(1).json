@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12447195,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Schwandorf",
+                                "postalCode": "92421",
+                                "street1": "20 Bahnhofstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 9431754750"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "B\u00fccherwelt Schwandorf GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.buecherwelt-schwandorf.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7447707,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wetzlar",
+                                "postalCode": "35576",
+                                "street1": "14 Langgasse"
+                            },
+                            "contactInfo": {
+                                "phone1": "064416794020"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Jens Weber Elemente",
+                "numFollowers": 0,
+                "websiteUrl": "jensweber-elemente.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 135,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2014,
+                "id": 5296683,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "137",
+                            "name": "Recursos humanos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Amsterdam",
+                                "postalCode": "1019 GM",
+                                "street1": "Piet Heinkade 55"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0031-202170996"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Saro Recruitment Nederland",
+                "numFollowers": 282,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Recruitment",
+                        "Operational Finance & Banking",
+                        "Legal & Compliance",
+                        "Accounting & Control"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.saro-recruitment.nl"
+            }
+        ]
+    }
+}

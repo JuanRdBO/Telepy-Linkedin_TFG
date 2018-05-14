@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "G",
+                    "name": "Government Agency"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1971,
+                "id": 18276823,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "56",
+                            "name": "Miner\u00eda y metalurgia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "North Ryde",
+                                "postalCode": "2113",
+                                "street1": "11 Julius Ave"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "CSIRO Mag & Grav",
+                "numFollowers": 32,
+                "specialties": {
+                    "_total": 19,
+                    "values": [
+                        "magnetics",
+                        "gravity",
+                        "mineral exploration",
+                        "ore deposits",
+                        "IOCGs",
+                        "geophysics",
+                        "modelling",
+                        "Magmatic Nickel",
+                        "PGE",
+                        "GIS",
+                        "petrophysics",
+                        "remanence",
+                        "structural geology",
+                        "paleomagnetism",
+                        "copper",
+                        "sedex",
+                        "BIF",
+                        "basin modelling",
+                        "depth to basement"
+                    ]
+                },
+                "websiteUrl": "https://confluence.csiro.au/display/cmfr/Home"
+            }
+        ]
+    }
+}

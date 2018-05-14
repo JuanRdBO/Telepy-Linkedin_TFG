@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 27,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1995,
+                "id": 3342784,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Chicago",
+                                "postalCode": "60654",
+                                "street1": "321 N. Clark St."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "312-251-8900"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "PGAI Design Partners LLC",
+                "numFollowers": 88,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Commercial Interior Design & Architecture",
+                        "Data Centers & Telecommunication Facility Planning",
+                        "Construction Documents & Administration",
+                        "Project Management"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.pullmangeddis.com"
+            }
+        ]
+    }
+}

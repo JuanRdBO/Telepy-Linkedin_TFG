@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 14,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12839520,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "81375",
+                                "street1": "132 W\u00fcrmtalstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 89707766"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Manuel Menzel",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.dr-m-menzel.de"
+            }
+        ]
+    }
+}

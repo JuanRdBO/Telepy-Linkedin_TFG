@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 44,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7567105,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "12555",
+                                "street1": "14 Semliner Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "03065070133"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Peter Sch\u00f6n Ger\u00fcstbau GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "unternehmenschoen.de"
+            }
+        ]
+    }
+}

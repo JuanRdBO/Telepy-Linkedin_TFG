@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2014,
+                "id": 17940650,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "26",
+                            "name": "Mobiliario"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ankara",
+                                "postalCode": "06520",
+                                "street1": "\u00c7etin Eme\u00e7 Bulvar\u0131 1364. Sk. No:1/D"
+                            },
+                            "contactInfo": {
+                                "fax": "312-2204005",
+                                "phone1": "312-2200500"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Ankara",
+                                "postalCode": "",
+                                "street1": "Ba\u015fkent OSB 205 Ada 9 Parsel Mal\u0131k\u00f6y"
+                            },
+                            "contactInfo": {
+                                "fax": "312-6122025",
+                                "phone1": "312-3582822"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ARZEN KAPI S\u0130STEMLER\u0130",
+                "numFollowers": 13,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "\u00c7EL\u0130K KAPI",
+                        "YANGIN KAPILARI"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.arzenkapi.com.tr"
+            }
+        ]
+    }
+}

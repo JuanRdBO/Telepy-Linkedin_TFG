@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5284,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 8232856,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hilden",
+                                "postalCode": "40721",
+                                "street1": "Lise-Meitner-Str. 1"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 210390703"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "A. M\u00fcller",
+                "numFollowers": 18,
+                "websiteUrl": "https://www.mueller.de/"
+            }
+        ]
+    }
+}

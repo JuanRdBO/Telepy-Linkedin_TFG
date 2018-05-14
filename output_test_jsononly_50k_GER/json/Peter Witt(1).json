@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12560753,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Euskirchen",
+                                "postalCode": "53881",
+                                "street1": "26 Treckgasse"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2251625386"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Peter Witt Elektronik",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.witt-elektronik.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12851711,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Klosterlechfeld",
+                                "postalCode": "86836",
+                                "street1": "43 Bayernstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 82321846180"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ERGO Versicherung Alexander Scholz",
+                "numFollowers": 0,
+                "websiteUrl": "http://alexander.scholz.ergo.de"
+            }
+        ]
+    }
+}

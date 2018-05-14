@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 17,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1997,
+                "id": 10650629,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Boston",
+                                "postalCode": "02210",
+                                "street1": "70 FARGO STREET,"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "857.300.5300"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schulze Law",
+                "numFollowers": 21,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Criminal Defense",
+                        "Personal Injury",
+                        "Immigration Law"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://schulzelaw.com/"
+            }
+        ]
+    }
+}

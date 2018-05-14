@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1999,
+                "id": 933365,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "115",
+                            "name": "M\u00fasica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lyon",
+                                "postalCode": "69002",
+                                "street1": "11 quai Mar\u00e9chal Joffre"
+                            },
+                            "contactInfo": {
+                                "fax": "0033 478 398 431",
+                                "phone1": "0033 478 398 431"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Lyon",
+                                "postalCode": "69002",
+                                "street1": "Record Shop"
+                            },
+                            "contactInfo": {
+                                "fax": "0033 478 398 431",
+                                "phone1": "0033 478 398 431"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Ultimae",
+                "numFollowers": 61,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Record Label",
+                        "Mastering studio",
+                        "Music publishing",
+                        "Music licensing",
+                        "Record shop",
+                        "Music mail order",
+                        "Coffee Shop"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://ultimae.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 1982,
+                "id": 10359192,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lexington",
+                                "postalCode": "40502",
+                                "street1": "710 East Main Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Roland P. Merkel, Attorney at Law & Mediator",
+                "numFollowers": 4,
+                "specialties": {
+                    "_total": 15,
+                    "values": [
+                        "Business Law",
+                        "Business Purchases & Sales",
+                        "Business Formation",
+                        "Labor & Employment",
+                        "Family Law",
+                        "Divorce",
+                        "Child Support",
+                        "Child Custody",
+                        "Adoption",
+                        "Wills",
+                        "Estate Planning",
+                        "Probate",
+                        "Mediation Services",
+                        "Administrative Law",
+                        "Civil Litigation & Appeals"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.Merkel-Law.com"
+            }
+        ]
+    }
+}

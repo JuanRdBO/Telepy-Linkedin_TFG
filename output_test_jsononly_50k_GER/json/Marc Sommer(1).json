@@ -1,0 +1,87 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1961,
+                "id": 18493146,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "25",
+                            "name": "Art\u00edculos de consumo"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "N\u00fcrnberg",
+                                "postalCode": "90431",
+                                "street1": "Hans-Bunte-Stra\u00dfe 2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Tsim Sha Tsui East",
+                                "postalCode": "Hongkong",
+                                "street1": "Room 812A, 8/F,Tsim Sha Tsui Centre, East Wing"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Heinrich Bauer GmbH&Co.KG",
+                "numFollowers": 5,
+                "specialties": {
+                    "_total": 21,
+                    "values": [
+                        "Spielwaren",
+                        "Pl\u00fcschartikel",
+                        "Karnevalsartikel",
+                        "Sommer und Freizeitartikel",
+                        "Modellspielwaren",
+                        "RC Fahrzeuge",
+                        "Babyspielwaren",
+                        "Pools",
+                        "Luftbetten",
+                        "Modellautos",
+                        "Schie\u00dfspiele",
+                        "Rollenspiele",
+                        "Individuelles Spielzeug",
+                        "Amorces",
+                        "Pl\u00fcschmaterial",
+                        "Distribution",
+                        "aufblasbare Indoorartikel",
+                        "aufblasbare Outdoorartikel",
+                        "Whirlpools",
+                        "Spielzeugpistolen",
+                        "Pfeil und Bogen"
+                    ]
+                },
+                "websiteUrl": "www.bauer-spielwaren.de"
+            }
+        ]
+    }
+}

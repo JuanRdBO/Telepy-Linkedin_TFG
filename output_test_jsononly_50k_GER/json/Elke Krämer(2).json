@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2016,
+                "id": 10605567,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "111",
+                            "name": "Artesan\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Schagen",
+                                "postalCode": "1741 CH",
+                                "street1": "Oude Slotstraat 22"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0224214518"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "BLOEM&",
+                "numFollowers": 15,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Creatief",
+                        "Bloemen",
+                        "Boeketten",
+                        "Cadeau",
+                        "Planten",
+                        "Woonaccessoires"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.bloemenschagen.nl"
+            }
+        ]
+    }
+}

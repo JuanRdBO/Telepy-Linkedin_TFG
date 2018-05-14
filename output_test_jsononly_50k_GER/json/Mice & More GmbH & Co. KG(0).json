@@ -1,0 +1,64 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1927,
+                "id": 18472157,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "40",
+                            "name": "Instalaciones y servicios de recreo "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "N\u00fcrburg",
+                                "postalCode": "56753",
+                                "street1": "Otto-Flimm-Stra\u00dfe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "N\u00fcrburgring 1927 GmbH & Co. KG",
+                "numFollowers": 91,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Motorsport",
+                        "Music Festivals",
+                        "MICE",
+                        "Event",
+                        "Hospitality",
+                        "Sponsoring",
+                        "Licensing",
+                        "Driving Academy"
+                    ]
+                },
+                "websiteUrl": "www.nuerburgring.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1905,
+                "id": 9277030,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Fronreute",
+                                "postalCode": "88273",
+                                "street1": "Tobelacker 4"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 7505 9572 30",
+                                "phone1": "+49 7505 9572 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dietz Micro-Pr\u00e4zisions-Drehteile GmbH & Co.KG",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Drehteile",
+                        "H\u00e4rten",
+                        "R\u00e4ndeln / Walzen",
+                        "Schleifen",
+                        "Gleitschleifen",
+                        "Drahterodieren",
+                        "S\u00e4gen",
+                        "100% Ma\u00dfpr\u00fcfung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.dietz-drehteile.de"
+            }
+        ]
+    }
+}

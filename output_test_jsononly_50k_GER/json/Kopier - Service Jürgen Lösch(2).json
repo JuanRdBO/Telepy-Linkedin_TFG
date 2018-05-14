@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 84,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "id": 18064553,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sor\u00f8",
+                                "postalCode": "4180",
+                                "street1": "Slagelsevej 7"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Professionsh\u00f8jskolen Absalon",
+                "numFollowers": 1686,
+                "specialties": {
+                    "_total": 16,
+                    "values": [
+                        "Sygepleje",
+                        "Fysioterapi",
+                        "Ergoterapi",
+                        "Leisure Management",
+                        "Bioteknologi",
+                        "Bioanalyse",
+                        "Ledelse",
+                        "Efteruddannelse",
+                        "videreg\u00e5ende uddannelse",
+                        "Socialr\u00e5dgivning",
+                        "Offentlig forvaltning",
+                        "P\u00e6dagogik",
+                        "L\u00e6ring",
+                        "folkeskole",
+                        "digital l\u00e6ring",
+                        "Ern\u00e6ring og Sundhed"
+                    ]
+                },
+                "websiteUrl": "http://www.phabsalon.dk"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 23,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2009,
+                "id": 571307,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Philadelphia",
+                                "postalCode": "19106",
+                                "street1": "133 N. 4th St."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "267-324-3934"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Breaking Glass Pictures",
+                "numFollowers": 247,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Broadcast Distribution",
+                        "V.O.D Aggregation",
+                        "International Sales",
+                        "North American Distribution"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.breakingglasspictures.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 167,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12682533,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Calw",
+                                "postalCode": "75365",
+                                "street1": "27 Badstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7051929630"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Diakoniestation Calw",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.diakoniestation-calw.de"
+            }
+        ]
+    }
+}

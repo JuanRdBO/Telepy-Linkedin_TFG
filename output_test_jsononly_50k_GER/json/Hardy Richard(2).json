@@ -1,0 +1,40 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 13,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 21849579,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "24",
+                            "name": "Electr\u00f3nica de consumo"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "postalCode": "HD7 5QS",
+                                "street1": "UNIT 8, LINTHWAITE BUSINESS CENTRE MANCHESTER ROAD"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "RICHARD HARDY (ELECTRICAL ENGINEERS) LIMITED",
+                "numFollowers": 1
+            }
+        ]
+    }
+}

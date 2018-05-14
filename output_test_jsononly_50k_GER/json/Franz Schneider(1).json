@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12186921,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Offenbach",
+                                "postalCode": "63071",
+                                "street1": "47 Wilhelmstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 699842080"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Franz Schneider GmbH & Co. KG",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.werkzeug-schneider.de"
+            }
+        ]
+    }
+}

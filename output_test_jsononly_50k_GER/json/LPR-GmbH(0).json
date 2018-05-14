@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1988,
+                "id": 2526597,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "116",
+                            "name": "Log\u00edstica y cadena de suministro"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Neuss",
+                                "postalCode": "41460",
+                                "street1": "Heerdterbuschstr. 2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "LPR GmbH",
+                "numFollowers": 156,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Night Express Services",
+                        "SWAP Services",
+                        "Technical Field Service",
+                        "Rollout Projects",
+                        "Repaircenter",
+                        "Technical Helpdesk / Hotline",
+                        "High Tech Logistics",
+                        "FSL",
+                        "Return Logistics",
+                        "PUDO Network",
+                        "Logistics & Service"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.lpr.de"
+            }
+        ]
+    }
+}

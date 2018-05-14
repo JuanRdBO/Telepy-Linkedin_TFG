@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12422979,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Koblenz",
+                                "postalCode": "56068",
+                                "street1": "54 Laubach"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 5456068"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Walter Mayer GmbH",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.walter-mayer-gmbh.de"
+            }
+        ]
+    }
+}

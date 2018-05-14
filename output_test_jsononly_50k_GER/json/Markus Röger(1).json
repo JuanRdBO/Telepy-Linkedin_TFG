@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2002,
+                "id": 5152324,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "83",
+                            "name": "Imprenta"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Fort Pierce",
+                                "postalCode": "34951",
+                                "street1": "3200 N Kings Hwy"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Graph-Tech USA , LLC",
+                "numFollowers": 91,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Specialized Inks for UV ,LED solvent and water base inkjets",
+                        "Printer Solutions",
+                        "Label Solutions",
+                        "Service and support",
+                        "Card and Packing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.graphtech.us/"
+            }
+        ]
+    }
+}

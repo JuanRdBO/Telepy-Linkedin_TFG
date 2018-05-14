@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 33,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1964,
+                "id": 840693,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "82",
+                            "name": "Publicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dublin 4",
+                                "postalCode": "",
+                                "street1": "Charlotte Quay"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "353-1-237 7000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Business & Finance Media Group",
+                "numFollowers": 2168,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "media",
+                        "publishing",
+                        "news",
+                        "events",
+                        "online",
+                        "advertising",
+                        "sponsorship"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.businessandfinance.com"
+            }
+        ]
+    }
+}

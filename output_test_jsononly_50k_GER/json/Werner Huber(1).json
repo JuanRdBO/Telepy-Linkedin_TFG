@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7330389,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "57",
+                            "name": "Petr\u00f3leo y energ\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lengdorf",
+                                "postalCode": "84435",
+                                "street1": "4 Gewerbefeld"
+                            },
+                            "contactInfo": {
+                                "phone1": "08083263"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Werner Huber GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "huber-lagerhaus.de"
+            }
+        ]
+    }
+}

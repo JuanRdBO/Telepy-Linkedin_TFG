@@ -1,0 +1,81 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2013,
+                "id": 3166619,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "126",
+                            "name": "Producci\u00f3n multimedia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dallas",
+                                "postalCode": "75207",
+                                "street1": "4748 Algiers St."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "214-891-6101"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Canoga Park",
+                                "postalCode": "91304",
+                                "street1": "8911 Independence Avenue C 91304"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(323) 379-2021"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Solarity Studios",
+                "numFollowers": 438,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Video Production",
+                        "Post-production",
+                        "Drone Cinematography",
+                        "Photography"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.solaritystudios.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7401160,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Leipzig",
+                                "postalCode": "04155",
+                                "street1": "6 P\u00f6litzstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "03415902899"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Physiotherapie Sebastian M\u00fcller",
+                "numFollowers": 2,
+                "websiteUrl": "physiotherapie-gohlis-sued.de"
+            }
+        ]
+    }
+}

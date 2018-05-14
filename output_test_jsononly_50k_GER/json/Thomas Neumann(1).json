@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7495228,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad Blankenburg",
+                                "postalCode": "07422",
+                                "street1": "21 Am Hainberg"
+                            },
+                            "contactInfo": {
+                                "phone1": "01718076534"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Neumann Grafik-Design Thomas Neumann",
+                "numFollowers": 1,
+                "websiteUrl": "derwanddesigner.de"
+            }
+        ]
+    }
+}

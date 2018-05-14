@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "H",
+                    "name": "5001-10000"
+                },
+                "foundedYear": 1934,
+                "id": 77186,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "121",
+                            "name": "Seguridad e investigaciones"
+                        }
+                    ]
+                },
+                "name": "Reliance Security Services Ltd",
+                "numFollowers": 948,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.securitas.com/uk"
+            }
+        ]
+    }
+}

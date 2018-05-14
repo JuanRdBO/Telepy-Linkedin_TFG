@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2000,
+                "id": 11009866,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "138",
+                            "name": "Material y equipo de negocios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Milano",
+                                "postalCode": "20123",
+                                "street1": "Via Meravigli, 14"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "800 910 193"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "NCC Milan",
+                "numFollowers": 8,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Servizio Taxi 24h/24 per aziende e privati",
+                        "Servizio Driver 24h/24 per aziende e privati"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.ncc-milan.it"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12533297,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "22119",
+                                "street1": "29 Froschk\u00f6nigweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 4071403"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gerhard Meyer Immobilien",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.gmimmobilien.de"
+            }
+        ]
+    }
+}

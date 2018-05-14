@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 370,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2010,
+                "id": 2089683,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "34",
+                            "name": "Alimentaci\u00f3n y bebidas"
+                        }
+                    ]
+                },
+                "name": "Christof Feichtinger GmbH - Cafe de Guatemala",
+                "numFollowers": 89,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Fair trade Coffee",
+                        "Organic Coffee",
+                        "Single Origin Coffee",
+                        "Sustainability"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.feichtinger-kaffee.de"
+            }
+        ]
+    }
+}

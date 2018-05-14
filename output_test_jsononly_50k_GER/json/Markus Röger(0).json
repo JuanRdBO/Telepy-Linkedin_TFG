@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1844,
+                "id": 1415059,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "142",
+                            "name": "Vino y licor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Tilburg",
+                                "postalCode": "5037 DB",
+                                "street1": "Professor Cobbenhagenlaan 51"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "013 549 84 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Verbunt Wijnkopers",
+                "numFollowers": 754,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "170 jaar ervaring als wijnimporteur",
+                        "Breed en kwalitatief hoogstaand assortiment",
+                        "Marketingondersteuning voor zelfstandige ondernemers",
+                        "Marktkennis van wijnspeciaalzaken, slijterijen en horeca."
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.verbunt.nl"
+            }
+        ]
+    }
+}

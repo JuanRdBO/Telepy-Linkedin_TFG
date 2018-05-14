@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 19,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12886034,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "18",
+                            "name": "Cosm\u00e9tica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Buckow",
+                                "postalCode": "15377",
+                                "street1": "13 Fischerberg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 334336330"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Beautyfarm Sader",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.beautyfarm-sader.de"
+            }
+        ]
+    }
+}

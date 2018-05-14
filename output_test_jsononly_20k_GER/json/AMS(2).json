@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3344,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2016,
+                "id": 13463238,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "84",
+                            "name": "Servicio de informaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Katy",
+                                "postalCode": "77494",
+                                "street1": "240044 Cinco Village Center Bld"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Apprise Marketing Services - AMS",
+                "numFollowers": 96,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "B2B Lead Generation (SQL\u2019s, MQL\u2019s, HQL\u2019s, BANT)",
+                        "Demand Generation",
+                        "Account Based Marketing",
+                        "Appointment Generation",
+                        "Call Verified Leads",
+                        "Data List Building Services",
+                        "Lead Prospecting",
+                        "Outbound Marketing",
+                        "Webinar & Events Registration",
+                        "Sales Opportunity Creation"
+                    ]
+                },
+                "websiteUrl": "https://www.ams-in.com"
+            }
+        ]
+    }
+}

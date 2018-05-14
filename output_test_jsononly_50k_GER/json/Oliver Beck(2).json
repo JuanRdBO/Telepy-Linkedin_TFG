@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1981,
+                "id": 2700568,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lynchburg",
+                                "postalCode": "24506",
+                                "street1": "P O Box 10307"
+                            },
+                            "contactInfo": {
+                                "fax": "434-384-7101",
+                                "phone1": "434-237-5888"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "DuCar International Tours",
+                "numFollowers": 37,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Group Tours",
+                        "Evangelical Christian Tours",
+                        "Political",
+                        "Counter-terrorism Training Tours"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.ducartours.com"
+            }
+        ]
+    }
+}

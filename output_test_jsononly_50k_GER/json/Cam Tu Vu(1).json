@@ -1,0 +1,51 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 322,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1999,
+                "id": 13611014,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "5",
+                            "name": "Interconexi\u00f3n en red"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "HO CHI MINH CITY, VIET NAM",
+                                "postalCode": "700000",
+                                "street1": "39 Nguy\u1ec5n B\u1ec9nh Khi\u00eam, Ph\u01b0\u1eddng 01, Qu\u1eadn G\u00f2 V\u1ea5p"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "V\u0169 Th\u1ea3o",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.vuthao.com.vn"
+            }
+        ]
+    }
+}

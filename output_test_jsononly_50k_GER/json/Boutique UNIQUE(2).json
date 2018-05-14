@@ -1,0 +1,83 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 12547,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 2548026,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Austin",
+                                "postalCode": "78703",
+                                "street1": "1145 W. 5th St."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "512-730-0470"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "San Francisco",
+                                "postalCode": "94107",
+                                "street1": "645 Harrison Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Unique Influence",
+                "numFollowers": 2664,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "pay per click",
+                        "facebook advertising",
+                        "direct response advertising",
+                        "search engine marketing",
+                        "SEM",
+                        "PPC",
+                        "social advertising"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://uniqueinfluence.com"
+            }
+        ]
+    }
+}

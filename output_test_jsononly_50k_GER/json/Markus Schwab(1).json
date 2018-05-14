@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12741347,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Andernach",
+                                "postalCode": "56626",
+                                "street1": "Aktienstra\u00dfe 82B"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 263230576"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Autolackiererei Schmidt Inh. Markus Schwab",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.autolackiererei-schmidt.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 31,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2008,
+                "id": 525620,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "36",
+                            "name": "Medios de difusi\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "W1F 9DJ",
+                                "street1": "One Golden Square"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0330 1231215"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Absolute Radio",
+                "numFollowers": 4510,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Radio",
+                        "Marketing",
+                        "Advertising",
+                        "Talent",
+                        "Engagement",
+                        "Social Media",
+                        "Digital"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "AbsoluteRadio",
+                "websiteUrl": "http://www.absoluteradio.co.uk/about/sales/"
+            }
+        ]
+    }
+}

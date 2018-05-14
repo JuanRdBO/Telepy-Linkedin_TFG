@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7377419,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dreieich",
+                                "postalCode": "63303",
+                                "street1": "42 Taunusstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0610387132"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Holger U. Marion Klein",
+                "numFollowers": 0,
+                "websiteUrl": "architekt-klein.com"
+            }
+        ]
+    }
+}

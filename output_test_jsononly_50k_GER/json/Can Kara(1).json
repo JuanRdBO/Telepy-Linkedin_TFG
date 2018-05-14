@@ -1,0 +1,87 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 61,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2005,
+                "id": 2124987,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "34",
+                            "name": "Alimentaci\u00f3n y bebidas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "San Francisco",
+                                "postalCode": "94129",
+                                "street1": "2124 Union"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "San Francisco",
+                                "postalCode": "94123",
+                                "street1": "2124 Union St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Hint Inc.",
+                "numFollowers": 11278,
+                "specialties": {
+                    "_total": 16,
+                    "values": [
+                        "outstanding unsweetened refreshment",
+                        "fruit water",
+                        "bottled water delivery",
+                        "water delivery",
+                        "online commerce",
+                        "hint crisp apple",
+                        "hint fizz",
+                        "hint water",
+                        "hint blackberry",
+                        "hint watermelon",
+                        "flavored water",
+                        "unsweetened beverages",
+                        "beverages",
+                        "sugar-free",
+                        "drinks",
+                        "food and beverage"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.drinkhint.com"
+            }
+        ]
+    }
+}

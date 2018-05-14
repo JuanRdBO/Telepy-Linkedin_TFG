@@ -1,0 +1,81 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1966,
+                "id": 18339783,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "33",
+                            "name": "Deportes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "legnano",
+                                "postalCode": "20025",
+                                "street1": "Via Parma, 77 "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "castellanza",
+                                "postalCode": "21053",
+                                "street1": "Via Per Legnano, 1 "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "castellanza",
+                                "postalCode": "21053",
+                                "street1": "via per Legnano, 3 "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "LegnanoBasketKnights",
+                "numFollowers": 8,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "sport",
+                        "marketing",
+                        "comunicazione",
+                        "responsabilit\u00e0 sociale",
+                        "entertainment"
+                    ]
+                },
+                "websiteUrl": "http://www.legnanobasket.it/default.aspx"
+            }
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 231,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2015,
+                "id": 10386231,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "name": "JS Agency Ltd",
+                "numFollowers": 50,
+                "specialties": {
+                    "_total": 17,
+                    "values": [
+                        "Javascript",
+                        "React.js / Flux",
+                        "Angular.js",
+                        "Express.js",
+                        "MongoDB",
+                        "Socket.io",
+                        "D3.js",
+                        "jQuery.js",
+                        "Backbone.js",
+                        "Ember.js",
+                        "Knockout.js",
+                        "Node.js",
+                        "Dojo.js",
+                        "Require.js",
+                        "Underscore.js",
+                        "Typescript.js",
+                        "Mustache.js"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://js.agency/"
+            }
+        ]
+    }
+}

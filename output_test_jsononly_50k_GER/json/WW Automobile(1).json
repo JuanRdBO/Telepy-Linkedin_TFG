@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1986,
+                "id": 3343365,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "QUETIGNY",
+                                "postalCode": "21000",
+                                "street1": "16 rue du Golf"
+                            },
+                            "contactInfo": {
+                                "fax": "03 80 41 71 74",
+                                "phone1": "03 80 41 74 04"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "SAS DEBEAUX",
+                "numFollowers": 10,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Vannes thermostatiques antigel Exogel",
+                        "R\u00e9gulateurs/limiteurs de vitesse",
+                        "R\u00e9chauffeurs de diesel"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://ww.sas-debeaux.fr"
+            }
+        ]
+    }
+}

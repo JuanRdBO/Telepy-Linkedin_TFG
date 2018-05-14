@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 16162125,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ita\u00fana",
+                                "postalCode": "35680-032",
+                                "street1": "Rua Di\u00f3genes Nogueira, 11"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "3242-1691"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Imoplan Imobili\u00e1ria e Planejamento",
+                "numFollowers": 8,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Compra e Venda de Im\u00f3veis",
+                        "Empreendimentos Imobili\u00e1rios",
+                        "Assessoria Jur\u00eddica"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.imoplanitauna.com.br"
+            }
+        ]
+    }
+}

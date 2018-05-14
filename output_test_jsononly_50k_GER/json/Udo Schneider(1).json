@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7422016,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Heidenrod",
+                                "postalCode": "65321",
+                                "street1": "Bundesstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "06124508180"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "A-udo Schneider E.K.",
+                "numFollowers": 0,
+                "websiteUrl": "a-udo-schneider.de"
+            }
+        ]
+    }
+}

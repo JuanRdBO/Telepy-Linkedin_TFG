@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 150,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1997,
+                "id": 111923,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "36",
+                            "name": "Medios de difusi\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10001",
+                                "street1": "150 West 28th Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "212-625-9327"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Atlantic Television",
+                "numFollowers": 1552,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "HD camera Crews New York",
+                        "PAL camera crews New York",
+                        "HD camera Rental New York",
+                        "HD camera Crews USA",
+                        "Sony PDW-F800 XDCAM camera rental New York",
+                        "Video Production Services",
+                        "Canon C300 camera rental New York"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "http://twitter.com/#!/AtlanticTV",
+                "websiteUrl": "www.atlantictv.com"
+            }
+        ]
+    }
+}

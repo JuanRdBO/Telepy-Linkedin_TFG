@@ -1,0 +1,88 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 1086,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1951,
+                "id": 506894,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "31",
+                            "name": "Hosteler\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ciudad de Buenos Aires",
+                                "postalCode": "C1010AAD",
+                                "street1": "Cerrito 180"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {},
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Mar del Plata",
+                                "postalCode": "B7602EAI",
+                                "street1": "Boulevard Mar\u00edtimo P. Peralta Ramos 5725"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Alvarez Arguelles Hoteles",
+                "numFollowers": 4575,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Hoteleria",
+                        "Hospitality",
+                        "Turismo",
+                        "Servicios",
+                        "Hotel Business Development",
+                        "Hotel Management",
+                        "Franquicia y Gerenciamiento Hotelero",
+                        "Eventos Corporativos",
+                        "Gastronom\u00eda",
+                        "Eventos",
+                        "Viajes de Negocio"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.alvarezarguelles.com"
+            }
+        ]
+    }
+}

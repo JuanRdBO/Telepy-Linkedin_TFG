@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 59,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1758,
+                "id": 6531391,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70376",
+                                "street1": "L\u00f6wentorstra\u00dfe 65"
+                            },
+                            "contactInfo": {
+                                "fax": "(07 11) 8 98-18 70",
+                                "phone1": "(07 11) 8 98-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "SV SparkassenVersicherung",
+                "numFollowers": 486,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Lebensversicherung",
+                        "Altersvorsorge",
+                        "Geb\u00e4udeversicherung",
+                        "Sachversicherung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.sparkassenversicherung.de"
+            }
+        ]
+    }
+}

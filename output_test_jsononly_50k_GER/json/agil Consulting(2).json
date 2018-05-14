@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 255,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2008,
+                "id": 295802,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f8benhavn \u00d8",
+                                "postalCode": "2100",
+                                "street1": "Strandvejen 16C 2.th."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Agil Procesforbedring",
+                "numFollowers": 229,
+                "specialties": {
+                    "_total": 16,
+                    "values": [
+                        "Agil Transformation",
+                        "Forandringsledelse",
+                        "Styregrupper",
+                        "Visions- og strategiudvikling",
+                        "PMO",
+                        "Kravh\u00e5ndtering",
+                        "Metode- og kompetenceudvikling",
+                        "Ledelsesr\u00e5dgivning",
+                        "Agil projektledelse",
+                        "Coaching og mentorering",
+                        "Lean",
+                        "SPI",
+                        "Facilitering",
+                        "Innovation",
+                        "IT",
+                        "Teamudvikling"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.agil-procesforbedring.dk"
+            }
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 849,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1982,
+                "id": 235003,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Norcross",
+                                "postalCode": "30092",
+                                "street1": "25 Technology Pkwy. So."
+                            },
+                            "contactInfo": {
+                                "fax": "(678) 879-0930",
+                                "phone1": "(678) 879-0929"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "The Greenway Group",
+                "numFollowers": 2489,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "consulting",
+                        "leadership",
+                        "communications",
+                        "publications related to the architecture",
+                        "engineering",
+                        "and construction industry"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.greenway.us"
+            }
+        ]
+    }
+}

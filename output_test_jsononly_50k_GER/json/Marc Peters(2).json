@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12341609,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kranenburg",
+                                "postalCode": "47559",
+                                "street1": "13 Frasselter Weg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2826992100"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gartenbau Marc Peters",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.gartenbaupeters.de"
+            }
+        ]
+    }
+}

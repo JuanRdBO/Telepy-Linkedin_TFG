@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7351209,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad Laasphe-Banfe",
+                                "postalCode": "57334",
+                                "street1": "1 Auf Der Heber"
+                            },
+                            "contactInfo": {
+                                "phone1": "027525208"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Partyservice Ulrich Schmidt",
+                "numFollowers": 0,
+                "websiteUrl": "wildundmehr.org"
+            }
+        ]
+    }
+}

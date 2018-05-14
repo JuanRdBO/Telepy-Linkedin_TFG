@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1973,
+                "id": 1817265,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lutz",
+                                "postalCode": "33549",
+                                "street1": "1022 Land O' Lakes Blvd."
+                            },
+                            "contactInfo": {
+                                "fax": "813-949-0176",
+                                "phone1": "813-293-0813"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Hernando Beach",
+                                "postalCode": "34607",
+                                "street1": "3263 Shoal Line Blvd"
+                            },
+                            "contactInfo": {
+                                "fax": "7272458787",
+                                "phone1": "352-606-3911"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "DENNIS REALTY & INVESTMENT CORPORATION",
+                "numFollowers": 365,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Residential Real Estate",
+                        "Commercial Real Estate",
+                        "Property Management",
+                        "Title Company",
+                        "Insurance Agency"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.dennisrealty.com/"
+            }
+        ]
+    }
+}

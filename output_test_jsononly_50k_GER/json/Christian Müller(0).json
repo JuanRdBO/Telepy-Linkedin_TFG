@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 41,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7558435,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamm",
+                                "postalCode": "59065",
+                                "street1": "38 Weststra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0238125050"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Christian M\u00fcller",
+                "numFollowers": 8,
+                "websiteUrl": "zahnarzt-hamm.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 92,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1963,
+                "id": 1153420,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "112",
+                            "name": "Manufactura el\u00e9ctrica y electr\u00f3nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Owen",
+                                "postalCode": "73277",
+                                "street1": "In der Braike 1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "F\u00fcrstenfeldbruck",
+                                "postalCode": "82256",
+                                "street1": "Liebigstrasse 4"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Unterstadion",
+                                "postalCode": "89619",
+                                "street1": "St\u00fctzenstr."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Leuze electronic GmbH + Co. KG",
+                "numFollowers": 1682,
+                "specialties": {
+                    "_total": 17,
+                    "values": [
+                        "Automatisierung",
+                        "Sensorik",
+                        "Prozessautomation",
+                        "Optik",
+                        "Measuring Sensors",
+                        "Identification",
+                        "Functional Safety",
+                        "Switching Sensors",
+                        "RFID",
+                        "Industrial image processing",
+                        "Safety at work",
+                        "Safety Consulting",
+                        "Messende Sensoren",
+                        "Bildverarbeitende Systeme",
+                        "Barcode lesen",
+                        "2D",
+                        "3D"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.leuze.com"
+            }
+        ]
+    }
+}

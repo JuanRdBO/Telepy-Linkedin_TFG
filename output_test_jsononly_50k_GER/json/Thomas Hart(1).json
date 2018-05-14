@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 33,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 4563390,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "14",
+                            "name": "Atenci\u00f3n sanitaria y hospitalaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "York",
+                                "postalCode": "17403-3676",
+                                "street1": "1001 S George St"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 7178512521"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Thomas Hart Family Practice",
+                "numFollowers": 5,
+                "websiteUrl": "https://www.wellspan.org/offices-locations/wellspan-medical-group/primary-care/thomas-hart-family-practice-center/"
+            }
+        ]
+    }
+}

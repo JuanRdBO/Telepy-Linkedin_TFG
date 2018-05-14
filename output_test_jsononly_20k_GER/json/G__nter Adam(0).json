@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7452758,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "12101",
+                                "street1": "9 Manfred-von-Richthofen-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "03048625483"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "G\u00fcnter Rechtsanwaltskanzlei Adam",
+                "numFollowers": 0,
+                "websiteUrl": "ra-guenter-adam.de"
+            }
+        ]
+    }
+}

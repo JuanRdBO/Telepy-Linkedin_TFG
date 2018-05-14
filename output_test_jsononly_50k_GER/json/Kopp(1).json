@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 393,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 1810038,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bedminister",
+                                "postalCode": "07921",
+                                "street1": "The Hills"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kopp Consulting, LLC, Sales Outsourcing Provider of the Year",
+                "numFollowers": 113,
+                "specialties": {
+                    "_total": 20,
+                    "values": [
+                        "Opening Doors",
+                        "Strategic Messaging",
+                        "Lead Generation",
+                        "Better Meeting Outcomes",
+                        "Cold Calling",
+                        "New Business Development",
+                        "Sales Process",
+                        "B2B",
+                        "Program Management",
+                        "Solution Selling",
+                        "Coaching",
+                        "Sales Enablement",
+                        "Demand Generation",
+                        "Business Development",
+                        "Sales",
+                        "Sales Operations",
+                        "Start-ups",
+                        "Strategic Planning",
+                        "Business Strategy",
+                        "Professional Services"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.koppconsultingusa.com"
+            }
+        ]
+    }
+}

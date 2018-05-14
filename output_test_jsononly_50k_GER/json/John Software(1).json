@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 648,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1998,
+                "id": 32873,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Colombo 02",
+                                "postalCode": "00200",
+                                "street1": "No. 148"
+                            },
+                            "contactInfo": {
+                                "fax": "+94-11-230 0779",
+                                "phone1": "+94-11-230 0770"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Slough",
+                                "postalCode": "SL1 4DX",
+                                "street1": "268"
+                            },
+                            "contactInfo": {
+                                "fax": "+44 (0) 1753 725 284",
+                                "phone1": "+44 (0) 1753 725 283"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "John Keells Computer Services Pvt. Ltd.",
+                "numFollowers": 12152,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "IT services",
+                        "Airline Solutions",
+                        "IT Resourcing services",
+                        "Airport Solutions",
+                        "Customized Software Development"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.jkcsworld.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7565847,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Freising",
+                                "postalCode": "85354",
+                                "street1": "18 Stieglbr\u00e4ugasse"
+                            },
+                            "contactInfo": {
+                                "phone1": "08161789666"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Jung Silvia",
+                "numFollowers": 0,
+                "websiteUrl": "jung-physiotherapie.de"
+            }
+        ]
+    }
+}

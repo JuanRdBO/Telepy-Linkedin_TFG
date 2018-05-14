@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 197,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 830262,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "46",
+                            "name": "Gesti\u00f3n de inversiones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Madrid",
+                                "postalCode": "28016",
+                                "street1": "Cuesta del Sagrado Coraz\u00f3n 6-8"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Auriga Global Investors, SV.",
+                "numFollowers": 1291,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "ClickTrade",
+                "websiteUrl": "www.aurigasv.es"
+            }
+        ]
+    }
+}

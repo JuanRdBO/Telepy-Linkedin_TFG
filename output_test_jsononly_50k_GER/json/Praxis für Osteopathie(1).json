@@ -1,0 +1,39 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 145,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 9526663,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ludwigsburg",
+                                "postalCode": "71640",
+                                "street1": "Mainzer Allee 27/1"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 714124209"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Praxis f\u00fcr Osteopathie",
+                "numFollowers": 28,
+                "websiteUrl": ""
+            }
+        ]
+    }
+}

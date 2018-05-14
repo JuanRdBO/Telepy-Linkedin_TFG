@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12700863,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rheinau",
+                                "postalCode": "77866",
+                                "street1": "1 Robert-Bosch-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7844918851"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rechtsanwaltskanzlei Klemens Zimmer",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.rechtsanwaelte-zimmer.de"
+            }
+        ]
+    }
+}

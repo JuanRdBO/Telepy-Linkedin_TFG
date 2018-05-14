@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7391171,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Siegbach",
+                                "postalCode": "35768",
+                                "street1": "16 Am Lindenstock"
+                            },
+                            "contactInfo": {
+                                "phone1": "02778696930"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ingenieurb\u00fcro Schneider GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "ibs-siegbach.de"
+            }
+        ]
+    }
+}

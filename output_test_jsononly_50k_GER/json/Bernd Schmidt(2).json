@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 21,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7550522,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hermeskeil",
+                                "postalCode": "54411",
+                                "street1": "61 Trierer Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "065037777"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bernd Schmidt Friseursalon",
+                "numFollowers": 0,
+                "websiteUrl": "schmidt-friseur.de"
+            }
+        ]
+    }
+}

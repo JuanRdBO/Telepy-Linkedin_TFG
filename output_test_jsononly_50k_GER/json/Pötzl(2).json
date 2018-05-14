@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12734280,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wiesbaden",
+                                "postalCode": "65201",
+                                "street1": "9 Scho\u00dfbergstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6119882620"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Becker P\u00f6tzl Sonderprojekte GmbH",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.beckerpoetzlsonderprojekte.de"
+            }
+        ]
+    }
+}

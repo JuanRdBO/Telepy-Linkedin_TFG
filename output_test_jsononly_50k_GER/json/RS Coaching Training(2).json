@@ -1,0 +1,52 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 24,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2016,
+                "id": 11114716,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "105",
+                            "name": "Formaci\u00f3n profesional"
+                        }
+                    ]
+                },
+                "name": "RS Business Consulting",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Coaching",
+                        "Training",
+                        "Leadership",
+                        "Personal Development",
+                        "Professional Development",
+                        "Business Communications",
+                        "Entrepreneurship",
+                        "Strategic Finance",
+                        "Cross-cultural Connection",
+                        "Seminars",
+                        "Public Speaking"
+                    ]
+                },
+                "websiteUrl": "http://rsbusinessconsulting.com/"
+            }
+        ]
+    }
+}

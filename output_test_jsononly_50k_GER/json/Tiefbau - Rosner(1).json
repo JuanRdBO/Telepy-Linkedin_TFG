@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 752,
+        "values": [
+            {
+                "companyType": {
+                    "code": "G",
+                    "name": "Government Agency"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1831,
+                "id": 5028779,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "75",
+                            "name": "Administraci\u00f3n gubernamental"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Z\u00fcrich",
+                                "postalCode": "8090",
+                                "street1": "Neum\u00fchlequai 10"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kanton Z\u00fcrich",
+                "numFollowers": 2106,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Sicherheit",
+                        "Gesundheit",
+                        "Justiz",
+                        "Bildung",
+                        "\u00d6ffentlicher Verkehr",
+                        "Hoch- und Tiefbau",
+                        "Umwelt",
+                        "Finanzen",
+                        "Volkswirtschaft"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.zh.ch/jobs"
+            }
+        ]
+    }
+}

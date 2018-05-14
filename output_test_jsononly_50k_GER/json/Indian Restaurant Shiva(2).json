@@ -1,0 +1,54 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 13625814,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "31",
+                            "name": "Hosteler\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Tiruvannamalai",
+                                "postalCode": "606 604",
+                                "street1": "  687-Polur Road Vengikkal "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hotel Himalayaa",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Facilities offered at Himalayaa are contemporary and praise worthy. The fully air- conditioned rooms are well equipped with amenities like mini-bar, LCD television, Wi-Fi connectivity, direct dial telephone, tea/coffee maker, 24 hours room service & an executive writing desk",
+                        "The rooms are designed beautifully and the excellent furnishing takes care of your comfort and convenience. Whether it is a business trip or a funtime with family, Himalayaa is the perfect choice for a comfortable stay.",
+                        "Kamadhenu Multi Cuisine Restaurant : Our luxury multi cuisine vegetarian restaurant is ideal for fine dining and offers an array of most delicious food. Choose from a wide range of popular Indian, South Indian, Asian and Western preparations."
+                    ]
+                },
+                "websiteUrl": "http://www.hotelhimalayaa.com/"
+            }
+        ]
+    }
+}

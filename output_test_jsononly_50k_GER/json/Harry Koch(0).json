@@ -1,0 +1,84 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1916,
+                "id": 128354,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Omaha",
+                                "postalCode": "68154",
+                                "street1": "14010 FNB Parkway"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "402-861-7000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Lincoln",
+                                "postalCode": "68508",
+                                "street1": "233 S. 13th Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "402-861-7000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "The Harry A. Koch Co.",
+                "numFollowers": 550,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Risk Management",
+                        "Consulting",
+                        "Business Insurance",
+                        "Employee Benefits",
+                        "Surety Bonds",
+                        "Property & Casulty Insurance",
+                        "Personal Lines - Home, Auto"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.hakco.com"
+            }
+        ]
+    }
+}

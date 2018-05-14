@@ -1,0 +1,45 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 4098992,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Long Island City",
+                                "postalCode": "11101-4819",
+                                "street1": "4030 23rd St"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 7183925830"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Josef Fleischmann Tool Works",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12501706,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dresden",
+                                "postalCode": "01097",
+                                "street1": "24 Kiefernstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3514262121"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Triapol Immobilien",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.triapol.de"
+            }
+        ]
+    }
+}

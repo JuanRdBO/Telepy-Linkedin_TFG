@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7488393,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Leinburg",
+                                "postalCode": "91227",
+                                "street1": "1 Am Buckberg"
+                            },
+                            "contactInfo": {
+                                "phone1": "09120183722"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hans Herbst ImTra",
+                "numFollowers": 0,
+                "websiteUrl": "imtra24.de"
+            }
+        ]
+    }
+}

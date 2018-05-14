@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7422933,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Krefeld",
+                                "postalCode": "47802",
+                                "street1": "14 Liesentorweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "02151966977"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Christoph Weber",
+                "numFollowers": 2,
+                "websiteUrl": "webergalabau.homepage.t-online.de"
+            }
+        ]
+    }
+}

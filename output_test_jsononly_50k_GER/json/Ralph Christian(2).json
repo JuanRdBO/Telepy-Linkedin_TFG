@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 42,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12564253,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Freilassing",
+                                "postalCode": "83395",
+                                "street1": "14 Lindenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 8654650035"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Ralph Christian Piltz",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.mein-frauenarzt-freilassing.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 16,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7542994,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pforzheim",
+                                "postalCode": "75179",
+                                "street1": "3 Freiburger Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0723115870"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Schmid GmbH & Co. KG",
+                "numFollowers": 0,
+                "websiteUrl": "thomasschmid.de"
+            }
+        ]
+    }
+}

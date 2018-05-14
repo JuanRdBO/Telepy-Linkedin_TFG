@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12317189,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kuppenheim",
+                                "postalCode": "76456",
+                                "street1": "1 Favoritestr."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Robert Heck Rechtsanwalt Kuppenheim",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.heck-rechtsanwalt.de"
+            }
+        ]
+    }
+}

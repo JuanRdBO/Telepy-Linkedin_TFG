@@ -1,0 +1,84 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1998,
+                "id": 7409706,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "18",
+                            "name": "Cosm\u00e9tica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Denzlingen",
+                                "postalCode": "79211",
+                                "street1": "Heinrich-Hertz-Stra\u00dfe 4 "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Freiburg",
+                                "postalCode": "79098",
+                                "street1": "Bismarckallee 9"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Denzlingen",
+                                "postalCode": "79211",
+                                "street1": "Rosenstra\u00dfe 24"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Reinbold Friseur GmbH",
+                "numFollowers": 4,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Friseurbranche",
+                        "Online-Shop",
+                        "Kosmetik",
+                        "Haarpflegeprodukte",
+                        "Online-Handel",
+                        "Gro\u00dfhandel",
+                        "Make-up",
+                        "Markenprodukte"
+                    ]
+                },
+                "websiteUrl": "friseur-einkauf.com"
+            }
+        ]
+    }
+}

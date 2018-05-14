@@ -1,0 +1,61 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 11104591,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Warschau",
+                                "postalCode": "02-486",
+                                "street1": "Al. Jerozolimskie 200"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Calanbau TPI Sp. z o.o. ",
+                "numFollowers": 22,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Sprinkler system",
+                        "water spray extinguishing system",
+                        "fire detection",
+                        "planning & construction",
+                        "service & maintenance",
+                        "foam extinguishing system"
+                    ]
+                },
+                "websiteUrl": "http://www.fire-protection-solutions.com/"
+            }
+        ]
+    }
+}

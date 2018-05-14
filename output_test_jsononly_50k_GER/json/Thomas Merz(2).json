@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7421622,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Elsdorf",
+                                "postalCode": "50189",
+                                "street1": "157 Mausweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "022742767"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Tischlerei Thomas Merz",
+                "numFollowers": 0,
+                "websiteUrl": "merz-elsdorf.de"
+            }
+        ]
+    }
+}

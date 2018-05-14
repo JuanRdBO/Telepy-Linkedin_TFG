@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7506605,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "13",
+                            "name": "Profesiones m\u00e9dicas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ulm",
+                                "postalCode": "89073",
+                                "street1": "4 Platzgasse"
+                            },
+                            "contactInfo": {
+                                "phone1": "073163688"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Martin Lutz Facharzt F\u00fcr Urologie",
+                "numFollowers": 1,
+                "websiteUrl": "urologie-praxis-ulm.de"
+            }
+        ]
+    }
+}

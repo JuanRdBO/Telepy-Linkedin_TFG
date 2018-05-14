@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2012,
+                "id": 3753670,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "70",
+                            "name": "Investigaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Innsbruck",
+                                "postalCode": "6020",
+                                "street1": "Universit\u00e4tsstra\u00dfe 15"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+4351220703634"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "SMA Research Lab",
+                "numFollowers": 91,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Strategy Research",
+                        "Practice Transfer",
+                        "Mergers & Acquisitions",
+                        "Publications",
+                        "Annual Experts Meeting"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.sma-research.org"
+            }
+        ]
+    }
+}

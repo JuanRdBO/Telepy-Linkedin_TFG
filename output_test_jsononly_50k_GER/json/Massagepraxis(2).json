@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 134,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12695222,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bremen",
+                                "postalCode": "28197",
+                                "street1": "100 Hermann-Ritter-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 4215204243"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Massagepraxis Egon Buchert",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.massagebuchert.de"
+            }
+        ]
+    }
+}

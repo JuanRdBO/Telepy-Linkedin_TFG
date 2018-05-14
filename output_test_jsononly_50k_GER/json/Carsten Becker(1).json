@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7419876,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10407",
+                                "street1": "30 B\u00f6tzowstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0304254008"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Zahnarzt Carsten Becker",
+                "numFollowers": 1,
+                "websiteUrl": "zahnarztpraxis-carsten-becker.de"
+            }
+        ]
+    }
+}

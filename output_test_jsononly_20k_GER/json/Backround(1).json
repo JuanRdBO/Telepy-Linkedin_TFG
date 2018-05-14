@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 68,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2004,
+                "id": 475832,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "iSTANBUL",
+                                "postalCode": "34",
+                                "street1": "igrip Sok,7/16 FENERBAHCE"
+                            },
+                            "contactInfo": {
+                                "fax": "+90 216 4490772",
+                                "phone1": "+90 532 2943248"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "KUCUKYiLMAZ Consulting Co.",
+                "numFollowers": 4342,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "consulting",
+                        "represanting"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://facebook.com/ArsLanKiraathanesi"
+            }
+        ]
+    }
+}

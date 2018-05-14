@@ -1,0 +1,106 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1789,
+                "id": 3103882,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "31",
+                            "name": "Hosteler\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Baiersbronn",
+                                "postalCode": "72270",
+                                "street1": "Familie Finkbeiner KG"
+                            },
+                            "contactInfo": {
+                                "fax": "074242 492 692",
+                                "phone1": "07442 492 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Ludwigsburg",
+                                "postalCode": "71634",
+                                "street1": "Finkbeiner Hotel Beteiligungs GmbH & Co.KG"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 7141 302 200",
+                                "phone1": "+49 7141 302 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Meersburg",
+                                "postalCode": "88709",
+                                "street1": "Caf\u00e9 im Neuen Schloss Meersburg"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 7532 807941-19",
+                                "phone1": "+49 7532 807941-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Hotel Traube Tonbach - Familie Finkbeiner KG",
+                "numFollowers": 221,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Hotellerie",
+                        "Spitzengastronomie",
+                        "SPA",
+                        "Familienurlaub"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.traube-tonbach.de"
+            }
+        ]
+    }
+}

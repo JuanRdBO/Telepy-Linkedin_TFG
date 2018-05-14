@@ -1,0 +1,96 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 7801769,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Beijing",
+                                "postalCode": "",
+                                "street1": "8-22 Qijiayuan Diplomatic Residence Compound"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+8610-85323079"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Hong Kong",
+                                "postalCode": "",
+                                "street1": "Room13, 9/F Core F"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+852-36186125"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Saipan",
+                                "postalCode": "96950",
+                                "street1": "#204 Marianas Business Plaza"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+1670-2347942"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Skywalker Communications Group",
+                "numFollowers": 15,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Marketing Communications",
+                        "Strategic Communications",
+                        "Digital Communications",
+                        "Branding",
+                        "Advertising",
+                        "Creative & Design",
+                        "Public Relations",
+                        "Public Affairs",
+                        "Business Development"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.skywalkerad.com"
+            }
+        ]
+    }
+}

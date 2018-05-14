@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1983,
+                "id": 3322290,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "38",
+                            "name": "Bellas Artes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Chesterfield",
+                                "postalCode": "63005",
+                                "street1": "18350 Chesterfield Airport Rd."
+                            },
+                            "contactInfo": {
+                                "fax": "636-537-1462",
+                                "phone1": "636-537-1500"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fine Art Ltd.",
+                "numFollowers": 113,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Fine Art Gallery",
+                        "Sculpture Center",
+                        "Framing",
+                        "Giclee Printing",
+                        "Corporate Seal Paper Casts",
+                        "Restoration/ Conservation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://fineartlimited.com/"
+            }
+        ]
+    }
+}

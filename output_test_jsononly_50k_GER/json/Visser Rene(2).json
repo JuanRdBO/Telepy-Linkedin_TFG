@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2011,
+                "id": 1904146,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "130",
+                            "name": "Gabinetes estrat\u00e9gicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Winterswijk",
+                                "postalCode": "7100 AB",
+                                "street1": "Postbus 61"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(+31)614373010"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "VaccinatieRaad",
+                "numFollowers": 12,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "vaccinaties,alle aspecten rond vaccinaties",
+                        "goed doel en informatiebron",
+                        "onafhankelijk overlegorgaan",
+                        "discussieplatform"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.vaccinatieraad.nl"
+            }
+        ]
+    }
+}

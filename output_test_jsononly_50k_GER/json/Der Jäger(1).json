@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 91,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1968,
+                "id": 2569642,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "137",
+                            "name": "Recursos humanos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Eschborn",
+                                "postalCode": "65760",
+                                "street1": "Helfmann-Park 8"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 6196 408 1775",
+                                "phone1": "+49 6196 4080"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Randstad Deutschland",
+                "numFollowers": 3306,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Staffing | Professionals | Search & Selection | HR Solutions | Inhouse Services"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.randstad.de"
+            }
+        ]
+    }
+}

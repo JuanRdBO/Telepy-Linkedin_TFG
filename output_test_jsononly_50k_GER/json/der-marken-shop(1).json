@@ -1,0 +1,121 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 149,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 2001,
+                "id": 1727708,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Z\u00fcrich",
+                                "postalCode": "8005",
+                                "street1": "West-Park"
+                            },
+                            "contactInfo": {
+                                "fax": "+41 848 00 88 01",
+                                "phone1": "+41 44 575 95 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Dietikon",
+                                "postalCode": "8953",
+                                "street1": "Riedstrasse 8"
+                            },
+                            "contactInfo": {
+                                "fax": "+41 848 00 88 01",
+                                "phone1": "+41 44 575 95 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Winterthur",
+                                "postalCode": "8400",
+                                "street1": "Z\u00fcrcherstrasse 42"
+                            },
+                            "contactInfo": {
+                                "fax": "+41 848 00 88 01",
+                                "phone1": "+41 44 575 95 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Wohlen",
+                                "postalCode": "5610",
+                                "street1": "Industriestrasse 21"
+                            },
+                            "contactInfo": {
+                                "fax": "+41 848 00 88 01",
+                                "phone1": "+41 44 575 95 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Kriens",
+                                "postalCode": "6010",
+                                "street1": "Nidfeldstrasse 5"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Digitec Galaxus AG",
+                "numFollowers": 2109,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Technisch f\u00fchrende Onlineshops",
+                        "Gratis Lieferung oder Abholung in unseren Filialen",
+                        "Heute bis 17 Uhr bestellt \u2013 morgen geliefert",
+                        "\u00dcber 190'000 Produkte und 6'400 Marken im Sortiment",
+                        "\u00c4usserst tiefe Preise \u00fcber das ganze Sortiment"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "digitecAG",
+                "websiteUrl": "http://www.digitecgalaxus.ch"
+            }
+        ]
+    }
+}

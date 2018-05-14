@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7327819,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ratingen",
+                                "postalCode": "40878",
+                                "street1": "24 Bahnstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0210224711"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Axel Schmidt Fotodesign",
+                "numFollowers": 0,
+                "websiteUrl": "studioschmidt.de"
+            }
+        ]
+    }
+}

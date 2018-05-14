@@ -1,0 +1,85 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1993,
+                "id": 10933027,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen-Freiham",
+                                "postalCode": "81249",
+                                "street1": "Franz-Josef-Delonge-Str. 12-14"
+                            },
+                            "contactInfo": {
+                                "fax": "089 / 217 54 604 - 51",
+                                "phone1": "089 / 217 54 604 - 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10965",
+                                "street1": "Fidicinstra\u00dfe 6"
+                            },
+                            "contactInfo": {
+                                "fax": "030 / 690 419 - 94",
+                                "phone1": "030 / 690 419 - 92"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "13469",
+                                "street1": "Oraniendamm 70-71"
+                            },
+                            "contactInfo": {
+                                "fax": "030 / 720 219 4 - 51",
+                                "phone1": "030 / 720 219 4 - 50"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Graf-Dichtungen GmbH",
+                "numFollowers": 6,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.graf-dichtungen.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12681919,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Darmstadt",
+                                "postalCode": "64285",
+                                "street1": "21 Ludwigsh\u00f6hstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 615164373"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Horst Becker GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.becker-shk.de"
+            }
+        ]
+    }
+}

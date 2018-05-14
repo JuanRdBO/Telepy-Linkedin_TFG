@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 24,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2016,
+                "id": 18125768,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lilyfield",
+                                "postalCode": "2040",
+                                "street1": "Leichhardt Oval #2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Lilyfield ",
+                                "postalCode": "2040",
+                                "street1": "Callan Park Oval, Wharf Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ORIGINAL BOOTCAMP Leichhardt",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Outdoor Group Fitness",
+                        "Bootcamp",
+                        "Military Inspired",
+                        "Group Personal Training",
+                        "Transformation",
+                        "Weight Loss",
+                        "Strength and Conditioning",
+                        "Functional Fitness"
+                    ]
+                },
+                "websiteUrl": "http://bit.ly/OBCLeichhardt"
+            }
+        ]
+    }
+}

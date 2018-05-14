@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2777,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2014,
+                "id": 9352554,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "106",
+                            "name": "Capital de riesgo"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": "50678",
+                                "street1": "Agrippinawerft 22"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "02219331610"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dieter von Holtzbrinck Ventures",
+                "numFollowers": 165,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Venture Capital",
+                        "Startups",
+                        "FinTech",
+                        "Digital Media"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://dvhventures.de/"
+            }
+        ]
+    }
+}

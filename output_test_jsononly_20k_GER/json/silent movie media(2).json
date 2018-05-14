@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2002,
+                "id": 2970337,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "35",
+                            "name": "Pel\u00edculas y cine"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "\u65b0\u5bbf\u533a\u65e9\u7a32\u7530\u9db4\u5dfb\u753a",
+                                "postalCode": "1620041",
+                                "street1": "519"
+                            },
+                            "contactInfo": {
+                                "fax": "+81)3-5921-3906",
+                                "phone1": "+81)3-5921-3905"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ODD PICTURES",
+                "numFollowers": 51,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "\u6620\u753b\u306e\u4f01\u753b\u30fb\u88fd\u4f5c\u30fb\u64ae\u5f71\u30fb\u7de8\u96c6",
+                        "\u6620\u50cf\u5236\u4f5c\uff08VP\u30fbCM\u30fbPV\uff09",
+                        "\u8ca9\u58f2\u4fc3\u9032\u30c4\u30fc\u30eb\u306e\u4f01\u753b\u30fb\u5236\u4f5c",
+                        "\u53d6\u6750\u30fb\u30e9\u30a4\u30c6\u30a3\u30f3\u30b0"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://odd-pictures.asia"
+            }
+        ]
+    }
+}

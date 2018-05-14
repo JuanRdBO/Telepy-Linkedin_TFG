@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2018,
+                "id": 27244473,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Villafranca Padovana",
+                                "postalCode": "35010",
+                                "street1": "Via Francesco Baracca, 10"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "K-art",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Informatica",
+                        "Soluzioni web",
+                        "Realizzazione software",
+                        "Ricerca e sviluppo tecnologico",
+                        "CAD 2D e 3D",
+                        "Soluzioni e-commerce",
+                        "Misurazioni ambientali",
+                        "Fotografia digitale",
+                        "Branding",
+                        "SEO"
+                    ]
+                },
+                "websiteUrl": "https://k-art.it"
+            }
+        ]
+    }
+}

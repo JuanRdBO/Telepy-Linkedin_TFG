@@ -1,0 +1,64 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2011,
+                "id": 13379041,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mysore",
+                                "postalCode": "570002",
+                                "street1": "#2963, Brigade\u00a0Point, 1st floor, Front Wing, Gokulam Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Aczel Info Services",
+                "numFollowers": 15,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Voice & Non-Voice BPO services",
+                        "Web Development",
+                        "Training",
+                        "Manpower Solutions",
+                        "IT recruitment",
+                        "Lead Generation",
+                        "Data Sourcing and Data Verification",
+                        "Product Promotion"
+                    ]
+                },
+                "websiteUrl": "www.aczel.in"
+            }
+        ]
+    }
+}

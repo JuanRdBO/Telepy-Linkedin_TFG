@@ -1,0 +1,60 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 8433141,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Geiselgasteig",
+                                "postalCode": "82031",
+                                "street1": "Bavariafilmplatz 7"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 8964990"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Bavaria Fiction GmbH",
+                "numFollowers": 157,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "TV Production Company",
+                        "International Co-Productions",
+                        "Fiction"
+                    ]
+                },
+                "websiteUrl": "http://www.bavaria-fiction.de"
+            }
+        ]
+    }
+}

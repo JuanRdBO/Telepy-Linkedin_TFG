@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1987,
+                "id": 15240717,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kartal",
+                                "postalCode": "34860",
+                                "street1": "Yukar\u0131 Neighborhood , K\u0131z\u0131lay boulevard , No:38 Kartal/\u0130STANBUL"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "02164885555"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "\u0130stanbul",
+                                "postalCode": "",
+                                "street1": "Sarayard\u0131 Cd No:7, Ac\u0131badem Mahallesi, 34718 Kad\u0131k\u00f6y/\u0130stanbul, T\u00fcrkiye"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "02164885555"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Has-Ay Sigorta Ve Arac\u0131l\u0131k Hizmetleri",
+                "numFollowers": 6,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://hasay.com"
+            }
+        ]
+    }
+}

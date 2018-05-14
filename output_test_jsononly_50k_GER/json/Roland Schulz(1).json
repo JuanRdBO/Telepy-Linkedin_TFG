@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12878479,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Borken",
+                                "postalCode": "46325",
+                                "street1": "4 Hans-Sachs-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2862415456"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Roland Schulz Architekt Borken",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.architekt-schulz.com"
+            }
+        ]
+    }
+}

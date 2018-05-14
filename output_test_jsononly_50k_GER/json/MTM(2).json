@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 807,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1995,
+                "id": 372743,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "14",
+                            "name": "Atenci\u00f3n sanitaria y hospitalaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lake St. Louis",
+                                "postalCode": "63367",
+                                "street1": "16 Hawk Ridge Dr."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "636-561-5686"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "MTM, Inc.",
+                "numFollowers": 2979,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Non-emergency medical transportation",
+                        "ambulance adjudication",
+                        "home and community based services",
+                        "functional assessments and travel training",
+                        "call center services"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.mtm-inc.net"
+            }
+        ]
+    }
+}

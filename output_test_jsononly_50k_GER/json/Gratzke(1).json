@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12316201,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70188",
+                                "street1": "71 Ulmer Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 711485548"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Autohaus Gratzke GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.autohaus-gratzke-gmbh.de"
+            }
+        ]
+    }
+}

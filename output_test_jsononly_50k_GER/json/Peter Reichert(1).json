@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7400519,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "135",
+                            "name": "Ingenier\u00eda industrial o mec\u00e1nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Weingarten (Baden)",
+                                "postalCode": "76356",
+                                "street1": "22 Stettiner Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0724470390"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Peter Reichert GmbH",
+                "numFollowers": 2,
+                "websiteUrl": "reichertart.de"
+            }
+        ]
+    }
+}

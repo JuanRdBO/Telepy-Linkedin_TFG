@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1955,
+                "id": 5116510,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "51",
+                            "name": "Ingenier\u00eda civil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Carouge",
+                                "postalCode": "1227",
+                                "street1": "Rue Jacques-Grosselin 21 - 1227 Carouge"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Perreten & Milleret SA (PMSA)",
+                "numFollowers": 251,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Structures",
+                        "Environnement",
+                        "G\u00e9nie civil",
+                        "Ouvrages d'art"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.pmsa.ch"
+            }
+        ]
+    }
+}

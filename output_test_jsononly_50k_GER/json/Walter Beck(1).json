@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7473715,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pleinfeld",
+                                "postalCode": "91785",
+                                "street1": "39 Am Einsiedel"
+                            },
+                            "contactInfo": {
+                                "phone1": "09144608782"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fontus Logging Service Walter Beck",
+                "numFollowers": 0,
+                "websiteUrl": "en.fontus-geophysik.de"
+            }
+        ]
+    }
+}

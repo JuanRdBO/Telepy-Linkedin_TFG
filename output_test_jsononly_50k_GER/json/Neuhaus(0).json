@@ -1,0 +1,64 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 266,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1857,
+                "id": 30089,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "25",
+                            "name": "Art\u00edculos de consumo"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Vlezenbeek",
+                                "postalCode": "1602",
+                                "street1": "Postweg 2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Neuhaus Cr\u00e9ateur Chocolatier Since 1857",
+                "numFollowers": 3180,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Luxury chocolate delicacies",
+                        "Biscuits",
+                        "artisan ice cream"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.neuhaus.be"
+            }
+        ]
+    }
+}

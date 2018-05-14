@@ -1,0 +1,46 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 54,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 3852930,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "street1": "Parkstrasse 19-21. Ostfildern, \u00a073760. Germany"
+                            },
+                            "contactInfo": {
+                                "phone1": "49 7 11 34 00 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "SCHOPF Maschinenbau GmbH",
+                "numFollowers": 159,
+                "websiteUrl": "www.schopf-gse.com"
+            }
+        ]
+    }
+}

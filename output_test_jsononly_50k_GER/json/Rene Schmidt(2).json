@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7548344,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Usingen",
+                                "postalCode": "61250",
+                                "street1": "5 Marktplatz"
+                            },
+                            "contactInfo": {
+                                "phone1": "060812061"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rene Schmidt Goldschmied Und Juwelier",
+                "numFollowers": 0,
+                "websiteUrl": "goldschmiede-usingen.de"
+            }
+        ]
+    }
+}

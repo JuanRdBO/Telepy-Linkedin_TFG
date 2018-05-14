@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12430909,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dreieich",
+                                "postalCode": "63303",
+                                "street1": "74 Hainer Chaussee"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Frank Baumann Fahrschule",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.fahrschule-frank-baumann.de"
+            }
+        ]
+    }
+}

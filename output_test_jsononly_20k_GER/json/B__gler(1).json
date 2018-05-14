@@ -1,0 +1,56 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 51,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2011,
+                "id": 5088930,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "name": "Bugler Smith",
+                "numFollowers": 162,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Internal Communications",
+                        "Design",
+                        "ATL Campaigns",
+                        "Advertising",
+                        "Video Production",
+                        "Strategy",
+                        "PR",
+                        "Event Management",
+                        "Employee Engagement Strategies",
+                        "EVP Strategies"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.buglersmith.co.uk"
+            }
+        ]
+    }
+}

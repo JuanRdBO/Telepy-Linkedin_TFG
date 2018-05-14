@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1998,
+                "id": 294294,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Montreal",
+                                "postalCode": "",
+                                "street1": "South Shore of"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(514) 909-5117"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Cimetech International inc.",
+                "numFollowers": 17,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Manufacturing",
+                        "Financial Engineering Optimization",
+                        "Lean Manufacturing",
+                        "TOC - Theory of Constraints - 6 sigma"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.cimetech.com"
+            }
+        ]
+    }
+}

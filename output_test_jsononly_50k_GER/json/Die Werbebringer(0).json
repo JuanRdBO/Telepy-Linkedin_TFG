@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12777190,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "12555",
+                                "street1": "1 Mahlsdorfer Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 30330280150"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Die WerbeBringer",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.werbebringer.de"
+            }
+        ]
+    }
+}

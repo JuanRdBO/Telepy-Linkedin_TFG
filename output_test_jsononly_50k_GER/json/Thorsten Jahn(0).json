@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12832806,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": "50735",
+                                "street1": "27 Flittarder Weg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 22154818041"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thorsten Jahn Sicherheit",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.jahn-sicherheit.de"
+            }
+        ]
+    }
+}

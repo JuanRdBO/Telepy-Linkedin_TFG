@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12514235,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10115",
+                                "street1": "35 Invalidenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3081096770"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Frank Schubert Assekuranzmakler GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.fsa-24.de"
+            }
+        ]
+    }
+}

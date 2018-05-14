@@ -1,0 +1,90 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 130,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2004,
+                "id": 1653165,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dubai",
+                                "postalCode": "",
+                                "street1": "Apex Atrium, Shop no 1 "
+                            },
+                            "contactInfo": {
+                                "fax": "+971 4  452006",
+                                "phone1": "+971 4 4522007"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Dubai",
+                                "postalCode": "",
+                                "street1": "Arabian Ranches Retail Center"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+971 50 6246845"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "House Hunters Real Estate Brokers LLC ",
+                "numFollowers": 1896,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Villa sales and rentals",
+                        "Emaar Properties",
+                        "Arabian Ranches",
+                        "Emirates Living",
+                        "Victory Heights",
+                        "Mira",
+                        "Mudon",
+                        "Barari ",
+                        "Arabian Ranches 2 ",
+                        "Sustainable city ",
+                        "Lantana",
+                        "Dubai Sports City ",
+                        "Motor City "
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.househuntersdubai.com"
+            }
+        ]
+    }
+}

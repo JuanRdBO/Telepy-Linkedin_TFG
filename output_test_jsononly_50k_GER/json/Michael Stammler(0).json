@@ -1,0 +1,46 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 3849805,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stolberg",
+                                "postalCode": "52222",
+                                "street1": "Untere Donnerbergstrasse 57"
+                            },
+                            "contactInfo": {
+                                "phone1": "+ 49 (0) 2402 / 12 47 644"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "S.P.A.C.E. Michael Stammler",
+                "numFollowers": 1,
+                "websiteUrl": "www.s-p-a-c-e.de"
+            }
+        ]
+    }
+}

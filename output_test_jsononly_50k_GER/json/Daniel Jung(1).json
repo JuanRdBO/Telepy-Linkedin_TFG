@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 11,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2017,
+                "id": 11291913,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": "50667",
+                                "street1": "Marzellenstra\u00dfe 2-6"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Daniel Jung Academy | Education & Media",
+                "numFollowers": 70,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "social media",
+                        "mobile",
+                        "Video production",
+                        "digital education",
+                        "digital strategy und social strategy",
+                        "storytelling",
+                        "YouTube",
+                        "Coaching",
+                        "Consulting",
+                        "Marketing",
+                        "Corporate communication",
+                        "Trainings"
+                    ]
+                },
+                "websiteUrl": "http://danieljung.academy"
+            }
+        ]
+    }
+}

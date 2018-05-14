@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 27,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 4561782,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Minneapolis",
+                                "postalCode": "55409-1720",
+                                "street1": "4349 Fremont Ave S"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 6128226115"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Peter Beck Photography",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.peterbeck.com/"
+            }
+        ]
+    }
+}

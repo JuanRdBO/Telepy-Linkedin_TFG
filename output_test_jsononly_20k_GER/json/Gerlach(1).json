@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 303,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1881,
+                "id": 134983,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "134",
+                            "name": "Importar y exportar"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Venlo",
+                                "postalCode": "5928 LL",
+                                "street1": "Van Heemskerckweg 6"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+31-(0)77-3246512"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gerlach & Co BV / NV",
+                "numFollowers": 771,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Douane services",
+                        "Consultancy",
+                        "Detachering",
+                        "Additionele douane services"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.gerlachcs.com"
+            }
+        ]
+    }
+}

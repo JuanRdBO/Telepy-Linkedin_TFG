@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 31,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1953,
+                "id": 1383113,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "103",
+                            "name": "Redacci\u00f3n y revisi\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10001",
+                                "street1": "544 West 27th Street (Floor 3)"
+                            },
+                            "contactInfo": {
+                                "fax": "(212) 343-1988",
+                                "phone1": "(212) 343-1333"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "The Paris Review",
+                "numFollowers": 6213,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "parisreview",
+                "websiteUrl": "http://www.theparisreview.org/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 59,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 2009,
+                "id": 2840691,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Curitiba",
+                                "postalCode": "80010-010",
+                                "street1": "Rua Marechal Deodoro, 717, 3\u00ba, 4\u00ba, 5\u00ba, 9\u00ba, 13\u00ba andar, Centro"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "MadeiraMadeira",
+                "numFollowers": 7848,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "E-commrerce",
+                        "Varejo",
+                        "Design",
+                        "Decora\u00e7\u00e3o",
+                        "M\u00f3veis",
+                        "Materiais de constru\u00e7\u00e3o",
+                        "Ilumina\u00e7\u00e3o",
+                        "Acabamentos e revestimentos",
+                        "Utilidades Dom\u00e9sticas",
+                        "Eletrodom\u00e9sticos",
+                        "Internet",
+                        "Tecnologia",
+                        "Logistica"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://bit.ly/sitemadeiramadeira"
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 162,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2004,
+                "id": 5314590,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70182",
+                                "street1": "Kernerstrasse 50"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Seattle",
+                                "postalCode": "98121",
+                                "street1": "2211 Elliott Ave."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "\u0130stanbul",
+                                "street1": "Fatih Mh. \u0130zmir Cd. No 23 D. 5"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "135 Bonham Strand Trade Centre",
+                                "postalCode": "135 Bonham Strand East",
+                                "street1": "Suite 1 & 2 24/F"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Theobald Software",
+                "numFollowers": 204,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "SAP Connectivity",
+                        "Process Integration",
+                        "Business Application Software",
+                        "Business Intelligence Performance"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.theobald-software.com"
+            }
+        ]
+    }
+}

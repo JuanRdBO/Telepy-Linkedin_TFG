@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 873,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1979,
+                "id": 990009,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "15",
+                            "name": "Industria farmac\u00e9utica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mumbai",
+                                "postalCode": "400 059",
+                                "street1": "S-86, IBI House , Near Intl Airport, Chimatpada, Marol Naka, Andheri (E)"
+                            },
+                            "contactInfo": {
+                                "fax": "022 28503153",
+                                "phone1": "022 42252000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "BEC Chemicals Pvt. Ltd.",
+                "numFollowers": 4955,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Active pharmaceutical Ingredients",
+                        "Intermediates",
+                        "Ketoprofen",
+                        "Mesalamine / Mesalazine",
+                        "Ketoprofen Nitrile",
+                        "Amino Salicylic Acid",
+                        "Bulk drugs"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.becchemicals.com"
+            }
+        ]
+    }
+}

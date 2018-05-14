@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12196446,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankenhardt",
+                                "postalCode": "74586",
+                                "street1": "19 Lange Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7959924788"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Andreas Brauer",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.musikschule-notentreff.de"
+            }
+        ]
+    }
+}

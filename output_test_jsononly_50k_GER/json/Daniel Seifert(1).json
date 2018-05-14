@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12349931,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sch\u00f6nebeck (Elbe)",
+                                "postalCode": "39218",
+                                "street1": "25 Elbstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3928469571"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "LVM-Versicherungsagentur Daniel Seifert",
+                "numFollowers": 0,
+                "websiteUrl": "http://seifert.lvm.de"
+            }
+        ]
+    }
+}

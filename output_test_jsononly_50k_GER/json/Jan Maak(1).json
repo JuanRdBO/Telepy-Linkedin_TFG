@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 31,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2012,
+                "id": 2969586,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Middelburg",
+                                "postalCode": "4335 XA",
+                                "street1": "De Krammer 12"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0118-640186"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Jan-Willem Wisse",
+                "numFollowers": 15,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Training MKB Ondernemingen",
+                        "Coaching Ondernemers / Managers",
+                        "Salestrainingen",
+                        "Opleidingspakketten MKB / ZZP"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.janwillemwisse.com"
+            }
+        ]
+    }
+}

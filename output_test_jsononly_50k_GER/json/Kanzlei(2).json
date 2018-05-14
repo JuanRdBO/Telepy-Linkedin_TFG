@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 2975,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 9852389,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Essen",
+                                "postalCode": "45131",
+                                "street1": "Alfredstr. 102"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 201859783"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Kanzlei Voigt Rechtsanwalts GmbH",
+                "numFollowers": 23,
+                "websiteUrl": "http://www.kanzlei-voigt.de"
+            }
+        ]
+    }
+}

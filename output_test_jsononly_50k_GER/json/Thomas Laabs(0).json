@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1985,
+                "id": 385262,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "18",
+                            "name": "Cosm\u00e9tica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ahlen",
+                                "postalCode": "59227",
+                                "street1": "Kruppstra\u00dfe 55"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0)2382 7060 287",
+                                "phone1": "+49 (0)2382 7060 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "LR Health & Beauty Systems GmbH",
+                "numFollowers": 10464,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Beauty",
+                        "Health",
+                        "Direktvertrieb"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.lrworld.com/de/impressum/"
+            }
+        ]
+    }
+}

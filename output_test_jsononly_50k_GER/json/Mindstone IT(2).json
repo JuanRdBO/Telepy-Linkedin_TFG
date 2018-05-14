@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2016,
+                "id": 13266581,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Noida",
+                                "postalCode": "201301",
+                                "street1": "C71 Sector 2"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Mindstone Maven LLP",
+                "numFollowers": 40,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Financial Advisory and Syndication",
+                        "IT Management",
+                        "Customer Relationship Management",
+                        "Supply Chain Management",
+                        "Finance and Management Control",
+                        "Banking & Financial Industry",
+                        "Operations and Project Management",
+                        "Management Strategy",
+                        "Business Transformation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.mindstone.in"
+            }
+        ]
+    }
+}

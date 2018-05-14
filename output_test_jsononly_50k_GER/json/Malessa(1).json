@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7362521,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "T\u00fcbingen",
+                                "postalCode": "72072",
+                                "street1": "4 Lilli-Zapf-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0707184627"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rolf Malessa Architekt",
+                "numFollowers": 1,
+                "websiteUrl": "malessaarchitekten.de"
+            }
+        ]
+    }
+}

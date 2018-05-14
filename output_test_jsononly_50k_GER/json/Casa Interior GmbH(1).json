@@ -1,0 +1,120 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "id": 25025099,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "112",
+                            "name": "Manufactura el\u00e9ctrica y electr\u00f3nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 7,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Santiago",
+                                "postalCode": "8560027",
+                                "street1": "AV. AMERICO VESPUCIO NORTE 1930, CONCHAL\u00cd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Santiago",
+                                "postalCode": "7591572",
+                                "street1": "AV. LAS CONDES 8920"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Santiago",
+                                "postalCode": "7760196",
+                                "street1": "AV. GRECIA 3348, LOC. 2, \u00d1U\u00d1OA"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Concepci\u00f3n",
+                                "postalCode": "0",
+                                "street1": "PAICAV\u00cd 1725"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Vi\u00f1a del Mar",
+                                "postalCode": "0",
+                                "street1": "VISTA HERMOSA N\u00b0 7"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Antofagasta",
+                                "postalCode": "0",
+                                "street1": "ANTONINO TORO 742"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Iquique",
+                                "postalCode": "0",
+                                "street1": "MALL ZOFRI, MOD. 1116/1117"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "EGLO Chile",
+                "numFollowers": 21,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Iluminaci\u00f3n",
+                        "L\u00e1mparas",
+                        "LED",
+                        "Decoraci\u00f3n",
+                        "Luminaria"
+                    ]
+                },
+                "websiteUrl": "http://www.eglo.cl"
+            }
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 24,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1981,
+                "id": 1474374,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "19",
+                            "name": "Industria textil y moda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Arnedo",
+                                "postalCode": "26580",
+                                "street1": "Ctra. de Pr\u00e9jano, 35"
+                            },
+                            "contactInfo": {
+                                "phone1": "941382712"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "GRUPO PITILLOS",
+                "numFollowers": 1269,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Fabricaci\u00f3n de calzado de se\u00f1ora y caballero",
+                        "Calzado",
+                        "Zapatos y Botas de cuero",
+                        "Calzado Confort ",
+                        "Shoemaking",
+                        "Leather Crafting",
+                        "Design y Production",
+                        "Shoes",
+                        "Innovation Through Technology",
+                        "Wellness"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.grupopitillos.com"
+            }
+        ]
+    }
+}

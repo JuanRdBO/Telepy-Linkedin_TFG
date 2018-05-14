@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12299274,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lauchheim",
+                                "postalCode": "73466",
+                                "street1": "101 H\u00e4rtsfeldstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 73635424"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ralf Pokorny Steinmetz- Und Steinbildhauermeister",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.steinmetz-pokorny.de"
+            }
+        ]
+    }
+}

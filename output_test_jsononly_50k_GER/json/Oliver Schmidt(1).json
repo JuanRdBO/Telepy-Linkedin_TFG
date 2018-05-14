@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 25,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7453844,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "18",
+                            "name": "Cosm\u00e9tica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Meerbusch",
+                                "postalCode": "40667",
+                                "street1": "2 Auf Den Steinen"
+                            },
+                            "contactInfo": {
+                                "phone1": "02132914750"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Oliver Schmidt Hairdesign",
+                "numFollowers": 2,
+                "websiteUrl": "oliver-schmidt-hairdesign.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 24,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12299210,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hanau",
+                                "postalCode": "63450",
+                                "street1": "6 M\u00fchlstra\u00dfe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fahrschule Christian Schneider",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.fahrschule-schneider-hanau.de"
+            }
+        ]
+    }
+}

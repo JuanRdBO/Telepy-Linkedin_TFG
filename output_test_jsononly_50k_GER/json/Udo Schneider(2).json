@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7366010,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Weimar",
+                                "postalCode": "99423",
+                                "street1": "27 Jakobstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "036434920620"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ERGO Versicherung Udo Schneider",
+                "numFollowers": 0,
+                "websiteUrl": "udo.schneider.ergo.de"
+            }
+        ]
+    }
+}

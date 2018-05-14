@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7431205,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gotha",
+                                "postalCode": "99867",
+                                "street1": "1 M\u00fchlgrabenweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "03621300909"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Taxi- Und Mietwagen Karsten Fischer",
+                "numFollowers": 0,
+                "websiteUrl": "taxi-fischer-gotha.de"
+            }
+        ]
+    }
+}

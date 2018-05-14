@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12541640,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Herten, Westfalen",
+                                "postalCode": "45699",
+                                "street1": "325 Hohewardstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2366181170"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "YALCINAK GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.yalcinak-gmbh.de"
+            }
+        ]
+    }
+}

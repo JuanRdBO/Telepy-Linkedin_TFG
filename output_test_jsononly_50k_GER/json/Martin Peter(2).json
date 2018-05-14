@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 187,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2011,
+                "id": 1746011,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "35",
+                            "name": "Pel\u00edculas y cine"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "beijing",
+                                "postalCode": "100022",
+                                "street1": "\u5317\u4eac\u5e02\u671d\u9633\u533a\u5efa\u56fd\u95e8\u5916\u5927\u88572\u53f7, \u94f6\u6cf0\u4e2d\u5fc3C \u5ea7\u5199\u5b57\u697c15\u5c42\uff0c\u90ae\u7f16100022"
+                            },
+                            "contactInfo": {
+                                "fax": "+86 10 6563 7999",
+                                "phone1": "86 10 6563 7819"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Aiwan Entertainment \u7231\u73a9\u5927\u4e1a",
+                "numFollowers": 45506,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Film financing & development",
+                        "feature film co-productions",
+                        "international concerts, shows and music festivals.",
+                        "product placement, title sponsorship in films and live events",
+                        "Import films&music \u7535\u5f71\u548c\u97f3\u4e50\u5f15\u8fdb\u6743\u4ee3\u7406"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7453726,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Neuhausen/Spree",
+                                "postalCode": "03058",
+                                "street1": "10 Dr.-Sauer-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "03560540480"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Spedition J\u00fcrgen Lehmann GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "spedition-lehmann.de"
+            }
+        ]
+    }
+}

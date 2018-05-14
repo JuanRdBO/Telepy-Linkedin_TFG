@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7496762,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Langewiesen",
+                                "postalCode": "98704",
+                                "street1": "41 In Den Folgen"
+                            },
+                            "contactInfo": {
+                                "phone1": "03677800000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dietmar Schmidt GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "baeder-heizung-schmidt.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 89,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1995,
+                "id": 3675481,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Calgary",
+                                "postalCode": "",
+                                "street1": "Downtown"
+                            },
+                            "contactInfo": {
+                                "fax": "+1 403 770 8832",
+                                "phone1": "+1 855 999 6006"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "AM IT Solutions INC.",
+                "numFollowers": 35,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Custom Website Design",
+                        "E Commerce Solutions",
+                        "Custom Software",
+                        "Hosting Service and Domain Registrations",
+                        "SSL Certificates"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://amitsolutionsinc.com"
+            }
+        ]
+    }
+}

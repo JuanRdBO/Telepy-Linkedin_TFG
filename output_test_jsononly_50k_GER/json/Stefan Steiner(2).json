@@ -1,0 +1,84 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2008,
+                "id": 2037035,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "105",
+                            "name": "Formaci\u00f3n profesional"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Thalwil",
+                                "postalCode": "8800",
+                                "street1": "Florastrasse 13"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Lausanne",
+                                "postalCode": "1007",
+                                "street1": "Chemin de Primerose"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "The Coaching Group of Switzerland",
+                "numFollowers": 86,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Executive Coaching",
+                        "Team Coaching",
+                        "Life Coaching",
+                        "Personal Development",
+                        "Time Management",
+                        "NLP Coaching",
+                        "SCOAP Coach",
+                        "Communication Coach",
+                        "Fitness Coaching",
+                        "Personal Training",
+                        "Stress Management",
+                        "Work Life Balance",
+                        "Performance Coaching"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.coachgroupofch.ch"
+            }
+        ]
+    }
+}

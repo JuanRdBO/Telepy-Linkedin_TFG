@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 242,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12190258,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Schmallenberg",
+                                "postalCode": "57392",
+                                "street1": "9 Buchhagenweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 29746323"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Siebert",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.siebert-art.de"
+            }
+        ]
+    }
+}

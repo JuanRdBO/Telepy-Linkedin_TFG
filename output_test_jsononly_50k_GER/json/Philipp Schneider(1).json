@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7373609,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wardenburg",
+                                "postalCode": "26203",
+                                "street1": "26 Georg-Droste-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "01746616668"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Philipp Schneider Elektrotechnik",
+                "numFollowers": 1,
+                "websiteUrl": "e-technik-schneider.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2014,
+                "id": 3793072,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Huixquilucan",
+                                "postalCode": "52786",
+                                "street1": "De la Amargura 60 Piso 1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+52 (55) 2452-9200"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Outclever",
+                "numFollowers": 7,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Marketing para PyMES",
+                        "Marketing para empresas de tecnolog\u00edas de la informaci\u00f3n",
+                        "Duct Tape Marketing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.outclever.com"
+            }
+        ]
+    }
+}

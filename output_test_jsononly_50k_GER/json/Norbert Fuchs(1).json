@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12540696,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hohenroth",
+                                "postalCode": "97618",
+                                "street1": "7 Solzbachstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 97714761"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schreinerei Norbert Fuchs",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.schreinerei-fuchs.eu"
+            }
+        ]
+    }
+}

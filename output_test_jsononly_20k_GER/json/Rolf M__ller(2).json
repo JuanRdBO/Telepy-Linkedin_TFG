@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7352566,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Willst\u00e4tt",
+                                "postalCode": "77731",
+                                "street1": "2 Gartenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "07852937031"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rolf M\u00fcller Vertretungen",
+                "numFollowers": 2,
+                "websiteUrl": "rm-spielgeraete.de"
+            }
+        ]
+    }
+}

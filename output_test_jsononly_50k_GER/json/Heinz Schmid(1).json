@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12461336,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ulm",
+                                "postalCode": "89081",
+                                "street1": "7 Industriestra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7316023342"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Karl-Heinz Schmid",
+                "numFollowers": 0,
+                "websiteUrl": "http://blowerdoor.schmid-ul.de"
+            }
+        ]
+    }
+}

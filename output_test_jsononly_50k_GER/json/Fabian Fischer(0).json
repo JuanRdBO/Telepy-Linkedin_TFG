@@ -1,0 +1,91 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1923,
+                "id": 2793468,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Madrid",
+                                "postalCode": "28005",
+                                "street1": "Ba\u00f1os de Montemayor, 5. 28005. Madrid"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "91 517 97 36"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Madrid",
+                                "postalCode": "28019",
+                                "street1": "Julio Domingo, 35 28019"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "914602201"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Madrid",
+                                "postalCode": "28005",
+                                "street1": "C/ Pozuelo de Zarzon, 4-6"
+                            },
+                            "contactInfo": {
+                                "fax": "+34 91 517 42 51",
+                                "phone1": "+34 91 517 27 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Group Excelsior",
+                "numFollowers": 392,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Manufacturing, Exportation, Installing, Maintaining, and Refurbishing Services of all kind of Elevators, Platforms, Freight Elevators, Dumbwaiters, Stairlifts, Wheelchair Lifts, Car lifts, Home Lift and Vertical Platforms Lift."
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.grupoexcelsior.com"
+            }
+        ]
+    }
+}

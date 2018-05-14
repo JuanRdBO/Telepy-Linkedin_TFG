@@ -1,0 +1,53 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 15527,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1974,
+                "id": 3555675,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "118",
+                            "name": "Seguridad del ordenador y de las redes"
+                        }
+                    ]
+                },
+                "name": "A & E Security and Electronic Solutions",
+                "numFollowers": 83,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "intrusion + fire alarms",
+                        "video surveillance",
+                        "medical alert",
+                        "business phones",
+                        "z-wave",
+                        "locks + keys + safes",
+                        "smartphone connectivity + monitoring"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.4security.org/"
+            }
+        ]
+    }
+}

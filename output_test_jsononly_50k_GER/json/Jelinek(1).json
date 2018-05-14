@@ -1,0 +1,117 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 43,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1855,
+                "id": 1171400,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oakville",
+                                "postalCode": "L6L 2X8",
+                                "street1": "2260 Speers Road"
+                            },
+                            "contactInfo": {
+                                "fax": "905-827-6707",
+                                "phone1": "905-827-4666"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Bath",
+                                "postalCode": "BA1 2HA",
+                                "street1": "1 Queen Square"
+                            },
+                            "contactInfo": {
+                                "fax": "08450 896029",
+                                "phone1": "01225 904560"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Savannah",
+                                "postalCode": "31401",
+                                "street1": "101 N Fahm St"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "912-234-2530"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Ovar",
+                                "postalCode": "3880-108",
+                                "street1": "Rua do Brasil N.\u00ba 244"
+                            },
+                            "contactInfo": {
+                                "fax": "+351 256 586 075",
+                                "phone1": "+351 256 586 077"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bratislava",
+                                "postalCode": "831 04",
+                                "street1": "Vajnorska 134/B"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+421 2 534 180 12"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Jelinek Cork Group",
+                "numFollowers": 108,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "cork products"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.jelinek.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 81,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 2012,
+                "id": 2867931,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "57",
+                            "name": "Petr\u00f3leo y energ\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Tulsa",
+                                "postalCode": "74105",
+                                "street1": "5727 South Lewis Ave"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Tulsa",
+                                "postalCode": "74105",
+                                "street1": "5727 South Lewis Ave"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Giddings",
+                                "postalCode": "78942",
+                                "street1": "1743 S. US Hwy 77"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "979-542-3813"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Calgary",
+                                "postalCode": "T2H 0K2",
+                                "street1": "5920 Macleod Trail SW"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+1-403-457-3415"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Cypress Energy Partners",
+                "numFollowers": 2456,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Salt Water Disposal",
+                        "SWDs, SWD's",
+                        "Pipeline Inspection and Integrity",
+                        "Oil and Gas Environmental Services"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.cypressenergy.com"
+            }
+        ]
+    }
+}

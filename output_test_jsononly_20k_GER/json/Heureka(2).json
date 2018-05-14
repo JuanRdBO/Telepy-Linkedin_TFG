@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 67,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2007,
+                "id": 1492370,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Praha, Liberec",
+                                "postalCode": "186 00, 460 01",
+                                "street1": "Praha - Danube House, Karolinsk\u00e1 650/1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Heureka.cz / sk",
+                "numFollowers": 645,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "N\u00e1kupn\u00ed r\u00e1dce",
+                        "Nakupov\u00e1n\u00ed",
+                        "Cenov\u00fd srovn\u00e1va\u010d",
+                        "N\u00e1kup s p\u0159ehledem",
+                        "Hodnocen\u00ed e-shop\u016f ",
+                        "Ov\u011b\u0159eno z\u00e1kazn\u00edky",
+                        "Recenze"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "http://twitter.com/heurekacz",
+                "websiteUrl": "http://www.heureka.cz"
+            }
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2017,
+                "id": 28131129,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "126",
+                            "name": "Producci\u00f3n multimedia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oslo",
+                                "postalCode": "0101",
+                                "street1": "Tordenskiolds gate 3"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Maverix AS",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Film",
+                        "Reklame",
+                        "Strategi",
+                        "Dronefilming",
+                        "TV produksjoner",
+                        "Profilfilmer",
+                        "Storytelling"
+                    ]
+                },
+                "websiteUrl": "https://www.facebook.com/houseofmaverix/"
+            }
+        ]
+    }
+}

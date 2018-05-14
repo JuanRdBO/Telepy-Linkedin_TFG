@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 1390,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2010,
+                "id": 3295130,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "115",
+                            "name": "M\u00fasica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Conover",
+                                "postalCode": "28613",
+                                "street1": "201 1st Street E #386"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "828-461-0910"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Pipe Organ Tuning and Service",
+                "numFollowers": 18,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Organ Tuning",
+                        "Organ Service",
+                        "Organ Repair",
+                        "Organ Maintenance"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.pipeorgantuner.com"
+            }
+        ]
+    }
+}

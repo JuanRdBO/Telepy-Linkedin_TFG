@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 41,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2009,
+                "id": 1518179,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "98",
+                            "name": "Relaciones p\u00fablicas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sydney",
+                                "postalCode": "2009",
+                                "street1": "Level 2, 100 Harris Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+61 2 8202 0555"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Frank PR Australia",
+                "numFollowers": 1073,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Marketing Communications",
+                        "Social and Digital Communications",
+                        "Experiential",
+                        "Media Relations",
+                        "Event Management",
+                        "FMCG",
+                        "Travel & Tourism",
+                        "Entertainment",
+                        "Consumer Technology",
+                        "Creative",
+                        "Strategic Communications",
+                        "Issues and Crisis Management",
+                        "Media Evaluation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.frankpr.com.au"
+            }
+        ]
+    }
+}

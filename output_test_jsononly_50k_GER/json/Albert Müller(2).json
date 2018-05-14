@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 14,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12730324,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Olching",
+                                "postalCode": "82140",
+                                "street1": "22 Johann-G.-Gutenberg-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 8142492"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sea Albert M\u00fcller GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.sea-albert-mueller.de"
+            }
+        ]
+    }
+}

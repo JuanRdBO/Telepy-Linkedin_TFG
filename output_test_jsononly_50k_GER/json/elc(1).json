@@ -1,0 +1,108 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 372,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 1363972,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "15",
+                            "name": "Industria farmac\u00e9utica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Prague",
+                                "postalCode": "18600",
+                                "street1": "Karolinsk\u00e1 650/1"
+                            },
+                            "contactInfo": {
+                                "fax": "+44 1223 597 935",
+                                "phone1": "+44 1223 597 935"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Ambavadi Ahmedabad",
+                                "postalCode": "",
+                                "street1": "605 Kaivanna Building, Ambavadi Circle"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+91-79-40241999"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Prague",
+                                "postalCode": "110 00",
+                                "street1": "Krakovska 9"
+                            },
+                            "contactInfo": {
+                                "fax": "+420 22 491 06 71",
+                                "phone1": "+420 22 491 00 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Cluj-Napoca",
+                                "postalCode": "400193",
+                                "street1": "calea Turzii 101"
+                            },
+                            "contactInfo": {
+                                "fax": "0040364140824",
+                                "phone1": "0040364140825"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ELC GROUP",
+                "numFollowers": 3648,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Regulatory Affairs Services",
+                        "Clinical Trials",
+                        "Language services and Translations, DTP",
+                        "REACH (Registration, Evaluation, Authorisation and Restriction of Chemicals)",
+                        "XEVMPD software",
+                        "Global Regulatory Consulting for Medical Device and IVD Companies"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "http://twitter.com/#!/ELC_GROUP",
+                "websiteUrl": "www.elc-group.com"
+            }
+        ]
+    }
+}

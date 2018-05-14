@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2016,
+                "id": 18328250,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "L\u00f8gumkloster",
+                                "postalCode": "6240",
+                                "street1": "Vinumvej 3"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Auktionshuset S\u00f8nderjylland ApS",
+                "numFollowers": 0,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Auktioner",
+                        "Salg af varer",
+                        "Konkursauktioner",
+                        "Arrangement",
+                        "Hoppeborg",
+                        "Online auktioner",
+                        "Formidling mellem k\u00f8ber og s\u00e6lger",
+                        "Maskinsalg",
+                        "V\u00e6rkt\u00f8j"
+                    ]
+                },
+                "websiteUrl": "www.auktionshusetsonderjylland.dk"
+            }
+        ]
+    }
+}

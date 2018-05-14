@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 68,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12521210,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Seukendorf",
+                                "postalCode": "90556",
+                                "street1": "Am Seukenbach 6A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 91037907848"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "EDV-Systems",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.edv-systems.de"
+            }
+        ]
+    }
+}

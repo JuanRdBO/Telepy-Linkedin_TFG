@@ -1,0 +1,76 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 32,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2003,
+                "id": 27148480,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "14",
+                            "name": "Atenci\u00f3n sanitaria y hospitalaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Milford",
+                                "postalCode": "06460",
+                                "street1": "243 Broad Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Robert T. Kroepel, Jr. D.M.D. P.C.",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 20,
+                    "values": [
+                        "Tooth Bonding",
+                        "Dental Crowns",
+                        "Dental Bridgework",
+                        "Resin Fillings",
+                        "Oral Cancer Screening",
+                        "Periodontal Disease Therapy",
+                        "Porcelain Veneers",
+                        "Teeth Cleanings and Exams",
+                        "Dentures",
+                        "Root Canal Therapy",
+                        "Teeth Whitening",
+                        "TMJ Treatment",
+                        "Tooth Extractions",
+                        "Cosmetic Dentistry",
+                        "Scaling and Root Planing",
+                        "Anti-Snoring Oral Appliance Treatments",
+                        "Home Sleep Study",
+                        "Sleep Apnea Oral Appliance Treatments",
+                        "Bruxism (Tooth Grinding) Treatment",
+                        "Oral Cancer Screenings"
+                    ]
+                },
+                "websiteUrl": "MilfordCTDental.com"
+            }
+        ]
+    }
+}

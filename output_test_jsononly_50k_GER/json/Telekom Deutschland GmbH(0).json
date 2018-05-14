@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 36,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1991,
+                "id": 45188,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "81249",
+                                "street1": "Clarita-Bernhard-Stra\u00dfe 27"
+                            },
+                            "contactInfo": {
+                                "fax": "+4989747257-900",
+                                "phone1": "+4989747257-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "SHS VIVEON AG",
+                "numFollowers": 1147,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Customer Management",
+                        "Customer Risk Management",
+                        "Credit Management",
+                        "CRM",
+                        "Risk Management",
+                        "Digital Marketing",
+                        "Fraud Prevention",
+                        "Microsoft Dynamics 365",
+                        "Adobe Campaign",
+                        "Marketing Automation",
+                        "Vertriebssteuerung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "SHS_VIVEON",
+                "websiteUrl": "www.shs-viveon.com"
+            }
+        ]
+    }
+}

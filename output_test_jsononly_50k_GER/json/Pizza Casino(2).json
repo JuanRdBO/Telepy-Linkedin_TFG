@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 19,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1999,
+                "id": 154855,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "29",
+                            "name": "Apuestas y casinos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "W6 0LE",
+                                "street1": "The Aircraft Factory,"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Oddschecker",
+                "numFollowers": 3772,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Odds Comparison",
+                        "Betting",
+                        "Gaming",
+                        "Sportsbook",
+                        "Online Casino",
+                        "Gambling"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.oddschecker.com"
+            }
+        ]
+    }
+}

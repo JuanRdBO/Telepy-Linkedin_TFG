@@ -1,0 +1,98 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2015,
+                "id": 10188086,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Leeds",
+                                "postalCode": "LS1 6DE",
+                                "street1": "30 Central Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0113 243 3294"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Leeds",
+                                "postalCode": "LS8 2AL",
+                                "street1": "86 Street Lane"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0330 111 4077"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Harrogate",
+                                "postalCode": "HG1 5AT",
+                                "street1": "4 Westmoreland Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0330 111 4077"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Manchester",
+                                "postalCode": "M3 3FL",
+                                "street1": "The Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0330 111 4077"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Cryotherapy UK",
+                "numFollowers": 85,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.cryotherapyuk.co.uk"
+            }
+        ]
+    }
+}

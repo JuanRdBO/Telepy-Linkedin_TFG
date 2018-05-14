@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1858,
+                "id": 3991498,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "32",
+                            "name": "Restaurantes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "CABA",
+                                "postalCode": "1084",
+                                "street1": "Avenida de Mayo 829"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "4342-4328"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gran Cafe Tortoni",
+                "numFollowers": 54,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Chocolate con Churros",
+                        "Leche Merengada",
+                        "Picadas"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.cafetortoni.com.ar"
+            }
+        ]
+    }
+}

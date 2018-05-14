@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12870399,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80634",
+                                "street1": "199 Arnulfstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 8920078732"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Robotico Bernhard Widmann",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.robotico.de"
+            }
+        ]
+    }
+}

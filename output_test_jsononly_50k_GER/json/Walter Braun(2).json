@@ -1,0 +1,32 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 25841613,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "PARIS",
+                                "postalCode": "75009",
+                                "street1": "53 RUE LA FAYETTE"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "CHARLES FRED + BRAUN ET FILS WALTER ET HERBERT BRAUN",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

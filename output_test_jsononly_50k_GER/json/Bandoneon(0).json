@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 12,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1882,
+                "id": 398711,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "32",
+                            "name": "Restaurantes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Montevideo",
+                                "postalCode": "11100",
+                                "street1": "18 de Julio 1249"
+                            },
+                            "contactInfo": {
+                                "fax": "(598) 2 9028828",
+                                "phone1": "(598) 2 9087741"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bar FACAL",
+                "numFollowers": 60,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Gastronom\u00eda -"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.facal.com.uy"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7564085,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "20",
+                            "name": "Art\u00edculos deportivos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad Hersfeld",
+                                "postalCode": "36251",
+                                "street1": "9 Frankfurter Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "066219689615"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fahrradhandlung Angelika Riebold",
+                "numFollowers": 1,
+                "websiteUrl": "riebold-fahrrad.de"
+            }
+        ]
+    }
+}

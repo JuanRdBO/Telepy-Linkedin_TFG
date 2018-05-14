@@ -1,0 +1,95 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 78,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1957,
+                "id": 10352693,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "R\u00f6thenbach",
+                                "postalCode": "88167",
+                                "street1": "Am Eisenberg 1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Charlotte",
+                                "postalCode": "28278",
+                                "street1": "11825 Westhall Dr"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Kunshan",
+                                "postalCode": "",
+                                "street1": "329 Ju Jin Lu"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "PFAFF Werkzeug- und Formenbau GmbH & Co. KG",
+                "numFollowers": 31,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Werkzeug- und Formenbau",
+                        "Artikelentwicklung / -konstruktion",
+                        "Engineering CAD / CAM",
+                        "CNC",
+                        "Projektmanagement"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.pfaff-mold.de"
+            }
+        ]
+    }
+}

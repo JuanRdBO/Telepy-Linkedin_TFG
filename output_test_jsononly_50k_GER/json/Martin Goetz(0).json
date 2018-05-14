@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1884,
+                "id": 2099816,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gelsenkirchen",
+                                "postalCode": "45884",
+                                "street1": "Achternbergstr. 38a"
+                            },
+                            "contactInfo": {
+                                "fax": "+492099132178",
+                                "phone1": "+4920991320"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "August Friedberg GmbH",
+                "numFollowers": 166,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Renewable Energy Wind - \u201cWind Fasteners\u201d from tower base to rotor blade",
+                        "high tensile sets of bolts, nuts and washers for high strength friction grip fastening",
+                        "Automotive customized parts - fastening systems and formed parts"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.august-friedberg.com"
+            }
+        ]
+    }
+}

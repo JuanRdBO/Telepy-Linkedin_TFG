@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1993,
+                "id": 2795683,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "N\u00fcrnberg",
+                                "postalCode": "90471",
+                                "street1": "Thomas-Mann-Stra\u00dfe 16-20"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 911 9352 100",
+                                "phone1": "+49 911 93520"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "noris network AG",
+                "numFollowers": 347,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "IT-Outsourcing ",
+                        "Network & Security",
+                        "Cloud Services ",
+                        "Managed IT-Services ",
+                        "Hochsicherheitsrechenzentren ",
+                        "Colocation ",
+                        "zertifizierte Rechenzentren ",
+                        "Hochleistungsbackbone "
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.noris.de"
+            }
+        ]
+    }
+}

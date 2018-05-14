@@ -1,0 +1,107 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1983,
+                "id": 10792912,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Casablanca",
+                                "postalCode": "20000",
+                                "street1": "4, Rue Turgot Quartier Racine"
+                            },
+                            "contactInfo": {
+                                "fax": "+212 5 22 36 19 85",
+                                "phone1": "+212 5 22 36 13 04"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Marrakech",
+                                "postalCode": "40000",
+                                "street1": "61, rue Yougoslavie passage Ghandouri Im F Gu\u00e9liz"
+                            },
+                            "contactInfo": {
+                                "fax": "+212 5 24 43 67 57",
+                                "phone1": "+212 5 24 43 67 46"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Agadir",
+                                "postalCode": "80000",
+                                "street1": "16, rue de l\u2019H\u00f4tel de Ville Im. Jamal 4\u00e8me \u00e9tage"
+                            },
+                            "contactInfo": {
+                                "fax": "+212 5 28 82 69 44",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Tunise",
+                                "postalCode": "ARIANA",
+                                "street1": "20 Rue des Entrepreneurs Immeuble HERTZ \u2013 2\u00e8me Etage Bloc A ZI Charguia 2 Ariana"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+216 71 94 13 96"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "S'TOURS",
+                "numFollowers": 223,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "MICE (Conventions, Congr\u00e8s et S\u00e9minaires)",
+                        "Voyages d'Affaires",
+                        "Tour Operating & Circuit sur Mesure",
+                        "Ev\u00e9nements Sportifs"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.stoursvoyages.com"
+            }
+        ]
+    }
+}

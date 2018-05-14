@@ -1,0 +1,96 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 27,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1997,
+                "id": 5226409,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "100",
+                            "name": "Gesti\u00f3n de organizaciones sin \u00e1nimo de lucro"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "St. Croix Falls",
+                                "postalCode": "54024",
+                                "street1": "2201 US Hwy 8"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "715-483-2700"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Spooner",
+                                "postalCode": "54801",
+                                "street1": "805 S. River St."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "715-635-4771"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "St. Croix Falls",
+                                "postalCode": "54024",
+                                "street1": "2201 US Hwy 8"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "715-483-2700"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Wild Rivers Habitat for Humanity",
+                "numFollowers": 36,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Construction",
+                        "Community Building",
+                        "Retail",
+                        "Fundraising",
+                        "Mortgage Management",
+                        "Volunteer Coordinating"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.wildrivershabitat.org"
+            }
+        ]
+    }
+}

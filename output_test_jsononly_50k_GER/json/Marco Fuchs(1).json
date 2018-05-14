@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2004,
+                "id": 1386459,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "1",
+                            "name": "Departamento de defensa y del espacio exterior"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Betzdorf",
+                                "postalCode": "L-6832",
+                                "street1": "9, Rue Pierre Werner"
+                            },
+                            "contactInfo": {
+                                "fax": "+352 2678904049",
+                                "phone1": "+352 2678904000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "LuxSpace Sarl",
+                "numFollowers": 1183,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.luxspace.lu"
+            }
+        ]
+    }
+}

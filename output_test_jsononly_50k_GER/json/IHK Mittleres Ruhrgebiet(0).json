@@ -1,0 +1,46 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 5942451,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "75",
+                            "name": "Administraci\u00f3n gubernamental"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bochum",
+                                "postalCode": "44787",
+                                "street1": "30 Ostring"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 23491130"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "IHK Mittleres Ruhrgebiet",
+                "numFollowers": 30,
+                "websiteUrl": "http://www.bochum.ihk.de"
+            }
+        ]
+    }
+}

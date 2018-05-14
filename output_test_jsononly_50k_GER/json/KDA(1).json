@@ -1,0 +1,124 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 118,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1964,
+                "id": 19603,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pittsburgh",
+                                "postalCode": "15222",
+                                "street1": "444 Liberty Ave, Suite 1100"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "412-316-8000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Culver City",
+                                "postalCode": "90230",
+                                "street1": "6101 W. Centinela, Suite 345"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Louisville",
+                                "postalCode": "40222",
+                                "street1": "6980 Hurstborne Parkway, Suite 210"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Milwaukee",
+                                "postalCode": "53217",
+                                "street1": "6980 N. Port Washington Road, Suite 210"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Overland Park",
+                                "postalCode": "66211",
+                                "street1": "7015 College Blvd"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "913-344-1900"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "KDA Group Inc.",
+                "numFollowers": 442,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Local Marketing",
+                        "Local Brand Activation",
+                        "Online and Offline Advertising Campaigns",
+                        "New Media Distribution",
+                        "Search Engine Marketing",
+                        "Search Engine Optimization",
+                        "Website Development",
+                        "Social Media Management"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.kda.com"
+            }
+        ]
+    }
+}

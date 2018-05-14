@@ -1,0 +1,81 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2013,
+                "id": 10525505,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Barbara",
+                                "postalCode": "60010",
+                                "street1": "Via E. Montale 14/c"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+39 071 96 74 218"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Serra de'\u200b Conti",
+                                "postalCode": "60030",
+                                "street1": "Via Madonna del Piano 46/b"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+39 071 96 74 218"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Digimark srls",
+                "numFollowers": 12,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Progettazione/Sviluppo Software",
+                        "Programmazione PLC/HMI",
+                        "Progettazione/Sviluppo piattaforme Hardware",
+                        "IoF solutions"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.digimarksrl.com/"
+            }
+        ]
+    }
+}

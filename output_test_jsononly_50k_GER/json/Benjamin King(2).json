@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 16,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 753480,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "47",
+                            "name": "Contabilidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Camberwell",
+                                "postalCode": "3124",
+                                "street1": "Level 3, 689 Burke Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "03 9804 0411"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "DFK Benjamin King Money",
+                "numFollowers": 229,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Tax Accounting",
+                        "Business Advisory",
+                        "Wealth Creation",
+                        "Superannuation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.dfkbkm.com.au"
+            }
+        ]
+    }
+}

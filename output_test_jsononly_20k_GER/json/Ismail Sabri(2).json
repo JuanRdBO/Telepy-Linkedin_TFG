@@ -1,0 +1,86 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2012,
+                "id": 6587057,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "10",
+                            "name": "Servicios jur\u00eddicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Puchong",
+                                "postalCode": "47100",
+                                "street1": "No. 4A (1st Floor)"
+                            },
+                            "contactInfo": {
+                                "fax": "+603 8070 7425",
+                                "phone1": "+603 8070 9513"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Kuching",
+                                "postalCode": "93400",
+                                "street1": "Ground Floor,  Lot 431, No. 12"
+                            },
+                            "contactInfo": {
+                                "fax": "+608 2426 689",
+                                "phone1": "+608 2378 600"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ISW Intellectual Property Sdn Bhd (ISW Legal IP)",
+                "numFollowers": 10,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Intellectual Property",
+                        "Trade Marks",
+                        "Patents & Utility Innovation",
+                        "Industrial Designs",
+                        "Copyrights",
+                        "Geographical Indication",
+                        "Commercialization",
+                        "Licensing",
+                        "Franchising"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.iswip.com.my"
+            }
+        ]
+    }
+}

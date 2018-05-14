@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2007,
+                "id": 17943635,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "99",
+                            "name": "Dise\u00f1o"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dresden",
+                                "postalCode": "01189",
+                                "street1": "Am Eiswurmlager 7"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "mummert media - Agentur f\u00fcr Gestaltung und Kommunikation",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 18,
+                    "values": [
+                        "Branding",
+                        "Corporate Design",
+                        "SEO",
+                        "Grafikdesign",
+                        "Onlinemarketing",
+                        "Markenkommunikation",
+                        "Flyer",
+                        "Kataloge",
+                        "Kampagnen",
+                        "Corporate Design",
+                        "Logos",
+                        "Gesch\u00e4ftsausstattung",
+                        "Webdesign",
+                        "Online-Shops",
+                        "Markenentwicklung",
+                        "Brandingkonzepte",
+                        "Corporate Identity",
+                        "Suchmaschinenoptimierung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://mummert.media/"
+            }
+        ]
+    }
+}

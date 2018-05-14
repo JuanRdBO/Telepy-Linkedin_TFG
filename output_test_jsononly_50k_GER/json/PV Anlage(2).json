@@ -1,0 +1,97 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 23,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1971,
+                "id": 10508399,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ibach",
+                                "postalCode": "6438",
+                                "street1": "Dammstrasse 12a"
+                            },
+                            "contactInfo": {
+                                "fax": "041 818 70 45",
+                                "phone1": "041 818 70 40"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Fl\u00fcelen",
+                                "postalCode": "6454",
+                                "street1": "Axenstrasse 73a"
+                            },
+                            "contactInfo": {
+                                "fax": "041 871 00 73",
+                                "phone1": "041 870 73 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Wilen",
+                                "postalCode": "8832",
+                                "street1": "Speerstrasse 22a"
+                            },
+                            "contactInfo": {
+                                "fax": "043 844 42 45",
+                                "phone1": "043 844 42 40"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Elektro-Planung R. Mettler AG",
+                "numFollowers": 31,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Elektroplanung",
+                        "Generalplanungen HLKSE",
+                        "Blitzschutzfachplanungen",
+                        "BIM (Building Information Modelling)",
+                        "PV Anlage Planung",
+                        "Data Center Designer",
+                        "Erdungsspetzialisten"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.elpl-mettler.ch"
+            }
+        ]
+    }
+}

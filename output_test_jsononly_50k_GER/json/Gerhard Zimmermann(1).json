@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7562964,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fclheim-K\u00e4rlich",
+                                "postalCode": "56218",
+                                "street1": "39 R\u00fcbenacher Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "026301300"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gerhard Zimmermann Weinkellerei",
+                "numFollowers": 0,
+                "websiteUrl": "weinhandlung-zimmermann.de"
+            }
+        ]
+    }
+}

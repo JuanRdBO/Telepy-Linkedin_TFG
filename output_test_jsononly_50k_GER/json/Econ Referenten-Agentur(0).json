@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12503715,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "110",
+                            "name": "Servicios de eventos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80333",
+                                "street1": "36 Gabelsbergerstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 8954726190"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Econ Referenten-Agentur",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.econ-referenten.de"
+            }
+        ]
+    }
+}

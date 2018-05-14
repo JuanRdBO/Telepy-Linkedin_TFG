@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12247016,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dinslaken",
+                                "postalCode": "46539",
+                                "street1": "54 Otto-Lilienthal-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2546485"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ihrer Maibom Gruppe",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.maibom-gruppe.de"
+            }
+        ]
+    }
+}

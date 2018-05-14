@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 5536253,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "95",
+                            "name": "Naval"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Angleton",
+                                "postalCode": "77515-9770",
+                                "street1": "1024 Anchor Rd"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 9798490224"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Hamrick Enterprises",
+                "numFollowers": 1,
+                "websiteUrl": "http://hamrickenterprises.com/"
+            }
+        ]
+    }
+}

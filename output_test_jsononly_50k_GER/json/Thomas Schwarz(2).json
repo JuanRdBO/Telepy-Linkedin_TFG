@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7431173,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "N\u00fcrnberg",
+                                "postalCode": "90439",
+                                "street1": "17 Schlachthofstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "09112778670"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Thomas Schwarz",
+                "numFollowers": 0,
+                "websiteUrl": "diabetologie-nuernberg.de"
+            }
+        ]
+    }
+}

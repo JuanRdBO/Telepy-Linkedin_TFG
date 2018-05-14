@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7390531,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80539",
+                                "street1": "29 Maximilianstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "08941619350"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wirtschaftsberatung J\u00fcrgen Wagner GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "wagner-financials.de"
+            }
+        ]
+    }
+}

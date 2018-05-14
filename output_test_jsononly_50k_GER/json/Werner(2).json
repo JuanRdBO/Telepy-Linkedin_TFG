@@ -1,0 +1,87 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3999,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "id": 10478,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "25",
+                            "name": "Art\u00edculos de consumo"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Greenville",
+                                "postalCode": "16125",
+                                "street1": "93 Werner Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Schaffhausen",
+                                "postalCode": "CH-8200",
+                                "street1": "Gesch\u00e4ftshaus Durachpark"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Louisville",
+                                "postalCode": "40299",
+                                "street1": "11225 Bluegrass Pkwy"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Werner Co.",
+                "numFollowers": 7932,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Ladders",
+                        "Attic Ladders",
+                        "Fall Protection",
+                        "Scaffolding and Stages",
+                        "Van and Truck Racks",
+                        "Truck Ramps",
+                        "Van Storage"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.wernerworldwide.com/"
+            }
+        ]
+    }
+}

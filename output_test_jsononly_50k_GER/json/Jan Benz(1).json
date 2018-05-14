@@ -1,0 +1,123 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1966,
+                "id": 1307510,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hengelo (O)",
+                                "postalCode": "7554 ND",
+                                "street1": "Goudstraat 20"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "074 2900 900"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Zuna (Rijssen)",
+                                "postalCode": "7466 PK",
+                                "street1": "Provincialeweg Zuna 2"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0548 513 070"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Hengelo (O)",
+                                "postalCode": "7575 BD",
+                                "street1": "Schelmaatstraat 10"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0541 515 113"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Hengelo (O)",
+                                "postalCode": "7554 NC",
+                                "street1": "Platinastraat 7"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "074 2900 991"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Baan Twente / Baan Trucks",
+                "numFollowers": 303,
+                "specialties": {
+                    "_total": 20,
+                    "values": [
+                        "Mercedes-Benz",
+                        "Onderhoud",
+                        "smart",
+                        "Fuso",
+                        "Personenwagens",
+                        "Schadeherstel",
+                        "Bestelwagens",
+                        "AMG",
+                        "Vans",
+                        "Onderdelen",
+                        "Inkoop",
+                        "Reparatie",
+                        "Financieringen",
+                        "Opleggers",
+                        "Importeren",
+                        "Accessoires",
+                        "Haal- en brengservice",
+                        "24 Uurs service",
+                        "Taxatie",
+                        "Lease"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.baantwente.nl"
+            }
+        ]
+    }
+}

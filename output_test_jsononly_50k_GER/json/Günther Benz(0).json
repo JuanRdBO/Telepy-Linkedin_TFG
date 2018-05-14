@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1974,
+                "id": 2981241,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "San Carlos",
+                                "postalCode": "94070",
+                                "street1": "171 Industrial Rd."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(650) 654 - 6805"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Eurotechco",
+                "numFollowers": 32,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Auto Care Services",
+                        "ONE STOP FULL REPAIR CENTER",
+                        "COMPLETE SERVICE DEPARTMENT",
+                        "FULL COLLISION CENTER",
+                        "TUNING & BODY FABRICATION",
+                        "EUROPEAN & ITALIAN FABRICATION"
+                    ]
+                },
+                "status": {
+                    "code": "OPS",
+                    "name": "Operating Subsidiary"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://eurotechco.com/"
+            }
+        ]
+    }
+}

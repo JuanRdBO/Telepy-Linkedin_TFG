@@ -1,0 +1,40 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12230057,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "125",
+                            "name": "Medicina alternativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Paderborn",
+                                "postalCode": "33098",
+                                "street1": "11 Am Hilligenbusch"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Beate Zimmermann Naturheilpraxis",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.beate-zimmermann.com"
+            }
+        ]
+    }
+}

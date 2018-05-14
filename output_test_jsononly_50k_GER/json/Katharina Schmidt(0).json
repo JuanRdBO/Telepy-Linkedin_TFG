@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7524226,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hannover",
+                                "postalCode": "30659",
+                                "street1": "20 Klein-Buchholzer Kirchweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "05115636581"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Katharina Schmidt",
+                "numFollowers": 0,
+                "websiteUrl": "katharina-schmidt.com"
+            }
+        ]
+    }
+}

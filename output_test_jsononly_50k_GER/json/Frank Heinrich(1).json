@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12378309,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Jena",
+                                "postalCode": "07745",
+                                "street1": "27 Ke\u00dflerstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3641609277"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "AGT AutomatikGetriebeTechnik Frank Heinrich",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.automatikgetriebe-technik.de"
+            }
+        ]
+    }
+}

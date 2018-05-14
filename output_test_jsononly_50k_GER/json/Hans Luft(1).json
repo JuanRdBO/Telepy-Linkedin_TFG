@@ -1,0 +1,81 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1935,
+                "id": 2128350,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "60",
+                            "name": "Sector textil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Uster",
+                                "postalCode": "8610",
+                                "street1": "Weiherallee 11a"
+                            },
+                            "contactInfo": {
+                                "fax": "+41 (0)44 943 1101",
+                                "phone1": "+41 (0)44 943 11 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Jiading",
+                                "postalCode": "201818",
+                                "street1": "No.310, Sunshine Rd"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "86-21-59900187"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Luwa Group",
+                "numFollowers": 372,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Textile Air Engineering",
+                        "Process Air Engineering",
+                        "Industrial Air Engineering",
+                        "Industrial Heat Recovery and Exhaust Air Cleaning Systems"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.luwa.com"
+            }
+        ]
+    }
+}

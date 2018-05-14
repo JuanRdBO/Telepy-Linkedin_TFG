@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2013,
+                "id": 6463597,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "18",
+                            "name": "Cosm\u00e9tica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "HO CHI MINH",
+                                "postalCode": "08",
+                                "street1": "212/A44 Nguyen Trai Street, District 1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+84 8 6298 1919"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "LYCON PRECISION WAXING VIETNAM",
+                "numFollowers": 30,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "WAXING PRODUCTS",
+                        "SKIN CARE",
+                        "WAXING TRAINING",
+                        "COSMETICS"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.lycon.com.vn"
+            }
+        ]
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1948,
+                "id": 10206078,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "47",
+                            "name": "Contabilidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70565",
+                                "street1": "Schockenriedstra\u00dfe 8 c"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 711 78890-90",
+                                "phone1": "+49 711 78890-00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ALEXANDER SCHMID Wirtschaftspr\u00fcfer / Steuerberater / Mensch",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Steuerberatung",
+                        "Wirtschaftspr\u00fcfung",
+                        "Finanzbuchhaltung",
+                        "Lohn- und Gehaltsabrechnung",
+                        "Steuererkl\u00e4rung",
+                        "Jahresabschluss",
+                        "Unternehmensbewertung",
+                        "Unternehmensnachfolge",
+                        "Stiftungen",
+                        "Verb\u00e4nde",
+                        "Architekten und Ingenieure"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.steuerschmid.de"
+            }
+        ]
+    }
+}

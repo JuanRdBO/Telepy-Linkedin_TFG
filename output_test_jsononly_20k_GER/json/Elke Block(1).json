@@ -1,0 +1,61 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 18067656,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "121",
+                            "name": "Seguridad e investigaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Beerse"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "B-Block Safe Solutions IIBII",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "veiligheid",
+                        "bescherming",
+                        "anti-terreur",
+                        "prefab beton",
+                        "beton",
+                        "wapening",
+                        "reclame",
+                        "events"
+                    ]
+                },
+                "websiteUrl": "http://www.b-block.eu"
+            }
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2011,
+                "id": 6394855,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "19",
+                            "name": "Industria textil y moda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Franklin",
+                                "postalCode": "37067",
+                                "street1": "121 Seaboard Lane"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "1-800-354-9191"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Pro Merch",
+                "numFollowers": 56,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Sports Apparel",
+                        "Graphic Tees"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.promerch.com"
+            }
+        ]
+    }
+}

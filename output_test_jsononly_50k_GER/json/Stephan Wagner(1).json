@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1976,
+                "id": 63655,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "51",
+                            "name": "Ingenier\u00eda civil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "San Jose",
+                                "postalCode": "95131",
+                                "street1": "1570 Oakland Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "408 487 2200"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "HMH ",
+                "numFollowers": 4261,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Land Planning",
+                        "Civil Engineering",
+                        "Landscape Architecture",
+                        "Land Use Entitlements",
+                        "Stormwater Compliance",
+                        "Utility Design",
+                        "Construction Staking",
+                        "Land Surveying"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.hmhca.com"
+            }
+        ]
+    }
+}

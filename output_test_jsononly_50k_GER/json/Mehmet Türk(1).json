@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 41,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1907,
+                "id": 1386890,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "33",
+                            "name": "Deportes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "\u0130stanbul",
+                                "postalCode": "34724",
+                                "street1": "Fenerbah\u00e7e Spor Kul\u00fcb\u00fc, Fenerbah\u00e7e \u015e\u00fckr\u00fc Saraco\u011flu Stadyumu"
+                            },
+                            "contactInfo": {
+                                "fax": "02165421960",
+                                "phone1": "02165421907"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fenerbah\u00e7e SK",
+                "numFollowers": 4989,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Futbol",
+                        "Erkek Basketbol",
+                        "Kad\u0131n Basketbol",
+                        "Erkek Voleybol",
+                        "Kad\u0131n Voleybol",
+                        "Masa Tenisi",
+                        "Boks",
+                        "Atletizm",
+                        "Yelken",
+                        "Espor"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.fenerbahce.org"
+            }
+        ]
+    }
+}

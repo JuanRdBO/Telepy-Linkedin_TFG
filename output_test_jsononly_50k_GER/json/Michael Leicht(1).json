@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12558393,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "\u00d6stringen",
+                                "postalCode": "76684",
+                                "street1": "12a Schindelberg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6222660108"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Michael Alten",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.osteopathie-oestringen.de"
+            }
+        ]
+    }
+}

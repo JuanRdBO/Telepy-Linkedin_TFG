@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7343138,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sarstedt",
+                                "postalCode": "31157",
+                                "street1": "12 Wenderter Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "05066605192"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Frank Naumann Und Steffen R\u00f6der GbR",
+                "numFollowers": 0,
+                "websiteUrl": "naumann-roeder.de"
+            }
+        ]
+    }
+}

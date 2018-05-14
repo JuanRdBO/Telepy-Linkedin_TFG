@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2012,
+                "id": 2947740,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "10",
+                            "name": "Servicios jur\u00eddicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Milano",
+                                "postalCode": "20122",
+                                "street1": "Via Cesare Battisti, 1"
+                            },
+                            "contactInfo": {
+                                "fax": "+39.011.56.12.890",
+                                "phone1": "+39.011.56.17.155"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Torino",
+                                "postalCode": "10121",
+                                "street1": "Corso Giacomo Matteotti, 42 bis"
+                            },
+                            "contactInfo": {
+                                "fax": "+39.011.56.12.890",
+                                "phone1": "+39.011.56.17.155"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Studio Legale VTCS",
+                "numFollowers": 29,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Employment Law",
+                        "Social Security Law",
+                        "Litigation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.vtcs.it"
+            }
+        ]
+    }
+}

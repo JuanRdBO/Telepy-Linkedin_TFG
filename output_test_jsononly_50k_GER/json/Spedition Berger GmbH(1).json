@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7376118,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Fellbach",
+                                "postalCode": "70734",
+                                "street1": "56 Bruckstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "07115755530"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ernst Berger Spedition GmbH & Co. KG",
+                "numFollowers": 1,
+                "websiteUrl": "silo-berger.de"
+            }
+        ]
+    }
+}

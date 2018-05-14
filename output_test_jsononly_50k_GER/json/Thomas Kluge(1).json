@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12193849,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Zittau",
+                                "postalCode": "02763",
+                                "street1": "9 Gabelsbergerstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3583510693"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ERGO Versicherung Thomas Kluge",
+                "numFollowers": 0,
+                "websiteUrl": "http://thomas.kluge.ergo.de"
+            }
+        ]
+    }
+}

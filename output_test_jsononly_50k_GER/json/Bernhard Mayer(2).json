@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7346170,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad Reichenhall",
+                                "postalCode": "83435",
+                                "street1": "16 Riedelstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0865160080"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Herr Dr. Med. Bernhard Mayer",
+                "numFollowers": 0,
+                "websiteUrl": "labor-raubling.de"
+            }
+        ]
+    }
+}

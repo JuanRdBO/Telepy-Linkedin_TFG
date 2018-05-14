@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7432014,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Burgau",
+                                "postalCode": "89331",
+                                "street1": "19 Kapuzinerstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0822242190"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Manfred Konrad GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "autohaus-mk.de"
+            }
+        ]
+    }
+}

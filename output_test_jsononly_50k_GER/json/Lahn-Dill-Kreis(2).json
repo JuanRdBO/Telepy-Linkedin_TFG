@@ -1,0 +1,51 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2016,
+                "id": 10858087,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "13",
+                            "name": "Profesiones m\u00e9dicas"
+                        }
+                    ]
+                },
+                "name": "Praxis Dilltal",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Allgemeinmedizin",
+                        "Kardiologie",
+                        "Innere Medizin",
+                        "Pneumologie",
+                        "Rheumatologie"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "Praxis-Dilltal.de"
+            }
+        ]
+    }
+}

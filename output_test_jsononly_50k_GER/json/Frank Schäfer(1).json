@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7505903,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Reutlingen",
+                                "postalCode": "72770",
+                                "street1": "1 Auf Der Ay"
+                            },
+                            "contactInfo": {
+                                "phone1": "07072504770"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Frank Sch\u00e4fer GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "frankschaefergmbh.de"
+            }
+        ]
+    }
+}

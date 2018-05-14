@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7466629,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Celle",
+                                "postalCode": "29223",
+                                "street1": "13 Lachteh\u00e4user Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "051413974"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fritz Thomas Automobile GmbH & Co. KG",
+                "numFollowers": 1,
+                "websiteUrl": "autohaus-thomas-celle.de"
+            }
+        ]
+    }
+}

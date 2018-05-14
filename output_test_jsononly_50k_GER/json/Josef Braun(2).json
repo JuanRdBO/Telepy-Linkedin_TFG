@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7550770,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mechernich",
+                                "postalCode": "53894",
+                                "street1": "9 Am S\u00fcdhang"
+                            },
+                            "contactInfo": {
+                                "phone1": "02484400"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Franz Josef Braun GmbH & Co. KG",
+                "numFollowers": 0,
+                "websiteUrl": "tiefbau-braun.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 30,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 24007601,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Destelbergen",
+                                "postalCode": "9070",
+                                "street1": "21 Brugdreef(HEU)"
+                            },
+                            "contactInfo": {
+                                "phone1": "+32 92308660"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ALESI",
+                "numFollowers": 1
+            }
+        ]
+    }
+}

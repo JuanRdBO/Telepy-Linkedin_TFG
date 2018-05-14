@@ -1,0 +1,91 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 23,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2007,
+                "id": 412188,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oakland",
+                                "postalCode": "94612",
+                                "street1": "1300 Clay Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+1 510 596 1711"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Mumbai",
+                                "postalCode": "400098",
+                                "street1": "Crystal Plaza, 3rd Floor"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Blisstering Solutions",
+                "numFollowers": 421,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Drupal",
+                        "Mobile",
+                        "Social Media",
+                        "Open Source",
+                        "Software Development",
+                        "Offshore",
+                        "outsource",
+                        "LAMP stack",
+                        "iOS",
+                        "Facebook",
+                        "Android",
+                        "Open Atrium",
+                        "PHP",
+                        "MySQL"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://blisstering.com"
+            }
+        ]
+    }
+}

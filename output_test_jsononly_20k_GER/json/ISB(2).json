@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 468,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1997,
+                "id": 5198423,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Badalona",
+                                "postalCode": "08915",
+                                "street1": "Pol. Ind. Les Guixeres c/ Pl\u00e0stic 12"
+                            },
+                            "contactInfo": {
+                                "fax": "933037097",
+                                "phone1": "9330307860"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ISB SPAIN - Euro Bearings Spain",
+                "numFollowers": 239,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Rodamientos ISB",
+                        "R\u00f3tulas y articulaciones esf\u00e9ricas ISB",
+                        "Soportes para rodamiento ISB",
+                        "Coronas de giro ISB",
+                        "Casquillos ISB",
+                        "Sistemas lineales NBSL",
+                        "Retenes TTO - OTP",
+                        "Ruedas libres",
+                        "Gama inoxidable"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.eurobearings.es"
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 2269512,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "110",
+                            "name": "Servicios de eventos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Herdecke",
+                                "postalCode": "58313",
+                                "street1": "Gahlenfeldstra\u00dfe 7a"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "02330-8032-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "publitec Pr\u00e4sentationssysteme & Eventservice GmbH",
+                "numFollowers": 179,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "publitec_tv",
+                "websiteUrl": "http://www.publitec.tv"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7392212,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dietingen",
+                                "postalCode": "78661",
+                                "street1": "1 Tulpenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0741510510"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gabriele Schneider",
+                "numFollowers": 0,
+                "websiteUrl": "gabriele-schneider.com"
+            }
+        ]
+    }
+}

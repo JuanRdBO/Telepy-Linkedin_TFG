@@ -1,0 +1,118 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1964,
+                "id": 1754810,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "143",
+                            "name": "Art\u00edculos de lujo y joyas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Z\u00fcrich",
+                                "postalCode": "8001",
+                                "street1": "Bahnhofstrasse 64"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "044 227 17 17"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Genf",
+                                "postalCode": "1204",
+                                "street1": "Rue du Rh\u00f4ne 62"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "022 318 62 22"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Lugano",
+                                "postalCode": "6900",
+                                "street1": "Via Nassa 5"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "091 923 51 56"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "St. Moritz",
+                                "postalCode": "7500",
+                                "street1": "Palace Galerie"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "081 833 51 77"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Luzern",
+                                "postalCode": "6004",
+                                "street1": "Kapellplatz 5"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "041 227 10 50"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Les Ambassadeurs AG",
+                "numFollowers": 1679,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Uhren",
+                        "Schmuck"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.lesambassadeurs.ch"
+            }
+        ]
+    }
+}

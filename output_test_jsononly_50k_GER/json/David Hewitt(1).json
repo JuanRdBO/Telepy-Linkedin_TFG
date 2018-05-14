@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 21,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 8462059,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "CHERTSEY",
+                                "postalCode": "KT16 0LS",
+                                "street1": "RDS HOUSE 2 CHAWORTH CLOSE OTTERSHAW"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "THE DAVID HEWITT PARTNERSHIP LIMITED",
+                "numFollowers": 3
+            }
+        ]
+    }
+}

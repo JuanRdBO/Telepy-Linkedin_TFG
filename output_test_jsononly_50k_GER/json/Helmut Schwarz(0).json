@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7519953,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Halblech",
+                                "postalCode": "87642",
+                                "street1": "5a Kirchplatz"
+                            },
+                            "contactInfo": {
+                                "phone1": "08368940691"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Helmut Schwarz",
+                "numFollowers": 0,
+                "websiteUrl": "schreinerei-helmut-schwarz.de"
+            }
+        ]
+    }
+}

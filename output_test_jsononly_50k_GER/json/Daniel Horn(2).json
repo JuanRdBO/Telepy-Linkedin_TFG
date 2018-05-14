@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1956,
+                "id": 3887381,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "115",
+                            "name": "M\u00fasica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Evanston",
+                                "postalCode": "60201",
+                                "street1": "1555 Sherman Ave #315"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "847-432-2263"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Northshore Concert Band",
+                "numFollowers": 28,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "World-Renowned Symphonic Band",
+                        "Foster and Promote Wind Music and Adult Bands",
+                        "Dedicated to Music Education Outreach",
+                        "Leader in the Development of Community Bands"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.northshoreband.org"
+            }
+        ]
+    }
+}

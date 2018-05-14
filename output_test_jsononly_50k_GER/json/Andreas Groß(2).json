@@ -1,0 +1,94 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2002,
+                "id": 3057831,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "3",
+                            "name": "Equipo inform\u00e1tico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Schlo\u00df Holte-Stukenbrock",
+                                "postalCode": "33758",
+                                "street1": "Carl-Zeiss-Str. 2"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 5205 99198-22",
+                                "phone1": "+49 5205 99198 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Newmarket",
+                                "postalCode": "CB8 7BW",
+                                "street1": "22 Nimbus Way"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0800 098 8306"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Aquatuning",
+                "numFollowers": 97,
+                "specialties": {
+                    "_total": 17,
+                    "values": [
+                        "Watercooling",
+                        "Modding",
+                        "CPU Cooling",
+                        "GPU Cooling",
+                        "E-Commerce",
+                        "Distribution",
+                        "Cooling",
+                        "Marketing",
+                        "OEM",
+                        "OEM Business",
+                        "Liquid Cooling",
+                        "Chipset Cooling",
+                        "Radiator Design",
+                        "Tooling",
+                        "Server Cooling",
+                        "Thermal Electric Cooling",
+                        "Data Center Cooling"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.aquatuning.de"
+            }
+        ]
+    }
+}

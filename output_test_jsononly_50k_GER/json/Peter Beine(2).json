@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12729486,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oranienburg",
+                                "postalCode": "16515",
+                                "street1": "1 Am Wiesengrund"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 33013718"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Reiterhof Sandig GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.reiterhof-sandig.de"
+            }
+        ]
+    }
+}

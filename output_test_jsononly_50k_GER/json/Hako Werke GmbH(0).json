@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1924,
+                "id": 1549735,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Northampton",
+                                "postalCode": "NN6 7UD",
+                                "street1": "Eldon Close"
+                            },
+                            "contactInfo": {
+                                "fax": "0044 1788 823 969",
+                                "phone1": "0044 1788 825 600"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hako Machines Ltd",
+                "numFollowers": 2573,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Sweepers",
+                        "Scrubber Driers",
+                        "Municipal Sweepers",
+                        "Snow Clearing machinery",
+                        "Sweeper Scrubber Driers",
+                        "Full UK Service cover"
+                    ]
+                },
+                "status": {
+                    "code": "OPS",
+                    "name": "Operating Subsidiary"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.hako.co.uk"
+            }
+        ]
+    }
+}

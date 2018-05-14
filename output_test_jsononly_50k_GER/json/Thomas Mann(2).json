@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 42,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7392729,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oschatz",
+                                "postalCode": "04758",
+                                "street1": "1 Rudolf-Breitscheid-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "03435920239"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Mann Gymnasium",
+                "numFollowers": 5,
+                "websiteUrl": "tmg-oschatz.de"
+            }
+        ]
+    }
+}

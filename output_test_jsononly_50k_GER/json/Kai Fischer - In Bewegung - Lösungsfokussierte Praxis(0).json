@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1941,
+                "id": 259898,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "141",
+                            "name": "Desarrollo y comercio internacional"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ludwigsburg",
+                                "postalCode": "71636",
+                                "street1": "Schwieberdinger Stra\u00dfe 126"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Singapur",
+                                "postalCode": "13",
+                                "street1": "Fusionopolis Way"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "MANN+HUMMEL Group",
+                "numFollowers": 28419,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Indoor Air Quality",
+                        "Industrial Filters",
+                        "Filtration",
+                        "Intelligent Air Solutions",
+                        "Air Cleaners and Intake Systems",
+                        "Liquid Filter Systems",
+                        "Solutions for Alternative Drives",
+                        "Digital Transformation / IOT",
+                        "Water Treatment",
+                        "Waste Water Treatment",
+                        "Membrane Filtration"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.mann-hummel.com"
+            }
+        ]
+    }
+}

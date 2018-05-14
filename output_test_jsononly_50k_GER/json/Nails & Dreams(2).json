@@ -1,0 +1,113 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 20,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 2641858,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "18",
+                            "name": "Cosm\u00e9tica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Southfield",
+                                "postalCode": "48075",
+                                "street1": "15565 Northland Drive Suite 205 West"
+                            },
+                            "contactInfo": {
+                                "fax": "(248) 262-7304",
+                                "phone1": "(248) 262-7309"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Detroit",
+                                "postalCode": "48204",
+                                "street1": "12001 Grand River Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "(313) 933-4636",
+                                "phone1": "(313) 933-9393"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Redford",
+                                "postalCode": "48240",
+                                "street1": "25463 Grand River Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "(313) 592-8560",
+                                "phone1": "(313) 592-8505"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Ferndale",
+                                "postalCode": "48220",
+                                "street1": "22925 Woodward Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "P&A Scholars Beauty School",
+                "numFollowers": 189,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "hair",
+                        "nails",
+                        "education",
+                        "skin",
+                        "instructor training",
+                        "beauty",
+                        "beauty school",
+                        "cosmetology",
+                        "manicuring",
+                        "hair stylist",
+                        "nail tech"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.pandascholars.com/"
+            }
+        ]
+    }
+}

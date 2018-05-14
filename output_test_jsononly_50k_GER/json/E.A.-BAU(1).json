@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 390,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1989,
+                "id": 884464,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "68",
+                            "name": "Ense\u00f1anza superior"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Barcelona",
+                                "postalCode": "08005",
+                                "street1": "C/ Pujades 118"
+                            },
+                            "contactInfo": {
+                                "fax": "933 001 552",
+                                "phone1": "934 153 474"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "BAU, Centro Universitario de Dise\u00f1o de Barcelona",
+                "numFollowers": 5035,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Formaci\u00f3n",
+                        "Educaci\u00f3n",
+                        "Dise\u00f1o",
+                        "Universidad"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "Bau_bcn",
+                "websiteUrl": "www.bau.cat"
+            }
+        ]
+    }
+}

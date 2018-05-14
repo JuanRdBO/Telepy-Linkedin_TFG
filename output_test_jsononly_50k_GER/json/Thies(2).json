@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 152,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7556283,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Coesfeld",
+                                "postalCode": "48653",
+                                "street1": "155 Borkener Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "025417330"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thies GmbH & Co. KG",
+                "numFollowers": 42,
+                "websiteUrl": "thiestextilmaschinen.de"
+            }
+        ]
+    }
+}

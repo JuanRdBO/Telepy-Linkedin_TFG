@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7501097,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sundern (Sauerland)",
+                                "postalCode": "59846",
+                                "street1": "1 Settmeckestra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "01739002047"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Tanzschule J\u00fcrgen Hoffmann",
+                "numFollowers": 0,
+                "websiteUrl": "tanzen-in-sundern.de"
+            }
+        ]
+    }
+}

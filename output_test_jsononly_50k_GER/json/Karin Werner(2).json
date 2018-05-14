@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12468926,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bellheim",
+                                "postalCode": "76756",
+                                "street1": "49 Am Weidensatz"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 1726916030"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Reitsportanlage Karin Werner",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.reitsportanlage-bellheim.de"
+            }
+        ]
+    }
+}

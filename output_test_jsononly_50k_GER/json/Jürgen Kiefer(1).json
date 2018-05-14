@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1989,
+                "id": 7309756,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad Kreuznach",
+                                "postalCode": "55583",
+                                "street1": "Rheingrafenstra\u00dfe 9"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "H. J\u00fcrgen Kiefer GmbH",
+                "numFollowers": 10,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Finanzdienstleistungen",
+                        "Risk management",
+                        "Market reports",
+                        "Commodity Trading",
+                        "Market Research",
+                        "Chart analysis",
+                        "Risk Management Grain",
+                        "Risk Management Oilseeds",
+                        "Risk Management Dairy",
+                        "Risk Management Sugar",
+                        "Risk Management Cocoa"
+                    ]
+                },
+                "websiteUrl": "www.hjkiefer.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 1985,
+                "id": 2433941,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "54",
+                            "name": "Productos qu\u00edmicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ahmedabad",
+                                "postalCode": "380 006",
+                                "street1": "Golden Arc, Behind Hotel Panshikura, Madalpur, Ellisbridge"
+                            },
+                            "contactInfo": {
+                                "fax": "+(91)-(79)-26579057",
+                                "phone1": "+(91)-(79)-26575153"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "H A Scientific & Chemicals",
+                "numFollowers": 53,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "high quality",
+                        "latest technology",
+                        "reasonable rates",
+                        "long  life"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": ""
+            }
+        ]
+    }
+}

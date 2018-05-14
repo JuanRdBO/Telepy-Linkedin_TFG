@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7473585,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Baiersbronn",
+                                "postalCode": "72270",
+                                "street1": "26 Untere Sonnenhalde"
+                            },
+                            "contactInfo": {
+                                "phone1": "074423787"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wolfgang Braun VfR Klosterreichenbach",
+                "numFollowers": 0,
+                "websiteUrl": "vfr-klosterreichenbach.de"
+            }
+        ]
+    }
+}

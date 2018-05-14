@@ -1,0 +1,98 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 13,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 2014,
+                "id": 9399301,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "104",
+                            "name": "Dotaci\u00f3n y selecci\u00f3n de personal"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Essen",
+                                "postalCode": "45127",
+                                "street1": "Kettwiger Stra\u00dfe 45"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Wuppertal",
+                                "postalCode": "42103",
+                                "street1": "Hofaue 95"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Duisburg",
+                                "postalCode": "47051",
+                                "street1": "Schwanenstra\u00dfe 19"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Gelsenkirchen",
+                                "postalCode": "45894",
+                                "street1": "Springemarkt 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "goldrichtig personal GmbH",
+                "numFollowers": 22,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Personalleasing",
+                        "Personalvermittlung",
+                        "Personalkoordination",
+                        "Personalberatung",
+                        "Betriebliches Gesundheitsmanagement",
+                        "Business-Coaching",
+                        "Personalentwicklung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.goldrichtig-personal.de"
+            }
+        ]
+    }
+}

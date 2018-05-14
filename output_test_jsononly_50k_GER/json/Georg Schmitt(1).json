@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7502192,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": "50931",
+                                "street1": "6 Stadtwaldg\u00fcrtel"
+                            },
+                            "contactInfo": {
+                                "phone1": "02219408180"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Herr Dr. Med. Georg Schmitt",
+                "numFollowers": 0,
+                "websiteUrl": "orthoinfo.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6844,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 26816169,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "COURCHELETTES",
+                                "postalCode": "59552",
+                                "street1": "4 B RUE ALBERT CHARTON"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "DI PRIMA CONSULTANT",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

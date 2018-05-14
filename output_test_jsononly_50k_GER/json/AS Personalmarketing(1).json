@@ -1,0 +1,112 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 168,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1917,
+                "id": 4591,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "135",
+                            "name": "Ingenier\u00eda industrial o mec\u00e1nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Cleveland",
+                                "postalCode": "44124",
+                                "street1": "6035 Parkland Blvd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Columbus",
+                                "postalCode": "43228",
+                                "street1": "3885 Gateway Blvd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Haverhill",
+                                "postalCode": "01835",
+                                "street1": "242 Neck Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "San Diego",
+                                "postalCode": "92154",
+                                "street1": "7664 Panasonic Way"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Ballerup",
+                                "postalCode": "2750",
+                                "street1": "Industriparken 37"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Parker Hannifin",
+                "numFollowers": 148764,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Aerospace",
+                        "Climate Control",
+                        "Electromechanical",
+                        "Filtration",
+                        "Fluid & Gas Handling",
+                        "Hydraulics",
+                        "Pneumatic",
+                        "Process Control",
+                        "Sealing & Shielding",
+                        "Human Motion and Control",
+                        "IoT -Internet of Things"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.parker.com/aboutus"
+            }
+        ]
+    }
+}

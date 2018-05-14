@@ -1,0 +1,105 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 120,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2013,
+                "id": 3582046,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "San Diego",
+                                "postalCode": "92101",
+                                "street1": "600 W. Broadway"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10014",
+                                "street1": "675 Hudson St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Tijuana",
+                                "postalCode": "22010",
+                                "street1": "Avenida Misi\u00f3n de San Javier 10643"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Columbus",
+                                "postalCode": "43201",
+                                "street1": "350 E. 1st Avenue"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Santa Monica",
+                                "postalCode": "90401",
+                                "street1": "520 Broadway"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Brand Value Accelerator",
+                "numFollowers": 1871,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "eCommerce Development -- Shopify Plus Partner",
+                        "eCommerce Website UX/Design",
+                        "Website CRO & Personalization -- 3-Star Optimizely Partner",
+                        "Full Service Digital Marketing (i.e. Paid Social, Paid Media Management, Affiliate Marketing)"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.bvaccel.com"
+            }
+        ]
+    }
+}

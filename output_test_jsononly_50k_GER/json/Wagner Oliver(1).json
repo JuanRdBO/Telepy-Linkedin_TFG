@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2001,
+                "id": 810348,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "17",
+                            "name": "Dispositivos m\u00e9dicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Silkerode",
+                                "postalCode": "37345",
+                                "street1": "Neuer Weg 4"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "49360728800"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wagner Polymertechnik GmbH",
+                "numFollowers": 76,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "manufacturer of prosthetic componts",
+                        "Silicone & Gel liners",
+                        "modular parts",
+                        "suspension sleeves"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.wpt-gmbh.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 49,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2015,
+                "id": 1445911,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Amsterdam",
+                                "postalCode": "1017 AZ",
+                                "street1": "Singel 542"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Amsterdam",
+                                "postalCode": "1017 AZ",
+                                "street1": "Singel 542"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Deskbookers.com",
+                "numFollowers": 1036,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Meeting Rooms",
+                        "Conference Rooms",
+                        "Seminar Rooms",
+                        "Workshop Rooms",
+                        "Online Marketplace",
+                        "Enterprise SaaS",
+                        "Startup",
+                        "Workspaces",
+                        "Coworking",
+                        "New Work",
+                        "Productivity",
+                        "Efficiency",
+                        "Convenience"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "Deskbookers",
+                "websiteUrl": "https://www.deskbookers.com/en-gb/home"
+            }
+        ]
+    }
+}

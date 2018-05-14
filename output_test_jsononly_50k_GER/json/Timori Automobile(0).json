@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1996,
+                "id": 10949229,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "143",
+                            "name": "Art\u00edculos de lujo y joyas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "porto ercole",
+                                "postalCode": "58018",
+                                "street1": "marina di Cala Galera"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+39 320 3830703"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Monte Argentario",
+                                "postalCode": "58019",
+                                "street1": "loc S.Liberata"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+39 3387899166"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Nauticamato srl",
+                "numFollowers": 0,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "broker nautico,intermediazione marittima",
+                        "vendita imbarcazioni nuove Numarine",
+                        "gestione posti barca",
+                        "luxury",
+                        "managent"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.nauticamato.it"
+            }
+        ]
+    }
+}

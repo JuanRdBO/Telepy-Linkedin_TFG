@@ -1,0 +1,57 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1935,
+                "id": 6393613,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "81",
+                            "name": "Peri\u00f3dicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Beograd",
+                                "postalCode": "11000",
+                                "street1": "\u017dor\u017ea Klemansoa 19, po\u0161tanski fah 41"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+381 11 3373 171"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Nedeljnik NIN",
+                "numFollowers": 91,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://nin.co.rs"
+            }
+        ]
+    }
+}

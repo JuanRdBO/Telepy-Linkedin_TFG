@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7527403,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": "50827",
+                                "street1": "356 Vogelsanger Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "02211261405"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Tischlein Deck Dich Catering",
+                "numFollowers": 1,
+                "websiteUrl": "tischleincatering.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12467890,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Isen",
+                                "postalCode": "84424",
+                                "street1": "Lichtenweg 16A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 8083549173"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Holzausbau Isen, Anton Maier",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.holzausbau-isen.de"
+            }
+        ]
+    }
+}

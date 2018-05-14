@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7548736,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "12277",
+                                "street1": "16-18 Wilhelm-von-Siemens-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "03070769818"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Andreas Hartmann EDV-Systeme",
+                "numFollowers": 0,
+                "websiteUrl": "hartmann-berlin.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2011,
+                "id": 2011624,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80538",
+                                "street1": "Seitzstra\u00dfe 4"
+                            },
+                            "contactInfo": {
+                                "fax": "089-41616260-9",
+                                "phone1": "089-41616260-2"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "VONHOLDT Marketing & PR",
+                "numFollowers": 16,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Marketingstrategien",
+                        "PR/Kommunikation",
+                        "Events",
+                        "Sponsoring"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "@FVonholdt",
+                "websiteUrl": "www.vonholdt-pr.com"
+            }
+        ]
+    }
+}

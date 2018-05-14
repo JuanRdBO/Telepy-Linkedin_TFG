@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 32,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12458397,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Neckarsulm",
+                                "postalCode": "74172",
+                                "street1": "5 Odenwaldstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 713297560"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Christian-Schmidt-Schule",
+                "numFollowers": 6,
+                "websiteUrl": "http://www.css-nsu.de"
+            }
+        ]
+    }
+}

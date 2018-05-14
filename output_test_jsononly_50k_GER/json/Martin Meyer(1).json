@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 30,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2008,
+                "id": 414783,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hoedspruit",
+                                "postalCode": "1380",
+                                "street1": "Postnet Suite 1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+27 (0) 8257 67002"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Martin Meyer Safaris",
+                "numFollowers": 31,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Privately guided safaris",
+                        "Luxury African safaris",
+                        "Tailor-made safari itineraries",
+                        "Indian Ocean holidays"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.martinmeyer-safaris.com"
+            }
+        ]
+    }
+}

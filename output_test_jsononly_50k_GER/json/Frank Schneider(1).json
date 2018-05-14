@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 22,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12694325,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "G\u00f6denroth",
+                                "postalCode": "56290",
+                                "street1": "1 Waldecker Ring"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 67625780"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Frank Schneider Dachdecker",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.frank-schneider-dach.de"
+            }
+        ]
+    }
+}

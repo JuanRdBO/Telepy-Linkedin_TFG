@@ -1,0 +1,76 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 112,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1917,
+                "id": 3613756,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Richmond",
+                                "postalCode": "TW9 2LH",
+                                "street1": "14 Bardolph rd"
+                            },
+                            "contactInfo": {
+                                "fax": "0208 9487307",
+                                "phone1": "0208 9486321"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "F.A.Clover & Son Ltd",
+                "numFollowers": 61,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Industrial Painting",
+                        "Bridge Painting",
+                        "Tower Painting",
+                        "Steel Painting",
+                        "Blast Cleaning",
+                        "Rail Bridge Painting",
+                        "U.H.P Water Jetting",
+                        "ICATS Painters",
+                        "Protective Coating Applicators",
+                        "Link-Up Painters",
+                        "HSS 19A Painters",
+                        "Shot Blasting"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.cloverpainting.com"
+            }
+        ]
+    }
+}

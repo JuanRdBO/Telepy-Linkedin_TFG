@@ -1,0 +1,92 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1992,
+                "id": 9378281,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "\u0130stanbul",
+                                "postalCode": "",
+                                "street1": "\u0130stiklal Caddesi"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+90 212 249 06 96"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "\u0130stanbul",
+                                "postalCode": "34700",
+                                "street1": "Cafera\u011fa Mah."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0216 414 35 19"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "\u0130stanbul",
+                                "postalCode": "",
+                                "street1": "Sinanpa\u015fa Mah."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0212 260 62 50"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Mephisto Kitabevi & Cafe",
+                "numFollowers": 57,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Kafe",
+                        "Kitap",
+                        "M\u00fczik - Kaset, CD, DVD, Plak",
+                        "K\u0131rtasiye"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.mephisto.com.tr/"
+            }
+        ]
+    }
+}

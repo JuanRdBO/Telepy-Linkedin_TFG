@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1997,
+                "id": 1026779,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ratingen",
+                                "postalCode": "40882",
+                                "street1": "Kokkolastrasse 1"
+                            },
+                            "contactInfo": {
+                                "fax": "0049210210049490",
+                                "phone1": "0049210210049400"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "FXFlat Wertpapierhandelsbank GmbH",
+                "numFollowers": 91,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "CFD",
+                        "Forex",
+                        "B\u00f6rse",
+                        "Exchange",
+                        "Wertpapier",
+                        "Trading"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.fxflat.com/"
+            }
+        ]
+    }
+}

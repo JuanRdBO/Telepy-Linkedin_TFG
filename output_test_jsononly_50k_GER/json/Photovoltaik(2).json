@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 528,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2016,
+                "id": 18198414,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "144",
+                            "name": "Energ\u00eda renovable y medio ambiente"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "St. Ingbert",
+                                "postalCode": "66386",
+                                "street1": "Alfred-Lippmann-Str. 4"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Photovoltaik Shop",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 19,
+                    "values": [
+                        "Photovoltaik",
+                        "Gro\u00dfhandel",
+                        "Online Shop",
+                        "Solar",
+                        "Solarenergie",
+                        "Sonnenstrom",
+                        "Webshop",
+                        "Solarshop",
+                        "H\u00e4ndler",
+                        "PV-Handel",
+                        "Systemanbieter",
+                        "Photovoltaik-Komponenten",
+                        "Solarstromanlagen",
+                        "Photovoltaik-Gro\u00dfhandel",
+                        "Solarmodule",
+                        "Wechselrichter",
+                        "Speichersysteme",
+                        "Photovoltaikanlagen",
+                        "Fachgro\u00dfhandel"
+                    ]
+                },
+                "websiteUrl": "www.photovoltaik-shop.de"
+            }
+        ]
+    }
+}

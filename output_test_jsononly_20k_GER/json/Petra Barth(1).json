@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12679542,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Schwabach",
+                                "postalCode": "91126",
+                                "street1": "19b Kappelbergsteig"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 9122632101"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Petra Barth Immobilien",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.petra-barth-immobilien.de"
+            }
+        ]
+    }
+}

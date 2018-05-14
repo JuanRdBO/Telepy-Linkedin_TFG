@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 132,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 9722750,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Horb",
+                                "postalCode": "72160",
+                                "street1": "Neckarstr. 14"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 745190793"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Kamm In",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.kamm-in-horb.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 224,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "H",
+                    "name": "5001-10000"
+                },
+                "foundedYear": 1928,
+                "id": 10243,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "51",
+                            "name": "Ingenier\u00eda civil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 9,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sydney",
+                                "postalCode": "2000",
+                                "street1": "133 Castlereagh St"
+                            },
+                            "contactInfo": {
+                                "fax": "+61 2 9239 7199",
+                                "phone1": "+61 2 92397100"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Melbourne",
+                                "postalCode": "3000",
+                                "street1": "180 Lonsdale Street"
+                            },
+                            "contactInfo": {
+                                "fax": "61 3 8687 8111",
+                                "phone1": "61 3 8687 8000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Brisbane",
+                                "postalCode": "4000",
+                                "street1": "201 Charlotte Street"
+                            },
+                            "contactInfo": {
+                                "fax": "61 7 3316 3933",
+                                "phone1": "61 7 3316 3000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Perth",
+                                "postalCode": "6000",
+                                "street1": "999 Hay St"
+                            },
+                            "contactInfo": {
+                                "fax": "61 8 6222 8555",
+                                "phone1": "61 8 6222 8222"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Cazenovia",
+                                "postalCode": "13035",
+                                "street1": "One Remington Park Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "1 315 679 5801",
+                                "phone1": "1 315 679 5800"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Santa Rosa",
+                                "postalCode": "95407",
+                                "street1": "2235 Mercury Way"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Rosemont",
+                                "postalCode": "60018",
+                                "street1": "6400 Shafer Ct"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Indianapolis",
+                                "postalCode": "46278",
+                                "street1": "6520 Corporate Dr"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Baton Rouge",
+                                "postalCode": "70808",
+                                "street1": "5551 Corporate Blvd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "GHD",
+                "numFollowers": 90512,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Professional Service",
+                        "Consultancy",
+                        "Engineers",
+                        "Architects",
+                        "Environmental Scientists",
+                        "Water",
+                        "Energy and Resources",
+                        "Environment",
+                        "Property and Buildings",
+                        "Transportation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.ghd.com"
+            }
+        ]
+    }
+}

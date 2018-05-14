@@ -1,0 +1,98 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1996,
+                "id": 5559733,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad Homburg",
+                                "postalCode": "61348",
+                                "street1": "Seifgrundstra\u00dfe 2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20354",
+                                "street1": "Neuer Wall 46"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80336",
+                                "street1": "Bavariaring 44"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "street1": "Sch\u00fctzenstra\u00dfe 53"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "konversionsKRAFT (Web Arts AG)",
+                "numFollowers": 451,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Conversion Seminare",
+                        "Conversion Optimierung",
+                        "Konsumpsychologie",
+                        "User Research",
+                        "Full-Service Testing",
+                        "Conversion Strategie",
+                        "Conversion Analyse",
+                        "Personalisierung",
+                        "Consulting",
+                        "Conversion Audit",
+                        "Web Analytics",
+                        "ConversionLab",
+                        "Growth Canvas"
+                    ]
+                },
+                "websiteUrl": "http://www.konversionskraft.de"
+            }
+        ]
+    }
+}

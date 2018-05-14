@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 13,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12877657,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Boizenburg/Elbe",
+                                "postalCode": "19258",
+                                "street1": "12 Kleine Wallstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 1736484383"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Roland Walter Event",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.rwevent.de"
+            }
+        ]
+    }
+}

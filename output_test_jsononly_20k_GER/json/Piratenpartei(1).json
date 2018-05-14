@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 25,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 2006,
+                "id": 988175,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "107",
+                            "name": "Organizaci\u00f3n pol\u00edtica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10115",
+                                "street1": "Pflugstra\u00dfe 9a"
+                            },
+                            "contactInfo": {
+                                "fax": "030/609897-517",
+                                "phone1": "030/3464619-71"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Piratenpartei Deutschland",
+                "numFollowers": 551,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "B\u00fcrgerrechte",
+                        "Freiheitsrechte",
+                        "Internet",
+                        "Liquid democracy",
+                        "Informelle Selbstbestimmung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "http://www.piratenpartei.de"
+            }
+        ]
+    }
+}

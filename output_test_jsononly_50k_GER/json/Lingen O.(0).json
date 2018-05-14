@@ -1,0 +1,97 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1972,
+                "id": 3049745,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "135",
+                            "name": "Ingenier\u00eda industrial o mec\u00e1nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lingen ( Ems)",
+                                "postalCode": "49811",
+                                "street1": "Friedrich-Ebert-Stra\u00dfe 128-130"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Shepperton",
+                                "postalCode": " TW17 8AG",
+                                "street1": "Dial House, Govett Avenue"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "\u0141\u0119czyca",
+                                "postalCode": "99-100",
+                                "street1": "ul. Lotnicza 21f"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Vancouver ",
+                                "postalCode": "V6C 1J9",
+                                "street1": "600 - 890 West Pender Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Kampmann GmbH",
+                "numFollowers": 610,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Heating",
+                        "Cooling",
+                        "Ventilation",
+                        "HVAC",
+                        "Building Automation",
+                        "Trench Units"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.kampmann.eu"
+            }
+        ]
+    }
+}

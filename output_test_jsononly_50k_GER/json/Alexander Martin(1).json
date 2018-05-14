@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 60,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2012,
+                "id": 2633726,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rocklin",
+                                "postalCode": "95677",
+                                "street1": "6809 Five Star Blvd. Ste 300"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "9166300306"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Alexander & Martin Orthodontics",
+                "numFollowers": 31,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Invisalign",
+                        "Damon Braces",
+                        "CLEAR Braces",
+                        "Invisalign Teen",
+                        "Orthodontic Specialist",
+                        "Self ligating braces"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ambraces.com"
+            }
+        ]
+    }
+}

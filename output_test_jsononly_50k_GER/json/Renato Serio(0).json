@@ -1,0 +1,54 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 11395655,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "68",
+                            "name": "Ense\u00f1anza superior"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "S\u00e3o Paulo",
+                                "postalCode": "08295400",
+                                "street1": "Rua S\u00e3o Gon\u00e7alo do Piau\u00ed, 65"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Iteq Leste",
+                "numFollowers": 5,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Aprimorar conhecimento"
+                    ]
+                },
+                "websiteUrl": "https://www.iteqleste.com.br/"
+            }
+        ]
+    }
+}

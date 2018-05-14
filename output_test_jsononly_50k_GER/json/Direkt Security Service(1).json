@@ -1,0 +1,152 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 22,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "H",
+                    "name": "5001-10000"
+                },
+                "foundedYear": 1992,
+                "id": 2712,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "8",
+                            "name": "Telecomunicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 9,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "EC3A 3EH",
+                                "street1": "Colt House"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Diegem",
+                                "postalCode": "1931",
+                                "street1": "Culliganlaan 2H"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Frankfurt",
+                                "postalCode": "60322",
+                                "street1": "Gervinusstr 19-22"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Milan",
+                                "postalCode": "20159",
+                                "street1": "Viale Edoardo Jenner 56"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Tokyp",
+                                "postalCode": "108-0023",
+                                "street1": "3-1-35 Shibaura"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Malakoff",
+                                "postalCode": "92247",
+                                "street1": "23-27 rue Pierre Valette"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Amsterdam-Duivendrecht",
+                                "postalCode": "Postbus 94014, 1090 GA",
+                                "street1": "Van der Madeweg 12-14A 1114 AM "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Gurgaon",
+                                "postalCode": "122008",
+                                "street1": "4"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Amsterdam-Duivendrecht",
+                                "postalCode": "1114 AM",
+                                "street1": "Van der Madeweg 14A"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Colt Technology Services",
+                "numFollowers": 90508,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Data Services",
+                        "Voice Services",
+                        "Hosting Services",
+                        "Data Networking",
+                        "Internet Services",
+                        "Security Services",
+                        "Telephony",
+                        "Colocation",
+                        "High Bandwidth",
+                        "SDN/NFV",
+                        "SIP Trunking"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "Colt_Technology",
+                "websiteUrl": "www.colt.net"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7432311,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rimbach",
+                                "postalCode": "64668",
+                                "street1": "54 Schlo\u00dfstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "062537501"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Autohaus Stephan Schmid GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "autohaus-schmid-rimbach.de"
+            }
+        ]
+    }
+}

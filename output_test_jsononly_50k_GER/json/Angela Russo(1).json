@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 11319658,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "146",
+                            "name": "Embalaje y contenedores\n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "S\u00e3o Jos\u00e9 do Rio Preto",
+                                "postalCode": "15087-034",
+                                "street1": "Avenida Horacio Neves de Azevedo "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bom Brindes Digital",
+                "numFollowers": 1,
+                "websiteUrl": "www.bombrindes.com.br"
+            }
+        ]
+    }
+}

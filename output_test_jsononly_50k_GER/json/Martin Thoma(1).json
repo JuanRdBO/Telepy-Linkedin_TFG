@@ -1,0 +1,76 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2016,
+                "id": 11009803,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "13",
+                            "name": "Profesiones m\u00e9dicas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hoover",
+                                "postalCode": "35216",
+                                "street1": "2010 Patton Chapel Road"
+                            },
+                            "contactInfo": {
+                                "fax": "205-208-0031",
+                                "phone1": "205-208-9001"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Cahaba Pain and Spine Care, LLC",
+                "numFollowers": 29,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Pain Management",
+                        "Chronic Pain Management",
+                        "Interventional Pain Management",
+                        "Pain Medicine",
+                        "Anesthesiology",
+                        "Radiofrequency Ablation",
+                        "Epidural Steroid Injection",
+                        "Spinal Cord Stimulation",
+                        "Kyphoplasty",
+                        "Facet Blocks",
+                        "Ketamine Infusion",
+                        "Ultrasound-guided procedures"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.cahabapain.com"
+            }
+        ]
+    }
+}

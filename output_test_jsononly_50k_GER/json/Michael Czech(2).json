@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 23,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1985,
+                "id": 591579,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "10",
+                            "name": "Servicios jur\u00eddicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Roskilde",
+                                "postalCode": "4000",
+                                "street1": "Havnevej 3"
+                            },
+                            "contactInfo": {
+                                "fax": "+45 7022 8820",
+                                "phone1": "+ 45 7022 8850"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Forum Advokater",
+                "numFollowers": 590,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Familieret, b\u00f8rn, skilsmisse, \u00e6gtepagt, for\u00e6ldreret, d\u00f8dsbo, boskifte.",
+                        "Retssager, voldgift, mediation, retsm\u00e6gling, konfliktl\u00f8sning.",
+                        "Ans\u00e6ttelsesret. Milj\u00f8ret. Erstatningsret. Kontrakter. Erhvervsr\u00e5dgivning.",
+                        "Advokat Roskilde, advokat Sj\u00e6lland."
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.forumadvokater.dk"
+            }
+        ]
+    }
+}

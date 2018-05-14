@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12462045,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Karlsruhe",
+                                "postalCode": "76137",
+                                "street1": "R\u00fcppurrer Str. 2C"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 72194540580"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hans-Joachim Werner",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.zahnarzt-werner-ka.de"
+            }
+        ]
+    }
+}

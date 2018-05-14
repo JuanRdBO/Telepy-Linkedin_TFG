@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 161,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12863921,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kirchheim unter Teck",
+                                "postalCode": "73230",
+                                "street1": "86 Z\u00e4hringer Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 702182650"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Martin",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.krankengymnastik-martin.de"
+            }
+        ]
+    }
+}

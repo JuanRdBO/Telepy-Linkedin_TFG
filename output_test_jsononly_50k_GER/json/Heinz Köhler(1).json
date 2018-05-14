@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7470905,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dortmund",
+                                "postalCode": "44388",
+                                "street1": "91 L\u00fctgendortmunder Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "02316552342"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Karl-Heinz Kohler",
+                "numFollowers": 0,
+                "websiteUrl": "mobile-massagen-kohler.de"
+            }
+        ]
+    }
+}

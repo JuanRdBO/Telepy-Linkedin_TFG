@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 64,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2014,
+                "id": 11097925,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "19",
+                            "name": "Industria textil y moda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Chessington",
+                                "postalCode": "KT9 1RH",
+                                "street1": "Typhoon Building"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "020 8397 6920"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Alie Street",
+                "numFollowers": 18,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Occasion Wear",
+                        "Red Carpet Gowns",
+                        "Made in Britain",
+                        "Bridal Wear",
+                        "Wedding Dresses",
+                        "Ready-To-Wear"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.aliestreet.com"
+            }
+        ]
+    }
+}

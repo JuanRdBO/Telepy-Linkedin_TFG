@@ -1,0 +1,38 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 9594529,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Fond du Lac",
+                                "postalCode": "54935",
+                                "street1": "111 N Peters Ave"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 9205399121"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Richard Dennis Hahn",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12571100,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "31",
+                            "name": "Hosteler\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Buch",
+                                "postalCode": "89290",
+                                "street1": "Obenhausen"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 73436363"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gasthaus Zur Blauen Traube",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.blaue-traube-obenhausen.de"
+            }
+        ]
+    }
+}

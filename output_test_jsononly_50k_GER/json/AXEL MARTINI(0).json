@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 1999,
+                "id": 18325662,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Madrid",
+                                "postalCode": "28013",
+                                "street1": "C/Montera 34"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Selector Marx",
+                "numFollowers": 8,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Comunicaci\u00f3n",
+                        "Fotograf\u00eda",
+                        "Periodismo",
+                        "Marketing Digital",
+                        "Redes Sociales"
+                    ]
+                },
+                "websiteUrl": "www.flickr.com/selectormarx"
+            }
+        ]
+    }
+}

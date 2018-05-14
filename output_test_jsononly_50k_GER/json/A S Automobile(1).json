@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5786,
+        "values": [
+            {
+                "companyType": {
+                    "code": "G",
+                    "name": "Government Agency"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1965,
+                "id": 5176080,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dubai",
+                                "postalCode": "",
+                                "street1": "Al Mamzar, Al Wuheida Street"
+                            },
+                            "contactInfo": {
+                                "fax": "+97142961133",
+                                "phone1": "+97142961122"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Automobile and Touring Club of the United Arab Emirates",
+                "numFollowers": 2284,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Automobile Sport management",
+                        "Mobility",
+                        "Institute",
+                        "Road Safety"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.atcuae.ae"
+            }
+        ]
+    }
+}

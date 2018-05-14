@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 28,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2008,
+                "id": 3883437,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ho Chi Minh City",
+                                "postalCode": "",
+                                "street1": "L\u1ea7u 2, T\u00f2a nh\u00e0 TS, s\u1ed1 17 \u0111\u01b0\u1eddng S\u1ed1 2, C\u01b0 x\u00e1 \u0110\u00f4 Th\u00e0nh, ph\u01b0\u1eddng 4 qu\u1eadn 3 TPHCM"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "08 2243 7782"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hoang Nguyen Informatics - C\u00f4ng ty Tin h\u1ecdc Ho\u00e0ng Nguy\u1ec5n",
+                "numFollowers": 20,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "webchuyennghiep.net"
+            }
+        ]
+    }
+}

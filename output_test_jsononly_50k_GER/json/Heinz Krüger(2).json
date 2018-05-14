@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12350730,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "112",
+                            "name": "Manufactura el\u00e9ctrica y electr\u00f3nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Templin",
+                                "postalCode": "17268",
+                                "street1": "7 Prokopiusstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 39872906"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "JKM Elektroanlagen GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.jkm-elektro.de"
+            }
+        ]
+    }
+}

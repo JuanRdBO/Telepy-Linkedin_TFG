@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1976,
+                "id": 75584,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "G\u00f6teborg",
+                                "postalCode": "412 50",
+                                "street1": "Drakegatan 6"
+                            },
+                            "contactInfo": {
+                                "fax": "031-733 20 80",
+                                "phone1": "031-733 20 70"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ikaros Datakonsulter",
+                "numFollowers": 227,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Business Intelligence",
+                        ".Net",
+                        "Business Analysis",
+                        "Requirement Engineering",
+                        "Project Management",
+                        "KDP",
+                        "G\u00f6teborg",
+                        "IT Consultant",
+                        "Projektledning",
+                        "Kravhantering"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.ikaros.se"
+            }
+        ]
+    }
+}

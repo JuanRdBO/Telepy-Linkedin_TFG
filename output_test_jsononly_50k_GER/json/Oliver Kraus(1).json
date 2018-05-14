@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2017,
+                "id": 17921471,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "WC1B 3Ja",
+                                "street1": "14 Bedford Square"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "07444714601"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Oliver Kraus - Rocket Surgeon",
+                "numFollowers": 8,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "IT Consulting",
+                        "Startup Consulting",
+                        "Entrepreneur Assistance",
+                        "Consulting CTO",
+                        "Tech Adviser"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://RocketSurgeon.co.uk"
+            }
+        ]
+    }
+}

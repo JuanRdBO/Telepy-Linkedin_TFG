@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7514231,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Selm",
+                                "postalCode": "59379",
+                                "street1": "Auf Der Spinnbahn 1A"
+                            },
+                            "contactInfo": {
+                                "phone1": "0259261536"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Weber Haarstudio Inh. J\u00f6rg Weber",
+                "numFollowers": 1,
+                "websiteUrl": "haarstudio-weber.de"
+            }
+        ]
+    }
+}

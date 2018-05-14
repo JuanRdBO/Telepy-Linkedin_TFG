@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7332451,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bretzfeld",
+                                "postalCode": "74626",
+                                "street1": "11 Herrschichtstrasse"
+                            },
+                            "contactInfo": {
+                                "phone1": "0794695225"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Firma Manuela Schmidt",
+                "numFollowers": 0,
+                "websiteUrl": "haushaltsaufloesung-schmidt.de"
+            }
+        ]
+    }
+}

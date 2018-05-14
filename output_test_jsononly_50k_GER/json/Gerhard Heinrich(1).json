@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7378386,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Willingen (Upland)",
+                                "postalCode": "34508",
+                                "street1": "7 Am Hoppern"
+                            },
+                            "contactInfo": {
+                                "phone1": "05632966500"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Heinrich Gerhard KG",
+                "numFollowers": 0,
+                "websiteUrl": "dachdecker-gerhard.de"
+            }
+        ]
+    }
+}

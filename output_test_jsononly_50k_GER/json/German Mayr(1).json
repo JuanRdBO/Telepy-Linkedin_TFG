@@ -1,0 +1,87 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1984,
+                "id": 877404,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Keighley",
+                                "postalCode": "BD21 4LZ",
+                                "street1": "Valley Road Business Park"
+                            },
+                            "contactInfo": {
+                                "fax": "01535 663261",
+                                "phone1": "01535 663900"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Kaufbeuren",
+                                "postalCode": "D-87665",
+                                "street1": "Eichenstrasse 1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Mayr Transmissions Ltd",
+                "numFollowers": 124,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "torque limiters",
+                        "safety brakes",
+                        "shaft couplings",
+                        "theatre brakes",
+                        "silent brakes",
+                        "clutches",
+                        "torsionally rigid couplings",
+                        "bellows couplings",
+                        "flexible couplings",
+                        "electromagnetic clutch"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.mayr.co.uk"
+            }
+        ]
+    }
+}

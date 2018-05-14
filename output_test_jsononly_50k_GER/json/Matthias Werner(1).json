@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12891732,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Olfen",
+                                "postalCode": "59399",
+                                "street1": "7 Goetheweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2595386419"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sarotech Matthias Werner E.K.",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.sarotech.de"
+            }
+        ]
+    }
+}

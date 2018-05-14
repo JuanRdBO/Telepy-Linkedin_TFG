@@ -1,0 +1,554 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 21335394,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1975,
+                "id": 1035,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 49,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Redmond",
+                                "postalCode": "98052",
+                                "street1": "1 Microsoft Way"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(800) MICROSOFT"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Mississauga",
+                                "postalCode": "L5N 8L9",
+                                "street1": "1950 Meadowvale Blvd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Reno",
+                                "postalCode": "89511",
+                                "street1": "6100 Neil Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Omaha",
+                                "postalCode": "68106",
+                                "street1": "S 67th St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Buffalo",
+                                "postalCode": "14225",
+                                "street1": "1 Walden Galleria"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Manchester",
+                                "postalCode": "M1 4ET",
+                                "street1": "9 Charlotte Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Boca Raton",
+                                "postalCode": "33431",
+                                "street1": "6000 Glades Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Kista",
+                                "postalCode": "164 74",
+                                "street1": "Finlandsgatan 36"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Southern",
+                                "street1": "Cyberport Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "JONGNOGU",
+                                "street1": "50"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Fort Lauderdale",
+                                "postalCode": "33309",
+                                "street1": "6750 N Andrews Ave"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Portland",
+                                "postalCode": "97204",
+                                "street1": "300 SW Yamhill St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Las Vegas",
+                                "postalCode": "89109",
+                                "street1": "3200 S Las Vegas Blvd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Wellington",
+                                "postalCode": "6011",
+                                "street1": "157 Lambton Quay"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Lisbon",
+                                "postalCode": "1990-110",
+                                "street1": "Rua do Fogo de Santelmo 2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Cambridge",
+                                "postalCode": "CB1 2FB",
+                                "street1": "Station Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Indianapolis",
+                                "postalCode": "46240",
+                                "street1": "8701 Keystone Crossing"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Southfield",
+                                "postalCode": "48075",
+                                "street1": "1000 Town Center"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Espoo",
+                                "postalCode": "02150",
+                                "street1": "Keilalahdentie 2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Kongens Lyngby",
+                                "postalCode": "2800",
+                                "street1": "Kanalvej 7"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Brisbane",
+                                "postalCode": "4000",
+                                "street1": "400 George St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "San Diego",
+                                "postalCode": "92108",
+                                "street1": "7007 Friars Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Irving",
+                                "postalCode": "75039",
+                                "street1": "7000 State Highway 161"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Melbourne",
+                                "postalCode": "3006",
+                                "street1": "2-10 Freshwater Pl"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Santa Clara",
+                                "postalCode": "95050",
+                                "street1": "2855 Stevens Creek Blvd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10117",
+                                "street1": "Unter den Linden 17"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Sydney",
+                                "postalCode": "2000",
+                                "street1": "188 Pitt St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Canberra",
+                                "postalCode": "2600",
+                                "street1": "6 National Cirt"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Cologne",
+                                "postalCode": "50678",
+                                "street1": "Holzmarkt 2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Dublin",
+                                "street1": "Carmanhall Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Taipei City",
+                                "postalCode": "110",
+                                "street1": "No. 68, Sec 5, Zhong Xiao E. Rd."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Ljubljana",
+                                "postalCode": "1000",
+                                "street1": "Smartinska cesta 140"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Makati",
+                                "street1": "Ayala Ave"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Singapore",
+                                "postalCode": "018989",
+                                "street1": "1 Marina Blvd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Zaventem",
+                                "postalCode": "1930",
+                                "street1": "Leonardo da Vincilaan 3"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Palo Alto",
+                                "postalCode": "94304",
+                                "street1": "186 Stanford Shopping Center"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Irvine",
+                                "postalCode": "92614",
+                                "street1": "3 Park Plaza"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Vitacura",
+                                "postalCode": "7630000",
+                                "street1": "Avenida Vitacura 6844"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Rome",
+                                "postalCode": "00144",
+                                "street1": "Viale Avignone"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Belgrade",
+                                "postalCode": "11070",
+                                "street1": "Ulica Spanskih boraca 3"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Ely",
+                                "postalCode": "CB7 5DY",
+                                "street1": "21 Station Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70563",
+                                "street1": "Meitnerstrasse"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Milan",
+                                "postalCode": "20154",
+                                "street1": "Viale Pasubio, 21"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "W2 6BL",
+                                "street1": "2 Kingdom Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Malvern",
+                                "postalCode": "19355",
+                                "street1": "45 Liberty Blvd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Warsaw",
+                                "postalCode": "02-222",
+                                "street1": "Aleje Jerozolimskie 195A"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Jacksonville",
+                                "postalCode": "32246",
+                                "street1": "4791 River City Dr"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Auckland",
+                                "postalCode": "1010",
+                                "street1": "22 Viaduct Harbour Ave"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Mountain View",
+                                "postalCode": "94043",
+                                "street1": "1288 Pear Ave"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Microsoft",
+                "numFollowers": 5358354,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Business Software",
+                        "Design Tools",
+                        "Developer Tools",
+                        "Entertainment Products",
+                        "Hardware",
+                        "Home & Educational Software",
+                        "Tablets",
+                        "Search",
+                        "Advertising",
+                        "Servers",
+                        "Windows Operating System",
+                        "Windows Applications & Platforms",
+                        "Smartphones",
+                        "Cloud Computing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "msftnews",
+                "websiteUrl": "http://www.microsoft.com/"
+            }
+        ]
+    }
+}

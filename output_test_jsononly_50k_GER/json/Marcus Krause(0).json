@@ -1,0 +1,76 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2012,
+                "id": 2617728,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "84",
+                            "name": "Servicio de informaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Adelaide",
+                                "postalCode": "5051",
+                                "street1": "L9, 80 King William St"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0437 798791"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "P2PAgri",
+                "numFollowers": 52,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Farm Business Management",
+                        "Farm Viability",
+                        "Succession Planning",
+                        "Collaborative Farming",
+                        "Data Management",
+                        "Farm Probability of Default",
+                        "Agriculture",
+                        "Economics",
+                        "Cost of Production",
+                        "Livestock",
+                        "Pastoral",
+                        "Viticulture",
+                        "Horticulture",
+                        "Web 2.0"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.plantoprofit.biz"
+            }
+        ]
+    }
+}

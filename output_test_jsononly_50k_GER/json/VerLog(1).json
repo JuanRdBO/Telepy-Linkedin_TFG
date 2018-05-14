@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2010,
+                "id": 1917758,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "116",
+                            "name": "Log\u00edstica y cadena de suministro"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "S\u00e3o Paulo",
+                                "postalCode": "01150010",
+                                "street1": "Pra\u00e7a Marechal Deodoro"
+                            },
+                            "contactInfo": {
+                                "phone1": "5511-3661-4654"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Versatile Log\u00edstica Ltda",
+                "numFollowers": 124,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Supply Chain Management",
+                        "Treinamentos comercias",
+                        "Aplica\u00e7\u00e3o de ferramentas ERP`S para gest\u00e3o de processos",
+                        "Gest\u00e3o de armaz\u00e9ns e centros de distribui\u00e7\u00e3o"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.verlog.com.br"
+            }
+        ]
+    }
+}

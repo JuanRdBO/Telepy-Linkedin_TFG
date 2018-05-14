@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12443851,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Tettnang",
+                                "postalCode": "88069",
+                                "street1": "12 Kirchstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 754252448"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Lorenz, Musikwerkstatt Tettnang",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.musikwerkstatt.info"
+            }
+        ]
+    }
+}

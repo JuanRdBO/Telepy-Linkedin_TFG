@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1951,
+                "id": 588642,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oslo",
+                                "postalCode": "0950",
+                                "street1": "Sven Oftedalsvei 10"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+ 47 22 08 70 70"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "BWL Maskin AS - a part of the Foodtech Gruppen AS",
+                "numFollowers": 95,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "production equipment for the food industry in Norway",
+                        "turnkey projects for the food industry in Norway",
+                        "maintenance and services for the food industry in Norway"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.bwl.no"
+            }
+        ]
+    }
+}

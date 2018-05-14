@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2003,
+                "id": 10538768,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "105",
+                            "name": "Formaci\u00f3n profesional"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fchldorf am Inn",
+                                "postalCode": "84453",
+                                "street1": "T\u00f6ginger Stra\u00dfe 169"
+                            },
+                            "contactInfo": {
+                                "fax": "08631 160715",
+                                "phone1": "08631 16070"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Seminarhaus Schreinerhof",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Seminare",
+                        "Seminarr\u00e4ume",
+                        "Veranstaltungen",
+                        "Events"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.seminarhaus-schreinerhof.de"
+            }
+        ]
+    }
+}

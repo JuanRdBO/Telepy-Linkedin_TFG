@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 11,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2005,
+                "id": 1856578,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Manama",
+                                "postalCode": "",
+                                "street1": "PO Box 214"
+                            },
+                            "contactInfo": {
+                                "fax": "+973 17704595",
+                                "phone1": "+973 17704596"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Canadian Building Materials W.L.L. (CBM)",
+                "numFollowers": 1319,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "All Waterproofing Solutions",
+                        "Insulation",
+                        "Lightweight Concrete",
+                        "Epoxy Coating & Protective Coatings",
+                        "Interior Doors & Fire Rated Doors",
+                        "Waterstop Systems",
+                        "Expansion Joint Systems",
+                        "Non-shrink & Epoxy Grouts"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.cbm.com.bh"
+            }
+        ]
+    }
+}

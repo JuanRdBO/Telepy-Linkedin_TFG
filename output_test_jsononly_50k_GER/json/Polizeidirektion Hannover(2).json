@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12774704,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Nienburg",
+                                "postalCode": "31582",
+                                "street1": "9 B\u00fcrgermeister-Stahn-Wall"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 50218877880"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Polizeigeschichte",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.polizeigeschichte-niedersachsen.de"
+            }
+        ]
+    }
+}

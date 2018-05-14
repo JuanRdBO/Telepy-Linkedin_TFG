@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 12599,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1993,
+                "id": 10851034,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wiesbaden",
+                                "postalCode": "65185",
+                                "street1": "Luisenstr. 24"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0611-97326-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Immobilien Zeitung",
+                "numFollowers": 1907,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Immobilienbranche",
+                        "Projektentwicklung",
+                        "Makler",
+                        "Asset-Management",
+                        "B\u00fcroimmobilien",
+                        "Einzelhandelsimmobilien",
+                        "Wohnimmobilien",
+                        "Logistikimmobilien",
+                        "Investment",
+                        "PropTech",
+                        "Immobilienmarketing",
+                        "Mietrecht",
+                        "Baurecht"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.iz.de"
+            }
+        ]
+    }
+}

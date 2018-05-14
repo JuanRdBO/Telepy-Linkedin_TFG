@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 593,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7445388,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "81379",
+                                "street1": "2 Albert-Bayerle-Platz"
+                            },
+                            "contactInfo": {
+                                "phone1": "0895441120"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "DTP-Service Ingenieurb\u00fcro Laroche",
+                "numFollowers": 2,
+                "websiteUrl": "dtp-service.de"
+            }
+        ]
+    }
+}

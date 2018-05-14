@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1973,
+                "id": 825494,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Izmir",
+                                "postalCode": "35620",
+                                "street1": "AOSB 10007 sokak no:1/1 Cigli"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+90 232 376 76 10"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Norm Civata",
+                "numFollowers": 3773,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Ba\u011flant\u0131 elemanlar\u0131 \u00fcretimi",
+                        "ba\u011flant\u0131 elemanlar\u0131 pazarlamas\u0131",
+                        "Fastener production",
+                        "fastener marketing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.normgroup.com.tr/default.asp"
+            }
+        ]
+    }
+}

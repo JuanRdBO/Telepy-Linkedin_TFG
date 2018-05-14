@@ -1,0 +1,88 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1982,
+                "id": 499983,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "26",
+                            "name": "Mobiliario"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Haarby",
+                                "postalCode": "5683",
+                                "street1": "Akkerupvej 16"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Copenhagen",
+                                "postalCode": "1260",
+                                "street1": "Bredgade 76"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Stockholm",
+                                "postalCode": "114 42",
+                                "street1": "Sibyllegatan 21"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Montana Furniture",
+                "numFollowers": 4616,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Furnitures",
+                        "Shelves",
+                        "Tables",
+                        "Chairs",
+                        "Danish Design",
+                        "Storage",
+                        "Contract furniture"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.montana.dk"
+            }
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1969,
+                "id": 15205998,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Spokane",
+                                "postalCode": "99223",
+                                "street1": "4202 S Regal St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "NEWESD 101 (NorthEast Washington Educational Service District 101)",
+                "numFollowers": 41,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Career & technical education",
+                        "Early childhood education",
+                        "Fingerprinting",
+                        "Grants management",
+                        "Industrial hygiene",
+                        "Information management",
+                        "Juvenile detention education",
+                        "Prevention services",
+                        "Professional learning",
+                        "Pupil transportation",
+                        "School nursing",
+                        "Special education"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.esd101.net"
+            }
+        ]
+    }
+}

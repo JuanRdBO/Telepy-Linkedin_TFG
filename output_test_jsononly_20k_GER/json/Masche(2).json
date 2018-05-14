@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 16,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 4662152,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Milwaukee",
+                                "postalCode": "53228-3131",
+                                "street1": "5055 S 110th St"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 4145295370"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Masche Chiropractic Office",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.maschechiropractic.com/"
+            }
+        ]
+    }
+}

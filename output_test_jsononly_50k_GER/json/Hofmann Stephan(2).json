@@ -1,0 +1,51 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2002,
+                "id": 25046080,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "90",
+                            "name": "Organizaci\u00f3n c\u00edvica y social"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Campo Grande",
+                                "postalCode": "79.050-770",
+                                "street1": "Rua Mira\u00ed"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "GIRA Solid\u00e1rio - Promo\u00e7\u00e3o e Defesa da Inf\u00e2ncia e Adolesc\u00eancia",
+                "numFollowers": 3,
+                "websiteUrl": "https://www.girasolidario.org.br/"
+            }
+        ]
+    }
+}

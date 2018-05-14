@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 1996,
+                "id": 3163712,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "136",
+                            "name": "Fotograf\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hohen Neuendorf",
+                                "postalCode": "16540",
+                                "street1": "Sch\u00f6nflie\u00dfer Stra\u00dfe 53"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 3303 5419604"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "PrimePhoto - Architektur | Innendesign | Immobilien",
+                "numFollowers": 24,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Architekturfotografie",
+                        "Immobilienfotografie",
+                        "Fotografie von Innendesign",
+                        "Fotografie von Innenarchitektur"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.primephoto.de"
+            }
+        ]
+    }
+}

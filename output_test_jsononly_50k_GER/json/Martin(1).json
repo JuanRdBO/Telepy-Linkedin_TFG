@@ -1,0 +1,98 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 29943,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "H",
+                    "name": "5001-10000"
+                },
+                "foundedYear": 1993,
+                "id": 164860,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "56",
+                            "name": "Miner\u00eda y metalurgia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Raleigh",
+                                "postalCode": "27607",
+                                "street1": "2710 Wycliff Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "West Monroe",
+                                "postalCode": "71292",
+                                "street1": "169 Hammonds Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Fort Collins",
+                                "postalCode": "80521",
+                                "street1": "1800 N Taft Hill Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Canton",
+                                "postalCode": "75103",
+                                "street1": "24664 TX-64"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Martin Marietta",
+                "numFollowers": 12481,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Aggregates",
+                        "Cement",
+                        "Ready Mix Concrete",
+                        "Asphalt",
+                        "Magnesium Hydroxide",
+                        "Magnesium Oxide",
+                        "Dolomitic Lime"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.martinmarietta.com"
+            }
+        ]
+    }
+}

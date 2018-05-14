@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7469115,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Regensburg",
+                                "postalCode": "93049",
+                                "street1": "9 Pr\u00fcfeninger Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "094138173351"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ERGO Versicherung Andreas Dietz",
+                "numFollowers": 0,
+                "websiteUrl": "andreas.dietz.ergo.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2010,
+                "id": 2646870,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dresden",
+                                "postalCode": "01069",
+                                "street1": "Lingnerallee 3"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0) 351 462-2148",
+                                "phone1": "0800 800 40 12"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "PRIOSCORE",
+                "numFollowers": 21,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Performance",
+                        "Nachhaltigkeit",
+                        "Risk",
+                        "Unternehmenssteuerung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.prioscore.com"
+            }
+        ]
+    }
+}

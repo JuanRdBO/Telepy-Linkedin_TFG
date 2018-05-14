@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12543422,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kreuztal",
+                                "postalCode": "57223",
+                                "street1": "24 Auf Der Pferdeweide"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "J\u00fcrgen Klein KG",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.jkkg.de"
+            }
+        ]
+    }
+}

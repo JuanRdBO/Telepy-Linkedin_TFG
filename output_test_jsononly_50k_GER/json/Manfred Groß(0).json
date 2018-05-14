@@ -1,0 +1,100 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1936,
+                "id": 10144535,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gro\u00df-Gerau",
+                                "postalCode": "64521",
+                                "street1": "Darmst\u00e4dter Stra\u00dfe 29"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60323",
+                                "street1": "Eppsteiner Stra\u00dfe 57"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40215",
+                                "street1": "K\u00f6nigsallee 61"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Meran",
+                                "postalCode": "39012",
+                                "street1": "Piazza della Rena, 2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "DR. KEIL & KOLLEGEN",
+                "numFollowers": 20,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Erbrecht",
+                        "Internationales Privatrecht",
+                        "Deutsch-Italienischer Rechtsverkehr",
+                        "Arbeitsrecht",
+                        "Franz\u00f6sisches Erbrecht",
+                        "Spanisches Erbrecht",
+                        "Italienisches Erbrecht",
+                        "Handelsrecht",
+                        "Unternehmensgr\u00fcndung in Italien",
+                        "Transportrecht",
+                        "Speditionsrecht"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.dr-keil.de"
+            }
+        ]
+    }
+}

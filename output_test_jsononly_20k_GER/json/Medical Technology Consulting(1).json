@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3784,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1985,
+                "id": 132365,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "14",
+                            "name": "Atenci\u00f3n sanitaria y hospitalaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Orange",
+                                "postalCode": "92868",
+                                "street1": "One City Boulevard West, Suite 1100"
+                            },
+                            "contactInfo": {
+                                "fax": "1-714-570-5055",
+                                "phone1": "1-714-571-5000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Medical Specialties Managers, Inc.",
+                "numFollowers": 2400,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Practice Management",
+                        "Revenue Cycle Management",
+                        "Healthcare Consulting",
+                        "Software Development",
+                        "Contracting",
+                        "Credentialing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "msm_inc",
+                "websiteUrl": "http://www.msmnet.com"
+            }
+        ]
+    }
+}

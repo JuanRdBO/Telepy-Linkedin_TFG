@@ -1,0 +1,93 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4639,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1993,
+                "id": 424770,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "East Point Business Park",
+                                "postalCode": "Dublin 3",
+                                "street1": "1st Floor, Block T"
+                            },
+                            "contactInfo": {
+                                "fax": "01-8843201",
+                                "phone1": "01-8843200"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Dublin",
+                                "street1": "Alfie Byrne Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Ergo",
+                "numFollowers": 10791,
+                "specialties": {
+                    "_total": 20,
+                    "values": [
+                        "IT Managed Services",
+                        "IT Maintenance & Support",
+                        "Cloud Solutions",
+                        "IT Consulting",
+                        "Microsoft Solutions",
+                        "IT Infrastructure",
+                        "Microsoft System Center",
+                        "Microsoft SQL Data Services",
+                        "Microsoft SharePoint",
+                        "Microsoft Dynamics 365",
+                        "Managed Print Services",
+                        "IT Resourcing",
+                        "Power BI",
+                        "Digital Workplace",
+                        "GDPR ",
+                        "IT Security",
+                        "Digital Transformation",
+                        "Office 365",
+                        "Digital Application Platform",
+                        "Mobile App"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "ErgoIreland",
+                "websiteUrl": "www.ergogroup.ie"
+            }
+        ]
+    }
+}

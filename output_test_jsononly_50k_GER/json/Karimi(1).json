@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 62,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1963,
+                "id": 13181511,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Tehran",
+                                "postalCode": "1571717415",
+                                "street1": "3rd Floor, No. 161"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+9821 88824707"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Karimi & Associates Law Firm",
+                "numFollowers": 67,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "International Trade",
+                        "Real Estate",
+                        "Immigration",
+                        "Legal and Visa Affairs with Embassies",
+                        "Tax",
+                        "Banking & Islamic Finance",
+                        "Foreign Investment",
+                        "Litigation",
+                        "Arbitration & Alternative Dispute Resolution",
+                        "Corporate Law",
+                        "Oil  & Gas",
+                        "Insurance",
+                        "Labour Law"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.karimilawfirm.com/en/"
+            }
+        ]
+    }
+}

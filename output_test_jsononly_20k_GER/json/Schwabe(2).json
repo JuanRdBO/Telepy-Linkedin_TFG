@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 128,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1866,
+                "id": 419953,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "15",
+                            "name": "Industria farmac\u00e9utica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Karlsruhe",
+                                "postalCode": "76227",
+                                "street1": "Dr. Willmar Schwabe Strasse"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49(721) 4005-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schwabe Pharma",
+                "numFollowers": 915,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Phytopharmaceuticals",
+                        "Homeopathy",
+                        "Food Supplements"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.schwabepharma.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7493848,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Tangstedt",
+                                "postalCode": "25499",
+                                "street1": "29 Pinneberger Weg"
+                            },
+                            "contactInfo": {
+                                "phone1": "04101553333"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hermann Thies Inh. Ulrich Gartzke",
+                "numFollowers": 0,
+                "websiteUrl": "thies-pflanzenagentur.de"
+            }
+        ]
+    }
+}

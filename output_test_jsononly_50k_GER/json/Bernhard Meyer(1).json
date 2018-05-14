@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7560006,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Eggerm\u00fchlen",
+                                "postalCode": "49577",
+                                "street1": "1 Am Cordtskamp"
+                            },
+                            "contactInfo": {
+                                "phone1": "05462504"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bernhard Meyer OHG",
+                "numFollowers": 0,
+                "websiteUrl": "meyer-moebel.de"
+            }
+        ]
+    }
+}

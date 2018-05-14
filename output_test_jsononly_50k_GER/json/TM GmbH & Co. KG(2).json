@@ -1,0 +1,64 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1999,
+                "id": 18070973,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "113",
+                            "name": "Edici\u00f3n en l\u00ednea"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "N\u00fcrnberg",
+                                "postalCode": "90425",
+                                "street1": "Pretzfelder Str. 7-11"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Marktplatz Mittelstand GmbH & Co. KG",
+                "numFollowers": 14,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Online Marketing",
+                        "Online Verzeichnis",
+                        "Online Firmenverzeichnis",
+                        "Directory",
+                        "Facebook Marketing",
+                        "Facebook Ads",
+                        "Google AdWords",
+                        "Firmen Websites"
+                    ]
+                },
+                "websiteUrl": "www.marktplatz-mittelstand.de"
+            }
+        ]
+    }
+}

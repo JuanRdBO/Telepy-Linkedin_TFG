@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12199372,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Twistringen",
+                                "postalCode": "27239",
+                                "street1": "2 Lindenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 4243941380"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Michael Geisler, Twistringen",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.michael-geisler.com"
+            }
+        ]
+    }
+}

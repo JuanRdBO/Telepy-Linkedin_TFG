@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2012,
+                "id": 5895896,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "130",
+                            "name": "Gabinetes estrat\u00e9gicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Flein",
+                                "postalCode": "74223",
+                                "street1": "Heilbronner Str. 30"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 7131769930"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ThePeople.de GmbH",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Hotel-Apps",
+                        "Patents",
+                        "Photobook-Software",
+                        "Marketing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.thepeople.de"
+            }
+        ]
+    }
+}

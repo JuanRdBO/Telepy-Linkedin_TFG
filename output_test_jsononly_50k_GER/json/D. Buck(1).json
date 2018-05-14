@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 81,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2010,
+                "id": 1399914,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "104",
+                            "name": "Dotaci\u00f3n y selecci\u00f3n de personal"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dublin",
+                                "postalCode": "",
+                                "street1": "26 Windsor Place, Lower Pembroke Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(01) 4408351"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wallace Myers International | World Class Professional Staffing",
+                "numFollowers": 12496,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Executive Search",
+                        "Accounting & Finance",
+                        "Banking & Financial Services",
+                        "Human Resources",
+                        "Secretarial & Office Support",
+                        "Retail",
+                        "Engineering",
+                        "recruitment",
+                        "Corporate Culture",
+                        "Sales & Marketing",
+                        "Tech jobs Ireland",
+                        "Staffing Solutions",
+                        "Career Advancement",
+                        "Career Advice"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.wallacemyers.ie"
+            }
+        ]
+    }
+}

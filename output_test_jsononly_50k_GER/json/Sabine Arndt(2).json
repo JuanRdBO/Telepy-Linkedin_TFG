@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12821997,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Heidelberg",
+                                "postalCode": "69117",
+                                "street1": "16 Emil-Maier-Stra\u00dfe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Www.sabinearndt.de",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.sabinearndt.de"
+            }
+        ]
+    }
+}

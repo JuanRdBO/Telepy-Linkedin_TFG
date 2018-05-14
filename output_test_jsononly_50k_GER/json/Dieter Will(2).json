@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 2777,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1974,
+                "id": 2694876,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pawleys Island",
+                                "postalCode": "29585",
+                                "street1": "13253 Ocean Highway 17"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "800-950-6232"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "The Dieter Company Vacation Rentals & Sales",
+                "numFollowers": 50,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Pawleys Island Rentals",
+                        "North Litchfield Beach Rentals",
+                        "Litchfield by the Sea",
+                        "Pet Friendly Rentals",
+                        "Litchfield Beach Vacations",
+                        "Litchfield Beach Real Estate Sales",
+                        "Pawleys Island Real Estate Sales",
+                        "Long Term Rentals",
+                        "Winter Monthly Rentals",
+                        "Interval Management"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.DieterCompany.com"
+            }
+        ]
+    }
+}

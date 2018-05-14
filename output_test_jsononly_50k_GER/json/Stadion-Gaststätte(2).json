@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7406689,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "22525",
+                                "street1": "1 Stadionstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "040836011"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gastst\u00e4tte Stadion Eck",
+                "numFollowers": 0,
+                "websiteUrl": "stadioneck.de"
+            }
+        ]
+    }
+}

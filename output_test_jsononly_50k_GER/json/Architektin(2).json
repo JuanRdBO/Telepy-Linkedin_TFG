@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 103,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7542982,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dresden",
+                                "postalCode": "01099",
+                                "street1": "80 Louisenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "03518029590"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Architektin Andrea D\u00e4beritz",
+                "numFollowers": 4,
+                "websiteUrl": "a-daeberitz.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12836234,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Herne",
+                                "postalCode": "44627",
+                                "street1": "Baueracker 7A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 15157335291"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ISD - Markus Weber-Frede",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.isd-softwareentwicklung.de"
+            }
+        ]
+    }
+}

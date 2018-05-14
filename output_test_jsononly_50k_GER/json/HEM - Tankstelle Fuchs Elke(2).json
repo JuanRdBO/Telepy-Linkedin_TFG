@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5526,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2014,
+                "id": 5251679,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "99",
+                            "name": "Dise\u00f1o"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stockholm",
+                                "postalCode": "11361",
+                                "street1": "Eastmansv\u00e4gen 12"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hem Design Studio",
+                "numFollowers": 2926,
+                "specialties": {
+                    "_total": 18,
+                    "values": [
+                        "e-commerce",
+                        "furniture",
+                        "design",
+                        "home decor",
+                        "design studio",
+                        "architecture",
+                        "interior design",
+                        "lighting",
+                        "accessories",
+                        "retail",
+                        "trade",
+                        "FF&E",
+                        "quality",
+                        "craft",
+                        "mass production",
+                        "procurement",
+                        "creativity",
+                        "art"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://hem.com"
+            }
+        ]
+    }
+}

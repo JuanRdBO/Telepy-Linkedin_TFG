@@ -1,0 +1,53 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2011,
+                "id": 2191087,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "140",
+                            "name": "Dise\u00f1o gr\u00e1fico"
+                        }
+                    ]
+                },
+                "name": "Bryce Wein Design",
+                "numFollowers": 10,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Web design",
+                        "Print design",
+                        "Brochures",
+                        "Flyers",
+                        "Copywriting",
+                        "Photography",
+                        "Social Media"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.bryceweindesign.com.au"
+            }
+        ]
+    }
+}

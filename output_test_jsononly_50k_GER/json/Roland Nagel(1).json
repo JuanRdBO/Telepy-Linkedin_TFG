@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1995,
+                "id": 1936478,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "83",
+                            "name": "Imprenta"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sandrigo",
+                                "postalCode": "36066",
+                                "street1": "Via 1\u00b0 Maggio, 6"
+                            },
+                            "contactInfo": {
+                                "fax": "0444759140",
+                                "phone1": "0444750677"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Tecnografica Rossi",
+                "numFollowers": 62,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Stampa libri",
+                        "Stampa calendari",
+                        "Stampa cataloghi"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "http://twitter.com/tgbook",
+                "websiteUrl": "https://www.tecnograficarossi.it/"
+            }
+        ]
+    }
+}

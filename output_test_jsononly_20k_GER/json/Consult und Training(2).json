@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 36,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2004,
+                "id": 2373443,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Qingdao",
+                                "postalCode": "",
+                                "street1": "Office 2006 - Building 1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+86-532-85028585"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Qingdao German Service Center",
+                "numFollowers": 220,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Individual Market Strategy",
+                        "Full-scale Investment Service",
+                        "Multi-cultural Dialogue",
+                        "Energy Efficient Technology",
+                        "Professional Training",
+                        "Staff Recruiting"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.qgsc.org"
+            }
+        ]
+    }
+}

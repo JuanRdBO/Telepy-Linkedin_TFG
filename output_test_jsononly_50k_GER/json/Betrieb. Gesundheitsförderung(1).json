@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 14,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1984,
+                "id": 130638,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Darmstadt",
+                                "postalCode": "64293",
+                                "street1": "Otto-R\u00f6hm-Strasse 18"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 6151 8290 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "PROFI Engineering Systems AG",
+                "numFollowers": 392,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Strategie- und Prozessberatung",
+                        "Mobile",
+                        "Industrie 4.0",
+                        "Cloud-L\u00f6sungen",
+                        "Big Data und Analytics",
+                        "Security und Netzwerke",
+                        "SAP-L\u00f6sungen",
+                        "Infrastruktur-L\u00f6sungen",
+                        "Business-L\u00f6sungen",
+                        "Managed Services"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.profi-ag.de"
+            }
+        ]
+    }
+}

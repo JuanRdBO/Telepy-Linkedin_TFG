@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12467257,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Albstadt",
+                                "postalCode": "72458",
+                                "street1": "78 Degerwandstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7431971190"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Klaus-Dieter Kugler",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.schornsteintechnik-kugler.de"
+            }
+        ]
+    }
+}

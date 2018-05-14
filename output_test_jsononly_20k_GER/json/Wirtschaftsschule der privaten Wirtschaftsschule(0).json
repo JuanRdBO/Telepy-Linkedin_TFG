@@ -1,0 +1,104 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1949,
+                "id": 11362749,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Regensburg",
+                                "postalCode": "93049",
+                                "street1": "Dr.-Johann-Maier-Str. 2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Regensburg",
+                                "postalCode": "93049 Regensburg",
+                                "street1": "Wittelsbacher Str. 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Regensburg",
+                                "postalCode": "93049",
+                                "street1": "Dechbettener Str. 13"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Straubing",
+                                "postalCode": "94315",
+                                "street1": "Innere Fr\u00fchlingstr. 36"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Private Schulen Pindl",
+                "numFollowers": 5,
+                "specialties": {
+                    "_total": 20,
+                    "values": [
+                        "Privatschule",
+                        "Gymnasium",
+                        "Realschule",
+                        "Wirtschaftsschule",
+                        "FOS",
+                        "Internat",
+                        "Kinderhaus",
+                        "Kindergarten",
+                        "Kinderkrippe",
+                        "Ganztagsschule",
+                        "iPad-Schule",
+                        "Rhythmisierte Ganztagsschule",
+                        "Mittagsbetreuung",
+                        "Individuelle F\u00f6rderung",
+                        "Vorbereitungskurse zum \u00dcbertritt",
+                        "Bilingualer Unterricht",
+                        "MINT Schule",
+                        "PUR Partnerschule Universit\u00e4t Regensburg",
+                        "DELF",
+                        "Nachhilfe"
+                    ]
+                },
+                "websiteUrl": "https://www.schulen-pindl.de/"
+            }
+        ]
+    }
+}

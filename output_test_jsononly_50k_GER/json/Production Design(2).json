@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 108564,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1949,
+                "id": 152282,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "37",
+                            "name": "Museos e instituciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lorton",
+                                "postalCode": "22079",
+                                "street1": "7110 Rainwater Place"
+                            },
+                            "contactInfo": {
+                                "fax": "(703) 339-0296",
+                                "phone1": "(703) 550-8640"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Design and Production Incorporated",
+                "numFollowers": 915,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Preconstruction services",
+                        "Project management",
+                        "Cost estimating",
+                        "Exhibit production, engineering, & detailing",
+                        "Graphic design support & production",
+                        "Exhibit fabrication & installation",
+                        "Artifact mounting",
+                        "Media and lighting systems design, engineering, & integration"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.d-and-p.com"
+            }
+        ]
+    }
+}

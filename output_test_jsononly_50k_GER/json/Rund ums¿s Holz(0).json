@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 2002,
+                "id": 491704,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "49",
+                            "name": "Materiales de construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hannover",
+                                "postalCode": "30655",
+                                "street1": "Buchholzer Stra\u00dfe 98"
+                            },
+                            "contactInfo": {
+                                "fax": "0511 - 123206 55",
+                                "phone1": "0511 - 123206 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "BAUKING AG",
+                "numFollowers": 508,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Roh-/Hochbau",
+                        "Trockenbau",
+                        "Dach & Fassade",
+                        "Tiefbau",
+                        "Garten-/Landschaftsbau",
+                        "Bauelemente (Fenster-T\u00fcren-Tore)",
+                        "Fliese",
+                        "Sanierung-Renovierung-Modernisierung",
+                        "Holz/Holzwerkstoffe",
+                        "Profifachmarkt (Werkzeuge, Maschinen, Arbeitsschutz & -kleidung, ...)"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.bauking.de"
+            }
+        ]
+    }
+}

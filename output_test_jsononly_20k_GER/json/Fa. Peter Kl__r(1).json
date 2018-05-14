@@ -1,0 +1,76 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2009,
+                "id": 2712576,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "140",
+                            "name": "Dise\u00f1o gr\u00e1fico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "J\u00f6nk\u00f6ping",
+                                "postalCode": "555 94",
+                                "street1": "SKRIKEBO"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Pehja Production AB",
+                "numFollowers": 7,
+                "specialties": {
+                    "_total": 15,
+                    "values": [
+                        "Webbdesign",
+                        "Grafisk Design",
+                        "Utbildning",
+                        "Annonser",
+                        "Broshyrer",
+                        "Webbhotell",
+                        "Visitkort",
+                        "Mixning",
+                        "Inspelning",
+                        "Mastring",
+                        "Fotografering",
+                        "Videoproduktioner",
+                        "Hemsidor",
+                        "Musikproduktioner",
+                        "dr\u00f6nare"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://pehjaproduction.se"
+            }
+        ]
+    }
+}

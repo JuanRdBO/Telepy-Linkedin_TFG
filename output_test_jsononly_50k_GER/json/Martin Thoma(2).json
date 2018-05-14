@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12538494,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Baden-Baden",
+                                "postalCode": "76530",
+                                "street1": "5 Lichtentaler Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 722124406"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Juwelier Thoma",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.juwelier-thoma.de"
+            }
+        ]
+    }
+}

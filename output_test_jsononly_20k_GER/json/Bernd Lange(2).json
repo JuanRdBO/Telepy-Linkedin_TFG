@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12783499,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wanna",
+                                "postalCode": "21776",
+                                "street1": "12 Ortsstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 475781220"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rollrasenfarm-Bernd-W. Lange",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.rollrasenfarm-lange.de"
+            }
+        ]
+    }
+}

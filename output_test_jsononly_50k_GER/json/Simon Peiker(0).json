@@ -1,0 +1,92 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 9409,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "H",
+                    "name": "5001-10000"
+                },
+                "foundedYear": 1960,
+                "id": 165978,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Indianapolis",
+                                "postalCode": "46204",
+                                "street1": "225 W Washington St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Morristown",
+                                "postalCode": "07960",
+                                "street1": "60 Columbia Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10022",
+                                "street1": "399 Park Ave"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Simon Property Group",
+                "numFollowers": 41380,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Real Estate",
+                        "Development",
+                        "Property Management",
+                        "Leasing",
+                        "Mall Advertising",
+                        "Gift Cards",
+                        "Office Space",
+                        "Regional Malls",
+                        "Outlet Centers",
+                        "Marketing",
+                        "Mills"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.simon.com"
+            }
+        ]
+    }
+}

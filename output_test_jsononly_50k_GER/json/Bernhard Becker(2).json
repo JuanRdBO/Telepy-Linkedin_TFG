@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7373630,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Datteln",
+                                "postalCode": "45711",
+                                "street1": "2 Pahlenort"
+                            },
+                            "contactInfo": {
+                                "phone1": "023634828"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "STUDIO B - Bernhard Becker",
+                "numFollowers": 0,
+                "websiteUrl": "bernhardbecker.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1939,
+                "id": 1853425,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "31",
+                            "name": "Hosteler\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Llansa",
+                                "postalCode": "17490",
+                                "street1": "Passeig Maritim 7"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "972 121 038"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Miramar Eventos Gastron\u00f3micos",
+                "numFollowers": 150,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Catering",
+                        "Eventos Gastron\u00f3micos",
+                        "Bodas",
+                        "Banquetes",
+                        "Bodas Cadaqu\u00e9s"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.miramar.cat"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12281215,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "136",
+                            "name": "Fotograf\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20539",
+                                "street1": "213 Gro\u00dfmannstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 4076500459"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Kuhn Fotografie",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.thomaskuhn-fotografie.de"
+            }
+        ]
+    }
+}

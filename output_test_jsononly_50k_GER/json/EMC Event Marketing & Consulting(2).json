@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 304108,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "98",
+                            "name": "Relaciones p\u00fablicas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sofia",
+                                "postalCode": "1606",
+                                "street1": "53-55 Eduard I. Totleben Blvd."
+                            },
+                            "contactInfo": {
+                                "fax": "+359 2 805 70 01",
+                                "phone1": "+359 2 805 71 58"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ardency Consulting",
+                "numFollowers": 53,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Corporate and financial communications",
+                        "Media relations",
+                        "Web marketing",
+                        "Marketing communications consulting",
+                        "CEO Reputation Management",
+                        "Organizational and change communications",
+                        "Issues and crisis communications",
+                        "Event management",
+                        "Public Affairs",
+                        "Technology"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ardencyconsulting.com"
+            }
+        ]
+    }
+}

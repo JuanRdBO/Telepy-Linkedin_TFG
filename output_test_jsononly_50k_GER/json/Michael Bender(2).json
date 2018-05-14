@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12243064,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10719",
+                                "street1": "54 Lietzenburger Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 303331311"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Zahnarzt Michael Bender",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.zahnarzt-michael-bender.de"
+            }
+        ]
+    }
+}

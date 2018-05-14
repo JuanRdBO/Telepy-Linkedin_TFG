@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 114,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1993,
+                "id": 4864205,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Speyer",
+                                "postalCode": "67346",
+                                "street1": "An der Hofweide 17"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 6232 / 296 122",
+                                "phone1": "+49 6232 / 2960"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "PM-International AG",
+                "numFollowers": 615,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "FitLine & Sport",
+                        "Nahrungsoptimierung",
+                        "BeautyLine Kosmetik",
+                        "N\u00e4hrstoff-Transportkonzept"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.pm-international.com/"
+            }
+        ]
+    }
+}

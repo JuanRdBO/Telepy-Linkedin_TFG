@@ -1,0 +1,56 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "G",
+                    "name": "Government Agency"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1998,
+                "id": 82311,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "79",
+                            "name": "Pol\u00edtica p\u00fablica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Vries",
+                                "postalCode": "9481 AW",
+                                "street1": "Kornoeljeplein 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gemeente Tynaarlo",
+                "numFollowers": 1318,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "kornoeljeplein1",
+                "websiteUrl": "https://www.tynaarlo.nl"
+            }
+        ]
+    }
+}

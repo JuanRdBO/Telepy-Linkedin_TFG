@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7342371,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rodalben",
+                                "postalCode": "66976",
+                                "street1": "225 Hauptstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "06331140280"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Raumdesign Claus Sch\u00e4fer",
+                "numFollowers": 0,
+                "websiteUrl": "raumdesign-schaefer.de"
+            }
+        ]
+    }
+}

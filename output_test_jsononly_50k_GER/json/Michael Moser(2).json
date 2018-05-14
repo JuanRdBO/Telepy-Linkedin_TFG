@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12212512,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Leipzig",
+                                "postalCode": "04177",
+                                "street1": "29 L\u00fctzner Str."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Michael Moser Images",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.michaelmoserimages.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1967,
+                "id": 1372564,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Roma",
+                                "postalCode": "00195",
+                                "street1": "viale Mazzini, 9/11"
+                            },
+                            "contactInfo": {
+                                "fax": "06.3223294",
+                                "phone1": "06.36001021"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Milano",
+                                "postalCode": "20121",
+                                "street1": "Foro Buonaparte, 12"
+                            },
+                            "contactInfo": {
+                                "fax": "02.89016012",
+                                "phone1": "02.72002021"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Salvini Escalar e Associati - Studio legale tributario fondato da F. Gallo",
+                "numFollowers": 355,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Diritto tributario nazionale, comunitario e internazionale.",
+                        "processo tributario",
+                        "diritto penale tributario",
+                        "tax law",
+                        "tax litigation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.salviniescalar.it"
+            }
+        ]
+    }
+}

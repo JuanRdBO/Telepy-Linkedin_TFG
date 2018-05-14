@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7506782,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Peiting",
+                                "postalCode": "86971",
+                                "street1": "2 Zeislerweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "08861256440"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Maier Werner GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "maier-arbeitsbuehnen.de"
+            }
+        ]
+    }
+}

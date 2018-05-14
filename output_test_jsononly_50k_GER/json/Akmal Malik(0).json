@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2015,
+                "id": 11117691,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "33",
+                            "name": "Deportes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {},
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Flaminko Inc.",
+                "numFollowers": 9,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Sports Management",
+                        "Lifestyle Management",
+                        "Social Intelligence",
+                        "Brand Operations",
+                        "Revenue Strategy",
+                        "Public Relations",
+                        "Social Enterprise",
+                        "Philanthropy"
+                    ]
+                },
+                "websiteUrl": "www.flaminko.net"
+            }
+        ]
+    }
+}

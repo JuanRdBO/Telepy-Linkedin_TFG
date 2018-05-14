@@ -1,0 +1,94 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1995,
+                "id": 10088083,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bolzano",
+                                "postalCode": "39100",
+                                "street1": "Via dei Portici 70"
+                            },
+                            "contactInfo": {
+                                "fax": "+39302301",
+                                "phone1": "+39 0471974812"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Brunico",
+                                "postalCode": "39031",
+                                "street1": "Piazza Gilm 2"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+390474553551"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Merano",
+                                "postalCode": "39012",
+                                "street1": "Piazza rena 9C"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+390473270808"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Seeber Immobilien GmbH srl",
+                "numFollowers": 16,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Verkauf von Immobilien/ vendita immobili",
+                        "Vermittlung von Immobilien/ intermediazione immobiliare",
+                        "Sch\u00e4tzungen/ stime",
+                        "Beratung/ consulenza"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.seeber-immobilien.com/de/Index.aspx"
+            }
+        ]
+    }
+}

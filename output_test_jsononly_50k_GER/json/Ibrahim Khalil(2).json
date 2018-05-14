@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 11,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1997,
+                "id": 5249290,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "144",
+                            "name": "Energ\u00eda renovable y medio ambiente"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "ISTANBUL",
+                                "postalCode": "34384",
+                                "street1": "PERPA Trade Center, Block-B 11th Floor, No: 1845-1847 Okmeydani Sisli-ISTANBUL, TURKEY"
+                            },
+                            "contactInfo": {
+                                "fax": "+90 212 320 29 33",
+                                "phone1": "+90 212 444 0 941"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Norm Energy Systems Ltd.",
+                "numFollowers": 3029,
+                "specialties": {
+                    "_total": 15,
+                    "values": [
+                        "Power Electronics",
+                        "Solar Power",
+                        "Solar Energy",
+                        "Energy Storage",
+                        "G\u00fcne\u015f Enerji Elektrik",
+                        "Stand Alone",
+                        "Sunny Island",
+                        "off grid batteries",
+                        "batarya pil ak\u00fcm\u00fclat\u00f6r",
+                        "dc ac power inverter",
+                        "battery charger rectifier",
+                        "yedek enerji depolama",
+                        "Irak Iraq",
+                        "Hybrid Energy",
+                        "sla agm gel"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.normenerji.com.tr/"
+            }
+        ]
+    }
+}

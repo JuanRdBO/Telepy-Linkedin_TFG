@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7480504,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "136",
+                            "name": "Fotograf\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kaufbeuren",
+                                "postalCode": "87600",
+                                "street1": "29 Sonnenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0834162440"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Peter Seidel GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "seidel-peter-gmbh.de"
+            }
+        ]
+    }
+}

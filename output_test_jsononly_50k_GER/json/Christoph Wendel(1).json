@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 18394141,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "26",
+                            "name": "Mobiliario"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ockenheim",
+                                "postalCode": "55437",
+                                "street1": "Hindenburgplatz 10 b"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Palma de Mallorca",
+                                "postalCode": "07012",
+                                "street1": "Carrer de Can Sales 14"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Friedrichsdorf",
+                                "postalCode": "61381",
+                                "street1": "Wimsbacher Strasse 13g"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ww2",
+                "numFollowers": 5,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Design",
+                        "Interior",
+                        "Outdoor Furniture",
+                        "Indoor Furniture",
+                        "Gartenm\u00f6bel",
+                        "Lounge "
+                    ]
+                },
+                "websiteUrl": "www.ww2.design"
+            }
+        ]
+    }
+}

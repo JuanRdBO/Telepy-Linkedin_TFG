@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2015,
+                "id": 10330049,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Tauberbischofsheim",
+                                "postalCode": "97941",
+                                "street1": "Merowingerstr. 8"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 9341 9479823",
+                                "phone1": "+49 9341 9479960"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Rapp Talentswon Agentur f\u00fcr Recruitingberatung | Personalberatung | Training",
+                "numFollowers": 6,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Recruitingberatung",
+                        "Potenzialanalyse",
+                        "Projektrecruiting",
+                        "Training",
+                        "Personalberatung",
+                        "Standortanalysen",
+                        "Optimierung und Reduzierung der Zusammenarbeit mit den Personaldienstleistern"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.talentswon.de"
+            }
+        ]
+    }
+}

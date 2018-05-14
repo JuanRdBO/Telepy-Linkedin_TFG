@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 23,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2007,
+                "id": 275066,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kochi",
+                                "postalCode": "682 030",
+                                "street1": "9C, 9th Floor"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+91-484-4054324"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Cubet Techno Labs",
+                "numFollowers": 2223,
+                "specialties": {
+                    "_total": 15,
+                    "values": [
+                        "PHP",
+                        "LAMP",
+                        "Elgg",
+                        "CodeIgniter",
+                        "Magento",
+                        "Interspire",
+                        "Yii",
+                        "Cassandra",
+                        "Node.js",
+                        "PHPFox",
+                        "Facebook API",
+                        "Google API",
+                        "Ruby on Rails",
+                        "Python",
+                        "Laravel"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://cubettech.com"
+            }
+        ]
+    }
+}

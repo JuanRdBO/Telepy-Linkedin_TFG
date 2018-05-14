@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2011,
+                "id": 2250186,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "8",
+                            "name": "Telecomunicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40549",
+                                "street1": "Schiessstr. 43"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+4921163554165"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "SmartChecker GmbH - Der Smartphone Tarifvergleich",
+                "numFollowers": 27,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Tarifvergleich f\u00fcr mobiles Internet",
+                        "Preisvergleich",
+                        "Smartphone-Tarife",
+                        "LTE"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.smartchecker.de"
+            }
+        ]
+    }
+}

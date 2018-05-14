@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 23,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12251770,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wiesbaden",
+                                "postalCode": "65199",
+                                "street1": "7 Am Rheineck"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 611420475"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Stark",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.stark-optik.de"
+            }
+        ]
+    }
+}

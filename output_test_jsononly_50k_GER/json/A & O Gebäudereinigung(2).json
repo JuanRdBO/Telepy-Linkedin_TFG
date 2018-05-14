@@ -1,0 +1,121 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1985,
+                "id": 10249159,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "D\u00fcbendorf",
+                                "postalCode": "8600",
+                                "street1": "Ringstrasse 15"
+                            },
+                            "contactInfo": {
+                                "fax": "044 277 77 66",
+                                "phone1": "044 277 77 77"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Urtenen - Sch\u00f6nb\u00fchl",
+                                "postalCode": "3322",
+                                "street1": "Grubenstrasse 109"
+                            },
+                            "contactInfo": {
+                                "fax": "031 555 11 51",
+                                "phone1": "031 555 11 50"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Luzern",
+                                "postalCode": "6003",
+                                "street1": "Bireggstrasse 2"
+                            },
+                            "contactInfo": {
+                                "fax": "041 525 40 51",
+                                "phone1": "041 525 40 50"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "San Antonino",
+                                "postalCode": "6592",
+                                "street1": "Via Industrie 5"
+                            },
+                            "contactInfo": {
+                                "fax": "091 752 00 91",
+                                "phone1": "091 752 00 90"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Prilly",
+                                "postalCode": "1008",
+                                "street1": "Chemin du Viaduc 1"
+                            },
+                            "contactInfo": {
+                                "fax": "021 525 46 51",
+                                "phone1": "021 525 46 50"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "gammaRenax AG - Facility Services",
+                "numFollowers": 109,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Facility Services",
+                        "Geb\u00e4udereinigung",
+                        "Garten- und Umgebungspflege",
+                        "Technischer Unterhalt",
+                        "Infrastruktureller Unterhalt"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.gammarenax.ch"
+            }
+        ]
+    }
+}

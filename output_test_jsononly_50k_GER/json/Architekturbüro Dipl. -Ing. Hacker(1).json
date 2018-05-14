@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 16,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12758131,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Betzdorf",
+                                "postalCode": "57518",
+                                "street1": "8 Friedhofsweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 15119409258"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Architekturb\u00fcro Michael Kerkenberg Dipl",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.kerkenberg-architekt.de"
+            }
+        ]
+    }
+}

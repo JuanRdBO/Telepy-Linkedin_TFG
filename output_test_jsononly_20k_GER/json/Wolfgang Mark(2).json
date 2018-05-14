@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2010,
+                "id": 928882,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "118",
+                            "name": "Seguridad del ordenador y de las redes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Cocoa Beach",
+                                "postalCode": "32931",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "888-414-5068",
+                                "phone1": "888-838-7311"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Melbourne",
+                                "postalCode": "32940",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "888-414-5068"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Shorebreak Security",
+                "numFollowers": 62,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Penetration Testing",
+                        "Vulnerability Assessments",
+                        "Social Engineering",
+                        "Security Controls Testing",
+                        "Information Security Assessments"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.shorebreaksecurity.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 42,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2005,
+                "id": 703906,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rio de Janeiro",
+                                "postalCode": "20020-020",
+                                "street1": "Rua Sete de Setembro, 111, 11\u00ba e 12\u00ba andares - Centro"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(21) 3171-4300"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Carlos Mafra de Laet Advogados",
+                "numFollowers": 870,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Direito Societ\u00e1rio",
+                        "Contratos e Obriga\u00e7\u00f5es",
+                        "Propriedade Intelectual e Transfer\u00eancia de Tecnologia",
+                        "Capital Estrangeiro",
+                        "Contencioso C\u00edvel",
+                        "Fam\u00edlia e Sucess\u00f5es",
+                        "Contencioso Estrat\u00e9gico",
+                        "Imobili\u00e1rio",
+                        "Trabalhista",
+                        "Arbitragem"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.cmladv.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7372060,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40476",
+                                "street1": "Rather Stra\u00dfe 110A"
+                            },
+                            "contactInfo": {
+                                "phone1": "02112096390"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr.med. Ralf Wagner",
+                "numFollowers": 1,
+                "websiteUrl": "c3kliniken.de"
+            }
+        ]
+    }
+}

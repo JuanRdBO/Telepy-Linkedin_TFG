@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 1486,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7447084,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "27",
+                            "name": "Venta al por menor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bonn",
+                                "postalCode": "53111",
+                                "street1": "49 Thomas-Mann-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "02289459070"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sirius Betreuung & Beratung GmbH",
+                "numFollowers": 2,
+                "websiteUrl": "sirius-hilft.de"
+            }
+        ]
+    }
+}

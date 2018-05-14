@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7536375,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Murnau am Staffelsee",
+                                "postalCode": "82418",
+                                "street1": "9 Wiesenweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "088411302"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schreinerei Michael Wittmann",
+                "numFollowers": 0,
+                "websiteUrl": "schreinerei-michaelwittmann.info"
+            }
+        ]
+    }
+}

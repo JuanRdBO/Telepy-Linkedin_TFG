@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 2014,
+                "id": 2762643,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Jakarta",
+                                "postalCode": "17131",
+                                "street1": "Wisma Sejahtera"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "02140366654"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "3i Networks - CashToBe Unity",
+                "numFollowers": 369,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "insurance",
+                        "investment",
+                        "income"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://cashtobe.com/3i-networks/"
+            }
+        ]
+    }
+}

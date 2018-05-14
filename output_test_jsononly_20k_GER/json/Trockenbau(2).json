@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 511,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12423077,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Fr\u00e4nkisch-Crumbach",
+                                "postalCode": "64407",
+                                "street1": "2 Industriestra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 61641652"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Trockenbau GmbH",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.boelter-trockenbau.de"
+            }
+        ]
+    }
+}

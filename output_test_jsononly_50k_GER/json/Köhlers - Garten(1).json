@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 5619989,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "31",
+                            "name": "Hosteler\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hofheim",
+                                "postalCode": "65719",
+                                "street1": "Krifteler Str. 6"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 619220049"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "K\u00f6hler's Catering Partyservice + Veranstaltung",
+                "numFollowers": 7,
+                "websiteUrl": "http://www.koehlerscatering.de"
+            }
+        ]
+    }
+}

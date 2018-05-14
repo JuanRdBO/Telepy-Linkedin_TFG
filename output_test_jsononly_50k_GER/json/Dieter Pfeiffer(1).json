@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1964,
+                "id": 145872,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "110",
+                            "name": "Servicios de eventos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "81829",
+                                "street1": "Am Messesee 2"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Messe Muenchen",
+                "numFollowers": 4391,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Building and Construction",
+                        "Environmental Technology",
+                        "Beverages Technology",
+                        "Transport and Logistics",
+                        "Ceramics Industry",
+                        "Automation and Robotics",
+                        "Commercial Real Estate",
+                        "Sporting goods and sports fashion",
+                        "Watches and Jewellery",
+                        "Electronics",
+                        "Analysis, the life sciences"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.messe-muenchen.de"
+            }
+        ]
+    }
+}

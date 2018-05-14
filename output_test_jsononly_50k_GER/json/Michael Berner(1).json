@@ -1,0 +1,84 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2003,
+                "id": 10805139,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60437",
+                                "street1": "Berner Str."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 69 6783063-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Z\u00fcrich",
+                                "postalCode": "8048",
+                                "street1": "Badener Str. 549"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ementexx GmbH",
+                "numFollowers": 10,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Banking",
+                        "Payments",
+                        "ennoxx.banking",
+                        "Softwareentwicklung",
+                        "Consulting",
+                        "Outsouring & IT-Staffing",
+                        "IT-Freelancer"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ementexx.com"
+            }
+        ]
+    }
+}

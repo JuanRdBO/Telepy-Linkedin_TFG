@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 446,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2005,
+                "id": 698946,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "114",
+                            "name": "Nanotecnolog\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Alsfeld-Berfa",
+                                "postalCode": "36304",
+                                "street1": "Sachverst\u00e4ndigenb\u00fcro Volkmar"
+                            },
+                            "contactInfo": {
+                                "fax": "+4966399180007",
+                                "phone1": "+4966399180008"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sachverst\u00e4ndigenb\u00fcro Volkmar",
+                "numFollowers": 19,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "nanotechnology",
+                        "material-science",
+                        "project management",
+                        "team management systems",
+                        "experts",
+                        "consulting"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                }
+            }
+        ]
+    }
+}

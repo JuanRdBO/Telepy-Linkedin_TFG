@@ -1,0 +1,94 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 1057,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1966,
+                "id": 21177,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stockholm, G\u00f6teborg, Malm\u00f6",
+                                "postalCode": "40225",
+                                "street1": "Fabriksgatan 21-25, G\u00f6teborg."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Stockholm",
+                                "postalCode": "104 25",
+                                "street1": "Warfvinges V\u00e4g 39"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "08-657 00 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Malm\u00f6",
+                                "postalCode": "211 21",
+                                "street1": "V\u00e4stergatan 33"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "IHM Business School",
+                "numFollowers": 32739,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Utbildning inom marknadsf\u00f6ring",
+                        "Utbildning inom ledarutveckling",
+                        "Utbildning inom ekonomi",
+                        "Utbildning inom f\u00f6rs\u00e4ljning och aff\u00e4rsutveckling"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.ihm.se/"
+            }
+        ]
+    }
+}

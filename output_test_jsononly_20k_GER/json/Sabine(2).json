@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3131,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1991,
+                "id": 3189820,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "104",
+                            "name": "Dotaci\u00f3n y selecci\u00f3n de personal"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20095",
+                                "street1": "Brandsende 2-4"
+                            },
+                            "contactInfo": {
+                                "fax": "040/325444-34",
+                                "phone1": "040/325444-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sabine Below Personaldienstleistungen GmbH",
+                "numFollowers": 542,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Gro\u00df- und Aussenhandel",
+                        "IT/Kommunikation",
+                        "Verkehr/Logistik",
+                        "Maschinenbau",
+                        "Personalbeschaffung",
+                        "Executive Search",
+                        "Personalvermittlung",
+                        "Coaching"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://below-personal.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2013,
+                "id": 5022036,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "67",
+                            "name": "Educaci\u00f3n primaria/secundaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Odder",
+                                "postalCode": "8300",
+                                "street1": "Ballevej 132"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "30486458"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "EPUC - erhvervsp\u00e6dagogisk udviklingscenter",
+                "numFollowers": 18,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Ledelses- og l\u00e6rerudviklingen indenfor erhvervsuddannelser",
+                        "Evaluering af udviklingsprojekter",
+                        "Uddannelsesudvikling",
+                        "Konsulent og projektledelse p\u00e5 udviklingsprojekter"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.epuc.dk"
+            }
+        ]
+    }
+}

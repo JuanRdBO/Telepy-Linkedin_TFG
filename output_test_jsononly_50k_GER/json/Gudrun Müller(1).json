@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7321713,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Reutlingen",
+                                "postalCode": "72764",
+                                "street1": "30 Gartenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "07121371801"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Basteltreff Gudrun M\u00fcller",
+                "numFollowers": 0,
+                "websiteUrl": "basteltreff.de"
+            }
+        ]
+    }
+}

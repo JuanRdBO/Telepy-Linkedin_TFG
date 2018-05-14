@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 27,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7527636,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "112",
+                            "name": "Manufactura el\u00e9ctrica y electr\u00f3nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kiel",
+                                "postalCode": "24103",
+                                "street1": "11 Ha\u00dfstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0431530353700"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "HS Ingenieurb\u00fcro F\u00fcr Elektrotechnik",
+                "numFollowers": 1,
+                "websiteUrl": "ingbuero-speck.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 96,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2009,
+                "id": 2681089,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Istanbul",
+                                "postalCode": "",
+                                "street1": "Emniyet Evleri Mah. Yama\u00e7 Sok. N.1 K.2 D.3"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+90 - 530 - 240 49 22"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Istanbul",
+                                "postalCode": "",
+                                "street1": "ITU Ar\u0131 Teknokent ARI 3"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Biber Ltd.",
+                "numFollowers": 134,
+                "specialties": {
+                    "_total": 15,
+                    "values": [
+                        "PHP",
+                        "MySQL",
+                        "Oracle",
+                        "Tibero",
+                        "OrientDB",
+                        "Cassandra",
+                        "JavaScript",
+                        "jQuery",
+                        "AngularJS",
+                        "HTML5",
+                        "CSS3",
+                        "Java",
+                        "iOS Development",
+                        "Android Development",
+                        "ElasticSearch"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.biberltd.com"
+            }
+        ]
+    }
+}

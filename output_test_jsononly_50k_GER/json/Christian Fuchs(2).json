@@ -1,0 +1,32 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12246773,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Innsbruck",
+                                "street1": "7 Sillh\u00f6fe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Christian Fuchs Rechtsanwalt GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.rechtskanzlei.at"
+            }
+        ]
+    }
+}

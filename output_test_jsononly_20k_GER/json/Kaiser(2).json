@@ -1,0 +1,123 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 888,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1981,
+                "id": 10306,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Washington",
+                                "postalCode": "20036",
+                                "street1": "1615 L Street, NW"
+                            },
+                            "contactInfo": {
+                                "fax": "202 454 2001",
+                                "phone1": "202 454 2000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Toronto",
+                                "postalCode": "M5P 2B5",
+                                "street1": "16 Maxwell Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+1 (416) 932 9923"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "W1S 1JB",
+                                "street1": "23 Hanover Square"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+44 (0)20 3178 3610"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "S\u00e3o Paulo",
+                                "postalCode": "01404-000",
+                                "street1": "Al. Campinas, 579"
+                            },
+                            "contactInfo": {
+                                "fax": "+ 55 (11) 3266 7151",
+                                "phone1": "+ 55 (11) 3266 7151"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Kaiser Associates",
+                "numFollowers": 10453,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Benchmarking",
+                        "Organizational Development",
+                        "Marketing & Sales",
+                        "Strategy Development & Execution",
+                        "Commercial and Public Sector",
+                        "Market Opportunity Assessment",
+                        "Mergers & Acquisitions / Private Equity",
+                        "Go to Market Strategy Development"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.kaiserassociates.com"
+            }
+        ]
+    }
+}

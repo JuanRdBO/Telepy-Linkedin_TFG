@@ -1,0 +1,55 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 11070702,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "91",
+                            "name": "Servicio al consumidor"
+                        }
+                    ]
+                },
+                "name": "Great Pets, Inc",
+                "numFollowers": 4,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Dog Training",
+                        "Online Dog Training",
+                        "On-Site Dog Training",
+                        "Consulting and Speaking",
+                        "Pet Nutrition",
+                        "Pet Training",
+                        "Training and Behavior",
+                        "Dog Behavior",
+                        "Dog Nutrition",
+                        "Training DVDs"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.greatpets.com"
+            }
+        ]
+    }
+}

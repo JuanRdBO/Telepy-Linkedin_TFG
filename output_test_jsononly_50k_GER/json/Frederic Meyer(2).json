@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2015,
+                "id": 10282742,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "120",
+                            "name": "Resoluci\u00f3n de conflicto por terceras partes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "75008",
+                                "street1": "8, avenue Bertie Albrecht"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "07 85 02 59 30"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Centre National d'Arbitrage du Travail",
+                "numFollowers": 85,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Droit du Travail",
+                        "Droit Social",
+                        "Droit de la S\u00e9curit\u00e9 Sociale",
+                        "Droit des Soci\u00e9t\u00e9s"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.cnat.paris"
+            }
+        ]
+    }
+}

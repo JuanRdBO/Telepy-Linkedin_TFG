@@ -1,0 +1,108 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1995,
+                "id": 9372825,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40489",
+                                "street1": "Klemensplatz 3"
+                            },
+                            "contactInfo": {
+                                "fax": "0211 418488-15",
+                                "phone1": "0211 418488-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40545",
+                                "street1": "Luegallee 13"
+                            },
+                            "contactInfo": {
+                                "fax": "0211 989429-29",
+                                "phone1": "0211 989429-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40212",
+                                "street1": "Steinstra\u00dfe 20 / Eingang Josephinenstr."
+                            },
+                            "contactInfo": {
+                                "fax": "0211 130688-40",
+                                "phone1": "0211 130688-30"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Ratingen",
+                                "postalCode": "40878",
+                                "street1": "Oberstra\u00dfe 52a"
+                            },
+                            "contactInfo": {
+                                "fax": "02102 929955-9",
+                                "phone1": "02102 929955-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "B\u00d6CKER Wohnimmobilien GmbH",
+                "numFollowers": 30,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Wohnimmobilien",
+                        "Neubauprojekte",
+                        "Developer Service / Investments",
+                        "Hausverwaltung",
+                        "Full-Service"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.immobilien-boecker.de"
+            }
+        ]
+    }
+}

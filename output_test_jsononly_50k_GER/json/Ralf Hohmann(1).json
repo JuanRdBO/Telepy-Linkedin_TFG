@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12224566,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oberursel, Taunus",
+                                "postalCode": "61440",
+                                "street1": "58 Hauptstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 61725972527"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schulungskauf Ralf Hohmann",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.testkauf-offenbach.de"
+            }
+        ]
+    }
+}

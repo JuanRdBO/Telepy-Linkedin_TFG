@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 39,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7544877,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bremen",
+                                "postalCode": "28199",
+                                "street1": "16-18 Westerstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0421328205"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Versicherungsvermittlung Kollegen OHG",
+                "numFollowers": 1,
+                "websiteUrl": "versicherungsvermittlung.de"
+            }
+        ]
+    }
+}

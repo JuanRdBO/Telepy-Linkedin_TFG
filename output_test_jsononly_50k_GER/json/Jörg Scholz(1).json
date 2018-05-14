@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 9733920,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lauffen am Neckar",
+                                "postalCode": "74348",
+                                "street1": "6 Hoher Steg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 713398130"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "3b IDO J\u00f6rg Scholz GmbH",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.3bido.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2007,
+                "id": 5398192,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mannheim",
+                                "street1": "Konrad-Zuse-Ring 12"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Philadelphia PA,  USA",
+                                "postalCode": "19103",
+                                "street1": "oxando Inc. "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "oxando GmbH (Ihr Berater f\u00fcr SAP Instandhaltung/MOBILE & SolMan)",
+                "numFollowers": 107,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "SAP PM",
+                        "SAP CS",
+                        "SAP MRS",
+                        "mobile SAP L\u00f6sungen",
+                        "SAP EAM",
+                        "IT Service Management",
+                        "Solution Manager",
+                        "SAP Plant Maintenance",
+                        "SAP Customer Service",
+                        "Mobile Asset Management",
+                        "Instandhaltung",
+                        "SAP Plantafel",
+                        "Workforce Management"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.oxando.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 6265711,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "104",
+                            "name": "Dotaci\u00f3n y selecci\u00f3n de personal"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10178",
+                                "street1": "Sophienstr. 6"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3060983766"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Talents4Good GmbH",
+                "numFollowers": 157,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Non-profit",
+                        "Personalvermittlung",
+                        "Stiftung"
+                    ]
+                },
+                "websiteUrl": "http://www.talents4good.org/"
+            }
+        ]
+    }
+}

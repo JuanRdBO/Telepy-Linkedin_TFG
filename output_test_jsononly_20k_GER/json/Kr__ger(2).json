@@ -1,0 +1,101 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 1073,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1993,
+                "id": 1163778,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Madrid",
+                                "postalCode": "28290",
+                                "street1": "Formentera, 1, 1D"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Quito",
+                                "postalCode": "170511",
+                                "street1": "Francisco Ar\u00edzaga Luque N34-206 y Federico P\u00e1ez"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Guayaquil",
+                                "postalCode": "090514",
+                                "street1": "3er Pasaje 5 NE"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Lima",
+                                "postalCode": "58",
+                                "street1": " German Schreiber 246, San Isidro"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Kruger Corporation",
+                "numFollowers": 5985,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Consultor\u00eda en Arquitectura Empresarial e Innovaci\u00f3n Estrat\u00e9gica",
+                        "Canales",
+                        "Optimizaci\u00f3n y Automatizaci\u00f3n de Procesos",
+                        "Integraci\u00f3n",
+                        "Services Factory",
+                        "Soluciones",
+                        "Innovaci\u00f3n Empresarial",
+                        "Personas, Organizaciones y Cultura",
+                        "Tecnolog\u00eda",
+                        "Ingenier\u00eda"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "@krugerinnova",
+                "websiteUrl": "www.krugercorporation.com"
+            }
+        ]
+    }
+}

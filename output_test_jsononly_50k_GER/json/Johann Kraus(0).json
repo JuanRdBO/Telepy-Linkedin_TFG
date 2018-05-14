@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7500759,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Burtenbach",
+                                "postalCode": "89349",
+                                "street1": "35 Hauptstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "08285235"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Johann Kraus",
+                "numFollowers": 0,
+                "websiteUrl": "kraus-burtenbach.de"
+            }
+        ]
+    }
+}

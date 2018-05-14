@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12505283,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Langenselbold",
+                                "postalCode": "63505",
+                                "street1": "1 W\u00e4chtersbacher Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 618461755"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Peter Kremer",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.familienzentrum-langenselbold.de"
+            }
+        ]
+    }
+}

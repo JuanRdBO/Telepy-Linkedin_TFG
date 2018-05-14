@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 39,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 16017217,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "SURPRISE",
+                                "postalCode": "85379",
+                                "street1": "13954 W. WADDELL RD-103-191"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 8887393126"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "D'ANGEL PROPERTY SERVICES LLC",
+                "numFollowers": 0,
+                "websiteUrl": "http://dangelbulkreo.com"
+            }
+        ]
+    }
+}

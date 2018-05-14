@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12494183,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "\u00d6pfingen",
+                                "postalCode": "89614",
+                                "street1": "3 Sonnenhalde"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7391757874"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ralf Fischer Warenhandel",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.rafiwa.com"
+            }
+        ]
+    }
+}

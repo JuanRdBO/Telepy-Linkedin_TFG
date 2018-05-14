@@ -1,0 +1,76 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1946,
+                "id": 5057805,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "16",
+                            "name": "Veterinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Westerville",
+                                "postalCode": "43081",
+                                "street1": "298 N. West Street"
+                            },
+                            "contactInfo": {
+                                "fax": "614-882-8171",
+                                "phone1": "614-882-4184"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Cryan Veterinary Hospital",
+                "numFollowers": 86,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Wellness",
+                        "Cancer Management",
+                        "Orthopedics",
+                        "Geriatric Care",
+                        "Behavior Consulting",
+                        "House Calls",
+                        "Holistic Remedies",
+                        "Oral Surgery",
+                        "Hospice Care",
+                        "Dogs",
+                        "Cats",
+                        "Pocket Pets"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.cryanvet.com"
+            }
+        ]
+    }
+}

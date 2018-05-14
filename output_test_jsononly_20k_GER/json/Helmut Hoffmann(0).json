@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7419420,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ludwigsburg",
+                                "postalCode": "71634",
+                                "street1": "1 Hospitalstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "07141920736"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "HELMUT HOFFMANN HAARE",
+                "numFollowers": 0,
+                "websiteUrl": "helmuthoffmannhaare.de"
+            }
+        ]
+    }
+}

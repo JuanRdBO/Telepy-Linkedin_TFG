@@ -1,0 +1,97 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1994,
+                "id": 316592,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Brno",
+                                "postalCode": "61200",
+                                "street1": "Palack\u00e9ho t\u0159\u00edda 2203/186"
+                            },
+                            "contactInfo": {
+                                "fax": "+420 532 300 061",
+                                "phone1": "+420 532 300 060"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Praha 5",
+                                "postalCode": "15000",
+                                "street1": "Bieblova 1227/19"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+420251560640"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "MARCO BBN Czech Republic",
+                "numFollowers": 152,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "strategic planning",
+                        "branding",
+                        "advertising",
+                        "public relations",
+                        "B2B marketing",
+                        "creative ideas",
+                        "content management",
+                        "leads and automation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "MARCO_BBN",
+                "websiteUrl": "http://www.marco.eu"
+            }
+        ]
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1992,
+                "id": 786435,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Weilerbach",
+                                "postalCode": "67685",
+                                "street1": "Auf dem Immel 8"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (6374) 800-199",
+                                "phone1": "+49 (6374) 800-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Ahrensburg",
+                                "postalCode": "22926",
+                                "street1": "An der Strusbek 8c"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (4102) 803-199",
+                                "phone1": "+49 (4102) 803-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10245",
+                                "street1": "Rotherstra\u00dfe 9"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (30) 467825-99",
+                                "phone1": "+49 (30) 467825-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "B\u00f6blingen",
+                                "postalCode": "71034",
+                                "street1": "Schickardstra\u00dfe 32"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (7031) 41082-11",
+                                "phone1": "+49 (7031) 41082-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "W\u00fcrzburg",
+                                "postalCode": "97080",
+                                "street1": "Beethovenstra\u00dfe 5"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (931) 404735-109",
+                                "phone1": "+49 (931) 404735-100"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "proALPHA",
+                "numFollowers": 832,
+                "specialties": {
+                    "_total": 17,
+                    "values": [
+                        "ERP Software",
+                        "Consulting",
+                        "Service",
+                        "Training",
+                        "Produktkonfigurator",
+                        "Produktionsoptimierung",
+                        "Beratung",
+                        "Industrie 4.0",
+                        "integrierter Workflow",
+                        "DMS",
+                        "CRM",
+                        "Finanzbuchhaltung",
+                        "Steuerfindung",
+                        "Konzernkonsolidierung",
+                        "CAD-Integration",
+                        "ERP aus der Cloud",
+                        "Anlagenbuchhaltung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.proalpha.de"
+            }
+        ]
+    }
+}

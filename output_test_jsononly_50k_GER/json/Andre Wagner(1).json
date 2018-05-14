@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7379144,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "R\u00f6bel/M\u00fcritz",
+                                "postalCode": "17207",
+                                "street1": "Glienholzweg 6A"
+                            },
+                            "contactInfo": {
+                                "phone1": "03993150906"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wagner Andre",
+                "numFollowers": 0,
+                "websiteUrl": "naturstein-wagner.de"
+            }
+        ]
+    }
+}

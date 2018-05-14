@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2013,
+                "id": 2803915,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Aalen",
+                                "postalCode": "73430",
+                                "street1": "Heinrich-Rieger-Strasse 5"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 7361 55800"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "WP Lebensmitteltechnik RIEHLE GmbH",
+                "numFollowers": 58,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "fryer",
+                        "continous fryer",
+                        "caustic soda machines",
+                        "lye machines",
+                        "prezel production machines",
+                        "donut production machines",
+                        "custom designed industrial machines for food industry",
+                        "ovens"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.riehle.de"
+            }
+        ]
+    }
+}

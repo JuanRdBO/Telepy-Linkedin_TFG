@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7468085,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Edling",
+                                "postalCode": "83533",
+                                "street1": "Erlenstra\u00dfe 2A"
+                            },
+                            "contactInfo": {
+                                "phone1": "080717520"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Martin Thomas Maier",
+                "numFollowers": 0,
+                "websiteUrl": "mmbauelemente.de"
+            }
+        ]
+    }
+}

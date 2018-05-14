@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 14,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12540449,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Neu-Ulm",
+                                "postalCode": "89231",
+                                "street1": "2 Maximilianstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 73178690"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Alexander Schick Internist Neu",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.dr-alexander-schick.de"
+            }
+        ]
+    }
+}

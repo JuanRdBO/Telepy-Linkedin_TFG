@@ -1,0 +1,91 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 1000,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1965,
+                "id": 13588,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "W2 4LA",
+                                "street1": "31 St Petersburgh Place"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10014",
+                                "street1": "200 Varick Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "San Francisco",
+                                "postalCode": "94111",
+                                "street1": "1050 Battery Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Wolff Olins",
+                "numFollowers": 31324,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "brand",
+                        "innovation",
+                        "design",
+                        "product design",
+                        "experience design",
+                        "emerging",
+                        "digital",
+                        "future",
+                        "strategy",
+                        "branding"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "WolffOlins",
+                "websiteUrl": "http://www.wolffolins.com"
+            }
+        ]
+    }
+}

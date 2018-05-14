@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7346010,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Holzheim",
+                                "postalCode": "89438",
+                                "street1": "9 Hangstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "08296588"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Barbara M\u00fcller",
+                "numFollowers": 1,
+                "websiteUrl": "naturheilpraxis-barbara-mueller.de"
+            }
+        ]
+    }
+}

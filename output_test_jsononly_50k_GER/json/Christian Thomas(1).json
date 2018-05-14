@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 124,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2005,
+                "id": 1697197,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "121",
+                            "name": "Seguridad e investigaciones"
+                        }
+                    ]
+                },
+                "name": "The Christian Thomas Group",
+                "numFollowers": 11,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Private and Corporate Investigations",
+                        "Real Estate (Landlord/Tenant) Investigations",
+                        "Executive/Personal Sercurity Services",
+                        "Event Security (VIP)"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.thechristianthomasgroup.com"
+            }
+        ]
+    }
+}

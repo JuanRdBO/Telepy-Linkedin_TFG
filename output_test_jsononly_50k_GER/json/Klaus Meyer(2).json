@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 23,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12468723,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "21031",
+                                "street1": "40 Binnenfeldredder"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Klaus Meyer Schwei\u00dftechnik GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.schweisstechnik-meyer.de"
+            }
+        ]
+    }
+}

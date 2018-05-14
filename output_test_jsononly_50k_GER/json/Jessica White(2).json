@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 20,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2017,
+                "id": 11686901,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "136",
+                            "name": "Fotograf\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ardmore",
+                                "postalCode": "19003",
+                                "street1": "30 Ardmore Ave"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Jessica Catherine Photography",
+                "numFollowers": 0,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "photography",
+                        "newborn"
+                    ]
+                },
+                "websiteUrl": "https://jessicacatherinephotography.com"
+            }
+        ]
+    }
+}

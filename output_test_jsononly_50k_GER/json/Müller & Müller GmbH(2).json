@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 926,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 2012,
+                "id": 2660395,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20459",
+                                "street1": "Ludwig-Erhard-Stra\u00dfe 1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 (0)40 - 605905 - 60"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kreditech",
+                "numFollowers": 4987,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Big Data Scoring",
+                        "Digital finance",
+                        "Online financing",
+                        "Online finance"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.kreditech.com/"
+            }
+        ]
+    }
+}

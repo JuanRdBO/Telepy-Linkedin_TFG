@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12216218,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Trier",
+                                "postalCode": "54293",
+                                "street1": "59 Quinter Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 651968220"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Getr\u00e4nke Schmitt GbR",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.getraenke-schmitt.de"
+            }
+        ]
+    }
+}

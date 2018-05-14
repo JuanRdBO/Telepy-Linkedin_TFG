@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 372,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1991,
+                "id": 20887,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "name": "ELC",
+                "numFollowers": 774,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Ruby on Rails",
+                        "iOs & Android Mobile Apps",
+                        "Cloud Services, AWS Solution Provider, Heroku Dev Partner",
+                        "Web Applications"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.elctech.com"
+            }
+        ]
+    }
+}

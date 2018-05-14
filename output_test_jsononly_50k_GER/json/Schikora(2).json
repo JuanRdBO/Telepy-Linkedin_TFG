@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 13,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12336951,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Billerbeck",
+                                "postalCode": "48727",
+                                "street1": "30 Steinkamp"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2543219702"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schikora GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.arno-schikora.de"
+            }
+        ]
+    }
+}

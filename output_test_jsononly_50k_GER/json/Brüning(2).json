@@ -1,0 +1,124 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 122,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1891,
+                "id": 880078,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "41",
+                            "name": "Actividades bancarias"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bruning",
+                                "postalCode": "68322",
+                                "street1": "104 Main St"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "800-403-5889"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Hebron",
+                                "postalCode": "68370",
+                                "street1": "252 South 13th Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "800-405-6167"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Holdrege",
+                                "postalCode": "68949",
+                                "street1": "1215 Burlington Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "877-995-3880"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Broken Bow",
+                                "postalCode": "68822",
+                                "street1": "803 South D Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "877-872-2757"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Kearney",
+                                "postalCode": "68848",
+                                "street1": "620 East 25th St, Suite #2"
+                            },
+                            "contactInfo": {
+                                "fax": "308-455-3074",
+                                "phone1": "308-455-3072"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Bruning State Bank",
+                "numFollowers": 106,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "personal banking",
+                        "business banking",
+                        "insurance",
+                        "investments",
+                        "trust and asset management",
+                        "mortgages",
+                        "agricultural loans",
+                        "leasing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "BruningStBank",
+                "websiteUrl": "www.bruningbank.com"
+            }
+        ]
+    }
+}

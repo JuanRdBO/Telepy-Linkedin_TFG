@@ -1,0 +1,46 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 9849733,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "41",
+                            "name": "Actividades bancarias"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mainz",
+                                "postalCode": "55122",
+                                "street1": "1Kantstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 496131303435"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Bausparkasse Mainz AG",
+                "numFollowers": 48,
+                "websiteUrl": "http://www.bkm.de"
+            }
+        ]
+    }
+}

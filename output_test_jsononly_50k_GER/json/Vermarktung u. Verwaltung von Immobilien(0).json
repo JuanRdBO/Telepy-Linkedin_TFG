@@ -1,0 +1,64 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2014,
+                "id": 3169958,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Palma de Mallorca",
+                                "postalCode": "07001",
+                                "street1": "C./ Colom 20 1\u00ba"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Porta Holiday",
+                "numFollowers": 28,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Tourismus",
+                        "Ferienvermietung",
+                        "Mallorca",
+                        "Ferienh\u00e4user Mallorca",
+                        "Fincas Mallorca"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.portaholiday.com"
+            }
+        ]
+    }
+}

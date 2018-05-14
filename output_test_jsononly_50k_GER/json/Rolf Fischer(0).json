@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12268158,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hemmingen",
+                                "postalCode": "71282",
+                                "street1": "64 Saarstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 71502142"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fliesenfachgesch\u00e4ft Rolf Fischer",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.fliesenfischer-hemmingen.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2018,
+                "id": 18510494,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Augsburg",
+                                "postalCode": "86163",
+                                "street1": "Gunzesrieder Weg 16"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Gl\u00e4ser - UX Design & Lean Business Innovation",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Business Design",
+                        "Lean UX",
+                        "Design Thinking",
+                        "Customer Development",
+                        "User Research",
+                        "Service Design",
+                        "User Experience Design",
+                        "Product Management",
+                        "User Interface Design",
+                        "Building Design Teams",
+                        "Entrepreneurship"
+                    ]
+                },
+                "websiteUrl": "www.thomasglaeser.de"
+            }
+        ]
+    }
+}

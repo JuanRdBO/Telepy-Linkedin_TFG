@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1831,
+                "id": 5113543,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "98",
+                            "name": "Relaciones p\u00fablicas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Washington",
+                                "postalCode": "20007",
+                                "street1": "2500 Wisconsin Ave"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "202-333-5000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "International Platform Association\u00ae",
+                "numFollowers": 138,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Public Relations for Speakers"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.InternationalPlatform.org"
+            }
+        ]
+    }
+}

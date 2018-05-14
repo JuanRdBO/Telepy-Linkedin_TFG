@@ -1,0 +1,111 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1998,
+                "id": 2287449,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Alexandroupolis",
+                                "postalCode": "68100",
+                                "street1": "39 Dimokratias Ave."
+                            },
+                            "contactInfo": {
+                                "fax": "+302551038282",
+                                "phone1": "+302551038444"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Alexandroupolis",
+                                "postalCode": "68100",
+                                "street1": "114 Dimokratias Ave."
+                            },
+                            "contactInfo": {
+                                "fax": "+302551081972",
+                                "phone1": "+302551081962"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Komotini",
+                                "postalCode": "69200",
+                                "street1": "Nikolaou Zoidi 35"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+3025310734444"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Orestiada",
+                                "postalCode": "68200",
+                                "street1": "Konstantinoupoleos 208"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+302552027444"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Alpha Information Technology S.A.",
+                "numFollowers": 81,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Computer Software",
+                        "Management Consulting",
+                        "Information Technology",
+                        "Technical Services & Support (Online, OnSite, OnPhone)",
+                        "Networks",
+                        "Computer Hardware",
+                        "Web Development",
+                        "Internet Marketing",
+                        "Telecommunications",
+                        "Solar Energy"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.alphait.gr/"
+            }
+        ]
+    }
+}

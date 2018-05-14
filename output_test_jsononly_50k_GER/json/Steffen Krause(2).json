@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12725140,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Riedstadt",
+                                "postalCode": "64560",
+                                "street1": "5 Bergstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6158976079"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Michael Schl\u00f6gl",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.michaelschloegl.de"
+            }
+        ]
+    }
+}

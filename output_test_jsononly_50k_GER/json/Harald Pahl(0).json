@@ -1,0 +1,93 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1988,
+                "id": 3844427,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "116",
+                            "name": "Log\u00edstica y cadena de suministro"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "21107",
+                                "street1": "Wollk\u00e4mmereistra\u00dfe  1"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 40 311706-100",
+                                "phone1": "+49 40 311706-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Bremen",
+                                "postalCode": "28195",
+                                "street1": "B\u00fcrgermeister-Smidt-Str. 128"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 421 52016-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Duisburg",
+                                "postalCode": "47119",
+                                "street1": "Dammstra\u00dfe 9"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 203 50063-16",
+                                "phone1": "+49 203 50063-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "SACO Shipping GmbH",
+                "numFollowers": 737,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "NVOCC",
+                        "LCL",
+                        "FCL",
+                        "Seefracht",
+                        "Global Network"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.saco.de"
+            }
+        ]
+    }
+}

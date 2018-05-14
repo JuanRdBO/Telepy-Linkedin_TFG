@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 136,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12267477,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10717",
+                                "street1": "200 Hohenzollerndamm"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2012055"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Elektro-Bau Strohb\u00fccker",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.elektro-bau-strohbuecker.de"
+            }
+        ]
+    }
+}

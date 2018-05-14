@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2953,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 8109450,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "105",
+                            "name": "Formaci\u00f3n profesional"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kula",
+                                "postalCode": "96790-0119",
+                                "street1": "P.O. BOX 119"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 8085731414"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Wellbeing Management Services",
+                "numFollowers": 0,
+                "websiteUrl": "http://wellbeing-management.de"
+            }
+        ]
+    }
+}

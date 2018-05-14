@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1927,
+                "id": 18567331,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "92",
+                            "name": "Transporte por carretera o ferrocarril"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Weilheim/Teck",
+                                "postalCode": "73235",
+                                "street1": "Austra\u00dfe 25"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hans Fischer Transport GmbH",
+                "numFollowers": 0,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Spedition",
+                        "Logistik"
+                    ]
+                },
+                "websiteUrl": "http://fischer-logistik.de/"
+            }
+        ]
+    }
+}

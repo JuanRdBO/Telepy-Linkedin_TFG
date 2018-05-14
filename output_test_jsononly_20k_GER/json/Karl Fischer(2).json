@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 65,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7480940,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pforzheim",
+                                "postalCode": "75172",
+                                "street1": "18 Berliner Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0723131031"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Karl Fischer GmbH",
+                "numFollowers": 2,
+                "websiteUrl": "goldschmiedebedarf.de"
+            }
+        ]
+    }
+}

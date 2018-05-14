@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12314604,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Morbach",
+                                "postalCode": "54497",
+                                "street1": "4 Paulinusstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 65339593070"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rainer Gauer OHG Holzvertrieb",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.gauer-timber.de"
+            }
+        ]
+    }
+}

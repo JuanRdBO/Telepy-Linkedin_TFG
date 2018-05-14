@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2013,
+                "id": 5000225,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlijn",
+                                "postalCode": "10969",
+                                "street1": "Lobeckstra\u00dfe 36"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Lendico Global Services GmbH",
+                "numFollowers": 1467,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Internet",
+                        "Software",
+                        "P2P",
+                        "Lending",
+                        "Financial Services",
+                        "Banking",
+                        "Loans",
+                        "Investment"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.lendico.de"
+            }
+        ]
+    }
+}

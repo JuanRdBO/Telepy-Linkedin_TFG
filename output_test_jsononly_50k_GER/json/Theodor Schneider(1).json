@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7343668,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40468",
+                                "street1": "34 Unterrather Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0211424145"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schneider Theodor P. Rechtsanwalt",
+                "numFollowers": 0,
+                "websiteUrl": "raeschneider-dalbertschneider.de"
+            }
+        ]
+    }
+}

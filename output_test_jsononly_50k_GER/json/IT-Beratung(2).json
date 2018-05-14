@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 18091,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2005,
+                "id": 2565816,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "SUNNYBANK HILLS",
+                                "postalCode": "4109",
+                                "street1": "PO Box 2244"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Beratung Consulting",
+                "numFollowers": 73,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Microsoft Small Business Server",
+                        "Microsoft Windows Server",
+                        "Microsoft Exchange Server",
+                        "Microsoft Sharepoint",
+                        "Microsoft Dymanics CRM",
+                        "Microsoft SQL Server",
+                        "Microsoft Windows 7",
+                        "IBM SystemX",
+                        "IBM Storage",
+                        "Office 365"
+                    ]
+                },
+                "status": {
+                    "code": "RRG",
+                    "name": "Reorganizing"
+                },
+                "twitterId": "",
+                "websiteUrl": "beratung.com.au"
+            }
+        ]
+    }
+}

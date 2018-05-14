@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7349216,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sinzheim",
+                                "postalCode": "76547",
+                                "street1": "69 Landstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "07221987804"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rechtsanw\u00e4lte Bloedt-Werner & Huber",
+                "numFollowers": 0,
+                "websiteUrl": "bwh-kanzlei.de"
+            }
+        ]
+    }
+}

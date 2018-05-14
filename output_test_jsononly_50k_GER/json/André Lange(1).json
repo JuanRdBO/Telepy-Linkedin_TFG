@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 95,
+        "values": [
+            {
+                "companyType": {
+                    "code": "G",
+                    "name": "Government Agency"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "H",
+                    "name": "5001-10000"
+                },
+                "foundedYear": 1243,
+                "id": 320338,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "75",
+                            "name": "Administraci\u00f3n gubernamental"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hj\u00f8rring",
+                                "postalCode": "9800",
+                                "street1": "Springvandspladsen 5"
+                            },
+                            "contactInfo": {
+                                "fax": "72 33 30 30",
+                                "phone1": "72 33 33 33"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hj\u00f8rring Kommune",
+                "numFollowers": 3264,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Kommunal Forvaltning",
+                        "Borgerservice",
+                        "Vejledning og R\u00e5dgivning",
+                        "Byplanl\u00e6gning og Lovgivning"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://hjoerring.dk"
+            }
+        ]
+    }
+}

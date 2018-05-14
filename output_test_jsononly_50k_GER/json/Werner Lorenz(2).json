@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7483828,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Au",
+                                "postalCode": "79280",
+                                "street1": "13 Am Sch\u00f6nberg"
+                            },
+                            "contactInfo": {
+                                "phone1": "0761402934"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Guhr Kachelofenbau Inh. Werner Lorenz",
+                "numFollowers": 1,
+                "websiteUrl": "kachelofenbau-guhr.de"
+            }
+        ]
+    }
+}

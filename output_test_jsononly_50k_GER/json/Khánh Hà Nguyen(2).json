@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1796,
+                "id": 6379065,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "14",
+                            "name": "Atenci\u00f3n sanitaria y hospitalaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "H\u00e0 N\u1ed9i",
+                                "postalCode": "84",
+                                "street1": "S\u1ed1 38 Ng\u00f5 Th\u00e1i Th\u1ecbnh 1, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Vi\u1ec7t Nam"
+                            },
+                            "contactInfo": {
+                                "fax": "84 04 62754729",
+                                "phone1": "84 04 62754799"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "DAIBIO Great Family Traditional Medicine Clinic Corporation",
+                "numFollowers": 19,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://daibio.com.vn"
+            }
+        ]
+    }
+}

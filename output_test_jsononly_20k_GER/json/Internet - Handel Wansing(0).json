@@ -1,0 +1,112 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 243564,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1998,
+                "id": 164423,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "El Segundo",
+                                "postalCode": "90245",
+                                "street1": "909 N. Sepulveda Blvd."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10014",
+                                "street1": "395 Hudson St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Pleasanton",
+                                "postalCode": "94566",
+                                "street1": "7031 Koll Center Pkwy"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "San Francisco",
+                                "postalCode": "94107",
+                                "street1": "600 Harrison St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Seattle",
+                                "postalCode": "98101",
+                                "street1": "720 Olive Way"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Internet Brands",
+                "numFollowers": 35180,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "internet",
+                        "online advertising",
+                        "web publishing",
+                        "social media",
+                        "e-commerce",
+                        "new media",
+                        "software as a service",
+                        "SaaS",
+                        "cloud software",
+                        "online marketing solutions",
+                        "web presence solutions"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "INETtweets",
+                "websiteUrl": "www.internetbrands.com"
+            }
+        ]
+    }
+}

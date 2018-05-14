@@ -1,0 +1,61 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1993,
+                "id": 27148792,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Goch",
+                                "postalCode": "47574",
+                                "street1": "Am Sandthof 12"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "FINK & PARTNER GmbH",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "LIMS",
+                        "Schnittstellen",
+                        "Individualprogrammierung",
+                        "[DIA]",
+                        "Messwerte"
+                    ]
+                },
+                "websiteUrl": "https://www.analysenverwaltung.de"
+            }
+        ]
+    }
+}

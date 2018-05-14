@@ -1,0 +1,104 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2009,
+                "id": 2309961,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "99",
+                            "name": "Dise\u00f1o"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wei\u00dfenbach",
+                                "postalCode": "6671",
+                                "street1": "M\u00fchlbachweg 6"
+                            },
+                            "contactInfo": {
+                                "fax": "+43 5678 20077 77",
+                                "phone1": "+43 5678 20077"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Reutte",
+                                "postalCode": "6600",
+                                "street1": "Lindenstra\u00dfe 3"
+                            },
+                            "contactInfo": {
+                                "fax": "+43 5678 200 77 77",
+                                "phone1": "+43 5678 200 77"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Wien",
+                                "postalCode": "1010",
+                                "street1": "Franziskanerplatz 3"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+43 1 512 2984"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ROLF Spectacles - finest natural eyewear",
+                "numFollowers": 316,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Brillenfassungen",
+                        "Hornbrillen",
+                        "Holzbrillen",
+                        "Brillen aus nat\u00fcrlichen Materialien",
+                        "finest natural eyewear",
+                        "Steinbrillen",
+                        "stone eyewear",
+                        "design",
+                        "luxery",
+                        "wooden glasses",
+                        "horn glasses",
+                        "Brillen",
+                        "optician",
+                        "Optiker"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.rolf-spectacles.com"
+            }
+        ]
+    }
+}

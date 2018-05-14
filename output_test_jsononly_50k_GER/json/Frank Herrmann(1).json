@@ -1,0 +1,34 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7363152,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Neustrelitz",
+                                "postalCode": "17235",
+                                "street1": "23 B\u00fcrgerseeweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "0398124950"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Frank Herrmann GmbH",
+                "numFollowers": 1
+            }
+        ]
+    }
+}

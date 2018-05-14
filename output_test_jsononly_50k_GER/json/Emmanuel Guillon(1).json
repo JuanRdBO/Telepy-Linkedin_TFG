@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2012,
+                "id": 15204643,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "38",
+                            "name": "Bellas Artes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "75017",
+                                "street1": "6, rue du Colonel Moll"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fonds de Dotation L\u00e9on Delachaux",
+                "numFollowers": 11,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Fine Art",
+                        "Endowment Fund",
+                        "Fonds de dotation",
+                        "Peinture fran\u00e7aise",
+                        "Peinture am\u00e9ricaine",
+                        "Tableaux du XIXe si\u00e8cle",
+                        "19th century paintings"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.leondelachaux.org"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 2299,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1962,
+                "id": 120105,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "25",
+                            "name": "Art\u00edculos de consumo"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Jakarta",
+                                "postalCode": "10350",
+                                "street1": "Lantai 28-30"
+                            },
+                            "contactInfo": {
+                                "fax": "+62215038999",
+                                "phone1": "+622150338899"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "PT SMART Tbk",
+                "numFollowers": 84913,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Plantation",
+                        "Consumer Goods",
+                        "Trading",
+                        "Palm Oil"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.smart-tbk.com/"
+            }
+        ]
+    }
+}

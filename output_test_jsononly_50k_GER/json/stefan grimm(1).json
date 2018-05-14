@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12375485,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": "50667",
+                                "street1": "2 Kreuzgasse"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2212786611"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Stefan Grimm, Psychologischer Psychotherapeut",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.diplom-psychologe-stefan-grimm.de"
+            }
+        ]
+    }
+}

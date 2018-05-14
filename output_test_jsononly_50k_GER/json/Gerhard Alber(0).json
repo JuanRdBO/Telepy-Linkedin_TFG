@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1982,
+                "id": 3186940,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "135",
+                            "name": "Ingenier\u00eda industrial o mec\u00e1nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Einigen",
+                                "postalCode": "",
+                                "street1": "Weekendweg 5"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+41 33 655 00 44"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "JOHOR BAHRU",
+                                "postalCode": "81100",
+                                "street1": "3A JALAN DEWANI 1/1"
+                            },
+                            "contactInfo": {
+                                "fax": "+607 3317310",
+                                "phone1": "+607 3319310"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "LUCOMA AG",
+                "numFollowers": 34,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Air Handling Equipment",
+                        "L\u00fcftungskomponenten",
+                        "\u901a\u98ce\u8bbe\u5907"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.lucoma.com"
+            }
+        ]
+    }
+}

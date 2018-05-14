@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7500951,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "26",
+                            "name": "Mobiliario"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad Nenndorf",
+                                "postalCode": "31542",
+                                "street1": "Im Dorfe 17B"
+                            },
+                            "contactInfo": {
+                                "phone1": "057233540"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Tischlerei Pitters",
+                "numFollowers": 0,
+                "websiteUrl": "kunsttischlerei-pitters.de"
+            }
+        ]
+    }
+}

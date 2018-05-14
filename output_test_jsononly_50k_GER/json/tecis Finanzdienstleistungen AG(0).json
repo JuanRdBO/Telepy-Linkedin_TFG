@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "id": 372542,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "22081",
+                                "street1": "Alter Teichweg 17"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 40 69696969"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "tecis Finanzdienstleistungen AG",
+                "numFollowers": 1553,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Finanzberatung",
+                        "Geldanlage",
+                        "Altersvorsorge",
+                        "Versicherungen"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.tecis.de/impressum"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 97,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12274386,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Aachen",
+                                "postalCode": "52080",
+                                "street1": "55 Von-Coels-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 241556364"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kinderarztpraxis Markus Kaminski I Aachen",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.kinderarzt-kaminski.de"
+            }
+        ]
+    }
+}

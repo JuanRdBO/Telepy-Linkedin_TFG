@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7369934,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kaiserslautern",
+                                "postalCode": "67659",
+                                "street1": "8 Turmstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "06317501136"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Matthias Schmitt Hard- Und Software",
+                "numFollowers": 0,
+                "websiteUrl": "sumatra-yokohama.de"
+            }
+        ]
+    }
+}

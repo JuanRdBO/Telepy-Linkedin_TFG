@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 42,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1993,
+                "id": 24780487,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "10",
+                            "name": "Servicios jur\u00eddicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Essen",
+                                "postalCode": "45327",
+                                "street1": "Meybuschhof 46a"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Anwaltsb\u00fcro Wittkop",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Familienrecht",
+                        "Erbrecht",
+                        "Reiserecht",
+                        "Verkehrsrecht",
+                        "Arbeitsrecht",
+                        "Sozialrecht",
+                        "Handwerksrecht",
+                        "Gewerblicher Rechtsschutz",
+                        "Arbeitsrecht"
+                    ]
+                },
+                "websiteUrl": "https://www.anwaltsbuero-essen.de"
+            }
+        ]
+    }
+}

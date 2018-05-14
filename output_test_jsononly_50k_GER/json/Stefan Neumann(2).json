@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7345313,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "136",
+                            "name": "Fotograf\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": "51105",
+                                "street1": "8 Robertstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "017620508523"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "STEFAN NEUMANN Fotografie",
+                "numFollowers": 0,
+                "websiteUrl": "neumann-fotografie.de"
+            }
+        ]
+    }
+}

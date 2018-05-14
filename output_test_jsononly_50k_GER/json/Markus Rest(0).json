@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2008,
+                "id": 1203509,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Casablanca",
+                                "postalCode": "20100",
+                                "street1": "Angle Rue Abdelkrim Diouri et Ibn Battouta"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+212522447300"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "mardal SARL",
+                "numFollowers": 232,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "D\u00e9veloppement d'applications Web",
+                        "D\u00e9veloppement d'applications Mobile",
+                        "D\u00e9veloppement d'applications Software"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.mardal.biz"
+            }
+        ]
+    }
+}

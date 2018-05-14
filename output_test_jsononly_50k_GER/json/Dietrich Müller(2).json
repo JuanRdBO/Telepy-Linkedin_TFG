@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2014,
+                "id": 5036278,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "24",
+                            "name": "Electr\u00f3nica de consumo"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Aachen",
+                                "postalCode": "52066",
+                                "street1": "Neustrasse 50"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 241 890301 20"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "KLANG:technologies GmbH",
+                "numFollowers": 156,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "In-Ear Monitoring",
+                        "Professional Audio",
+                        "Hardware and Software",
+                        "Audio Engineering",
+                        "Personal Monitoring",
+                        "Audio over IP"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.klang.com"
+            }
+        ]
+    }
+}

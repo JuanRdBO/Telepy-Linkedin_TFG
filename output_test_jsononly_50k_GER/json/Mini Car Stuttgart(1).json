@@ -1,0 +1,136 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1996,
+                "id": 333532,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 8,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "81669",
+                                "street1": "St.-Martin-Stra\u00dfe 114"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Offenbach",
+                                "postalCode": "63065",
+                                "street1": "Berliner Stra\u00dfe 76"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20457",
+                                "street1": "Am Sandtorkai 75"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Wien",
+                                "postalCode": "A-1220",
+                                "street1": "Donau-City-Stra\u00dfe 11"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70567",
+                                "street1": "Zettachring 6"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Wroc\u0142aw",
+                                "postalCode": "50-079",
+                                "street1": "ul. Ruska 37/38"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40212",
+                                "street1": "K\u00f6nigsallee 14"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Z\u00fcrich",
+                                "street1": "Bleicherweg 10"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "iteratec GmbH",
+                "numFollowers": 666,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Softwareentwicklung Java/JEE",
+                        "IT-Management- und Strategieberatung",
+                        "EAM",
+                        "iteraplan",
+                        "IT-Bebauungsmanagement",
+                        "Technologieberatung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.iteratec.de/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1999,
+                "id": 805871,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "13",
+                            "name": "Profesiones m\u00e9dicas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Basel",
+                                "postalCode": "4020",
+                                "street1": "Gellertstrasse 19"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Basel",
+                                "postalCode": "4051",
+                                "street1": "Steinenberg 23"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Z\u00fcrich",
+                                "postalCode": "8050",
+                                "street1": "Thurgauerstrasse 30"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "4500",
+                                "postalCode": "Solothurn",
+                                "street1": "Luzernstrasse 5-11"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "4052",
+                                "postalCode": "Basel",
+                                "street1": "Dufourstrasse 49"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Medgate",
+                "numFollowers": 529,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Medgate \u00c4rztezentrum",
+                        "Medgate Partner Network",
+                        "Medgate International",
+                        "Medgate Tele Clinic",
+                        "Telemedizin",
+                        "Digitaler Arzbesuch"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.medgate.ch"
+            }
+        ]
+    }
+}

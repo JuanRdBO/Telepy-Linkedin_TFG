@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 146,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2010,
+                "id": 1357635,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Los Angeles",
+                                "postalCode": "90067",
+                                "street1": "10100 Santa Monica Blvd."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "3105575252"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Saban Brands",
+                "numFollowers": 5295,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Brand Management",
+                        "Lifestyle",
+                        "Entertainment",
+                        "Consumer Products",
+                        "Animation",
+                        "Development & Production",
+                        "Retail",
+                        "Distribution"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.sabanbrands.com"
+            }
+        ]
+    }
+}

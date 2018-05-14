@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12323488,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Braunschweig",
+                                "postalCode": "38100",
+                                "street1": "6 Bruchtorwall"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 5312395533"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Christian Schulz Wertmanufactur E.K.",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.wertmanufactur.de"
+            }
+        ]
+    }
+}

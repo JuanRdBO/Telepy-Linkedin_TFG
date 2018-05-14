@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 17,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12544499,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kirchgellersen",
+                                "postalCode": "21394",
+                                "street1": "12 L\u00fcneburger Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 41351356"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Alexander Der Gro\u00dfe",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.kirchgellersen.de"
+            }
+        ]
+    }
+}

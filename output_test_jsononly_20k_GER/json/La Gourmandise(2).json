@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 198,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 26780755,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "23",
+                            "name": "Producci\u00f3n alimentaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "GUEUGNON",
+                                "postalCode": "71130",
+                                "street1": "4 RUE JEAN JAURES"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "LA GOURMANDISE DES PAINS",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

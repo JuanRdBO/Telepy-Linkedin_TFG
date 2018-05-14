@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2013,
+                "id": 3200507,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mainz",
+                                "postalCode": "55129",
+                                "street1": "Robert-Bosch-Stra\u00dfe 36"
+                            },
+                            "contactInfo": {
+                                "fax": "+49-6131-89464-799",
+                                "phone1": "+49-6131-89464-700"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ITecon Financial IT-Service GmbH",
+                "numFollowers": 21,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "ATM",
+                        "POS",
+                        "Self-Service",
+                        "Consulting",
+                        "Operation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.itecon-fs.de"
+            }
+        ]
+    }
+}

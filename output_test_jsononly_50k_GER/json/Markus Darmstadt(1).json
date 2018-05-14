@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2010,
+                "id": 2357150,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hohenwestedt",
+                                "postalCode": "24594",
+                                "street1": "Falkenburg 106"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "04871 618 027 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "mzi-design Markus Zimmermann",
+                "numFollowers": 17,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Webdesign",
+                        "Suchmaschinenoptimierung",
+                        "Content Management Systeme",
+                        "Social Networks"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.mzi-design.de"
+            }
+        ]
+    }
+}

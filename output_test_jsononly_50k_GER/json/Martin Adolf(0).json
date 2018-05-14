@@ -1,0 +1,108 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1970,
+                "id": 18472555,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Karlsruhe",
+                                "postalCode": "76229",
+                                "street1": "Ohmstra\u00dfe 6"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Baiersbronn",
+                                "postalCode": "72270",
+                                "street1": "M\u00e4hderstra\u00dfe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "B\u00fchl",
+                                "postalCode": "77815",
+                                "street1": "Daimlerstra\u00dfe 19"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Gundelfingen",
+                                "postalCode": "79194",
+                                "street1": "Industriestra\u00dfe 23"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Martin Knirsch Kraftfahrzeuge GmbH ",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 22,
+                    "values": [
+                        "Scania",
+                        "Schwarzm\u00fcller",
+                        "MAN",
+                        "DAF",
+                        "Mining",
+                        "LKW",
+                        "IVECO",
+                        "Auflieger",
+                        "Anh\u00e4nger",
+                        "Kipper",
+                        "Schubboden",
+                        "Volvo",
+                        "Nutzfahrzeuge",
+                        "Gebrauchtwagen",
+                        "used trucks",
+                        "Telematik",
+                        "Transportl\u00f6sung",
+                        "Full Service",
+                        "Ausbildung",
+                        "Renault",
+                        "Meiller",
+                        "Schmitz Cargobull"
+                    ]
+                },
+                "websiteUrl": "www.knirsch.com"
+            }
+        ]
+    }
+}

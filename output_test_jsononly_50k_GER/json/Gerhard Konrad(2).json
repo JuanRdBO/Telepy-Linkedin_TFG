@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12181582,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60439",
+                                "street1": "30 Kastellstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 69723949"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Galerie Bernd Slutzky",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.galerie-slutzky.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7509819,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Buseck",
+                                "postalCode": "35418",
+                                "street1": "2 Bismarckstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "064085003939"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Pizza & D\u00f6ner Treff Buseck",
+                "numFollowers": 0,
+                "websiteUrl": "pizzadoenertreff-buseck.de"
+            }
+        ]
+    }
+}

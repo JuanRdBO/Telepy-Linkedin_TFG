@@ -1,0 +1,92 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 23,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1996,
+                "id": 2191007,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "68",
+                            "name": "Ense\u00f1anza superior"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ramat Efal",
+                                "postalCode": "52960",
+                                "street1": "1 Hayasmin Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Tel Aviv",
+                                "postalCode": "",
+                                "street1": "Ganei Hateva - Nature Gardens"
+                            },
+                            "contactInfo": {
+                                "fax": "+972.3.639.9128",
+                                "phone1": "+972.3.639.9127"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Beer Sheva",
+                                "postalCode": "",
+                                "street1": "Smolenskin 16"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "BINA: The Jewish Movement for Social Change",
+                "numFollowers": 186,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Education",
+                        "Community",
+                        "Social Action",
+                        "Judaism",
+                        "Culture",
+                        "Service Learning"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "www.bina.org.il/en"
+            }
+        ]
+    }
+}

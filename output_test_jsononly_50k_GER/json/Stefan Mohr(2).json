@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2018,
+                "id": 13738422,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "10",
+                            "name": "Servicios jur\u00eddicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bahan Township",
+                                "postalCode": "11020",
+                                "street1": "43/5 Inya Myaing Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "SCM Legal Myanmar",
+                "numFollowers": 13,
+                "specialties": {
+                    "_total": 19,
+                    "values": [
+                        "Corporate",
+                        "Finance",
+                        "Infrastructure",
+                        "PPP",
+                        "Joint ventures",
+                        "Acquisitions",
+                        "Regulatory",
+                        "Energy",
+                        "Environment",
+                        "Commercial",
+                        "Telecommunications",
+                        "Financial Services",
+                        "Consumer Goods",
+                        "Agriculture",
+                        "Government",
+                        "Manufacturing",
+                        "Education",
+                        "Restructuring",
+                        "FDI"
+                    ]
+                },
+                "websiteUrl": "www.scm-legal.com"
+            }
+        ]
+    }
+}

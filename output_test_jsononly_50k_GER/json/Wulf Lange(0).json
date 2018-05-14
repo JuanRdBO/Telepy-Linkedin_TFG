@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 10234890,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70597",
+                                "street1": "L\u00f6ffelstra\u00dfe 44"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "PKF WULF & PARTNER",
+                "numFollowers": 14,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Steuerberatung",
+                        "Wirtschaftspr\u00fcfung",
+                        "Outsourcing Rechnungswesen",
+                        "Gr\u00fcndungs-, Umstrukturierungs- und Nachfolgeberatung",
+                        "Durchf\u00fchrung Finanz- und Lohnbuchf\u00fchrung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.pkf-stuttgart.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 78,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 396515,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "13",
+                            "name": "Profesiones m\u00e9dicas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "postalCode": "77030"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Robert Cizik Eye Clinic",
+                "numFollowers": 80,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Glaucoma",
+                        "Cornea",
+                        "Retina",
+                        "Oculoplastics",
+                        "Neuro-ophthalmology",
+                        "Pediatric Ophthalmology",
+                        "Catracts as well as one of teh busiest trauma services in teh country"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "http://www.cizikeye.org/"
+            }
+        ]
+    }
+}

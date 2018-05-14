@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7570080,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Freiburg im Breisgau",
+                                "postalCode": "79102",
+                                "street1": "25 Kart\u00e4userstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "076122640"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Brigitte Fuchs Heilpraktikerin",
+                "numFollowers": 0,
+                "websiteUrl": "krankheitsaufstellungen-fuchs.de"
+            }
+        ]
+    }
+}

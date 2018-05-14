@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1987,
+                "id": 224353,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Taufkirchen bei M\u00fcnchen",
+                                "postalCode": "82024",
+                                "street1": "Eschenstrasse 2"
+                            },
+                            "contactInfo": {
+                                "fax": "089/610898-10",
+                                "phone1": "089/610898-118"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Philotech GmbH",
+                "numFollowers": 921,
+                "specialties": {
+                    "_total": 15,
+                    "values": [
+                        "Aerospace ",
+                        "Luftfahrt",
+                        "Raumfahrt",
+                        "Luft- und Raumfahrt",
+                        "Defence",
+                        "Engineering",
+                        "Embedded Systems",
+                        "Automotive",
+                        "Software Engineering",
+                        "Systems Engineering",
+                        "Validation & Verification",
+                        "Support Engineering",
+                        "Functional Safety (ISO 26262, DO178b)",
+                        "IT Security",
+                        "Academy"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.philotech.de"
+            }
+        ]
+    }
+}

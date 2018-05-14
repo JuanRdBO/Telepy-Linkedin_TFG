@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7535789,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Radolfzell am Bodensee",
+                                "postalCode": "78315",
+                                "street1": "G\u00fcttinger Stra\u00dfe 10A"
+                            },
+                            "contactInfo": {
+                                "phone1": "015233607221"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Joachim M\u00fcller Montagen",
+                "numFollowers": 1,
+                "websiteUrl": "bau-montagen.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 40,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 213317,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "23",
+                            "name": "Producci\u00f3n alimentaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Marzolara di Calestano - Parma",
+                                "postalCode": "43030",
+                                "street1": "Via Battilocchi, 131"
+                            },
+                            "contactInfo": {
+                                "fax": "+39 0525 57 22 0",
+                                "phone1": "+39 0525 55 75 03"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Tino Prosciutti S.p.A.",
+                "numFollowers": 1588,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Prosciutto Crudo Italiano",
+                        "Prosciutto di Parma",
+                        "Ham",
+                        "Parma Ham",
+                        "Dry-cured Ham"
+                    ]
+                },
+                "websiteUrl": "http://www.tinoprosciutti.it"
+            }
+        ]
+    }
+}

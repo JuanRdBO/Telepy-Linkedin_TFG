@@ -1,0 +1,91 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 33,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1982,
+                "id": 862566,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "49",
+                            "name": "Materiales de construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Almere",
+                                "postalCode": "1334 NA",
+                                "street1": "New Yorkweg 87"
+                            },
+                            "contactInfo": {
+                                "phone1": "036 5322204"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Wolvega",
+                                "postalCode": "8471 ZW",
+                                "street1": "Frisaxstraat 12"
+                            },
+                            "contactInfo": {
+                                "phone1": "0561 613232"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Zwaagdijk",
+                                "postalCode": "1682 NS",
+                                "street1": "Zwaagdijk 304"
+                            },
+                            "contactInfo": {
+                                "fax": "0229-262281",
+                                "phone1": "0229-261295"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Knipping Kozijnen",
+                "numFollowers": 81,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Kozijnen",
+                        "Deuren",
+                        "Dakkapellen",
+                        "Schuifpuien"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "www.knipping.nl"
+            }
+        ]
+    }
+}

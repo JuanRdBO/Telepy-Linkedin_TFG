@@ -1,0 +1,46 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 3947250,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "83",
+                            "name": "Imprenta"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Burbank",
+                                "postalCode": "91505-1334",
+                                "street1": "4300 W Victory Blvd"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 8185635278"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Turbo Graphics",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.turbographics.com"
+            }
+        ]
+    }
+}

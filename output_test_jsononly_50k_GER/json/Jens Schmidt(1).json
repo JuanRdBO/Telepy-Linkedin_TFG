@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7454426,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ludwigshafen am Rhein",
+                                "postalCode": "67065",
+                                "street1": "58 Kr\u00fcgerstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "062157240944"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Jens Schmidt Rechtsanwalt",
+                "numFollowers": 0,
+                "websiteUrl": "advo-js.de"
+            }
+        ]
+    }
+}

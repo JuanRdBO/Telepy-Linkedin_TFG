@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12710247,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wei\u00dfenburg in Bayern",
+                                "postalCode": "91781",
+                                "street1": "13 Bahnhofstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 914181317"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kurierdienst Martin Heinze",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.kurierdienst-heinze.de"
+            }
+        ]
+    }
+}

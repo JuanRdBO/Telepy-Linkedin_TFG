@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 99,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1906,
+                "id": 15091798,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "68",
+                            "name": "Ense\u00f1anza superior"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Konstanz",
+                                "postalCode": "78462",
+                                "street1": "Alfred-Wachtel-Stra\u00dfe 8"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "HTWG Hochschule Konstanz \u2013 Technik, Wirtschaft und Gestaltung",
+                "numFollowers": 7515,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Digitalisierung",
+                        "Industrie 4.0",
+                        "Open Innovation",
+                        "Elektrotechnik und Informationstechnik",
+                        "Informatik",
+                        "Maschinenbau",
+                        "Architektur",
+                        "Bauingenieurwesen",
+                        "Wirtschaftssprachen",
+                        "Wirtschaftsrecht"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "http://www.htwg-konstanz.de"
+            }
+        ]
+    }
+}

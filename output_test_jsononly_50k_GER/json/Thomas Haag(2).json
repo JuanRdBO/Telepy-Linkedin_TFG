@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 13,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12502786,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gro\u00dfbottwar",
+                                "postalCode": "71723",
+                                "street1": "4 Karlstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7148924401"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Haag Raumausstattung",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.wohnscheune-haag.de"
+            }
+        ]
+    }
+}

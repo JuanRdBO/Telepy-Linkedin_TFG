@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7459189,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "13127",
+                                "street1": "9 Hauptstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "03092125931"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schornsteinfegermeister Sven Wagner",
+                "numFollowers": 0,
+                "websiteUrl": "hauptstadtschornsteinfeger.de"
+            }
+        ]
+    }
+}

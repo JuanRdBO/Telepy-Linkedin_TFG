@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12881612,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sonneberg",
+                                "postalCode": "96515",
+                                "street1": "107 Neust\u00e4dter Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3675803837"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Auto Bax",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.auto-bax.de"
+            }
+        ]
+    }
+}

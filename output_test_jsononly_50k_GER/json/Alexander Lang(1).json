@@ -1,0 +1,56 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 16,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 18149115,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "45",
+                            "name": "Banca de inversiones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Los Angeles",
+                                "postalCode": "90024"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Lexander Capital",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Mergers & Acquisitions",
+                        "Investment Banking"
+                    ]
+                },
+                "websiteUrl": "www.lexandercapital.com"
+            }
+        ]
+    }
+}

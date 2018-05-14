@@ -1,0 +1,129 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 19,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2001,
+                "id": 320176,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "104",
+                            "name": "Dotaci\u00f3n y selecci\u00f3n de personal"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lyon",
+                                "postalCode": "69007",
+                                "street1": "200 avenue Jean Jaur\u00e8s"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0 811 369 440"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Aix-en-Provence",
+                                "postalCode": "13290",
+                                "street1": "240 rue de Broglie B\u00e2t C"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0 811 369 440"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Nantes",
+                                "postalCode": "44000",
+                                "street1": "13 rue Bias"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0 811 369 440"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "M\u00e9rignac",
+                                "postalCode": "33700",
+                                "street1": "21 avenue Pythagore"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0 811 369 440"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Pais",
+                                "postalCode": "75009",
+                                "street1": "6 boulevard Montmartre"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0 811 369 440"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "CCLD Recrutement",
+                "numFollowers": 8324,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Commerciaux",
+                        "Distribution",
+                        "Assessment Center",
+                        "RPO",
+                        "Recrutement",
+                        "GMS",
+                        "CRH - RHF - RHD",
+                        "Directeurs Commerciaux",
+                        "RH",
+                        "Banque - Assurance",
+                        "Industrie",
+                        "Services",
+                        "Restauration commerciale"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ccld-recrutement.com"
+            }
+        ]
+    }
+}

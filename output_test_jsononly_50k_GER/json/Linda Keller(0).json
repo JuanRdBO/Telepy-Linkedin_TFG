@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 3036697,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Badung",
+                                "postalCode": "80361",
+                                "street1": "Jl. Sunset Road 77 B"
+                            },
+                            "contactInfo": {
+                                "fax": "0361-8480907",
+                                "phone1": "0361-8480909"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Jakarta Selatan",
+                                "postalCode": "12940",
+                                "street1": "Mall Ambassador 5th Floor Suite 7"
+                            },
+                            "contactInfo": {
+                                "fax": "021-5760622",
+                                "phone1": "021-5760621"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Keller Williams Casablanca",
+                "numFollowers": 290,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://casablanca.kellerwilliams.co.id"
+            }
+        ]
+    }
+}

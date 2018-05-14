@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12681908,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kleinsteinhausen",
+                                "postalCode": "66484",
+                                "street1": "11 Bottenbacher Weg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 63391337"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Franz Walter Schreinerei",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.schreinerei-walterfranz.de"
+            }
+        ]
+    }
+}

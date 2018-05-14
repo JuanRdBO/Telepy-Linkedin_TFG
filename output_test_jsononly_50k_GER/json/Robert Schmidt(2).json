@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 23,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7473118,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wissen",
+                                "postalCode": "57537",
+                                "street1": "4 Im Buschkamp"
+                            },
+                            "contactInfo": {
+                                "phone1": "02742910232"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Robert Schmidt E. K.",
+                "numFollowers": 3,
+                "websiteUrl": "werkzeug-wissen.de"
+            }
+        ]
+    }
+}

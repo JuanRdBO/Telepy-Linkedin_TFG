@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12397593,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "12355",
+                                "street1": "18 Tierarztpraxis Im Frauenviertel Elfriede-Kuhr-Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3066869946"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Karin Kirchge\u00dfner",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.tierarzt-kirchgessner.de"
+            }
+        ]
+    }
+}

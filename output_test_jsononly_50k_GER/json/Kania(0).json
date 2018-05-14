@@ -1,0 +1,88 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 65,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1989,
+                "id": 9468103,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "10",
+                            "name": "Servicios jur\u00eddicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Asheville",
+                                "postalCode": "28805",
+                                "street1": "600-A Centre Park Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "828-252-8760",
+                                "phone1": "828-252-8010"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Greenville",
+                                "postalCode": "28615",
+                                "street1": "156 Milestone Way, Suite C"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "864-558-0588"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Kania Law Firm, P. A.",
+                "numFollowers": 41,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Tax Foreclosure",
+                        "Real Estate Closings",
+                        "Title Litigation",
+                        "Creditor Bankruptcy Representation",
+                        "Judicial Foreclosure",
+                        "Evictions",
+                        "Real Estate Closings",
+                        "Mobile Home Title Repossessions",
+                        "Power of Sale Foreclosure",
+                        "Deeds-in-Lieu of Foreclosure",
+                        "Refinance Closings"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "kanialawfirm.com"
+            }
+        ]
+    }
+}

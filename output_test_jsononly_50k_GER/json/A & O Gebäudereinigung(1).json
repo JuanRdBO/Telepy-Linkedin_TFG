@@ -1,0 +1,85 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 2008,
+                "id": 17955977,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bonn",
+                                "postalCode": "53129",
+                                "street1": "Dottendorfer Str. 86"
+                            },
+                            "contactInfo": {
+                                "fax": "0228 850276-22",
+                                "phone1": "0228 850276-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "\"Facility Management - Die M\u00f6glichmacher\"\u200b c/o GEFMA e.V.",
+                "numFollowers": 453,
+                "specialties": {
+                    "_total": 21,
+                    "values": [
+                        "Facility Management (technisch, kaufm\u00e4nnisch, infrastrukturell, integriert)",
+                        "Anlagen- / Geb\u00e4udetechnik",
+                        "Property Management",
+                        "Industrial Services",
+                        "Geb\u00e4udereinigung",
+                        "Energiemanagement + Contracting",
+                        "Instandhaltung",
+                        "Aviation Services",
+                        "Location Management",
+                        "Betreibermodelle",
+                        "Workplace Management",
+                        "Catering und Betriebsgastronomie",
+                        "Sicherheits - und Empfangsdienste ",
+                        "FM- Beratungsdienstleistungen",
+                        "Health Care Services",
+                        "Digitales Prozessmanagement",
+                        "Real Estate Management",
+                        "Industriewartung + Industriereinigung",
+                        "Garten- und Landschaftspflege",
+                        "Consulting und Management ",
+                        "Eventservice - und management"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.fm-die-moeglichmacher.de/"
+            }
+        ]
+    }
+}

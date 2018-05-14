@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1992,
+                "id": 1544001,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "8",
+                            "name": "Telecomunicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hartmannsdorf",
+                                "postalCode": "09232",
+                                "street1": "Niederfrohnaer Weg 1"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0)3722 713 9550",
+                                "phone1": "+49 (0)3722 713 8500"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "KOMSA AG",
+                "numFollowers": 1759,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "wholesale for IT and communication products",
+                        "Services",
+                        "Repair Service"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "komsa_ag",
+                "websiteUrl": "www.komsa.com"
+            }
+        ]
+    }
+}

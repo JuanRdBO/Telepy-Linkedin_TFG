@@ -1,0 +1,96 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2013,
+                "id": 5076310,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "17",
+                            "name": "Dispositivos m\u00e9dicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Napoli",
+                                "postalCode": "80142",
+                                "street1": "via Emanuele Gianturco n\u00b0. 92"
+                            },
+                            "contactInfo": {
+                                "fax": "0810105834",
+                                "phone1": "0815225559"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Casalnuovo",
+                                "postalCode": "80018",
+                                "street1": "via Nazionale delle Puglie n\u00b0. 7 Centro il Faro"
+                            },
+                            "contactInfo": {
+                                "fax": "0810105834",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Pomigliano D'Arco",
+                                "postalCode": "80038",
+                                "street1": "via Nilde Iotti n.8"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "MEDIFOR srl",
+                "numFollowers": 292,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Ortopedia",
+                        "Chirurgia Laparoscopica",
+                        "Radiologia Interventistica",
+                        "Neurochirurgia",
+                        "Chirurgia Plastica",
+                        "Oncologia ed Ematologia",
+                        "Chirurgia Vascolare e Cardiochirurgia",
+                        "Emodinamica"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.mediforsrl.it"
+            }
+        ]
+    }
+}

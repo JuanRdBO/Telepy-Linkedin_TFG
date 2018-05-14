@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7346919,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Winnenden",
+                                "postalCode": "71364",
+                                "street1": "11 Br\u00fcckenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0719592500"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Harald Voigtmann",
+                "numFollowers": 0,
+                "websiteUrl": "ib-voigtmann.de"
+            }
+        ]
+    }
+}

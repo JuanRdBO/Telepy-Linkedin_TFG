@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7446061,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Schondorf am Ammersee",
+                                "postalCode": "86938",
+                                "street1": "16 Bahnhofstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "081929985590"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Segeln & Meer Ludwig Braun",
+                "numFollowers": 0,
+                "websiteUrl": "segelnmeer.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1113,
+                "id": 10182194,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "131",
+                            "name": "Filantrop\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Vancouver",
+                                "postalCode": "V6C 1E5",
+                                "street1": "900 West Hastings Street, Suite 1100"
+                            },
+                            "contactInfo": {
+                                "fax": "+1-604-685-2142",
+                                "phone1": "+1-604-685-2141"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sovereign Order of St. John of Jerusalem, Knights Hospitaller",
+                "numFollowers": 237,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.sosjinternational.org"
+            }
+        ]
+    }
+}

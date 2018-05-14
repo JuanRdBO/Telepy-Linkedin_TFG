@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12317418,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gersfeld (Rh\u00f6n)",
+                                "postalCode": "36129",
+                                "street1": "5 Stettiner Str."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Steuerberater Ingo Mohr",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.mohr-steuerberatung.de"
+            }
+        ]
+    }
+}

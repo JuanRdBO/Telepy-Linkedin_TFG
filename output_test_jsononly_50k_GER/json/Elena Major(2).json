@@ -1,0 +1,77 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2006,
+                "id": 1282683,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bucharest",
+                                "postalCode": "023974",
+                                "street1": "Plantelor Street 12"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Zamfirescu Racoti & Partners",
+                "numFollowers": 1791,
+                "specialties": {
+                    "_total": 16,
+                    "values": [
+                        "Banking & Finance",
+                        "Maritime Law",
+                        "Competition",
+                        "M&A / Privatizations",
+                        "Employment",
+                        "Public Procurement",
+                        "Energy & Natural Resources",
+                        "Real Estate",
+                        "General Corporate",
+                        "Restructuring & Insolvency",
+                        "IP",
+                        "Capital Markets",
+                        "Litigation & Arbitration",
+                        "Tax",
+                        "Business Crime",
+                        "Regulatory"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.zrp.ro/index.php/en"
+            }
+        ]
+    }
+}

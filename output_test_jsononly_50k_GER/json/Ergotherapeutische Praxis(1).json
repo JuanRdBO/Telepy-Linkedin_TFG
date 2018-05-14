@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 23,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7468824,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "F\u00fcrth",
+                                "postalCode": "90763",
+                                "street1": "13 Amalienstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "09117437020"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ergotherapeutische Praxis Ute Schmidt",
+                "numFollowers": 1,
+                "websiteUrl": "ergo-schmidt.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7436049,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Overath",
+                                "postalCode": "51491",
+                                "street1": "50 Katzemicher Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "022043000524"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ERGO Versicherung Michael Voigt",
+                "numFollowers": 0,
+                "websiteUrl": "m.voigt.ergo.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2012,
+                "id": 3128546,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Quezon City",
+                                "postalCode": "",
+                                "street1": "6F Dell Building, Eastwood City, Libis,"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(02) 2124311"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "San Mateo",
+                                "postalCode": "1850",
+                                "street1": "Maly"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(02) 2124311"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Primetech Web and Software Development Co.",
+                "numFollowers": 22,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Web Development",
+                        "SEO",
+                        "Software Development",
+                        "Game Development",
+                        "Web and Graphic Designs",
+                        "I.T. Services",
+                        "Database System",
+                        "SEM"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "primetechsolutions.net"
+            }
+        ]
+    }
+}

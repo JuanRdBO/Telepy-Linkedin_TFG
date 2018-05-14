@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 31,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1983,
+                "id": 2239843,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "82",
+                            "name": "Publicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Munich",
+                                "postalCode": "81737",
+                                "street1": "Hanns-Seidel-Platz 5"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 89 - 64 27 97 77",
+                                "phone1": "+49 89 - 64 27 97 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Journal International The Home of Content",
+                "numFollowers": 479,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Corporate Publishing, Corporate Media, E-Publishing",
+                        "Corporate TV, Social Media, Apps, Mobile, Sales, Market Research"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ji-communicate.de"
+            }
+        ]
+    }
+}

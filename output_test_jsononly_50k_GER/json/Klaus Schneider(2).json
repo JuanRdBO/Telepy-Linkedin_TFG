@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 17,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7370197,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": "50670",
+                                "street1": "11 Melchiorstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "02217124133"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Klaus Schneider Ingenieurb\u00fcro",
+                "numFollowers": 1,
+                "websiteUrl": "enviro-engineering.de"
+            }
+        ]
+    }
+}

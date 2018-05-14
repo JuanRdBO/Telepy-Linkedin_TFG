@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12513234,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pl\u00f6n",
+                                "postalCode": "24306",
+                                "street1": "4 L\u00fcbecker Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 45224045"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gerd Meyer Immobilien",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.gmeyer-immobilien.de"
+            }
+        ]
+    }
+}

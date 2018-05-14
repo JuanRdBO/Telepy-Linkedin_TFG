@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12416558,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "41",
+                            "name": "Actividades bancarias"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bremerv\u00f6rde",
+                                "postalCode": "27432",
+                                "street1": "32 Neue Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 414160750"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wohnst\u00e4tte Stade EG",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.wohnstaette-stade.de"
+            }
+        ]
+    }
+}

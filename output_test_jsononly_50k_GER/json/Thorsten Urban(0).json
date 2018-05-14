@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2000,
+                "id": 5056795,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60327",
+                                "street1": "Gutleutstra\u00dfe 163-167"
+                            },
+                            "contactInfo": {
+                                "fax": "069-133 842 49",
+                                "phone1": "069-133 842 40"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "raumwerk Gesellschaft f\u00fcr Architektur und Stadtplanung mbH",
+                "numFollowers": 181,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "architecture",
+                        "urban planning",
+                        "interior design"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.raumwerk.net"
+            }
+        ]
+    }
+}

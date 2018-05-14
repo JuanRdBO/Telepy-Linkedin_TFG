@@ -1,0 +1,95 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1970,
+                "id": 77520,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Merelbeke",
+                                "postalCode": "9820",
+                                "street1": "Axxes Business Park - Gebouw B 4th Floor"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+32 (0)9 210 59 50"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Stanwick Management Consultants",
+                "numFollowers": 1238,
+                "specialties": {
+                    "_total": 19,
+                    "values": [
+                        "Strategy Deployment",
+                        "Lean Leadership",
+                        "Lean Transformation",
+                        "3PM\u00b2",
+                        "6Sigma",
+                        "Lean Manufacturing",
+                        "TPM",
+                        "QRM",
+                        "Teamwork",
+                        "Change Management",
+                        "People in Transformation",
+                        "Business Improvement Management",
+                        "Order to cash",
+                        "Lean office",
+                        "Voice of the Customer",
+                        "Coaching",
+                        "Personal Energy",
+                        "Supply Chain Management",
+                        "Operational Excellence"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.stanwick.be"
+            }
+        ]
+    }
+}

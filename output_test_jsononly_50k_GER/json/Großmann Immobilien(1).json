@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12213249,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Essen",
+                                "postalCode": "45128",
+                                "street1": "85 Huyssenallee"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2013601531"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gro\u00dfmann Immobilien-Consult GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.grossmann-immobilien.de"
+            }
+        ]
+    }
+}

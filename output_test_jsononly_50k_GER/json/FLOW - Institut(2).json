@@ -1,0 +1,131 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 40504,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1980,
+                "id": 381191,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Santa Fe",
+                                "postalCode": "87505",
+                                "street1": "683 Harkle Road"
+                            },
+                            "contactInfo": {
+                                "fax": "505-982-5551",
+                                "phone1": "505-982-0088"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Pudong New Area",
+                                "postalCode": "200120",
+                                "street1": "Room G, 15F, Yong Hua Building"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Kothrud",
+                                "postalCode": "411029",
+                                "street1": "Sudhanwa Apartments, Flat-3"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Tokyo",
+                                "postalCode": "111-0035",
+                                "street1": "NJ Tawaramachi Building"
+                            },
+                            "contactInfo": {
+                                "fax": "81-03-6802-7811",
+                                "phone1": "81-03-6802-7810\u3000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Rottenburg",
+                                "postalCode": "72108",
+                                "street1": "Sprollstra\u00dfe 10/1"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0) 7472 / 988 688 - 99",
+                                "phone1": "+49 (0) 7472 / 988 688 - 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Flow Science, Inc.",
+                "numFollowers": 1970,
+                "specialties": {
+                    "_total": 15,
+                    "values": [
+                        "CFD software",
+                        "fluid dynamics",
+                        "flow modeling",
+                        "casting simulations",
+                        "environmental flows",
+                        "microfluidics",
+                        "manufacturing",
+                        "free-surface flows",
+                        "CFD modeling",
+                        "parallel computing",
+                        "CFD analysis",
+                        "simulation software",
+                        "Cloud computing",
+                        "numerical modeling",
+                        "general-purpose CFD"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.flow3d.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7456549,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "22299",
+                                "street1": "100 Leinpfad"
+                            },
+                            "contactInfo": {
+                                "phone1": "04037510013"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kr\u00fcger J\u00fcrgen B\u00f6rsenmakler GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "srh-research.de"
+            }
+        ]
+    }
+}

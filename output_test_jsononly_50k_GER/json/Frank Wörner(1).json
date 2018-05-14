@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12687904,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Birken-Honigsessen",
+                                "postalCode": "57587",
+                                "street1": "1 Wolfswinkel"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 27426746"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wolfswinkeler Hundetage",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.gfh-wolfswinkel.de"
+            }
+        ]
+    }
+}

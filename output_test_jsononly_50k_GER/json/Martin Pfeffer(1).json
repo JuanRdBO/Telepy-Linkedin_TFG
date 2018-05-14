@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12257459,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "W\u00f6lfersheim",
+                                "postalCode": "61200",
+                                "street1": "18 Bahnhofstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6036768"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Helmut Pfeffer Naturstein GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.helmut-pfeffer-naturstein.de"
+            }
+        ]
+    }
+}

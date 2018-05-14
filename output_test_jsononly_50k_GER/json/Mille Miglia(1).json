@@ -1,0 +1,49 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 26,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1997,
+                "id": 2755827,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "name": "MILLE MIGLIA ENGINEERING",
+                "numFollowers": 63,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "MACCHINARI PER LAVORAZIONE TUBI SISTEMI DI SCARICO",
+                        "OTTIMIZZAZIONE DEL PROCESSO PRODUTTIVO",
+                        "STUDIO E CONSULENZA PER PROCESSI PRODUTTIVI DEI SISTEMI DI SCARICO CON APPROVVIGIONAMENTO MACCHINARI DA INSERIRE IN ISOLE DI LAVORO OTTIMALI"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.millemigliaeng.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12840468,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad Salzuflen",
+                                "postalCode": "32107",
+                                "street1": "201 Sylbacher Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 523266651"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Klaus-Dieter Fischer",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.fischer-versicherungsmakler.de"
+            }
+        ]
+    }
+}

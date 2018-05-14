@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 5292895,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Meckenheim",
+                                "postalCode": "53340",
+                                "street1": "M\u00fchlgrabenstr. 15"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 22259998"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ACH Autocolor Marc Becker KG",
+                "numFollowers": 7,
+                "websiteUrl": "http://www.ach-autocolor.de"
+            }
+        ]
+    }
+}

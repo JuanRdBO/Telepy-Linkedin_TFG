@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12185151,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Essen (Katernberg)",
+                                "postalCode": "45327",
+                                "street1": "2 Dortmannhof"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 201303057"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Marcus Reil",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.praxis-dortmannhof.de"
+            }
+        ]
+    }
+}

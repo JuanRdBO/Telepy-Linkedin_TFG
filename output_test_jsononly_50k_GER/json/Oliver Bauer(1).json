@@ -1,0 +1,51 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2016,
+                "id": 25050133,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "101",
+                            "name": "Recaudaci\u00f3n de fondos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Salt Lake City",
+                                "postalCode": "84106",
+                                "street1": "Canyon Way"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "The Oliver Fund",
+                "numFollowers": 3,
+                "websiteUrl": "theoliverfund.org"
+            }
+        ]
+    }
+}

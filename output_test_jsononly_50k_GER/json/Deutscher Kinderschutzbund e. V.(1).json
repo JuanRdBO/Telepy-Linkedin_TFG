@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12354988,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "90",
+                            "name": "Organizaci\u00f3n c\u00edvica y social"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rheine",
+                                "postalCode": "48431",
+                                "street1": "45 Thiemauer"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 5971914390"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Deutscher Kinderschutzbund Rheine E.V.",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.dksbrh.de"
+            }
+        ]
+    }
+}

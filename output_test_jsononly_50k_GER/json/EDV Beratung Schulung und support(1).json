@@ -1,0 +1,85 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1997,
+                "id": 3288314,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wien",
+                                "postalCode": "1130",
+                                "street1": "Wambachergasse 10"
+                            },
+                            "contactInfo": {
+                                "fax": "+43-1-87041-555",
+                                "phone1": "+43-1-87041"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Graz",
+                                "postalCode": "8010",
+                                "street1": "Hofgasse 3/III"
+                            },
+                            "contactInfo": {
+                                "fax": "+43-1-87041-355",
+                                "phone1": "+43-1-87041"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "scc EDV-Beratung Aktiengesellschaft",
+                "numFollowers": 154,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "SAP Consulting Services Support",
+                        "OpenText Consulting Services Support",
+                        "SAP Automotive",
+                        "SAP Engineering & Construction",
+                        "SAP Media",
+                        "SAP Real Estate",
+                        "SAP Industrial Machinery & Components",
+                        "SAP Logistics & Transportation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.scc.at"
+            }
+        ]
+    }
+}

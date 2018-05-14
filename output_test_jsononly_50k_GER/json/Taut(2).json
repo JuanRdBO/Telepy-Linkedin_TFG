@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 69,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2013,
+                "id": 5230206,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Cape Town",
+                                "postalCode": "7551",
+                                "street1": "09 Basuto"
+                            },
+                            "contactInfo": {
+                                "fax": "0864401059",
+                                "phone1": "0832929619"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "The taut change agency",
+                "numFollowers": 12,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Process Documentation",
+                        "Skills Development",
+                        "SETA grant applications",
+                        "Specialised training programmes",
+                        "Staff Development planning",
+                        "HR Consulting"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.taut.co.za"
+            }
+        ]
+    }
+}

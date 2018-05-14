@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12840987,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dietenheim",
+                                "postalCode": "89165",
+                                "street1": "26 Gie\u00dfenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7347958966"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gerhard Engel Schreinerei",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.schreinerei-engel-dietenheim.de"
+            }
+        ]
+    }
+}

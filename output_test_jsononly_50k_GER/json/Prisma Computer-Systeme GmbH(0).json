@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2012,
+                "id": 15212235,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "81539",
+                                "street1": "Wei\u00dfenseestr. 130"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 177 6834992"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wecon PLM GmbH",
+                "numFollowers": 13,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Consulting",
+                        "Test",
+                        "Training",
+                        "Implementation",
+                        "Software development"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.wecon-plm.de/?lang=en"
+            }
+        ]
+    }
+}

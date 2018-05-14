@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 135,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7491024,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Esslingen am Neckar",
+                                "postalCode": "73733",
+                                "street1": "42 Obert\u00fcrkheimer Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "071130528975"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "KFZ-Sachverst\u00e4ndigenb\u00fcro",
+                "numFollowers": 63,
+                "websiteUrl": "svbb.info"
+            }
+        ]
+    }
+}

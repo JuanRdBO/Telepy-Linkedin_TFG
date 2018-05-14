@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1929,
+                "id": 611617,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "95",
+                            "name": "Naval"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kiel",
+                                "postalCode": "24145",
+                                "street1": "Braunstrasse 12"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 (0)431 713809"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wildhagen Marine-Service GmbH",
+                "numFollowers": 51,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "maintenance",
+                        "service",
+                        "life saving equipment",
+                        "fire fighting equipment"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.wildhagen-marine.de"
+            }
+        ]
+    }
+}

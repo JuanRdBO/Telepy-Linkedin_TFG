@@ -1,0 +1,52 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 50,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 3505667,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "8",
+                            "name": "Telecomunicaciones"
+                        }
+                    ]
+                },
+                "name": "N.B. Service s.r.l.",
+                "numFollowers": 48,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Networking",
+                        "Security",
+                        "Monitoring",
+                        "VOIP",
+                        "Contact Center",
+                        "Video Conference",
+                        "Consulting"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.nbservice.it"
+            }
+        ]
+    }
+}

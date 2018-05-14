@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12214602,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Altdorf",
+                                "postalCode": "71155",
+                                "street1": "55 Bachstrasse"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7031740840"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Frank Vetter",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.frankvetter.de"
+            }
+        ]
+    }
+}

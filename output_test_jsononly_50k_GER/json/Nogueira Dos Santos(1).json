@@ -1,0 +1,45 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 13,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 24536125,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "122",
+                            "name": "Servicios infraestructurales"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rio de Janeiro",
+                                "postalCode": "23070-200",
+                                "street1": "Avenida Manuel Caldeira de Alvarenga 1501"
+                            },
+                            "contactInfo": {
+                                "fax": "+55 2134868734",
+                                "phone1": "+55 2134868734"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Rosemere Nogueira Dos Santos 02442064731",
+                "numFollowers": 0,
+                "websiteUrl": "artimania.com.br"
+            }
+        ]
+    }
+}

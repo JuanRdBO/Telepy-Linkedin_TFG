@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7538694,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Weiden in der Oberpfalz",
+                                "postalCode": "92637",
+                                "street1": "126 Mooslohstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "01717552632"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Fahrschule Josef Kraus",
+                "numFollowers": 0,
+                "websiteUrl": "fahrschule-jks-gmbh.de"
+            }
+        ]
+    }
+}

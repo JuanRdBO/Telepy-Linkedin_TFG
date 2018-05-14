@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 20,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12479643,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10587",
+                                "street1": "22 Wintersteinstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 303428008"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Computer System 2000 GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.cs2000-berlin.com"
+            }
+        ]
+    }
+}

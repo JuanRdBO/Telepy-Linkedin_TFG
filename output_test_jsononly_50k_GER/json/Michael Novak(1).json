@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2014,
+                "id": 9309850,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Urbandale",
+                                "postalCode": "50322",
+                                "street1": "2650 100th Street"
+                            },
+                            "contactInfo": {
+                                "fax": "515-978-7470",
+                                "phone1": "515-978-7171"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Michael Novak Agency, Inc.",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Business Insurance",
+                        "Life Insurance",
+                        "Auto Insurance",
+                        "Recreational Vehicle Insurrance",
+                        "Home Insurance",
+                        "BOP",
+                        "Mobile Home Insurance",
+                        "Golf Cart Insurance",
+                        "EPLI",
+                        "Military Discounts",
+                        "Police Discounts",
+                        "Firefighter Discounts",
+                        "Educator Discounts",
+                        "Business Auto Insurance"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.michaelnovakagency.com"
+            }
+        ]
+    }
+}

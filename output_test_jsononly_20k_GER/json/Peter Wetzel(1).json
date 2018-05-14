@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12433812,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Halle",
+                                "postalCode": "06110",
+                                "street1": "20 Lauchst\u00e4dter Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3451206476"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr.med. Peter Wetzel",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.praxis-kuehnast.de"
+            }
+        ]
+    }
+}

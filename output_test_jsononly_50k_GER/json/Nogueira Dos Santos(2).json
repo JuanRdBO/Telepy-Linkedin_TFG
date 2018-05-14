@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 13,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 24502333,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "122",
+                            "name": "Servicios infraestructurales"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Santos",
+                                "postalCode": "11088-170",
+                                "street1": "Rua Jos\u00e9 Alberto de Luca 656"
+                            },
+                            "contactInfo": {
+                                "fax": "+55 1333071352",
+                                "phone1": "+55 1333071352"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Alisson Nogueira Dos Santos 22865263894",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

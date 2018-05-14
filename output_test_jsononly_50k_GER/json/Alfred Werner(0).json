@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "foundedYear": 1822,
+                "id": 15130932,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "68",
+                            "name": "Ense\u00f1anza superior"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "MULHOUSE",
+                                "postalCode": "68093",
+                                "street1": "3 Rue, Alfred Werner, 68093, Mulhouse"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ecole Nationale Sup\u00e9rieure de Chimie de Mulhouse",
+                "numFollowers": 1677,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "5 options : chimie organique et bioorganique, mat\u00e9riaux et polym\u00e8res, formulation et cosm\u00e9tologie, s\u00e9curit\u00e9, environnement, sant\u00e9 au travail, chimie verte et durable",
+                        "Enseignement polyvalent en chimie (chimie analytique, chimie inorganique, chimie organique, chimie physique, cosm\u00e9tologie, environnement, formulation, mat\u00e9riaux, s\u00e9curit\u00e9...)"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "http://www.enscmu.uha.fr/"
+            }
+        ]
+    }
+}

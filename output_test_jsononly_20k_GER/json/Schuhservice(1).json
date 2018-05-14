@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12741451,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kleinostheim",
+                                "postalCode": "63801",
+                                "street1": "Goethestra\u00dfe 54A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 60279904171"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schuhservice Finkernagel",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.schuhservice-finkernagel.de"
+            }
+        ]
+    }
+}

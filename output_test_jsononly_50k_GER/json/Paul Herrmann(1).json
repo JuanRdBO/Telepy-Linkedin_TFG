@@ -1,0 +1,38 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 5586439,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Saranac Lake",
+                                "postalCode": "12983-5743",
+                                "street1": "115 Main St"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 5188913020"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Paul J Herrmann",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

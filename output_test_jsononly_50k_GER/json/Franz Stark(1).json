@@ -1,0 +1,94 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1957,
+                "id": 3771849,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Grafenau",
+                                "postalCode": "94481",
+                                "street1": "Passauer Stra\u00dfe 3 + 5"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 8555 409-30",
+                                "phone1": "+49 8555 409-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Stephansposching",
+                                "postalCode": "94569",
+                                "street1": "Hans-Sachs-Stra\u00dfe 3 + 5"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 9931 89 59 049",
+                                "phone1": "+49 9931 89 59 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Wegscheid",
+                                "postalCode": "94110",
+                                "street1": "Kasberger Stra\u00dfe 31"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 8592 89-33",
+                                "phone1": "+49 8592 89-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Zambelli",
+                "numFollowers": 263,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Metalldachsysteme",
+                        "Dachentw\u00e4sserung",
+                        "Regalsysteme",
+                        "Industrielle Metallbearbeitung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.zambelli.com"
+            }
+        ]
+    }
+}

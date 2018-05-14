@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12503962,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wesel",
+                                "postalCode": "46485",
+                                "street1": "13 Rudolf-Diesel-Stra\u00dfe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Andre Fischer",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.andrefischer-automobile.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12222445,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lahnau",
+                                "postalCode": "35633",
+                                "street1": "15 Am R\u00f6merlager"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 644196140"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Feinwerktechnik Frank Zimmermann GmbH & CO. KG",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.feinwerktechnik-zimmermann.de"
+            }
+        ]
+    }
+}

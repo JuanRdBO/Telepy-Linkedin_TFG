@@ -1,0 +1,132 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 9,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2006,
+                "id": 5184099,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "19",
+                            "name": "Industria textil y moda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Boston",
+                                "postalCode": "02114",
+                                "street1": "122 Charles St"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "617-742-0089"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Boston",
+                                "postalCode": "02114",
+                                "street1": "113 Charles St"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "617-742-3900"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Nantucket",
+                                "postalCode": "02554",
+                                "street1": "2 Straight Wharf"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "508-228-4999"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Edgartown",
+                                "postalCode": "02539",
+                                "street1": "4 Dock St"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "508-627-7789"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Wellesley",
+                                "postalCode": "02482",
+                                "street1": "35 Central St"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "North River Outfitter",
+                "numFollowers": 174,
+                "specialties": {
+                    "_total": 16,
+                    "values": [
+                        "Dresswear",
+                        "Sporting Goods",
+                        "Outerwear",
+                        "Lifestyle Apparel",
+                        "Running Sneakers / Activewear",
+                        "Kids Clothing / Toys / Strollers",
+                        "Skiing",
+                        "Accessories",
+                        "Women's Fashion",
+                        "Men's Fashion",
+                        "Resortwear",
+                        "Golf",
+                        "Tennis",
+                        "Sailing",
+                        "Jeans",
+                        "Sunglasses"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.nroco.com"
+            }
+        ]
+    }
+}

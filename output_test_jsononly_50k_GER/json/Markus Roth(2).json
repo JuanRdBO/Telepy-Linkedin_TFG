@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7527348,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Schiltach",
+                                "postalCode": "77761",
+                                "street1": "21 An Den G\u00e4rten"
+                            },
+                            "contactInfo": {
+                                "phone1": "078362797"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Malerbetrieb Markus Roth",
+                "numFollowers": 0,
+                "websiteUrl": "maler-roth.de"
+            }
+        ]
+    }
+}

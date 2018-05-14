@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 578,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2010,
+                "id": 1241409,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "99",
+                            "name": "Dise\u00f1o"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Leeds",
+                                "postalCode": "LS11 0EY",
+                                "street1": "Unit 2"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "08459011333"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Design and Specify",
+                "numFollowers": 161,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Interior design",
+                        "CAD",
+                        "3D Visualisation",
+                        "Interior installations",
+                        "Consultation",
+                        "Feasibility studies",
+                        "Office furniture",
+                        "Space planning",
+                        "Ideas and initiatives in the workplace",
+                        "Advice"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.designandspecify.com"
+            }
+        ]
+    }
+}

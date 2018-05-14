@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 12,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 8178364,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "25",
+                            "name": "Art\u00edculos de consumo"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Singen",
+                                "postalCode": "78224",
+                                "street1": "Fabrikstr. 20"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 773152093"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Arcon International GmbH",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.arcon-international.de/fenugreek/home--1.html"
+            }
+        ]
+    }
+}

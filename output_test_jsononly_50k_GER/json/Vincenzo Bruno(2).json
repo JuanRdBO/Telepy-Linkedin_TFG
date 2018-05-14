@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2016,
+                "id": 15219838,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Roma",
+                                "postalCode": "00192",
+                                "street1": "via Caio Mario 14/B"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(+39) 377 6974221"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "COASTER coworking//coffice//bizmatching",
+                "numFollowers": 49,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "coworking",
+                        "coffice",
+                        "bizmatching",
+                        "management",
+                        "advisory",
+                        "topic trends"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.coastercowo.com"
+            }
+        ]
+    }
+}

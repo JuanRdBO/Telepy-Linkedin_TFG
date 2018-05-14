@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7333716,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "125",
+                            "name": "Medicina alternativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Neu-Anspach",
+                                "postalCode": "61267",
+                                "street1": "32 Schubertstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "060818081"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Gerrit Ralf Kunz",
+                "numFollowers": 0,
+                "websiteUrl": "praxisdrkunz.de"
+            }
+        ]
+    }
+}

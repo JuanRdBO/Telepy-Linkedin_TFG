@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 509,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1997,
+                "id": 383974,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "121",
+                            "name": "Seguridad e investigaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Harlow",
+                                "postalCode": "CM19 5BL",
+                                "street1": "The Barrows"
+                            },
+                            "contactInfo": {
+                                "fax": "0208 804 7864",
+                                "phone1": "0208 804 5058"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "the SES GROUP",
+                "numFollowers": 1244,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Event Security & Crowd Management",
+                        "Contract Security",
+                        "Rail industry",
+                        "CSAS & traffic management",
+                        "Customer Service",
+                        "Training",
+                        "Mobile Security",
+                        "Close Protection",
+                        "Consultancy",
+                        "Security Consultancy",
+                        "Crowd Safety consultancy"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.thesesgroup.co.uk"
+            }
+        ]
+    }
+}

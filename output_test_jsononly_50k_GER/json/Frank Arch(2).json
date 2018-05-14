@@ -1,0 +1,86 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2012,
+                "id": 6621962,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10010",
+                                "street1": "304 Park Avenue South"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "S,D",
+                                "postalCode": "",
+                                "street1": "Plaza Central #241 2do Nivel. Ave,"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Arch Work Unlimited LLC",
+                "numFollowers": 9,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "green architecure",
+                        "permaculture",
+                        "engineering",
+                        "vertical farming",
+                        "aquaponics",
+                        "sustainable architecture",
+                        "sustainable agriculture",
+                        "food production systems",
+                        "reforestation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.archworkunlimited.net/"
+            }
+        ]
+    }
+}

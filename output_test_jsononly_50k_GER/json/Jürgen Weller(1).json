@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7408234,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Aichtal",
+                                "postalCode": "72631",
+                                "street1": "26 Hintere Gasse"
+                            },
+                            "contactInfo": {
+                                "phone1": "07127977430"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "J\u00fcrgen Weller Malergesch\u00e4ft",
+                "numFollowers": 0,
+                "websiteUrl": "malermeister-weller.de"
+            }
+        ]
+    }
+}

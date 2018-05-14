@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12677920,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "31",
+                            "name": "Hosteler\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "L\u00fcbeck",
+                                "postalCode": "23570",
+                                "street1": "52 Vorderreihe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 4502770056"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hotelbetriebe Joachim Schulz E.K.",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.hotelbetriebe-schulz.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7396980,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mittelstetten",
+                                "postalCode": "82293",
+                                "street1": "11 Oberdorfer Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "082021671"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Glaser",
+                "numFollowers": 0,
+                "websiteUrl": "glaser-bau.com"
+            }
+        ]
+    }
+}

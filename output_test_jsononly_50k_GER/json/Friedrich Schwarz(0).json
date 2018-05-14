@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12346343,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ederheim",
+                                "postalCode": "86739",
+                                "street1": "1 Reism\u00fchle"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 9088675"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Friedrich Schwarz",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.schwarz-forst.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 19,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12362764,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Villingen-Schwenningen",
+                                "postalCode": "78056",
+                                "street1": "70 Steinkirchring"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 772097260"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Peter Schmid Technischer Bedarf",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.schmid-tb.de"
+            }
+        ]
+    }
+}

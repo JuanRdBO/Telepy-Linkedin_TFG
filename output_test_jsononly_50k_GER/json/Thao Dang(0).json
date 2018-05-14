@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 56,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1999,
+                "id": 475594,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ho Chi Minh city",
+                                "postalCode": "848",
+                                "street1": "72 Nguyen Hue street, District 1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Hanoi",
+                                "postalCode": "844",
+                                "street1": "1C Ngo Quyen street, Hoan Kiem district"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Saigon Securities Inc.",
+                "numFollowers": 1390,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "SECURITIES SERVICES",
+                        "INVESTMENT BANKING",
+                        "ASSET MANAGEMENT",
+                        "TRADING AND PRINCIPAL INVESTMENTS",
+                        "RESEARCH AND INVESTMENT ADVISORY"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ssi.com.vn"
+            }
+        ]
+    }
+}

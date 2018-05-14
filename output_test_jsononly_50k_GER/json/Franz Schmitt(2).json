@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7564721,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "N\u00fcdlingen",
+                                "postalCode": "97720",
+                                "street1": "37 Kissinger Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "09716994490"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Franz Schmitt B\u00e4ckerei",
+                "numFollowers": 0,
+                "websiteUrl": "schmitts-backstube.de"
+            }
+        ]
+    }
+}

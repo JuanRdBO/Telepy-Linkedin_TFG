@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1679,
+                "id": 15155783,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "31",
+                            "name": "Hosteler\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kitzb\u00fchel",
+                                "postalCode": "6370",
+                                "street1": "Griesenauweg 26"
+                            },
+                            "contactInfo": {
+                                "fax": "+4353566318170",
+                                "phone1": "+43535663181"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Tennerhof Gourmet & Spa de Charme Hotel Kitzb\u00fchel - Relais & Ch\u00e2teaux",
+                "numFollowers": 16,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Service",
+                        "Gourmet",
+                        "Spa & Wellness",
+                        "Luxury Hotel",
+                        "Spa",
+                        "Chalet",
+                        "Relais & Ch\u00e2teaux",
+                        "Hotel"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.tennerhof.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 16,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1964,
+                "id": 955822,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wetzikon",
+                                "postalCode": "8620",
+                                "street1": "Binzstrasse 32"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Dubai",
+                                "postalCode": "54281",
+                                "street1": "2E-406 Dubai Airport Free Zone"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Waterloo",
+                                "postalCode": "2017",
+                                "street1": "358/809 South Dowling Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Singapore",
+                                "postalCode": "60",
+                                "street1": "20 Toh Guan Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Reichle & De-Massari AG",
+                "numFollowers": 4417,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Fiber Optics",
+                        "RJ45",
+                        "Layer 1",
+                        "Communication Networks",
+                        "Connectivity",
+                        "Automated Infrastructure Management (AIM)"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.rdm.com"
+            }
+        ]
+    }
+}

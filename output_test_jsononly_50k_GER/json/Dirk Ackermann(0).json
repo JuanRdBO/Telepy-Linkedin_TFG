@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1903,
+                "id": 796193,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "12",
+                            "name": "Biotecnolog\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Irlbach",
+                                "postalCode": "94342",
+                                "street1": "Marienhofstrasse 13"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 9424 9423-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ackermann Saatzucht GmbH & Co. KG",
+                "numFollowers": 114,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "spring barley",
+                        "winter barley",
+                        "malting barley",
+                        "feed barley",
+                        "craft barley",
+                        "distilling"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.sz-ackermann.de"
+            }
+        ]
+    }
+}

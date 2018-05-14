@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 13,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 8600188,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "121",
+                            "name": "Seguridad e investigaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "South Pittsburg",
+                                "postalCode": "37380",
+                                "street1": "1620 Hamilton Ave"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 4238377282"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Richard Hardy Memorial School",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.richardhardy.org"
+            }
+        ]
+    }
+}

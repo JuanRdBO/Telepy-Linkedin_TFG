@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 7402836,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "49",
+                            "name": "Materiales de construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Obertshausen",
+                                "postalCode": "63179",
+                                "street1": "25 Albrecht-D\u00fcrer-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0610495040"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Weiterstadt",
+                                "postalCode": "64331",
+                                "street1": "Gutenbergstrasse. 20"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "06151-785387-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Holzland Becker GmbH & Co. KG",
+                "numFollowers": 15,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Einzelhandel",
+                        "Gartenholz",
+                        "eCommerce",
+                        "Bodenbelag"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "holzlandbecker.de"
+            }
+        ]
+    }
+}

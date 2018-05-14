@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 22,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1946,
+                "id": 463087,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frederiksberg",
+                                "postalCode": "2000",
+                                "street1": "Dirch Passers All\u00e9 76"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "33 12 21 41"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "L\u00e6gernes Pension & Bank",
+                "numFollowers": 798,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Pension",
+                        "Investering",
+                        "Bank",
+                        "L\u00e6ger"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.lpb.dk"
+            }
+        ]
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6379,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1931,
+                "id": 166866,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "51",
+                            "name": "Ingenier\u00eda civil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Houston",
+                                "postalCode": "77010",
+                                "street1": "1301 McKinney"
+                            },
+                            "contactInfo": {
+                                "fax": "713.630.7396",
+                                "phone1": "713.630.7300"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Los Angeles",
+                                "postalCode": "90064",
+                                "street1": "11900 West Olympic Boulevard"
+                            },
+                            "contactInfo": {
+                                "fax": "310.254.1940",
+                                "phone1": "310.254.1900"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Tampa",
+                                "postalCode": "33602",
+                                "street1": "201 East Kennedy Boulevard"
+                            },
+                            "contactInfo": {
+                                "fax": "813.221.2289",
+                                "phone1": "813.221.2424"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Washington",
+                                "postalCode": "20006",
+                                "street1": "1747 Pennsylvania Avenue NW"
+                            },
+                            "contactInfo": {
+                                "fax": "202.481.7690",
+                                "phone1": "202.481.7685"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Kansas City",
+                                "postalCode": "64105",
+                                "street1": "920 Main Street"
+                            },
+                            "contactInfo": {
+                                "fax": "16.701.2200",
+                                "phone1": "816.701.2100"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Walter P Moore",
+                "numFollowers": 7946,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Structural Engineering",
+                        "Civil Engineering",
+                        "Diagnostics / Forensics",
+                        "Traffic Engineering",
+                        "Parking Engineering",
+                        "Water Resources Engineering",
+                        "Transportation Engineering",
+                        "Intelligent Transportation Systems (ITS)",
+                        "Research & Development",
+                        "Secure Design",
+                        "Facade Engineering",
+                        "Enclosure Engineering",
+                        "Technology Consulting",
+                        "Litigation/Expert Witness Support"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.walterpmoore.com"
+            }
+        ]
+    }
+}

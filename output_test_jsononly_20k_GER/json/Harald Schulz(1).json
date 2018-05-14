@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12835103,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lebus",
+                                "postalCode": "15326",
+                                "street1": "Sch\u00f6nflie\u00dfer Str. 28A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3360463636"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Klavierbaumeister Harald Schulz",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.pianoschulz.de"
+            }
+        ]
+    }
+}

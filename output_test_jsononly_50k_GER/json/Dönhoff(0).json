@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1972,
+                "id": 9306032,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Louisville",
+                                "postalCode": "40202",
+                                "street1": "716 East Market Street"
+                            },
+                            "contactInfo": {
+                                "fax": "(502) 425-8381",
+                                "phone1": "(502) 426-7452"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Tucker Booker Donhoff + Partners Architects",
+                "numFollowers": 55,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Architecture",
+                        "Masterplanning",
+                        "Sustainable Design",
+                        "Interior Design",
+                        "Renovation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://tuckerbooker.com"
+            }
+        ]
+    }
+}

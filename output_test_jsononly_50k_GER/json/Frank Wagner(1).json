@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 18,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2016,
+                "id": 11090474,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "107",
+                            "name": "Organizaci\u00f3n pol\u00edtica"
+                        }
+                    ]
+                },
+                "name": "Frank Wagner for Governor",
+                "numFollowers": 11,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Government",
+                        "Political Organization"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.wagnervagovernor.com/"
+            }
+        ]
+    }
+}

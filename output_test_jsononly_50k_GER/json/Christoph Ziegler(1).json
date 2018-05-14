@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12381620,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Heilbad Heiligenstadt",
+                                "postalCode": "37308",
+                                "street1": "16 Knickhagen"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 15729204401"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Claus-Christoph Ziegler",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.landschaftsarchitektur-ziegler.de"
+            }
+        ]
+    }
+}

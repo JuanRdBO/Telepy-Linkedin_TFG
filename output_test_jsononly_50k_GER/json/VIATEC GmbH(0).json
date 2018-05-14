@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 5598613,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Grimma",
+                                "postalCode": "04668",
+                                "street1": "Bahnhofstr. 5"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3437920"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Faun Viatec GmbH",
+                "numFollowers": 34,
+                "websiteUrl": "http://www.faun.com"
+            }
+        ]
+    }
+}

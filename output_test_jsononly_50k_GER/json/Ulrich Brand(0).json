@@ -1,0 +1,45 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 17,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "id": 24410708,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "64",
+                            "name": "Ganader\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "HERNES",
+                                "postalCode": "2410",
+                                "street1": "Styggbergsvegen 120"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ULRICH BRAND",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

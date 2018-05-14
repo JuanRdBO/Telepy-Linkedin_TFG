@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7417709,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stapelfeld",
+                                "postalCode": "22145",
+                                "street1": "6 Heinrich-Ruge-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "04067561003"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Miegel-Kayser Architekt",
+                "numFollowers": 0,
+                "websiteUrl": "miegel-kayser.de"
+            }
+        ]
+    }
+}

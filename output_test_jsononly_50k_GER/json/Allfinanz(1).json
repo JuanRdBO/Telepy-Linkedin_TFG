@@ -1,0 +1,117 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 44,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1970,
+                "id": 862408,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Madrid",
+                                "postalCode": "28020",
+                                "street1": "Plaza Manuel G\u00f3mez Moreno 2, 8\u00ba A"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+34 914 471 028"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "OVB Allfinanz Espa\u00f1a S.A.",
+                "numFollowers": 11239,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Protecci\u00f3n del Patrimonio",
+                        "Asesoramiento financiero",
+                        "Pensi\u00f3n Privada",
+                        "Estrategia de ahorro e inversi\u00f3n personalizada",
+                        "Planificaci\u00f3n Econ\u00f3mica Personal"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ovb.es"
+            }
+        ]
+    }
+}

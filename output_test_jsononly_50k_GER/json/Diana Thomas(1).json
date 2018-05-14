@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2011,
+                "id": 2620884,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "139",
+                            "name": "Atenci\u00f3n a la salud mental"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Austin",
+                                "postalCode": "78757",
+                                "street1": "8701 Shoal Creek Blvd"
+                            },
+                            "contactInfo": {
+                                "fax": "512-879-1836",
+                                "phone1": "512-879-1836"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Anxiety Treatment Center of Austin",
+                "numFollowers": 75,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Obsessive Compulsive Disorder",
+                        "Panic Disorder",
+                        "Social Anxiety Disorder",
+                        "Generalized Anxiety Disorder",
+                        "Cognitive Behavioral Therapy",
+                        "Dating Anxiety",
+                        "Anger Management"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.anxietyaustin.com"
+            }
+        ]
+    }
+}

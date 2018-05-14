@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1995,
+                "id": 10269944,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "H\u00f8rsholm",
+                                "postalCode": "2970",
+                                "street1": "H\u00e5ndv\u00e6rkersvinget 10"
+                            },
+                            "contactInfo": {
+                                "fax": "+4549136540",
+                                "phone1": "+4549136500"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Metrologic ApS",
+                "numFollowers": 42,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Kvalitetsstyring",
+                        "Procesoptimering",
+                        "M\u00e5leteknik",
+                        "Statistik",
+                        "M\u00e5lemaskiner",
+                        "Kurser"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.metrologic.dk"
+            }
+        ]
+    }
+}

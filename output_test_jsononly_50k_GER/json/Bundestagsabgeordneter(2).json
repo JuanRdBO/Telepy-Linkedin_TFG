@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12384271,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "107",
+                            "name": "Organizaci\u00f3n pol\u00edtica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Merzenich",
+                                "postalCode": "52399",
+                                "street1": "7 Richard-Strauss-Weg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 15772680786"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "CDU Merzenich",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.cdu-merzenich.de"
+            }
+        ]
+    }
+}

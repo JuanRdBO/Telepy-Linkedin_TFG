@@ -1,0 +1,56 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "foundedYear": 1991,
+                "id": 24777683,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "19",
+                            "name": "Industria textil y moda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rio de Janeiro",
+                                "postalCode": "22260-000",
+                                "street1": "Rua S\u00e3o Clemente, 258 - Botafogo"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Lenny Niemeyer",
+                "numFollowers": 185,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Moda Praia",
+                        "Moda P\u00f3s-Praia",
+                        "Moda Casual",
+                        "Acess\u00f3rios"
+                    ]
+                },
+                "websiteUrl": "http://www.lennyniemeyer.com"
+            }
+        ]
+    }
+}

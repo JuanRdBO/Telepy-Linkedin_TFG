@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12570191,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rostock",
+                                "postalCode": "18109",
+                                "street1": "13 Neustrelitzer Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3817007045"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Handelvertretung Monika Becker",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.kiga-ausstatter.de"
+            }
+        ]
+    }
+}

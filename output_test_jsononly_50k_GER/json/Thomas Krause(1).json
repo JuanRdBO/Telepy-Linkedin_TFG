@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7409283,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fchlhausen/Th\u00fcringen",
+                                "postalCode": "99974",
+                                "street1": "101 Pfafferode"
+                            },
+                            "contactInfo": {
+                                "phone1": "03601851729"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Thomas Krause Zahnarzt",
+                "numFollowers": 1,
+                "websiteUrl": "zahnarztpraxis-dr-krause.de"
+            }
+        ]
+    }
+}

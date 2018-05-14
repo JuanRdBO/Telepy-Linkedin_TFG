@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12855595,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "21029",
+                                "street1": "37 M\u00f6\u00f6rkenweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 407244650"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Rolf Schr\u00f6der",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.rschr.de"
+            }
+        ]
+    }
+}

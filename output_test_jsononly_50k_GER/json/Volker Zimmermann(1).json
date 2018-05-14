@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12477782,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Karlsruhe",
+                                "postalCode": "76137",
+                                "street1": "87 Karlstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 721357745"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Volker Zimmermann",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.dietsche-zimmermann.de"
+            }
+        ]
+    }
+}

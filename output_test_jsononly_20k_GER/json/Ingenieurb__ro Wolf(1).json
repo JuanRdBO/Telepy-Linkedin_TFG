@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12440895,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gaiberg",
+                                "postalCode": "69251",
+                                "street1": "1 Bergstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6223862930"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ingenieurb\u00fcro Wolf GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://waschmuehltal.bw-sanierung.de"
+            }
+        ]
+    }
+}

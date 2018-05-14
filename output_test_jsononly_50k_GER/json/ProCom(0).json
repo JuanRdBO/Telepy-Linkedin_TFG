@@ -1,0 +1,122 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 212,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1978,
+                "id": 8235,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Toronto",
+                                "postalCode": "M4S 2C6",
+                                "street1": "2200 Yonge St."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "416-483-0766"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Montreal",
+                                "postalCode": "H3G 1J1",
+                                "street1": "1350, Rue Sherbrooke Ouest"
+                            },
+                            "contactInfo": {
+                                "fax": "(514) 731-7244",
+                                "phone1": "(514) 731-7224"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Kanata",
+                                "postalCode": "K2K 2E2",
+                                "street1": "300 March Road"
+                            },
+                            "contactInfo": {
+                                "fax": "(613) 270-9449",
+                                "phone1": "(613) 270-9339"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Kitchener-Waterloo",
+                                "postalCode": "N2G 4W1",
+                                "street1": "55 King Street West"
+                            },
+                            "contactInfo": {
+                                "fax": "(519) 885-5308",
+                                "phone1": "(519) 885-4331"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Calgary",
+                                "postalCode": "T2P 0A7",
+                                "street1": "607 8th Avenue S.W."
+                            },
+                            "contactInfo": {
+                                "fax": "(403) 571-7195",
+                                "phone1": "(403) 571-7241"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Procom",
+                "numFollowers": 12635,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Contract Staffing",
+                        "Permanent Placement",
+                        "Hybrid Statement of Work",
+                        "Contractor Payrolling",
+                        "Contractor Management Technology",
+                        "Direct Sourcing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "http://twitter.com/ProcomJobs",
+                "websiteUrl": "http://www.procom.ca"
+            }
+        ]
+    }
+}

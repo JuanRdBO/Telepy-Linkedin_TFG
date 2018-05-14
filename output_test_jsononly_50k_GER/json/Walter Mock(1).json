@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12700062,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Koblenz",
+                                "postalCode": "56068",
+                                "street1": "78 L\u00f6hrstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2619637560"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kaufmann Walter Mock, Steuerberater",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.mock-steuerberater.de"
+            }
+        ]
+    }
+}

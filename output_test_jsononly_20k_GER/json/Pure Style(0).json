@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 858,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 11616252,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "19",
+                            "name": "Industria textil y moda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lichfield",
+                                "postalCode": "WS1 3 7SE",
+                                "street1": "Field House, Watery Lane,"
+                            },
+                            "contactInfo": {
+                                "phone1": "+44 1543493628"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Purestyle",
+                "numFollowers": 1,
+                "websiteUrl": "http://purestyleinteriors.co.uk"
+            }
+        ]
+    }
+}

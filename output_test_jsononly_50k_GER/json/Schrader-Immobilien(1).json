@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12380368,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnster",
+                                "postalCode": "48151",
+                                "street1": "56 Habichtsh\u00f6he"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 251790274"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Monika Schrader Immobilien",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.die-nette-maklerin.de"
+            }
+        ]
+    }
+}

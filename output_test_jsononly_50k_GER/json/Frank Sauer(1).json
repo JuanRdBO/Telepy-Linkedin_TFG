@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12733121,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Witten",
+                                "postalCode": "58455",
+                                "street1": "41 Papenholz"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2302392438"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Timmasiru Frank Sauer",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.timmasiru.de"
+            }
+        ]
+    }
+}

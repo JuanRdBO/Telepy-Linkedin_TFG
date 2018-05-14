@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12409422,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rellingen",
+                                "postalCode": "25462",
+                                "street1": "103 Hempbergstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 410136188"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Baumschulen Franz-J\u00fcrgen Oetting, Pflanzen",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.baumschule-oetting.de"
+            }
+        ]
+    }
+}

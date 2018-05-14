@@ -1,0 +1,57 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1990,
+                "id": 11300552,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "25",
+                            "name": "Art\u00edculos de consumo"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bourg-la-Reine",
+                                "postalCode": "92340",
+                                "street1": "63 avenue du G\u00e9n\u00e9ral Leclerc"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "A.W Faber-Castell France",
+                "numFollowers": 115,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Fabrication et distribution d\u2019instruments de dessin et d\u2019\u00e9criture"
+                    ]
+                },
+                "websiteUrl": "https://www.faber-castell.fr"
+            }
+        ]
+    }
+}

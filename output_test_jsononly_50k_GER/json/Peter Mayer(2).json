@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 19,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12516219,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad Hindelang",
+                                "postalCode": "87541",
+                                "street1": "27 Marktstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 83242132"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Peter Mayer GmbH",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.mayer-hindelang.de"
+            }
+        ]
+    }
+}

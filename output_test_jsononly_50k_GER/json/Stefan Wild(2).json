@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2011,
+                "id": 11207740,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "126",
+                            "name": "Producci\u00f3n multimedia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Blairgowrie",
+                                "postalCode": "PH10 6NS",
+                                "street1": "Leerie's Den"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Morrocco Media",
+                "numFollowers": 11,
+                "specialties": {
+                    "_total": 15,
+                    "values": [
+                        "Film ",
+                        "video production",
+                        "cinematography",
+                        "creative direction",
+                        "editing",
+                        "colour grading",
+                        "sound design",
+                        "aerial filming",
+                        "remote filming",
+                        "adventure films",
+                        "adventure sports",
+                        "Marketing",
+                        "producers",
+                        "performance analysis",
+                        "corporate video"
+                    ]
+                },
+                "websiteUrl": "www.morroccomedia.com"
+            }
+        ]
+    }
+}

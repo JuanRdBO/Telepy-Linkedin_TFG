@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7335403,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dortmund",
+                                "postalCode": "44139",
+                                "street1": "10 Rheinlanddamm"
+                            },
+                            "contactInfo": {
+                                "phone1": "02314882840"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Christoph Weber",
+                "numFollowers": 0,
+                "websiteUrl": "praxis-rheinlanddamm.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 59,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1912,
+                "id": 1850393,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "148",
+                            "name": "Relaciones gubernamentales"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Basel",
+                                "postalCode": "4002",
+                                "street1": "Aeschenplatz 7"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+41 (61) 295 93 93"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "SwissBanking - Schweizerische Bankiervereinigung",
+                "numFollowers": 4122,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Financial Regulation",
+                        "Tax",
+                        "Education",
+                        "Communication and Lobbying"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "SwissBankingSBA",
+                "websiteUrl": "http://www.swissbanking.org"
+            }
+        ]
+    }
+}

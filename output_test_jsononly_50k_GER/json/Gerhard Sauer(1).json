@@ -1,0 +1,110 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1979,
+                "id": 1701418,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "51",
+                            "name": "Ingenier\u00eda civil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "KT6 6QH",
+                                "street1": "11 Langley Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "0044 (0) 20 8399 7446",
+                                "phone1": "0044 (0) 20 8339 7090"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Salzburg",
+                                "postalCode": "A-5020",
+                                "street1": "Sterneckstrasse 35"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+43 (662) 879 999"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Herndon",
+                                "postalCode": "20170-5240",
+                                "street1": "560 Herdon Parkway Suite 310"
+                            },
+                            "contactInfo": {
+                                "fax": "+1 (703) 707-0703",
+                                "phone1": "+1 (703) 707-0700"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Vancouver",
+                                "postalCode": "BC V6C 3L6",
+                                "street1": "1200 Waterfront Centre"
+                            },
+                            "contactInfo": {
+                                "fax": "+1 (703) 707-0703",
+                                "phone1": "+1 (703) 707-0700"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Dr. Sauer & Partners",
+                "numFollowers": 1506,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Tunnel Design",
+                        "Geotechnical Engineering",
+                        "Waterproofing & Water Control",
+                        "Site Supervision & CM, QA/QC",
+                        "Instrumentation & Monitoring",
+                        "Construction Management",
+                        "Tunnel Rehabilitation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.dr-sauer.com"
+            }
+        ]
+    }
+}

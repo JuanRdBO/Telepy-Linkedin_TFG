@@ -1,0 +1,47 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "foundedYear": 2017,
+                "id": 18369987,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "101",
+                            "name": "Recaudaci\u00f3n de fondos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Memphis",
+                                "postalCode": "38115",
+                                "street1": "2893 South Mendenhall Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Walkin'\u200b In Memphis for Down Syndrome",
+                "numFollowers": 3,
+                "websiteUrl": "http://dsamemphis.ezeventsolutions.com/walkin"
+            }
+        ]
+    }
+}

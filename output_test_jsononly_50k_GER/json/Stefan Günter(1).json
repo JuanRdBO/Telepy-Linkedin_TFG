@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12709174,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oberteuringen",
+                                "postalCode": "88094",
+                                "street1": "28 Rohmbachstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7546918228"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "G\u00fcnter & Stefan Sch\u00fctze GbR",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.hausmeisterservice-schuetze.de"
+            }
+        ]
+    }
+}

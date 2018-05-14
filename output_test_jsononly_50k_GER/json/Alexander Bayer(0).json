@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1999,
+                "id": 230813,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Toronto",
+                                "postalCode": "m5b 2r3",
+                                "street1": "210 Victoria St."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Emeryville",
+                                "postalCode": "94608",
+                                "street1": "5684 Bay St. 665"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Hardboot Inc. | Project Management & Software Development",
+                "numFollowers": 413,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "mobile applications",
+                        "enterprise-level web applications and microsites",
+                        "digital/social marketing and advertising campaigns",
+                        "content management solutions (CMS)",
+                        "database configuration & installation",
+                        "reporting systems",
+                        "management information systems (MIS)"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "http://twitter.com/hardbootinc",
+                "websiteUrl": "www.hardbootinc.com"
+            }
+        ]
+    }
+}

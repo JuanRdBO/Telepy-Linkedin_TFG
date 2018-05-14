@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2009,
+                "id": 661304,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Skopje",
+                                "postalCode": "1000",
+                                "street1": "ul. 11-ti Oktomvri 38/24"
+                            },
+                            "contactInfo": {
+                                "phone1": "38922772568"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "LDM Ideas",
+                "numFollowers": 32,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "marketing",
+                        "advertising",
+                        "software development",
+                        "IT support",
+                        "consulting"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "www.ldm.mk"
+            }
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2017,
+                "id": 18281193,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "86",
+                            "name": "Servicios medioambientales"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Clovis",
+                                "postalCode": "93611",
+                                "street1": "111 Genesis Ct"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Eden Landscaping",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Landscape Renovation",
+                        "Colour Plantings",
+                        "Irrigation Troubleshooting",
+                        "Xeriscape Transformation ",
+                        "Rose Pruning",
+                        "Ornamental & Fruit Tree pruning",
+                        "Year-Round Maintenance",
+                        "Turf & Lawn Care"
+                    ]
+                },
+                "websiteUrl": "https://www.linkedin.com/company/eden-faux-landscaping"
+            }
+        ]
+    }
+}

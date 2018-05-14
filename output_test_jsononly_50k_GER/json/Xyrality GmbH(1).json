@@ -1,0 +1,95 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2016,
+                "id": 10816396,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "123",
+                            "name": "Subcontrataciones/Offshoring"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "DE-70499",
+                                "street1": "Motorstrasse 4"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 711 219 559 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Kyiv",
+                                "postalCode": "04071",
+                                "street1": "Khoryva St, 55B"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Evolvice Team GmbH",
+                "numFollowers": 147,
+                "specialties": {
+                    "_total": 18,
+                    "values": [
+                        "IT Outsourcing",
+                        "Offshoring",
+                        "Relocation",
+                        "Dedicated teams",
+                        "Virtual team model",
+                        "IT Recruitment",
+                        "Retention",
+                        "Technical evaluation",
+                        "Nearshoring",
+                        "Agile",
+                        "Adaptation",
+                        "Motivation",
+                        "Talent acquisition",
+                        "Staffing",
+                        "HR coordination",
+                        "Executive search",
+                        "Headhunting",
+                        "Performance appraisal"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.evolvice-team.de"
+            }
+        ]
+    }
+}

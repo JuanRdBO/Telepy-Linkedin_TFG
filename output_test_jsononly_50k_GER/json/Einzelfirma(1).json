@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 80,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1957,
+                "id": 9191236,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bolzano",
+                                "postalCode": "39100",
+                                "street1": "Via Della Mostra 8"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Villorba",
+                                "postalCode": "31032",
+                                "street1": "Via Roma 261"
+                            },
+                            "contactInfo": {
+                                "fax": "+39 0422 444098",
+                                "phone1": "+39  0422 444590"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Bettiol Srl",
+                "numFollowers": 515,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "General contractor",
+                        "Edilizia",
+                        "Impianti tecnologici"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.bettiolsrl.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2010,
+                "id": 1697845,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Green Valley",
+                                "postalCode": "85622",
+                                "street1": "2259 W Calle Guatamote"
+                            },
+                            "contactInfo": {
+                                "phone1": "415-944-1908"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "San Juan Del Sur",
+                                "street1": "Calle"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Itacare",
+                                "street1": "Rua Pituba"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "U R FREE2B U -  Legendary MultiSport Travel Adventures",
+                "numFollowers": 32,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Extreme Adventure Travel",
+                        "Mountain Biking",
+                        "Surfing",
+                        "Combat Training",
+                        "The Art of Body Language",
+                        "Extreme Fitness and Workout Programs",
+                        "Behavioral Psychology",
+                        "Spanish And Portuguese"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "iamfree2b",
+                "websiteUrl": "http://URFREE2BU.com"
+            }
+        ]
+    }
+}

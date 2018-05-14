@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12500014,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Schwaig",
+                                "postalCode": "90571",
+                                "street1": "19 N\u00fcrnberger Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 911505600"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Zahnarztpraxis Dr. Frank Krause",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.zahnarztpraxis-krause.com"
+            }
+        ]
+    }
+}

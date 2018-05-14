@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7454276,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "146",
+                            "name": "Embalaje y contenedores\n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Albstadt",
+                                "postalCode": "72461",
+                                "street1": "33 Ob Dem Kieserstal"
+                            },
+                            "contactInfo": {
+                                "phone1": "0743297790"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Alfred Schmidt OHG - Verpackungen",
+                "numFollowers": 1,
+                "websiteUrl": "schmidt-verpackungen.de"
+            }
+        ]
+    }
+}

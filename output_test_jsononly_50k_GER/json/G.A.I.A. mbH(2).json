@@ -1,0 +1,87 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1987,
+                "id": 961965,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "97",
+                            "name": "Investigaci\u00f3n de mercado"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Heidelberg",
+                                "postalCode": "69115",
+                                "street1": "Goldschmidtstrasse 4-6"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 6221 8328 10",
+                                "phone1": "+49 6221 8328 10"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10117",
+                                "street1": "Schumannstra\u00dfe 18"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 30 24000 901"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "GIM Gesellschaft f\u00fcr innovative Marktforschung mbH",
+                "numFollowers": 581,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Market Research",
+                        "Consumer Insights",
+                        "B2B / B2C / B2E",
+                        "Trendforschung",
+                        "Automotive",
+                        "Health",
+                        "Finance",
+                        "Food",
+                        "Media",
+                        "Home & Technology"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.g-i-m.com"
+            }
+        ]
+    }
+}

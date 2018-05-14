@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 36,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1986,
+                "id": 32558,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Karachi",
+                                "postalCode": "75530",
+                                "street1": "Beaumont Plaza"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(+92-21) 5693521-30"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sidat Hyder Morshed Associates",
+                "numFollowers": 9003,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Financial Solutions",
+                        "Business Systems Consulting",
+                        "Human Resource Consultancy",
+                        "Actuarial & Insurance Consulting",
+                        "Information Solutions & Services",
+                        "Outsourcing",
+                        "Offcourse Development",
+                        "Customized Software Development",
+                        "ERP ",
+                        "POS",
+                        "Digital Consulting "
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.sidathyder.org/company.html"
+            }
+        ]
+    }
+}

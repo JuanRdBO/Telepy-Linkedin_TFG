@@ -1,0 +1,55 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2017,
+                "id": 18496287,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hennigsdorf",
+                                "postalCode": "16761",
+                                "street1": "Neuendorfstra\u00dfe 19"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Tresky Automation",
+                "numFollowers": 0,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Sondermaschinenbau"
+                    ]
+                },
+                "websiteUrl": "https://www.tresky.de"
+            }
+        ]
+    }
+}

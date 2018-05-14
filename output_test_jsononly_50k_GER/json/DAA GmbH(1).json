@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2015,
+                "id": 18562421,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "5",
+                            "name": "Interconexi\u00f3n en red"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Erlangen",
+                                "postalCode": "91058",
+                                "street1": "Am Weichselgarten 7"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Giax GmbH",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Fiber deep",
+                        "Remote Phy",
+                        "EoC",
+                        "Fiber over Coax",
+                        "DAA",
+                        "Virtual Node split",
+                        "Ethernet over Coax",
+                        "DOCSIS",
+                        "Mobile backhaul",
+                        "FTTB",
+                        "FTTH",
+                        "Ethernet Overlay"
+                    ]
+                },
+                "websiteUrl": "http://www.giax.de"
+            }
+        ]
+    }
+}

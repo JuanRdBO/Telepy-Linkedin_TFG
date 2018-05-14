@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12337850,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "125",
+                            "name": "Medicina alternativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Erlangen",
+                                "postalCode": "91056",
+                                "street1": "8 St. Johann"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 913142650"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Naturheilpraxis Bernd Fritscher",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.naturheilpraxis-fritscher.de"
+            }
+        ]
+    }
+}

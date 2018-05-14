@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 616,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12304632,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "36",
+                            "name": "Medios de difusi\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Fulda",
+                                "postalCode": "36037",
+                                "street1": "130 Leipziger Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6613808430"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "M\u00f6ser",
+                "numFollowers": 5,
+                "websiteUrl": "http://www.moeser-dentaltechnik.de"
+            }
+        ]
+    }
+}

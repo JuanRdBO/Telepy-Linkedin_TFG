@@ -1,0 +1,39 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 15366437,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "BROOKFIELD",
+                                "postalCode": "53005",
+                                "street1": "4040 N 126TH STREET"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 2623731822"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "WM A ZACHOW AND SONS INC",
+                "numFollowers": 1,
+                "websiteUrl": "http://zachowplumbing.com"
+            }
+        ]
+    }
+}

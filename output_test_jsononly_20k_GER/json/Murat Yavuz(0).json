@@ -1,0 +1,83 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1943,
+                "id": 3587656,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Balikesir",
+                                "postalCode": "10100",
+                                "street1": "Yalk\u0131r Cad. No:8"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+90 266 245 5500"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Balikesir",
+                                "postalCode": "10100",
+                                "street1": "Bursa Yolu 1.km"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+90 266 246 4400"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Balikesir",
+                                "postalCode": "10100",
+                                "street1": "Bursa Yolu 3.km"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+90 266 246 3282"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Karahall\u0131lar A.\u015e.",
+                "numFollowers": 177,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.karahallilar.com.tr"
+            }
+        ]
+    }
+}

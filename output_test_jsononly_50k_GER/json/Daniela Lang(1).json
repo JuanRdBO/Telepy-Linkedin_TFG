@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7522221,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60594",
+                                "street1": "9 Walter-Kolb-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "069625162"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Daniela Martis-Lang",
+                "numFollowers": 0,
+                "websiteUrl": "xn--brckenrzte-v5a7z.de"
+            }
+        ]
+    }
+}

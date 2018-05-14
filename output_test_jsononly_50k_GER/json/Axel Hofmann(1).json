@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12365127,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wunstorf",
+                                "postalCode": "31515",
+                                "street1": "Am Stadtgraben 28A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 503113186"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Axel Hofmann",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.xn--orthopdie-hofmann-vqb.de"
+            }
+        ]
+    }
+}

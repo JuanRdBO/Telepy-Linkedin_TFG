@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2012,
+                "id": 3066878,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "35",
+                            "name": "Pel\u00edculas y cine"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lyon",
+                                "postalCode": "69007",
+                                "street1": "22 rue Salomon Reinach"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+33.(0)6.12.81.37.38"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "StudioFly",
+                "numFollowers": 95,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Vid\u00e9o et Photo A\u00e9rienne",
+                        "Thermographie A\u00e9rienne",
+                        "Inspection d'ouvrages",
+                        "Mod\u00e9lisation 3D",
+                        "Orthophotographie"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.studiofly.fr"
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 4008994,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "89",
+                            "name": "Instituciones religiosas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "San Antonio",
+                                "postalCode": "78238-1925",
+                                "street1": "5258 Evers Rd"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 2106842043"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Evers Road Christian Church",
+                "numFollowers": 1,
+                "websiteUrl": "www.eversroadchristianchurch.org"
+            }
+        ]
+    }
+}

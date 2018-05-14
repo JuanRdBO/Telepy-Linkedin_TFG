@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7518112,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankenthal (Pfalz)",
+                                "postalCode": "67227",
+                                "street1": "14 Schnurgasse"
+                            },
+                            "contactInfo": {
+                                "phone1": "062338796760"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Mh L Architekturb\u00fcro Martin Herrmann",
+                "numFollowers": 1,
+                "websiteUrl": "martin-herrmann.net"
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 11,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1999,
+                "id": 521664,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "8",
+                            "name": "Telecomunicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Valencina de la Concepci\u00f3n",
+                                "postalCode": "",
+                                "street1": "Avda Andaluc\u00eda SN Valencina de la Concepci\u00f3n (Sevilla)"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Madrid",
+                                "postalCode": "28020",
+                                "street1": "Pedro Teixeira N\u00ba8, 4\u00aa Planta"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Og\u00edjares",
+                                "postalCode": "18151",
+                                "street1": "Pol\u00edgono tecnol\u00f3gico los Og\u00edjares nave 102"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "axi\u00f3n",
+                "numFollowers": 1477,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "broadcast terrenal (TDT, FM, OM, Wimax...)",
+                        "Mantenimiento de Equipos e Infraestructuras de Telecomunicaciones",
+                        "Ingenier\u00eda de Redes e Infrestructuras de Telecomunicaciones",
+                        "Operaci\u00f3n y Telecontrol de Redes de Telecomunicaciones"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.axion.es"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7352430,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Xanten",
+                                "postalCode": "46509",
+                                "street1": "Niederstra\u00dfe 40A"
+                            },
+                            "contactInfo": {
+                                "phone1": "028019826995"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Angelsport Wolfgang Elsner",
+                "numFollowers": 1,
+                "websiteUrl": "angelsport-elsner.de"
+            }
+        ]
+    }
+}

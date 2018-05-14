@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 9035565,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "52",
+                            "name": "Industria aeroespacial y aviaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Essen",
+                                "postalCode": "45279",
+                                "street1": "Dahlhauser Strasse 106"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 20154978"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "J\u00fcrgen Kramer KG",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.wirweisenwege.de"
+            }
+        ]
+    }
+}

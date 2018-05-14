@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2017,
+                "id": 18105053,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Uetersen",
+                                "postalCode": "25436",
+                                "street1": "Marktstra\u00dfe 7"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "rb omnichannel GmbH",
+                "numFollowers": 7,
+                "specialties": {
+                    "_total": 18,
+                    "values": [
+                        "Beratung",
+                        "Consulting",
+                        "Projektmanagement",
+                        "Marketing",
+                        "Medien",
+                        "Digitalisierung",
+                        "Medienproduktionssysteme",
+                        "Workflow Management",
+                        "eCommerce",
+                        "Omni Channel Marketing",
+                        "Web to Print",
+                        "Packaging",
+                        "Artwork Management",
+                        "Scrum",
+                        "PRINCE2",
+                        "Requirements Engineering",
+                        "PIM",
+                        "DAM"
+                    ]
+                },
+                "websiteUrl": "https://www.rb-omnichannel.com/"
+            }
+        ]
+    }
+}

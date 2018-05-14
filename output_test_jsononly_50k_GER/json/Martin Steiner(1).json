@@ -1,0 +1,107 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1970,
+                "id": 3767327,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "31",
+                            "name": "Hosteler\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ingleburn",
+                                "postalCode": "2565",
+                                "street1": "Hesad Office - Ingleburn"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0424 685 682"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Canning vale DC",
+                                "postalCode": "",
+                                "street1": "PO Box 1415"
+                            },
+                            "contactInfo": {
+                                "fax": "08 9397 2632",
+                                "phone1": "0411 598 987"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Albion",
+                                "postalCode": "4010",
+                                "street1": "Albion"
+                            },
+                            "contactInfo": {
+                                "fax": "07 3262 9244",
+                                "phone1": "07 3262 6977"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Ingleburn",
+                                "postalCode": "2565",
+                                "street1": "Head Office - Ingleburn"
+                            },
+                            "contactInfo": {
+                                "fax": "02 9829 3896",
+                                "phone1": "0414 185 794"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Australian Linen Supply / Bev Martin Textiles",
+                "numFollowers": 322,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Importer of Commercial grade hospitality linen",
+                        "Distributor of Commercial grade hospitality Linen",
+                        "sourcing offshore of customer special requirements",
+                        "customer service"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.als.net.au"
+            }
+        ]
+    }
+}

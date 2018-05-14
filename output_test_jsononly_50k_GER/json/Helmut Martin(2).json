@@ -1,0 +1,81 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 11,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2002,
+                "id": 1441829,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "110",
+                            "name": "Servicios de eventos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "75011",
+                                "street1": "2, rue de la Roquette"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+33173739200"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "New-York",
+                                "postalCode": "NY 10001",
+                                "street1": "226 Fifth Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+1 212 213 13 00"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "EYESIGHT Fashion & Luxury",
+                "numFollowers": 1417,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Fashion shows",
+                        "Store openings",
+                        "Product launches",
+                        "Parties & Galas"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.eyesightgroup.com"
+            }
+        ]
+    }
+}

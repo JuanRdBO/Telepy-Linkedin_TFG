@@ -1,0 +1,89 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 19,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1846,
+                "id": 938659,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "112",
+                            "name": "Manufactura el\u00e9ctrica y electr\u00f3nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oberkochen",
+                                "postalCode": "73447",
+                                "street1": "Carl-Zeiss-Str. 22"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49736420-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Jena",
+                                "postalCode": "07745",
+                                "street1": "Carl-Zeiss-Promenade 10"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 36 41 64-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ZEISS Group",
+                "numFollowers": 53841,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Optics",
+                        "Optoelectronics and Precision Mechanics",
+                        "Binoculars",
+                        "Microscopy",
+                        "Eyeglass Lenses",
+                        "Biomedical Research",
+                        "Medical Technology",
+                        "Semiconductor Manufacturing Technology",
+                        "Nano Technology",
+                        "Industrial Metrology",
+                        "Camera and Cine Lenses",
+                        "Industry 4.0"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.zeiss.com"
+            }
+        ]
+    }
+}

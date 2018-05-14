@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 58,
+        "values": [
+            {
+                "companyType": {
+                    "code": "G",
+                    "name": "Government Agency"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 2011,
+                "id": 13289241,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "137",
+                            "name": "Recursos humanos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "H\u1ed3 Ch\u00ed Minh",
+                                "postalCode": "700000",
+                                "street1": "S54 \u2013 S55 \u0111\u01b0\u1eddng Phan X\u00edch Long, Ph\u01b0\u1eddng 3, Qu\u1eadn B\u00ecnh Th\u1ea1nh, Tp. HCM"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Vi\u1ec7c L\u00e0m Nh\u00e0 H\u00e0ng Kh\u00e1ch S\u1ea1n",
+                "numFollowers": 570,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "hospitality",
+                        "hotels & restaurants",
+                        "human resources"
+                    ]
+                },
+                "websiteUrl": "http://chefjob.vn/"
+            }
+        ]
+    }
+}

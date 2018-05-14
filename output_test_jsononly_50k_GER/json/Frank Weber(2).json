@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 15,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12459372,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Coburg",
+                                "postalCode": "96450",
+                                "street1": "17 L\u00fctzelbucher Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 956118735"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "B\u00e4ckerei-Konditorei Frank Weber",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.baeckerei-weber-coburg.de"
+            }
+        ]
+    }
+}

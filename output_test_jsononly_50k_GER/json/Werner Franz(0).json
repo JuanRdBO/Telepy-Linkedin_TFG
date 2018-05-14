@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12681245,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Duisburg",
+                                "postalCode": "47228",
+                                "street1": "60 G\u00fcterstra\u00dfe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Werner Franz Heckt",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.werner-heckt.de"
+            }
+        ]
+    }
+}

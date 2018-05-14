@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12251205,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Birkenfeld",
+                                "postalCode": "75217",
+                                "street1": "1 Adam-Opel-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7231949994"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Baral Fliesen - Und Natursteine",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.fliesen-baral.com"
+            }
+        ]
+    }
+}

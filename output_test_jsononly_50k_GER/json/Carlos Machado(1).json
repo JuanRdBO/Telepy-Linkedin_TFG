@@ -1,0 +1,47 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 29,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 24567953,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "92",
+                            "name": "Transporte por carretera o ferrocarril"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Porto Alegre",
+                                "postalCode": "91787-774",
+                                "street1": "Rua Herm\u00ednio Bittencourt 66"
+                            },
+                            "contactInfo": {
+                                "phone1": "+55 5130616413"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Carlos Machado Coelho Transportes Turisticos",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

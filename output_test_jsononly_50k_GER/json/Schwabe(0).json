@@ -1,0 +1,131 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 128,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "id": 28058,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 7,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Portland",
+                                "postalCode": "97204",
+                                "street1": "1211 SW 5th Ave., Suite 1900"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Seattle",
+                                "postalCode": "98101",
+                                "street1": "Suite 3400"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Vancouver",
+                                "postalCode": "98660",
+                                "street1": "700 Washington St., Suite 701"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bend",
+                                "postalCode": "97702",
+                                "street1": "360 SW Bond St., Suite 400"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Salem",
+                                "postalCode": "97301",
+                                "street1": "530 Center St. NE, Suite 400"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Mountain View",
+                                "postalCode": "94043",
+                                "street1": "455 North Whisman Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Anchorage",
+                                "postalCode": "99501",
+                                "street1": "310 K St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Schwabe, Williamson & Wyatt",
+                "numFollowers": 2161,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Business and Corporate Law",
+                        "Privacy & Data Security",
+                        "Employment, Labor and Benefits",
+                        "Real Estate Law",
+                        "Environmental, Regulation & Litigation",
+                        "Estate Planning Law",
+                        "Financial Institutions",
+                        "Tax Law",
+                        "Indian Law",
+                        "Intellectual Property",
+                        "Litigation and Dispute Resolution"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "SchwabeLaw",
+                "websiteUrl": "http://www.schwabe.com"
+            }
+        ]
+    }
+}

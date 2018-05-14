@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7479413,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dresden",
+                                "postalCode": "01307",
+                                "street1": "31 K\u00e4the-Kollwitz-Ufer"
+                            },
+                            "contactInfo": {
+                                "phone1": "03514596753"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Firma HMS & Trockenbau Karl Rene Prasse",
+                "numFollowers": 0,
+                "websiteUrl": "hausmeisterservice-reneprasse.surfino.info"
+            }
+        ]
+    }
+}

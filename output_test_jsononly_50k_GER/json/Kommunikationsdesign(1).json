@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 358,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12735727,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "12209",
+                                "street1": "35 Salzunger Pfad"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kommunikationsdesign Arwed Mechsner",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.kommunikationsdesign-berlin.de"
+            }
+        ]
+    }
+}

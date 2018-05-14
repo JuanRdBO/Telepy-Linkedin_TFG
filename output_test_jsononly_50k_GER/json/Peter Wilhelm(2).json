@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 16,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7334052,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bergisch Gladbach",
+                                "postalCode": "51429",
+                                "street1": "Von-Zweiffel-Stra\u00dfe 22A"
+                            },
+                            "contactInfo": {
+                                "phone1": "02204981114"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Peter Wilhelm Mintgens",
+                "numFollowers": 0,
+                "websiteUrl": "schornsteinfegerexpress.de"
+            }
+        ]
+    }
+}

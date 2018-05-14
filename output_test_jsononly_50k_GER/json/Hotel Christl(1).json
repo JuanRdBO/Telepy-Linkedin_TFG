@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7442556,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "31",
+                            "name": "Hosteler\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rohrdorf",
+                                "postalCode": "83101",
+                                "street1": "10 Anzengruberstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0803295650"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hotel Garni Christl",
+                "numFollowers": 0,
+                "websiteUrl": "hotel-christl.de"
+            }
+        ]
+    }
+}

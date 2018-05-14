@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2007,
+                "id": 981378,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "104",
+                            "name": "Dotaci\u00f3n y selecci\u00f3n de personal"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Karben",
+                                "postalCode": "61184",
+                                "street1": "Dieselstrasse 22"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0) 6039 9381-101",
+                                "phone1": "+49 (0) 6039 9381-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "mediaintown GmbH & Co. KG",
+                "numFollowers": 53,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Stellenanzeigen schalten in allen Online-Stellenb\u00f6rsen und Printmedien.",
+                        "Personalwerbung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.mediaintown.de/"
+            }
+        ]
+    }
+}

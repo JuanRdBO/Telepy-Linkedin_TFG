@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7377170,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ludwigsburg",
+                                "postalCode": "71640",
+                                "street1": "22 Br\u00fchlstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "071418510864"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Freies Kfz.-Gutachter Martin Reinhardt",
+                "numFollowers": 0,
+                "websiteUrl": "bei-unfall.de"
+            }
+        ]
+    }
+}

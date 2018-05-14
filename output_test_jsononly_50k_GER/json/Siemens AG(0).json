@@ -1,0 +1,561 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 176,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1847,
+                "id": 1043,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "112",
+                            "name": "Manufactura el\u00e9ctrica y electr\u00f3nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 50,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Munich",
+                                "postalCode": "",
+                                "street1": "Werner-von-Siemens-Stra\u00dfe 1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "postalCode": "",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "SEODAEMUNGU",
+                                "street1": "23"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Brande",
+                                "postalCode": "7330",
+                                "street1": "Borupvej 16"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Boulder",
+                                "postalCode": "80302",
+                                "street1": "1050 Walnut St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Iselin",
+                                "postalCode": "08830",
+                                "street1": "170 Wood Ave S"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Antony",
+                                "postalCode": "92160",
+                                "street1": "12 Avenue Leon Harmel"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Sacramento",
+                                "postalCode": "95828",
+                                "street1": "7464 French Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Grand Prairie",
+                                "postalCode": "75050",
+                                "street1": "501 Fountain Pkwy"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Montreal",
+                                "postalCode": "H4R 2N9",
+                                "street1": "5005 Rue Levy"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Florham Park",
+                                "postalCode": "07932",
+                                "street1": "8 Fernwood Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Mountain View",
+                                "postalCode": "94043",
+                                "street1": "685 E Middlefield Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Doha",
+                                "street1": "Al Rayyan Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Worthington",
+                                "postalCode": "43085",
+                                "street1": "530 Lakeview Plaza Blvd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Nottingham",
+                                "postalCode": "NG8 1GB",
+                                "street1": "Woodyard Lane"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Oakville",
+                                "postalCode": "L6H 0H6",
+                                "street1": "1577 N Service Rd E"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Mechanicsburg",
+                                "postalCode": "17055",
+                                "street1": "5095 Ritter Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Toulouse",
+                                "postalCode": "31100",
+                                "street1": "57 Avenue du General de Croutte"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Beersel",
+                                "postalCode": "1654",
+                                "street1": "Guido Gezellestraat"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Foster City",
+                                "postalCode": "94404",
+                                "street1": "4000 E 3rd Ave"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Mannheim",
+                                "postalCode": "68165",
+                                "street1": "Dynamostrasse 4"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bergen",
+                                "postalCode": "5068",
+                                "street1": "Kanalveien 7"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Warsaw",
+                                "postalCode": "03-821",
+                                "street1": "ulica Zupnicza 11"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Trento",
+                                "postalCode": "38121",
+                                "street1": "Via Linz"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Wallisellen",
+                                "postalCode": "8304",
+                                "street1": "Hammerweg 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Prague",
+                                "postalCode": "155 00",
+                                "street1": "Siemensova 2715/1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "St Rose",
+                                "postalCode": "70087",
+                                "street1": "150 Teal St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Makati",
+                                "street1": "Salcedo 169"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Malvern",
+                                "postalCode": "19355",
+                                "street1": "40 Liberty Blvd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Espoo",
+                                "postalCode": "02600",
+                                "street1": "Tarvonsalmenkatu 19"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Reston",
+                                "postalCode": "20191",
+                                "street1": "1881 Campus Commons Dr"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Zug",
+                                "postalCode": "6300",
+                                "street1": "Gubelstrasse 22"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Indianapolis",
+                                "postalCode": "46241",
+                                "street1": "Colonel H Weir Cook Memorial Dr"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Edmonton",
+                                "postalCode": "T6B 2N7",
+                                "street1": "6652 50 St NW"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Rural Hall",
+                                "postalCode": "27045",
+                                "street1": "3050 Westinghouse Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Roebuck",
+                                "postalCode": "29376",
+                                "street1": "1320 Old Georgia Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Flanders",
+                                "postalCode": "07836",
+                                "street1": "62 Flanders Bartley Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Blue Bell",
+                                "postalCode": "19422",
+                                "street1": "1450 Union Meeting Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Irving",
+                                "postalCode": "75063",
+                                "street1": "8600 N Royal Ln"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Atlanta",
+                                "postalCode": "30354",
+                                "street1": "800 Tradeport Blvd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Trondheim",
+                                "postalCode": "7031",
+                                "street1": "Bratsbergvegen 5"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Melbourne",
+                                "postalCode": "3153",
+                                "street1": "885 Mountain Hwy"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Midrand",
+                                "postalCode": "1686",
+                                "street1": "Janadel Ave"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Singapore",
+                                "postalCode": "348615",
+                                "street1": "60 MacPherson Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Peachtree Corners",
+                                "postalCode": "30092",
+                                "street1": "5300 Triangle Pkwy NW"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Aix-en-Provence",
+                                "postalCode": "13290",
+                                "street1": "360 Rue Louis de Broglie"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Illkirch-Graffenstaden",
+                                "postalCode": "67400",
+                                "street1": "30 Rue de l'Industrie"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Morrisville",
+                                "postalCode": "27560",
+                                "street1": "215 Southport Dr"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Ostrava",
+                                "postalCode": "702 00",
+                                "street1": "28. rijna 2663/150"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Raleigh",
+                                "postalCode": "27609",
+                                "street1": "4601 Six Forks Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Siemens",
+                "numFollowers": 1900823,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Electrification",
+                        "Automation",
+                        "Digitalization",
+                        "Innovation",
+                        "Solutions",
+                        "Technology",
+                        "Engineering",
+                        "Manufacturing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.siemens.com"
+            }
+        ]
+    }
+}

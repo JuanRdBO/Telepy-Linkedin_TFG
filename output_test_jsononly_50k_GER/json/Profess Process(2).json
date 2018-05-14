@@ -1,0 +1,98 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 20,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2004,
+                "id": 1771411,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "105",
+                            "name": "Formaci\u00f3n profesional"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Louisville",
+                                "postalCode": "40223",
+                                "street1": "9721 Ormsby Station Rd."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(502) 265-3057 x105"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Lexingtion",
+                                "postalCode": "40507",
+                                "street1": "165 Barr Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(859) 309-6001"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Radcliff",
+                                "postalCode": "40160",
+                                "street1": "Regional Eduation Center"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(866) 663-1969"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Tandem Solution",
+                "numFollowers": 69,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Business Improvement Training & Services (BITS)",
+                        "Certifications",
+                        "Networking & Enterprise Architecture",
+                        "End User/Desktop",
+                        "Database Design & Administration",
+                        "Application & Web Development",
+                        "Project Management & Process Improvement",
+                        "IP Telephony & Mobile Applications"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.TandemSolution.com"
+            }
+        ]
+    }
+}

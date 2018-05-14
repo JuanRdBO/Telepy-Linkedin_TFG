@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7442419,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Witten",
+                                "postalCode": "58455",
+                                "street1": "4 Finkenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "02302978517"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Unternehmensberatung Roland Betz",
+                "numFollowers": 0,
+                "websiteUrl": "subventionen.de"
+            }
+        ]
+    }
+}

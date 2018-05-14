@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12779531,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Augsburg",
+                                "postalCode": "86199",
+                                "street1": "149 G\u00f6gginger Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 821998219"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Raumausstattung Michael Krebs",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.krebs-raumausstattung.de"
+            }
+        ]
+    }
+}

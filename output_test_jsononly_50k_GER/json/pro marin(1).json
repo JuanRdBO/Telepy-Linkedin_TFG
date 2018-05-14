@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 22,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 2006,
+                "id": 3722452,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20354",
+                                "street1": "Hohe Bleichen 8 "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Marin Software GmbH",
+                "numFollowers": 435,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "PPC",
+                        "Search Advertising",
+                        "Facebook Advertising",
+                        "Bid Management",
+                        "CPC",
+                        "Paid Search",
+                        "Google Adwords",
+                        "SEA",
+                        "Cross-Channel-Advertising",
+                        "Social Advertising"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.marinsoftware.de"
+            }
+        ]
+    }
+}

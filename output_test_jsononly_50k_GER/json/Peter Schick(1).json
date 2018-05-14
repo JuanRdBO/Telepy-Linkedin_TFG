@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2009,
+                "id": 13672716,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "street1": "76th St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Frankfurt",
+                                "postalCode": "60318",
+                                "street1": "Neuhofstra\u00dfe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "YMC Entertainment",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Film Production",
+                        "Film",
+                        "Cast",
+                        "Consulting",
+                        "Script Consulting",
+                        "Business advis",
+                        "Foreign Sales"
+                    ]
+                },
+                "websiteUrl": "http://www.ymc-entertainment.com/"
+            }
+        ]
+    }
+}

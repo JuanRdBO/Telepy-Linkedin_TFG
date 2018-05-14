@@ -1,0 +1,62 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 390,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 15099252,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "68",
+                            "name": "Ense\u00f1anza superior"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Barcelona",
+                                "postalCode": "08005",
+                                "street1": "Calle Pujades 118"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "BAU, Centro Universitario de Dise\u00f1o",
+                "numFollowers": 2748,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Dise\u00f1o ",
+                        "Dise\u00f1o Gr\u00e1fico ",
+                        "Dise\u00f1o de Interiores ",
+                        "Dise\u00f1o de Moda",
+                        "Dise\u00f1o Audiovisual",
+                        "Investigaci\u00f3n",
+                        "Universidad"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "www.bau.cat"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 562,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12862412,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "21109",
+                                "street1": "31 Rubbertstr."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 40752710"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ger\u00fcstbau Muehlhan GmbH",
+                "numFollowers": 9,
+                "websiteUrl": "http://www.geruestbau-muehlhan.com"
+            }
+        ]
+    }
+}

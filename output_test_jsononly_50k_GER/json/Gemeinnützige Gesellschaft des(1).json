@@ -1,0 +1,117 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 25,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1928,
+                "id": 3248529,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "105",
+                            "name": "Formaci\u00f3n profesional"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 6,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Duisburg",
+                                "postalCode": "47057",
+                                "street1": "Bismarckstra\u00dfe 85"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "13353",
+                                "street1": "Luxemburger Stra\u00dfe 21"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Fellbach",
+                                "postalCode": "70736",
+                                "street1": "Lise-Meitner-Stra\u00dfe 13"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Hannover",
+                                "postalCode": "30453",
+                                "street1": "Am Lindener Hafen 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80636",
+                                "street1": "Schachenmeierstra\u00dfe 37"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Saarbr\u00fccken",
+                                "postalCode": "66117",
+                                "street1": "Heuduckstra\u00dfe 91"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "SLV Duisburg",
+                "numFollowers": 448,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Ausbildung Schwei\u00dftechnik",
+                        "e-Learning",
+                        "Inhouse-Schulungen",
+                        "Qualit\u00e4tssicherung",
+                        "Prozessoptimierung",
+                        "Schwei\u00dfen und L\u00f6ten"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.slv-duisburg.de/"
+            }
+        ]
+    }
+}

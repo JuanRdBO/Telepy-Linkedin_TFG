@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1987,
+                "id": 11182118,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "19",
+                            "name": "Industria textil y moda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "villa adriana",
+                                "postalCode": "00010",
+                                "street1": "strada galli 13"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "caselle di sommacampagna ",
+                                "postalCode": "37066",
+                                "street1": "Via  ceolara 4"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Parlanti Official",
+                "numFollowers": 38,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "equitazione",
+                        "made in italy",
+                        "artigianato",
+                        "calzature",
+                        "pellami",
+                        "lifestyle",
+                        "moda",
+                        "cavalli",
+                        "competizione sportiva",
+                        "calzature su misura",
+                        "pret a porter",
+                        "custom made",
+                        "luxury ",
+                        "accessori"
+                    ]
+                },
+                "websiteUrl": "http://www.parlanti.com/"
+            }
+        ]
+    }
+}

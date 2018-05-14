@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2014,
+                "id": 28634379,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "113",
+                            "name": "Edici\u00f3n en l\u00ednea"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ottaviano",
+                                "postalCode": "80044",
+                                "street1": "via Roma"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sc\u00e8 | Spettacoli Cultura Eventi",
+                "numFollowers": 5,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Media ",
+                        "Informazione",
+                        "Rivista"
+                    ]
+                },
+                "websiteUrl": "http://spettacoliculturaeventi.it"
+            }
+        ]
+    }
+}

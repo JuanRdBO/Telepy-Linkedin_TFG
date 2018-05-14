@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7353182,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ln",
+                                "postalCode": "51107",
+                                "street1": "9 Neunkircher Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "022178940133"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Michael Kautz Umz\u00fcge",
+                "numFollowers": 0,
+                "websiteUrl": "michael-kautz-umzuege.de"
+            }
+        ]
+    }
+}

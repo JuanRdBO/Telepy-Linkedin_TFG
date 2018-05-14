@@ -1,0 +1,87 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2010,
+                "id": 1688575,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "123",
+                            "name": "Subcontrataciones/Offshoring"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Medellin",
+                                "postalCode": "05001",
+                                "street1": "Cra 41 No. 9 - 60 Of. 202"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Appenzell",
+                                "postalCode": "9050",
+                                "street1": "Kreuzhofstrasse 31"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Lima",
+                                "postalCode": "17",
+                                "street1": "Calle Miguel Soto Valle 281 "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Ongresso",
+                "numFollowers": 71,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Market Entry Consulting",
+                        "Operations Outsourcing",
+                        "Market Intelligence",
+                        "Hosting services",
+                        "Business Representations",
+                        "Contacts"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ongresso.com"
+            }
+        ]
+    }
+}

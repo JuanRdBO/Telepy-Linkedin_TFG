@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12327457,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Erfurt",
+                                "postalCode": "99089",
+                                "street1": "57 Auenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3615624207"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Glasatelier J\u00f6rg M\u00f6ller",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.glasrestaurierung-glasgestaltung.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12321893,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Darmstadt",
+                                "postalCode": "64293",
+                                "street1": "14 Frankfurter Str."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Axel M\u00fcller",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.praxisdoktormueller.de"
+            }
+        ]
+    }
+}

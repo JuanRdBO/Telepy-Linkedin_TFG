@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12467922,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Garbsen",
+                                "postalCode": "30826",
+                                "street1": "14 B\u00fcrgermeister-Wehrmann-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 5131451180"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Martin Stark",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.praxis-frielingen.de"
+            }
+        ]
+    }
+}

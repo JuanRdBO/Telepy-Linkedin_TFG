@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7410396,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bremen",
+                                "postalCode": "28217",
+                                "street1": "1 Am Waller Freihafen"
+                            },
+                            "contactInfo": {
+                                "phone1": "04218982180"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dirk Schr\u00f6der Blumengro\u00dfhandel",
+                "numFollowers": 0,
+                "websiteUrl": "ds-blumen.de"
+            }
+        ]
+    }
+}

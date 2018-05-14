@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12567965,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pulheim",
+                                "postalCode": "50259",
+                                "street1": "66 Hackenbroicher Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2238965340"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Marion-D\u00f6nhoff-Realschule Pulheim",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.marion-doenhoff-realschule.de"
+            }
+        ]
+    }
+}

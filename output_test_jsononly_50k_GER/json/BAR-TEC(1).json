@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 74,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1996,
+                "id": 1523969,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Steyr",
+                                "postalCode": "4400",
+                                "street1": "Hans-Wagner-Stra\u00dfe 6"
+                            },
+                            "contactInfo": {
+                                "fax": "++43 (0)7252 72720 77",
+                                "phone1": "++43 (0)7252 72720"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "TEC-IT",
+                "numFollowers": 129,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Barcode",
+                        "Labeling",
+                        "QR-Code",
+                        "Software",
+                        "Android",
+                        "Printing",
+                        "Data Acquisition",
+                        "Cloud Printing",
+                        "Barcodes",
+                        "RFID",
+                        "Bar Codes",
+                        "Barcode Generator",
+                        "TBarCode",
+                        "TFORMer"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "tecit",
+                "websiteUrl": "http://www.tec-it.com"
+            }
+        ]
+    }
+}

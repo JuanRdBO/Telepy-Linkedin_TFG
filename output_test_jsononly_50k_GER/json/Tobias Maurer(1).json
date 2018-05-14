@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1955,
+                "id": 10053779,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "99",
+                            "name": "Dise\u00f1o"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Buenos Aires",
+                                "postalCode": "1414",
+                                "street1": "Armenia 1954"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+5411 45115100"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "CABA",
+                                "postalCode": "1119",
+                                "street1": "Av. Pueyrred\u00f3n 2501"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+5411 57776030"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Iluminaci\u00f3n Ag\u00fcero",
+                "numFollowers": 88,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Iluminaci\u00f3n"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.iluminacionaguero.com.ar/"
+            }
+        ]
+    }
+}

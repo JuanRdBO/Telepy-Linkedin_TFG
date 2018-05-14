@@ -1,0 +1,111 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 209,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1932,
+                "id": 2895627,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ober-Ramstadt",
+                                "postalCode": "64372",
+                                "street1": "Carl-Schneider-Str. 1"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 6154 69 60 500",
+                                "phone1": "+49 6154 69 600"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Greer",
+                                "postalCode": "29651",
+                                "street1": "1629 Poplar Drive ext"
+                            },
+                            "contactInfo": {
+                                "fax": "864 968 1234",
+                                "phone1": "864 334 2258"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Shanghai",
+                                "postalCode": "201400",
+                                "street1": "No. 1658 West Ba Zi Qiao Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Rueil-Malmaison",
+                                "postalCode": "92500",
+                                "street1": "290 J, Avenue Napol\u00e9on Bonaparte"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Nil\u00fcfer-Bursa",
+                                "postalCode": "16140",
+                                "street1": "Minarelicavus Mahallesi"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "baier & michels",
+                "numFollowers": 189,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.baier-michels.com"
+            }
+        ]
+    }
+}

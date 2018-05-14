@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7471746,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "D\u00fcsseldorf",
+                                "postalCode": "40213",
+                                "street1": "1 Carl-Theodor-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0211562820"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Heinz-Bernd Hanten Steuerberater",
+                "numFollowers": 0,
+                "websiteUrl": "wp-hanten.de"
+            }
+        ]
+    }
+}

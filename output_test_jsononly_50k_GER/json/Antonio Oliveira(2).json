@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 85,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 8530717,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Loureiro Oaz",
+                                "postalCode": "3720-069"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Ant\u00f3nio Oliveira Bispo",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.garagembispo.com/"
+            }
+        ]
+    }
+}

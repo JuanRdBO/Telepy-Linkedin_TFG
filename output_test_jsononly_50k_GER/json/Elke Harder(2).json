@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 21,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2014,
+                "id": 5385563,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Vught",
+                                "postalCode": "5261 NE",
+                                "street1": "Boxtelseweg 26"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "073-6848401"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Tsuru Online BV",
+                "numFollowers": 163,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Gezondheid",
+                        "Geluk",
+                        "Motivatie ",
+                        "KPI's",
+                        "rapportage",
+                        "productiviteit",
+                        "verminderen ziekteverzuim",
+                        "ehealth",
+                        "HealthTeach",
+                        "Coaching",
+                        "Software",
+                        "Vitaliteit",
+                        "Duurzame inzetbaarheid",
+                        "Training"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.tsuru.nl"
+            }
+        ]
+    }
+}

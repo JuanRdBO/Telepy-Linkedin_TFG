@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 24980156,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "86",
+                            "name": "Servicios medioambientales"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Neu-Eichenberg",
+                                "postalCode": "37249",
+                                "street1": "Bahnhofstra\u00dfe 12"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "THE PAULY GROUP GmbH & Co. KG",
+                "numFollowers": 8,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "\u00d6kotechnologie",
+                        "Umweltanalytik",
+                        "Beratung der Abfallwirtschaft",
+                        "Herstellung und Vermarktung regionaler Erden auf Kompostbasis",
+                        "Bau und Betrieb \u00f6kotechnischer Anlagen",
+                        "Eco-Engineering",
+                        "Kl\u00e4rschlammvererdung",
+                        "Naturerlebnisb\u00e4der"
+                    ]
+                },
+                "websiteUrl": "http://www.t-p-g.de/jml/de/"
+            }
+        ]
+    }
+}

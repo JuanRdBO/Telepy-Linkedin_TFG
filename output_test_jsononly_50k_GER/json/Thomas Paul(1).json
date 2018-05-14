@@ -1,0 +1,37 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 237,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 15330877,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "BROOKLYN",
+                                "postalCode": "11230",
+                                "street1": "1212 NEWKIRK AVE"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "THOMAS PAUL LAURENSON",
+                "numFollowers": 0,
+                "websiteUrl": "http://shopthomaspaul.com"
+            }
+        ]
+    }
+}

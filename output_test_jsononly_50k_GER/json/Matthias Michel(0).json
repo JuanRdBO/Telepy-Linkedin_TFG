@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12457105,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bielefeld",
+                                "postalCode": "33607",
+                                "street1": "172 Heeper Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 52131161"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Matthias Michel",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.zahnarztpraxis-michel.de"
+            }
+        ]
+    }
+}

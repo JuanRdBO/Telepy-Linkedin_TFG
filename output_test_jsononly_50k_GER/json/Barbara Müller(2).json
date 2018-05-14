@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12764615,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Passau",
+                                "postalCode": "94032",
+                                "street1": "11 L\u00f6wengrube"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Barbara M\u00fcller-Held",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.supervision-mueller-held.de"
+            }
+        ]
+    }
+}

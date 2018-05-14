@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7426965,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "12555",
+                                "street1": "21 Landj\u00e4gerstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0306542245"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Joachim Fischer Und Frank L\u00fcer GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "dach-fischer-lueer.de"
+            }
+        ]
+    }
+}

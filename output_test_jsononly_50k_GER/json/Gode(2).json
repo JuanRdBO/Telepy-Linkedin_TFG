@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4676,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2013,
+                "id": 3301301,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bratislava",
+                                "postalCode": "84105",
+                                "street1": "Jamnickeho 8"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "00 421 902 230 517"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gode  VFX/CGI",
+                "numFollowers": 37,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Computer Generated Imagery",
+                        "Visual Effects",
+                        "3D illustration"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.godevfx.com"
+            }
+        ]
+    }
+}

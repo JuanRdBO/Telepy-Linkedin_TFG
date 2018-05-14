@@ -1,0 +1,98 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 36,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1923,
+                "id": 825556,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "116",
+                            "name": "Log\u00edstica y cadena de suministro"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Firenze",
+                                "postalCode": "50129",
+                                "street1": "Via Pratese Interna 132 10"
+                            },
+                            "contactInfo": {
+                                "fax": "0553024277",
+                                "phone1": "05539095"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Firenze",
+                                "postalCode": "",
+                                "street1": "Via Pratese Interna 132/10"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Firenze",
+                                "postalCode": "",
+                                "street1": "Via Bovio 2r (Zona Oberdan - Viale Mazzini)"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "05539094"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Firenze",
+                                "postalCode": "",
+                                "street1": "Via Pratese Interna 132/10"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "V Barbagli s.r.l.",
+                "numFollowers": 1907,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.barbagli.it"
+            }
+        ]
+    }
+}

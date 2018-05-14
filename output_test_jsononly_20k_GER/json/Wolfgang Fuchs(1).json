@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7432009,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "B\u00fchlertann",
+                                "postalCode": "74424",
+                                "street1": "10 Haller Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "07973922020"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wolfgang Fuchs GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "geruestbau-fuchs.de"
+            }
+        ]
+    }
+}

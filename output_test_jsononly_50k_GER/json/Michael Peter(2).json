@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 280,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 22940583,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "1",
+                            "name": "Departamento de defensa y del espacio exterior"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "F\u00d8RDE I HORDALAND",
+                                "postalCode": "5555",
+                                "street1": "Vestbygda"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "MICHAEL PETER JOSEF D\u00d6LLNER",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

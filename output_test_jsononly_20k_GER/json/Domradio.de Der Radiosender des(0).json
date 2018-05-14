@@ -1,0 +1,62 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2000,
+                "id": 1088645,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "113",
+                            "name": "Edici\u00f3n en l\u00ednea"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "postalCode": "50667"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "domradio.de",
+                "numFollowers": 42,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Radio",
+                        "Non-Profit",
+                        "Kirche",
+                        "Politik",
+                        "Gesellschaft",
+                        "Kultur"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "websiteUrl": "http://www.domradio.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12700908,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gr\u00e4fenroda",
+                                "postalCode": "99330",
+                                "street1": "Kirchholz 10B"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3620590077"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ralf Krieg",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.spectral-band.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2017,
+                "id": 11284721,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "82",
+                            "name": "Publicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Norwood",
+                                "postalCode": "02062",
+                                "street1": "685 Canton Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Signal Integrity Journal",
+                "numFollowers": 354,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Signal Integrity Journal is the first peer reviewed, industry journal to cover signal integrity, power integrity and EMC/EMI."
+                    ]
+                },
+                "websiteUrl": "http://www.signalintegrityjournal.com/"
+            }
+        ]
+    }
+}

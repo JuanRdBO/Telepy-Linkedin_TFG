@@ -1,0 +1,43 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 86,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12495851,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "30459",
+                                "street1": "195 G\u00f6ttinger Chaussee"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 511426548"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Reiseb\u00fcro Holiday Land Bandura",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.urlaubsfun.de"
+            }
+        ]
+    }
+}

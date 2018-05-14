@@ -1,0 +1,53 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 266,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2011,
+                "id": 1732606,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "name": "Neuhaus Real Estate, Inc.",
+                "numFollowers": 90,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Bank Owned Foreclosures / HUD homes",
+                        "Short Sales",
+                        "Experienced Marketing of Properties",
+                        "Relocations",
+                        "Investment Properties",
+                        "Seniors Specialist - Helping in Transitional Moves",
+                        "Electronic Professional"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.neuhausrealestate.com"
+            }
+        ]
+    }
+}

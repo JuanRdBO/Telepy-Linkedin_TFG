@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 25108488,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "BREDA",
+                                "postalCode": "4835CA",
+                                "street1": "van Duijvenvoordestraat 11"
+                            },
+                            "contactInfo": {
+                                "phone1": "+31 334941942"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Reisburo Holiday Feeling B.V.",
+                "numFollowers": 0,
+                "websiteUrl": "www.holidayfeeling.nl"
+            }
+        ]
+    }
+}

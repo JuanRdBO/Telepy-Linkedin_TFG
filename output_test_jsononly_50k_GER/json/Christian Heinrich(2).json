@@ -1,0 +1,88 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1963,
+                "id": 5181455,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "135",
+                            "name": "Ingenier\u00eda industrial o mec\u00e1nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rheda-Wiedenbr\u00fcck",
+                                "postalCode": "33378",
+                                "street1": "Augsburger Str. 2-6"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Sarstedt",
+                                "postalCode": "31157",
+                                "street1": "Wellweg 97"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "VENJAKOB Maschinenbau GmbH & Co. KG",
+                "numFollowers": 216,
+                "specialties": {
+                    "_total": 17,
+                    "values": [
+                        "pretreatment",
+                        "painting process",
+                        "handling equipment",
+                        "exhaust air filtering",
+                        "conveyor",
+                        "Lackieren",
+                        "Maschinenbau",
+                        "F\u00f6rdertechnik",
+                        "CO2 Reinigung",
+                        "Lackieranlagen",
+                        "Trocknungstechnik",
+                        "Anlagenbau",
+                        "Made in Germay",
+                        "Abluftreinigung",
+                        "Industrie 4.0",
+                        "Day & Night",
+                        "Spritzroboter"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.Venjakob.de"
+            }
+        ]
+    }
+}

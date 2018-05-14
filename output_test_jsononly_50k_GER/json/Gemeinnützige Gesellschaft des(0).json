@@ -1,0 +1,119 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 25,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1959,
+                "id": 18458011,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 7,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kiel",
+                                "postalCode": "24118",
+                                "street1": "Hardenbergstra\u00dfe 49"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Helgoland",
+                                "postalCode": "27487 ",
+                                "street1": " Postfach 580"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "H\u00f6rnum/Sylt",
+                                "postalCode": "25997 ",
+                                "street1": " Friesenplatz 3"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "H\u00f6rnum/Sylt",
+                                "postalCode": "25997 ",
+                                "street1": " Osterende 10"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Noer",
+                                "postalCode": "24214 ",
+                                "street1": " Zum Hegenwohld 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Noer",
+                                "postalCode": "24214 ",
+                                "street1": " Haffkamp 28"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Niendorf/Ostsee",
+                                "postalCode": "23669 ",
+                                "street1": " Strandstra\u00dfe 48"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Gesellschaft f\u00fcr Jugendeinrichtungen e.V.",
+                "numFollowers": 0,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Jugendbildung",
+                        "Freizeit",
+                        "Tourismus"
+                    ]
+                },
+                "websiteUrl": "http://www.freizeit-am-meer.de"
+            }
+        ]
+    }
+}

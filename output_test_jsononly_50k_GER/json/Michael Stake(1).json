@@ -1,0 +1,97 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 9,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "id": 1306586,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "143",
+                            "name": "Art\u00edculos de lujo y joyas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mumbai 400096",
+                                "postalCode": "",
+                                "street1": "Plot 29(P) & 30(P), Sub Plot \u2018A\u2019"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "022-6677 4444"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10018",
+                                "street1": "1430 BROADWAY"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "212 916 3500"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Sydney NSW",
+                                "postalCode": "2030",
+                                "street1": "3 Napier Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+612 93715286"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Guangzhou",
+                                "postalCode": "",
+                                "street1": "Unit 1A & 2A Tower 12, Fulong Road No. 999"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "86 20 34832008"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Tara Jewels Limited",
+                "numFollowers": 1985,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.tarajewels.in/"
+            }
+        ]
+    }
+}

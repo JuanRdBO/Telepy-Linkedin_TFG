@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2003,
+                "id": 13627006,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Adlwang / Bad Hall",
+                                "postalCode": "4541",
+                                "street1": "Weignerstra\u00dfe 11"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "HOVA Maschinenbau GmbH",
+                "numFollowers": 8,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Planung und Projektierung",
+                        "Kran- und Vakuum Hebe Technik",
+                        "Automatomatisierung",
+                        "Service",
+                        "Maschinenbau",
+                        "Sonderl\u00f6sungen",
+                        "Ingeneurb\u00fcro f\u00fcr Maschinenbau"
+                    ]
+                },
+                "websiteUrl": "www.hova.at"
+            }
+        ]
+    }
+}

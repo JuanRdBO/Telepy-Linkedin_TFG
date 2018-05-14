@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7381354,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stadtbergen",
+                                "postalCode": "86391",
+                                "street1": "1b Wankelstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "08212433303"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ADTV Tanzschule Stefan Huber",
+                "numFollowers": 0,
+                "websiteUrl": "tanzen-huber.de"
+            }
+        ]
+    }
+}

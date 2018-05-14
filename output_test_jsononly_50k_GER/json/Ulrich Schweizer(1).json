@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1984,
+                "id": 8681317,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "116",
+                            "name": "Log\u00edstica y cadena de suministro"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Embrach",
+                                "postalCode": "8424",
+                                "street1": "Embraport 7"
+                            },
+                            "contactInfo": {
+                                "fax": "+41 44 866 31 32",
+                                "phone1": "+41 44 866 31 31"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Cargocare AG | Logistics & Warehousing | Switzerland",
+                "numFollowers": 49,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Distribution logistics",
+                        "Transportation",
+                        "Warehouse management",
+                        "Combined transport",
+                        "Express services",
+                        "Sea freight",
+                        "Air freight",
+                        "Road haulage",
+                        "Rail services"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.cargocare.ch/"
+            }
+        ]
+    }
+}

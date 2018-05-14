@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12832003,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Seesen",
+                                "postalCode": "38723",
+                                "street1": "5 Engelader Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 5381942200"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Agrartechnik Lothar Becker",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.agrartechnik-becker.de"
+            }
+        ]
+    }
+}

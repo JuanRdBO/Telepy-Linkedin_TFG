@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7525245,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ingolstadt",
+                                "postalCode": "85055",
+                                "street1": "20 Grimmstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "08419535414"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Alexander Werner Marketing",
+                "numFollowers": 1,
+                "websiteUrl": "alexander-werner.com"
+            }
+        ]
+    }
+}

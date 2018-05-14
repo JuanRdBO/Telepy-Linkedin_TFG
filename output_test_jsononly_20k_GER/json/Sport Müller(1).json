@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 22,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12217635,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Villingen-Schwenningen",
+                                "postalCode": "78054",
+                                "street1": "3 Uhlandstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7720855587"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sport M\u00fcller GmbH",
+                "numFollowers": 7,
+                "websiteUrl": "http://www.sport-mueller.de"
+            }
+        ]
+    }
+}

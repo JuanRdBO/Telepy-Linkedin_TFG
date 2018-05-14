@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12502889,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Legau",
+                                "postalCode": "87764",
+                                "street1": "152 Bettrichs"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 83309240"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wolfgang Schober",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.elektro-schober.com"
+            }
+        ]
+    }
+}

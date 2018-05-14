@@ -1,0 +1,62 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2013,
+                "id": 18521858,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "113",
+                            "name": "Edici\u00f3n en l\u00ednea"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10178",
+                                "street1": "Anna-Louisa-Karsch-Stra\u00dfe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Blogger Bazaar",
+                "numFollowers": 56,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Influencer Marketing",
+                        "Branded Content",
+                        "Journalismus",
+                        "Talent Management ",
+                        "Social Media ",
+                        "Digital Branding"
+                    ]
+                },
+                "websiteUrl": "www.blogger-bazaar.com"
+            }
+        ]
+    }
+}

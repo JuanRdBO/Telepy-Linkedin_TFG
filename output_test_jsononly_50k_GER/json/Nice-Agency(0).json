@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 672,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 1087080,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "EC1M 3HE",
+                                "street1": "20 Farringdon Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0203 640 9333"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Nice Agency",
+                "numFollowers": 3844,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "iPhone Development",
+                        "iPad Development",
+                        "Android Development",
+                        "HTML5 Development",
+                        "User Experience Design",
+                        "Application Development",
+                        "User-Centric Design",
+                        "Web Development",
+                        "Digital Design",
+                        "Product Development"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "niceagency",
+                "websiteUrl": "www.nice.agency"
+            }
+        ]
+    }
+}

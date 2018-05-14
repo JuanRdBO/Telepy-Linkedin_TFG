@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1917,
+                "id": 642370,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "25",
+                            "name": "Art\u00edculos de consumo"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stockton",
+                                "postalCode": "95206",
+                                "street1": "2385 Arch Airport Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Tianjin Shi",
+                                "postalCode": " 300300",
+                                "street1": "Xunhai Rd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "California Cedar Products Company",
+                "numFollowers": 51,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Wood Products Manufacturing",
+                        "Pencil Industry",
+                        "Branding & Lifestyle Goods",
+                        "eCommerce",
+                        "Leadership Development",
+                        "Retail/Wholesale Trade",
+                        "International Trade",
+                        "sustainability",
+                        "purpose driven work values"
+                    ]
+                },
+                "websiteUrl": "http://calcedar.com/careers/"
+            }
+        ]
+    }
+}

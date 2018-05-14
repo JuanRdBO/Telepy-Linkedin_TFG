@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 11,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7337547,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Krauschwitz",
+                                "postalCode": "02957",
+                                "street1": "An Der Nei\u00dfe 1B"
+                            },
+                            "contactInfo": {
+                                "phone1": "03577151210"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Peter K\u00f6nig Auto-Ersatzteile",
+                "numFollowers": 0,
+                "websiteUrl": "koenig-autolackierung.de"
+            }
+        ]
+    }
+}

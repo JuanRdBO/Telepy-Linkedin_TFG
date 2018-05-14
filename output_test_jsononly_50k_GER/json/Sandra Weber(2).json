@@ -1,0 +1,60 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1998,
+                "id": 3845558,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "141",
+                            "name": "Desarrollo y comercio internacional"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "street1": "Hinter dem Chor 21. Wismar, \u00a023 966. Germany"
+                            },
+                            "contactInfo": {
+                                "phone1": "49 3841 22 00 50"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "IT Dr. Gambert GmbH",
+                "numFollowers": 24,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Sensortechnik",
+                        "Software Programmierung",
+                        "Elektrotechnik",
+                        "Praktikumssemester"
+                    ]
+                },
+                "websiteUrl": "http://www.itg-wismar.de"
+            }
+        ]
+    }
+}

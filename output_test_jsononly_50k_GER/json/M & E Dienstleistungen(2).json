@@ -1,0 +1,109 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 54,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1878,
+                "id": 4126,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "141",
+                            "name": "Desarrollo y comercio internacional"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Geneva",
+                                "postalCode": "1211 Geneva 1",
+                                "street1": "1 Place des Alpes"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Spijkenisse",
+                                "postalCode": "3208 LA",
+                                "street1": "Malledijk 18"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20459",
+                                "street1": "Rodingsmarkt 16"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Voorburg",
+                                "postalCode": "2275 AZ",
+                                "street1": "Stationsplein 6"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Buenos Aires City",
+                                "postalCode": "1430",
+                                "street1": "Tronador 4890"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "SGS",
+                "numFollowers": 402703,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Inspection",
+                        "Verification",
+                        "Testing",
+                        "Certification",
+                        "Audit",
+                        "Consultancy",
+                        "Outsourcing",
+                        "Training"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.sgs.com"
+            }
+        ]
+    }
+}

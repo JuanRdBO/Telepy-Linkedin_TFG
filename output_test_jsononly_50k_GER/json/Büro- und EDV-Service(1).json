@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 13,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1954,
+                "id": 18131352,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kassel",
+                                "postalCode": "34121",
+                                "street1": "Kohlenstra\u00dfe 49-51"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Starke + Reichert GmbH & Co. KG",
+                "numFollowers": 23,
+                "specialties": {
+                    "_total": 15,
+                    "values": [
+                        "IT-Security",
+                        "Dokumentenmanagement-System",
+                        "Cloudl\u00f6sungen",
+                        "Drucken und Kopieren",
+                        "Software",
+                        "Hardware",
+                        "IT-Service und -Support",
+                        "Communication und Collaboration",
+                        "Starke-DMS",
+                        "EDV-Zubeh\u00f6r",
+                        "B\u00fcro-Zubeh\u00f6r",
+                        "B\u00fcro-und Objekteinrichtungen",
+                        "IT-Notfallmanagement",
+                        "Notebooks",
+                        "Pr\u00e4sentationssysteme"
+                    ]
+                },
+                "websiteUrl": "www.starke.de"
+            }
+        ]
+    }
+}

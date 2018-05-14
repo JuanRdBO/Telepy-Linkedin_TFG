@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2017,
+                "id": 22339588,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "83",
+                            "name": "Imprenta"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Staurt",
+                                "postalCode": "34997",
+                                "street1": "7763 SW Ellipse Way"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "SpeedPro Imaging of North Palm Beach and the Treasure Coast",
+                "numFollowers": 6,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Vehicle wraps",
+                        "Event graphics",
+                        "Trade show displays",
+                        "Wall murals",
+                        "Window graphics",
+                        "Banners",
+                        "Outdoor signs"
+                    ]
+                },
+                "websiteUrl": "http://www.speedpro.com/locations/north-palm-beach/"
+            }
+        ]
+    }
+}

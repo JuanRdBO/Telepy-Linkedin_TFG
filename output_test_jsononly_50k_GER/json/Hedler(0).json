@@ -1,0 +1,52 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 9,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2014,
+                "id": 5389526,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "name": "Hedler",
+                "numFollowers": 5,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Marketing Digital",
+                        "Estrat\u00e9gias de Marketing",
+                        "Tecnologia Internet",
+                        "Gera\u00e7\u00e3o de Leads",
+                        "Com\u00e9rcio Eletr\u00f4nico",
+                        "Mobile Marketing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.hedler.com.br"
+            }
+        ]
+    }
+}

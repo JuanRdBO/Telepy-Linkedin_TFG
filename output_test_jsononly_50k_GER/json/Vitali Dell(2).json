@@ -1,0 +1,89 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 45,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2012,
+                "id": 2483542,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Roma",
+                                "postalCode": "00154",
+                                "street1": "Via Alvise Cadamosto 14"
+                            },
+                            "contactInfo": {
+                                "fax": "02 87348317",
+                                "phone1": "02 87348316"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Milano",
+                                "postalCode": "20121",
+                                "street1": "Piazza Repubblica 1/A"
+                            },
+                            "contactInfo": {
+                                "fax": "02 87348317",
+                                "phone1": "02 87348316"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "yourCFO",
+                "numFollowers": 2357,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Corporate Finance",
+                        "Venture Capital",
+                        "Private Equity",
+                        "Finanza Straordinaria",
+                        "M&A",
+                        "Business Angel",
+                        "Controllo di Gestione e Budgeting",
+                        "Gestione del Capitale Circolante",
+                        "Gestione della Tesoreria e dei rapporti bancari",
+                        "Temporary Manager",
+                        "CFO",
+                        "Direttore finanziario"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.yourcfo.it"
+            }
+        ]
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2382,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2010,
+                "id": 1008160,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "137",
+                            "name": "Recursos humanos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "S\u00e3o Paulo",
+                                "postalCode": "01452-002",
+                                "street1": "Av Brigadeiro Faria Lima, 1461 4\u00b0 andar"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Belo Horizonte",
+                                "postalCode": "30110-044",
+                                "street1": "Av. do Contorno, 6594 - 17\u00ba andar - Sala 7 - Savassi"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bogota",
+                                "street1": "Carrera 19a No 90-13 Oficina 304"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Rio de Janeiro",
+                                "postalCode": "20020-906",
+                                "street1": "Av. Nilo Pe\u00e7anha 50"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "S\u00e3o Paulo",
+                                "postalCode": "04552-050",
+                                "street1": "Rua Helena 235"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Petra Group - Executive Search",
+                "numFollowers": 42115,
+                "specialties": {
+                    "_total": 17,
+                    "values": [
+                        "\u00d3leo & G\u00e1s",
+                        "Energia",
+                        "Constru\u00e7\u00e3o",
+                        "Minera\u00e7\u00e3o & Metais",
+                        "Manufatura",
+                        "TI & Telecomunica\u00e7\u00f5es",
+                        "Agroneg\u00f3cios",
+                        "Corporativo",
+                        "Crew",
+                        "Tecnologia",
+                        "Bens de consumo",
+                        "Automotivo",
+                        "Sa\u00fade",
+                        "Finan\u00e7as",
+                        "Fintech",
+                        "Recursos Humanos",
+                        "Marketing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.petraexec.com"
+            }
+        ]
+    }
+}

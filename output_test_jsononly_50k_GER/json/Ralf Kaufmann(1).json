@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12517593,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Cloppenburg",
+                                "postalCode": "49661",
+                                "street1": "43 Brookweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 5620108755"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Feldmann Grever GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.feldmann-grever.de"
+            }
+        ]
+    }
+}

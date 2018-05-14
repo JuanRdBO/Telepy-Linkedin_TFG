@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 432,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 15979300,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "COSTA MESA",
+                                "postalCode": "92626",
+                                "street1": "245 FISCHER AVE STE D8"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 7144442679"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "JAMES DAVID REED INSURANCE COMPANY DBA CLARKE-MARINE INSURANCE AGENCY",
+                "numFollowers": 2,
+                "websiteUrl": "http://cmgis.com"
+            }
+        ]
+    }
+}

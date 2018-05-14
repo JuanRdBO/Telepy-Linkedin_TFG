@@ -1,0 +1,59 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "foundedYear": 1999,
+                "id": 18400453,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Modautal",
+                                "postalCode": "64397",
+                                "street1": "Brandauer Weg 32"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "stoermer.de",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Webdesign",
+                        "Grafikdesign",
+                        "Konzeption von Internetauftritten",
+                        "Gestaltung von Internetauftritten",
+                        "Programmierung von Internetauftritten",
+                        "Content-Management-Systeme",
+                        "Gestaltung der Unternehmenskommunikation"
+                    ]
+                },
+                "websiteUrl": "www.stoermer.de"
+            }
+        ]
+    }
+}

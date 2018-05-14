@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7511926,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "81475",
+                                "street1": "31 Steinkirchner Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "089753880"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Axel Schneider",
+                "numFollowers": 0,
+                "websiteUrl": "praxis-dr-schneider.de"
+            }
+        ]
+    }
+}

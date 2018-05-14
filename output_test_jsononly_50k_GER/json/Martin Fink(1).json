@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7545376,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60388",
+                                "street1": "21 Borsigallee"
+                            },
+                            "contactInfo": {
+                                "phone1": "069478606520"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rechtsanw\u00e4lte MARTIN, FINK & KOLLEGEN",
+                "numFollowers": 0,
+                "websiteUrl": "rechtsanwaltspraxis.net"
+            }
+        ]
+    }
+}

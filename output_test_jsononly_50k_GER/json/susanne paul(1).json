@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7488625,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oberhausen",
+                                "postalCode": "46047",
+                                "street1": "Centroallee 263A"
+                            },
+                            "contactInfo": {
+                                "phone1": "020846849940"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Paul Susanne Steuerberaterin",
+                "numFollowers": 0,
+                "websiteUrl": "paul-steuerberatung.de"
+            }
+        ]
+    }
+}

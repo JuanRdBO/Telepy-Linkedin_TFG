@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7496431,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bad Honnef",
+                                "postalCode": "53604",
+                                "street1": "10 Auf Der Bitze"
+                            },
+                            "contactInfo": {
+                                "phone1": "02224820799"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rechtsanwaltskanzlei Norbert Koch",
+                "numFollowers": 0,
+                "websiteUrl": "norbertkoch.de"
+            }
+        ]
+    }
+}

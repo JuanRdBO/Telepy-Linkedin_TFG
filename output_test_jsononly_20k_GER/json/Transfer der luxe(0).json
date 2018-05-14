@@ -1,0 +1,101 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2012,
+                "id": 10190271,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hennigsdorf/Berlin",
+                                "postalCode": "16761",
+                                "street1": "Veltener Str. 1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Amsterdam",
+                                "postalCode": "",
+                                "street1": "roomsXXL Netherlands"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+31 2 0808 7474"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Stockholm",
+                                "postalCode": "",
+                                "street1": "roomsXXL Sweden"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+46 8 4468 5353"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "roomsXXL",
+                "numFollowers": 29,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "roomsXXL.de",
+                        "roomsXXL.ch",
+                        "roomsXXL.nl",
+                        "roomsXXL.be",
+                        "roomsXXL.dk",
+                        "roomsXXL.no",
+                        "roomsXXL.se",
+                        "roomsXXL.fi",
+                        "roomsXXL.uk",
+                        "roomsXXL.ie",
+                        "roomsXXL.es",
+                        "roomsXXL.it",
+                        "roomsXXL.nz"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.roomsXXL.de"
+            }
+        ]
+    }
+}

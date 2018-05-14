@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 13,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2010,
+                "id": 10023341,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lyngby",
+                                "postalCode": "3540",
+                                "street1": "Bastrupvej 15"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(+45) 42 44 50 50"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Anglov",
+                "numFollowers": 18,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Enneagram",
+                        "Personlig ledelse",
+                        "Personligt lederskab",
+                        "Personlig udvikling",
+                        "Resultatudvikling",
+                        "Lederudvikling med kant p\u00e5"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.anglov.com"
+            }
+        ]
+    }
+}

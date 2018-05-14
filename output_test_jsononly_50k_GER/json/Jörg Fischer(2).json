@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12450391,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sanitz",
+                                "postalCode": "18190",
+                                "street1": "8 Rostocker Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3820987880"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kieferorthop\u00e4dische Praxis Dr. J\u00f6rg Fischer",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.kieferorthopaedie-fischer.de"
+            }
+        ]
+    }
+}

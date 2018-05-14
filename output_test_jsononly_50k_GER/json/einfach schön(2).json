@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 551,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12678870,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Goslar",
+                                "postalCode": "38690",
+                                "street1": "25 Kirchweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2111301919"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Einfach Sch\u00f6n Sein",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.einfach-schoen-sein.de"
+            }
+        ]
+    }
+}

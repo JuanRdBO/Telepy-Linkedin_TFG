@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 33,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 9525961,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "15",
+                            "name": "Industria farmac\u00e9utica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wissen",
+                                "postalCode": "57537",
+                                "street1": "Marktstr. 1"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 27429105"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Adler Apotheke",
+                "numFollowers": 19,
+                "websiteUrl": "http://www.adlerapotheke-wissen.de"
+            }
+        ]
+    }
+}

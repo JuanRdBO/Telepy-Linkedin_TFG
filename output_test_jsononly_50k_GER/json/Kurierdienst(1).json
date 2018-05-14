@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 142,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7541657,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "14199",
+                                "street1": "9-13 Forckenbeckstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "03089735708"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kurierdienst Yvonne Bauer GmbH",
+                "numFollowers": 6,
+                "websiteUrl": "kurierdienst-bauer.de"
+            }
+        ]
+    }
+}

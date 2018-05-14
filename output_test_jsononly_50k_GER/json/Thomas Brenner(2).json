@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7492465,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Borsdorf",
+                                "postalCode": "04451",
+                                "street1": "5 Am Wassergraben"
+                            },
+                            "contactInfo": {
+                                "phone1": "01788762228"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Barmenia Versicherungen - Thomas Brenner",
+                "numFollowers": 0,
+                "websiteUrl": "thomas.brenner.barmenia.de"
+            }
+        ]
+    }
+}

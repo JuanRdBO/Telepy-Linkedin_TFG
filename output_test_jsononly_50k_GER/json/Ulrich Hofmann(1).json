@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7387487,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ilsfeld",
+                                "postalCode": "74360",
+                                "street1": "12 Winzerstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0706295030"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Ulrich Hofmann",
+                "numFollowers": 0,
+                "websiteUrl": "hofmann-hulde.de"
+            }
+        ]
+    }
+}

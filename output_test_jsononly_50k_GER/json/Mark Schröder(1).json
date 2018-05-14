@@ -1,0 +1,49 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2002,
+                "id": 1884520,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "33",
+                            "name": "Deportes"
+                        }
+                    ]
+                },
+                "name": "Extreme Brawl FC Ltd",
+                "numFollowers": 34,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Live MMA & Kickboxing Events",
+                        "Pro Fighter Management",
+                        "Amateur fighter Managment",
+                        "Amateur & Pro Fighter Marketing."
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": ""
+            }
+        ]
+    }
+}

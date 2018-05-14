@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 24887122,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "60",
+                            "name": "Sector textil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sao Paulo",
+                                "postalCode": "03614-000",
+                                "street1": "R Mercedes Lopes, 991, Letra A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+55 11989598300"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Cikala Comercio E Servicos",
+                "numFollowers": 3,
+                "websiteUrl": "cikala.com.br"
+            }
+        ]
+    }
+}

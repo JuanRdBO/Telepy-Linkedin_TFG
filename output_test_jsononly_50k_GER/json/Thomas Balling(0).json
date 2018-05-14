@@ -1,0 +1,64 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 2950779,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "60",
+                            "name": "Sector textil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Leeds",
+                                "postalCode": "LS20 9PD",
+                                "street1": "Gordon Mills, Netherfield Road"
+                            },
+                            "contactInfo": {
+                                "fax": "01943 878689",
+                                "phone1": "01943 872264"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas B. Ramsden & Co. (Bradford) Ltd.",
+                "numFollowers": 102,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Yarn Manufacturing",
+                        "Hand Knitting Design",
+                        "Yarn Balling"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.tbramsden.co.uk"
+            }
+        ]
+    }
+}

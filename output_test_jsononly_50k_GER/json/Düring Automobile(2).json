@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 292,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "H",
+                    "name": "5001-10000"
+                },
+                "foundedYear": 1947,
+                "id": 236297,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kolkata",
+                                "postalCode": "700 020",
+                                "street1": "Exide House, 59 E Chowringhee Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "033-22832120"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Exide Industries Limited",
+                "numFollowers": 12360,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Market leader in battery manufacturing in India"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.exideindustries.com"
+            }
+        ]
+    }
+}

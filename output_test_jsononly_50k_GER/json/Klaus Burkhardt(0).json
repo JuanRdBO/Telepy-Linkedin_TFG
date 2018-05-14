@@ -1,0 +1,56 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2007,
+                "id": 13641514,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "111",
+                            "name": "Artesan\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Shanghai",
+                                "postalCode": "200025",
+                                "street1": "Room 100,111&112. No.5, Lane 210, Taikang Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Nancy's Gallery",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Art",
+                        "Gallery"
+                    ]
+                },
+                "websiteUrl": "http://www.nancyartspace.com/"
+            }
+        ]
+    }
+}

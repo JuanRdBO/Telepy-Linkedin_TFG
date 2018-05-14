@@ -1,0 +1,52 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 40,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2010,
+                "id": 2762971,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "143",
+                            "name": "Art\u00edculos de lujo y joyas"
+                        }
+                    ]
+                },
+                "name": "Michael Sebastian - Urban Handbaggers",
+                "numFollowers": 60,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Direct Sales",
+                        "Fundraisers and events",
+                        "Home Parties",
+                        "Leather Handbags",
+                        "jewellery",
+                        "Canadian dealer for Buddha To Buddha sterling silver jewellery"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.michaelsebastian.ca"
+            }
+        ]
+    }
+}

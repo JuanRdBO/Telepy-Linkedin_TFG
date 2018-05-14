@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 13,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12818318,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "H\u00f6henkirchen-Siegertsbrunn",
+                                "postalCode": "85635",
+                                "street1": "Am Markt"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 8102999990"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Christian Zimmer Immobilien",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.zimmer-immo.de"
+            }
+        ]
+    }
+}

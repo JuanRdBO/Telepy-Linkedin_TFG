@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 18472310,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Potsdam",
+                                "postalCode": "14669 ",
+                                "street1": "David-Gilly-Str. 1 "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Quentn.com GmbH",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Marketing Automation",
+                        "B2B Software",
+                        "E-Mail Marketing",
+                        "E-Mail Newsletter",
+                        "API",
+                        "Leadgenerierung ",
+                        "Marketing Software",
+                        "Sales Automation"
+                    ]
+                },
+                "websiteUrl": "https://quentn.com/"
+            }
+        ]
+    }
+}

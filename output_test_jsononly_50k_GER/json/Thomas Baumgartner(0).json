@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12222047,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wasserburg (Bodensee)",
+                                "postalCode": "88142",
+                                "street1": "101 H\u00f6henstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 8382949990"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Baumgartner",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.gaertnerei-baumgartner.de"
+            }
+        ]
+    }
+}

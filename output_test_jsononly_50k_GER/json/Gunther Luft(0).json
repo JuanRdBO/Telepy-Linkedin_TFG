@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "H",
+                    "name": "5001-10000"
+                },
+                "foundedYear": 1921,
+                "id": 113633,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "56",
+                            "name": "Miner\u00eda y metalurgia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Mamer",
+                                "postalCode": "LU-8232",
+                                "street1": "101, Route de Holzem"
+                            },
+                            "contactInfo": {
+                                "fax": "+352 31 19 11",
+                                "phone1": "+352 31 20 85-1"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "CERATIZIT GROUP",
+                "numFollowers": 6566,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "powder metallurgy is our area of expertise",
+                        "we cover the whole value chain in hard metal production - from  metal powder, to semi-finished products and ready-to-install components",
+                        "tailored hard material products"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ceratizit.com"
+            }
+        ]
+    }
+}

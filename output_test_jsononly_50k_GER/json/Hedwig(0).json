@@ -1,0 +1,106 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 269,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1975,
+                "id": 3007026,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "139",
+                            "name": "Atenci\u00f3n a la salud mental"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lansdale",
+                                "postalCode": "19446",
+                                "street1": "109 Jenkins Ave"
+                            },
+                            "contactInfo": {
+                                "fax": "(215) 362-8894",
+                                "phone1": "(215) 362-2887"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Abington",
+                                "postalCode": "19001",
+                                "street1": "1920 Old York Rd"
+                            },
+                            "contactInfo": {
+                                "fax": "(215) 659-5755",
+                                "phone1": "(215) 659-2453"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Blue Bell",
+                                "postalCode": "19422",
+                                "street1": "1717 Swede St"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Colmar",
+                                "postalCode": "18915",
+                                "street1": "2506 N Broad St"
+                            },
+                            "contactInfo": {
+                                "fax": "2674771071",
+                                "phone1": "2674771070"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Hedwig House, Inc.",
+                "numFollowers": 84,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Psychiatric Rehabilitation",
+                        "Intensive Psychiatric Rehabilitation",
+                        "Housing Subsidy Programs"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.hedwighouse.org"
+            }
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1992,
+                "id": 11691906,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20095",
+                                "street1": "Ferdinandstra\u00dfe 25"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
+                                "postalCode": "119019",
+                                "street1": "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0417\u043d\u0430\u043c\u0435\u043d\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0443\u043b\u043e\u043a"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "LUNO-Gruppe",
+                "numFollowers": 0,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Russland",
+                        "Lokalisierung",
+                        "Vertriebsoptimierung",
+                        "Exportf\u00f6rderung",
+                        "Handelsvertretung",
+                        "Interimsmanagement",
+                        "4PL Logistik",
+                        "Exportfinanzierung",
+                        "Marketing & Sales",
+                        "Investment Support",
+                        "Business Development",
+                        "Corporate Representative"
+                    ]
+                },
+                "websiteUrl": "www.luno.info"
+            }
+        ]
+    }
+}

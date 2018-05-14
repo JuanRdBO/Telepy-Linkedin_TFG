@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 48,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 8120159,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wasserburg",
+                                "postalCode": "83512",
+                                "street1": "Staudhamer Feld 9"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 8071402"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Michael M\u00fcller GmbH & Co.KG",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.michael-mueller-gmbh.de/"
+            }
+        ]
+    }
+}

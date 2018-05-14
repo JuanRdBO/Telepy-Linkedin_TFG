@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2004,
+                "id": 3119038,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "19",
+                            "name": "Industria textil y moda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lal\u00edn",
+                                "postalCode": "36500",
+                                "street1": "R\u00faa Joaqu\u00edn Loriga, 10"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "986 780 916"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "cavanillas",
+                "numFollowers": 43,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Traxes de home",
+                        "Cerimonia",
+                        "Asesoramento de imaxe",
+                        "Posta a punto das prendas",
+                        "Atenci\u00f3n personalizada"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.cavanillasdetraxe.es/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "H",
+                    "name": "5001-10000"
+                },
+                "foundedYear": 1928,
+                "id": 3709173,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "49",
+                            "name": "Materiales de construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Baar",
+                                "postalCode": "6340",
+                                "street1": "Lindenstrasse 8"
+                            },
+                            "contactInfo": {
+                                "fax": "+41 58 787 20 25",
+                                "phone1": "+41 58 787 25 25"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Krommenie",
+                                "postalCode": "1560 AA",
+                                "street1": "Industrieweg 12"
+                            },
+                            "contactInfo": {
+                                "fax": "+31 756 283 771",
+                                "phone1": "+31 756 477 477"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Hannover",
+                                "postalCode": "30179",
+                                "street1": "Lilienthalstrasse 6/8"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 511 67 04 305",
+                                "phone1": "+49 511 67 04 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Forbo Group",
+                "numFollowers": 1517,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Linoleum",
+                        "Vinyl floors",
+                        "Entrance flooring",
+                        "Carpet tiles",
+                        "Flotex",
+                        "Eurocol",
+                        "High quality conveyor belts",
+                        "High quality flat belts"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.forbo.com"
+            }
+        ]
+    }
+}

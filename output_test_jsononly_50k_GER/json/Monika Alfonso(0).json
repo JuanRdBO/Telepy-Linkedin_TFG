@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2006,
+                "id": 2174262,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "38",
+                            "name": "Bellas Artes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Meruelo",
+                                "postalCode": "39192",
+                                "street1": "Av. de San Miguel 14, Bajo"
+                            },
+                            "contactInfo": {
+                                "fax": "942630047",
+                                "phone1": "942637991"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Galeria Espiral",
+                "numFollowers": 143,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Exposici\u00f3n, promoci\u00f3n y venta de Arte Contempor\u00e1neo",
+                        "Alquiler de Arte Contempor\u00e1neo",
+                        "Edici\u00f3n de Arte contempor\u00e1neo",
+                        "Suscripciones"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.galeriaespiral.es"
+            }
+        ]
+    }
+}

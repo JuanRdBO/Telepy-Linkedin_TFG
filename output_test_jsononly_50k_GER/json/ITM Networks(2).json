@@ -1,0 +1,55 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2001,
+                "id": 10048645,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "name": "ITM Ltd (International Trade Market Limited)",
+                "numFollowers": 31,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "CORPORATE TRAINING",
+                        "MARKETING AND ADVERTISING",
+                        "TRADE AND DISTRIBUTION",
+                        "FAIRS AND EVENTS ORGANIZATION",
+                        "IMPORT/EXPORT SERVICES",
+                        "TRAVEL",
+                        "ART",
+                        "REAL ESTATE",
+                        "TRANSLATION"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.intertrademarket.com/index.asp"
+            }
+        ]
+    }
+}

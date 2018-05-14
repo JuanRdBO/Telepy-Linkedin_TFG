@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2014,
+                "id": 4847667,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Irvine",
+                                "postalCode": "92614",
+                                "street1": "1920 Main Street"
+                            },
+                            "contactInfo": {
+                                "fax": "949-679-0461",
+                                "phone1": "949-679-0052"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Umberg Zipser LLP",
+                "numFollowers": 52,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Commercial Litigation",
+                        "Government & Regulatory",
+                        "Environmental",
+                        "Class Actions",
+                        "Intellectual Property",
+                        "White Collar Investigations & Defense"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.umbergzipser.com"
+            }
+        ]
+    }
+}

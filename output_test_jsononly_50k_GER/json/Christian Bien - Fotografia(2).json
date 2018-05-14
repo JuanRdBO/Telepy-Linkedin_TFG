@@ -1,0 +1,97 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 57,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 10634026,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "32",
+                            "name": "Restaurantes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "75007",
+                                "street1": "135 rue Saint-Dominique"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0145551505"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "75007",
+                                "street1": "139 rue Saint-Dominique"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0147537334"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Montech",
+                                "postalCode": "82700",
+                                "street1": "25 rue de l'Usine"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0563246302"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Toulouse",
+                                "postalCode": "31000",
+                                "street1": "5 place du Capitole"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0534301837"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Christian Constant",
+                "numFollowers": 121,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.maisonconstant.com/"
+            }
+        ]
+    }
+}

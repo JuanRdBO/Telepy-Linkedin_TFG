@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7480804,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Enger",
+                                "postalCode": "32130",
+                                "street1": "317 Spenger Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "05225873100"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Steuerberater TIM OLIVER HANSEL",
+                "numFollowers": 0,
+                "websiteUrl": "stb-hansel.de"
+            }
+        ]
+    }
+}

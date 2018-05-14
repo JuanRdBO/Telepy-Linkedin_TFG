@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "id": 5393891,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Unterschleissheim",
+                                "postalCode": "85716",
+                                "street1": "Robert-Schuman-Str. 7"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "089 1222 7996"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Mein M\u00fcnchen Immobilien Jutta Lang",
+                "numFollowers": 11,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Sell your property",
+                        "Letting your property",
+                        "Buy a property",
+                        "Renting a property"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.meinmuenchenimmobilien.de"
+            }
+        ]
+    }
+}

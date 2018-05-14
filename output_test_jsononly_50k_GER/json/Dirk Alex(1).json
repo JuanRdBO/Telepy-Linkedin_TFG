@@ -1,0 +1,93 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 1285516,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "126",
+                            "name": "Producci\u00f3n multimedia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "W1W8RN",
+                                "street1": "13-14 Margaret Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+44 (0) 20 7636 1464"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10011",
+                                "street1": "118 W 22nd Street, 7th FL"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+1 212 375 9800"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Santa Monica",
+                                "postalCode": "90404",
+                                "street1": "1634 Euclid Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+1 310 566 6600"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Final Cut",
+                "numFollowers": 920,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "editorial",
+                        "advertising",
+                        "post production",
+                        "feature films"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.finalcut-edit.com"
+            }
+        ]
+    }
+}

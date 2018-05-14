@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 237,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "id": 2698321,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Tuggerah",
+                                "postalCode": "2259",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(02) 43524700"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Bundall",
+                                "postalCode": "4217",
+                                "street1": ""
+                            },
+                            "contactInfo": {
+                                "fax": "(07) 55742195",
+                                "phone1": "(07) 55555757"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Thomas Paul Constructions",
+                "numFollowers": 219,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "33 years in the building industry",
+                        "Provider of quality investment properties",
+                        "Huge employment base",
+                        "A reputation built on quality"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.thomaspaulconstructions.com"
+            }
+        ]
+    }
+}

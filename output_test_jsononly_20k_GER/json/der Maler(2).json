@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 291,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12545758,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gelsenkirchen",
+                                "postalCode": "45896",
+                                "street1": "20a Steinheimer Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2093597895"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Der Maler Kapser",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.dermalerkapser.de"
+            }
+        ]
+    }
+}

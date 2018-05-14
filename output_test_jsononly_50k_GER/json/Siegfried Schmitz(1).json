@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7446994,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hatten",
+                                "postalCode": "26209",
+                                "street1": "43 Hatter Weg"
+                            },
+                            "contactInfo": {
+                                "phone1": "0448198888"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Siegfried Schmitz Physiotherapie",
+                "numFollowers": 0,
+                "websiteUrl": "therapiezentrum-schmitz.de"
+            }
+        ]
+    }
+}

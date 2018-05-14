@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12257977,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wiesbaden",
+                                "postalCode": "65187",
+                                "street1": "42 Schiersteiner Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6118472522"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Med. Jochen Schreier",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.hno-harenberg-schreier.de"
+            }
+        ]
+    }
+}

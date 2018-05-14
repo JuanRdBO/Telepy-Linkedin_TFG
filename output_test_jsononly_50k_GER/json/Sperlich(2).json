@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 26,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7443587,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Eckernf\u00f6rde",
+                                "postalCode": "24340",
+                                "street1": "35 Kieler Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "04351712480"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sperlich Walter Dr. Zahnarzt",
+                "numFollowers": 1,
+                "websiteUrl": "dr-sperlich.de"
+            }
+        ]
+    }
+}

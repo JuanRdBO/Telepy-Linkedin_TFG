@@ -1,0 +1,96 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 32,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2005,
+                "id": 2798152,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "124",
+                            "name": "Sanidad, bienestar y buena condici\u00f3n f\u00edsica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Brookyn",
+                                "postalCode": "11215",
+                                "street1": "540 President St"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "9177404696"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Forest Hills (Queens)",
+                                "postalCode": "11375",
+                                "street1": "8803 70th Rd"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Brooklyn",
+                                "postalCode": "11218",
+                                "street1": "http://mapq.st/RR7pA0"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "9177404696"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "GallopNYC",
+                "numFollowers": 261,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Therapeutic Horsemanship",
+                        "Equines Services for Veterans",
+                        "Hippotherapy",
+                        "Counseling and EAAT",
+                        "Animal Assisted Therapy",
+                        "Executive Coaching "
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.GallopNYC.org"
+            }
+        ]
+    }
+}

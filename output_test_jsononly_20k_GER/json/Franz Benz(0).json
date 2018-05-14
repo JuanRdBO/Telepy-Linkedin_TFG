@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1970,
+                "id": 3039839,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "112",
+                            "name": "Manufactura el\u00e9ctrica y electr\u00f3nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Granby",
+                                "postalCode": "J2G 8P4",
+                                "street1": "665 Laurent"
+                            },
+                            "contactInfo": {
+                                "fax": "450 994 6770",
+                                "phone1": "450 263 5215"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "MEC PRECISION",
+                "numFollowers": 144,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Moteurs hautes vitesses, CA/CC, \u00e9lectrobroches et broches (spindle)",
+                        "\u00c9quilibrage dynamique",
+                        "Servomoteur",
+                        "Analyse de vibration",
+                        "Agr\u00e9gats, t\u00eates angulaires et t\u00eates motoris\u00e9es",
+                        "Pompes \u00e0 vide",
+                        "Rectification de c\u00f4nes",
+                        "\u00c9lectronique et variateurs de fr\u00e9quence",
+                        "Spindle Repair",
+                        "High-Speed Electric Motors",
+                        "AC/DC Motors",
+                        "Dynamic Balancing",
+                        "Vibration Analysis"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.mec-precision.com"
+            }
+        ]
+    }
+}

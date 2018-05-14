@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7397256,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bonn (Venusberg)",
+                                "postalCode": "53115",
+                                "street1": "1 Robert-Koch-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "02285052311"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Frau Dr. Med. Annette Sch\u00e4fer-Haas",
+                "numFollowers": 1,
+                "websiteUrl": "zaho-rheinland.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1973,
+                "id": 1673408,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Bonn",
+                                "postalCode": "53129",
+                                "street1": "Dottendorfer Str. 82"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 228 98 57 9 - 79",
+                                "phone1": "+49 228 98 57 9 - 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "AFC Agriculture and Finance Consultants",
+                "numFollowers": 1611,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "International development consulting in agriculture, agribusineess and financial sector development",
+                        "Project management for GIZ, KfW, EC, ADB, WB, MCC, EIB, EBRD, DEZA, SIDA",
+                        "Agriculture",
+                        "Agribusiness",
+                        "Value Chain",
+                        "Financial Sector Development"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.afci.de"
+            }
+        ]
+    }
+}

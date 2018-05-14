@@ -1,0 +1,108 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1949,
+                "id": 9226626,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sorocaba",
+                                "postalCode": "18086-039",
+                                "street1": "Rua Dr. Nilo R Padilha, 100 Distrito Industrial"
+                            },
+                            "contactInfo": {
+                                "fax": "+551532283668",
+                                "phone1": "+551532386600"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Betim",
+                                "postalCode": "32669-158",
+                                "street1": "Av. Eng. Gerhard Ett, 715 Distrito Industrial Paulo Camilo"
+                            },
+                            "contactInfo": {
+                                "fax": "+553135911301",
+                                "phone1": "+553135911022"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Rio de Janeiro",
+                                "postalCode": "21530-200",
+                                "street1": "Av. Sargento Silvio Hollembach, 501 Barros Filho"
+                            },
+                            "contactInfo": {
+                                "fax": "+552138471050",
+                                "phone1": "+552138471010"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Sim\u00f5es Filho",
+                                "postalCode": "43700-000",
+                                "street1": "Via de Penetra\u00e7\u00e3o B, s/n, Lote Distrito 2,4,10, CIA"
+                            },
+                            "contactInfo": {
+                                "fax": "+557135949484",
+                                "phone1": "+55735947155"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Cascadura Industrial",
+                "numFollowers": 735,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "CROMO DURO (Hard Chromium Plate)",
+                        "SOLDA A ARCO SUBMERSO",
+                        "SOLDA MIG E TIG",
+                        "SOLDA E MICRO-SOLDA DE PLASMA A ARCO TRANSFERIDO",
+                        "SOLDA E MICRO-SOLDA, RECUPERA\u00c7\u00c3O, SOLDA PTA, PLASMA DE ARCO"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.cascadura.com.br/"
+            }
+        ]
+    }
+}

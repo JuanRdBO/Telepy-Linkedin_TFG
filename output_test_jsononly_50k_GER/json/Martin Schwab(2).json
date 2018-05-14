@@ -1,0 +1,137 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1994,
+                "id": 12237,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10016",
+                                "street1": "136 Madison Ave."
+                            },
+                            "contactInfo": {
+                                "fax": "919-678-0901",
+                                "phone1": "919-678-0900"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "K\u00f6nigsbrunn",
+                                "postalCode": "",
+                                "street1": "Brunnenbachstr. 40 86343"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0) 8231 989 70-19",
+                                "phone1": "+49 (0) 8231 989 70-45"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Rep. of Panama",
+                                "postalCode": "",
+                                "street1": "Calle 50, F&F Tower"
+                            },
+                            "contactInfo": {
+                                "fax": "+507 264-0525",
+                                "phone1": "+507 264-2680"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Dubai Internet City",
+                                "postalCode": "",
+                                "street1": "DIC Building 17"
+                            },
+                            "contactInfo": {
+                                "fax": "+971 4 3903612",
+                                "phone1": "+971 4 3914717"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "",
+                                "street1": "2 Leman Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+44 207 1736184"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Ultimus",
+                "numFollowers": 1951,
+                "specialties": {
+                    "_total": 21,
+                    "values": [
+                        "Business Process Management (BPM) Software",
+                        "Workflow Applications",
+                        "Mobile BPM",
+                        "Business Optimization, Improvement",
+                        "Enterprise Business Solutions",
+                        "Enterprise Systems Integration",
+                        "Cloud BPM",
+                        "Process Automation",
+                        "Process Design & Modeling",
+                        "Enterprise Content Management",
+                        "Low-Code Development",
+                        "Low-Code Platforms",
+                        "Low Code Development Platforms",
+                        "Workflow",
+                        "BPM",
+                        "Digital Transformation",
+                        "Low-Code Application Development",
+                        "Business Automation",
+                        "Low Code",
+                        "Digital Process Automation",
+                        "Composed Process Solutions"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "http://twitter.com/Ultimus_BPM",
+                "websiteUrl": "http://www.ultimus.com"
+            }
+        ]
+    }
+}

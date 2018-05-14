@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7346004,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Erfurt - Salomonsborn",
+                                "postalCode": "99100",
+                                "street1": "1 Am Lindenberg"
+                            },
+                            "contactInfo": {
+                                "phone1": "03620881305"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dachdeckermeisterbetrieb Christian Voigt",
+                "numFollowers": 0,
+                "websiteUrl": "voigt-dach.de"
+            }
+        ]
+    }
+}

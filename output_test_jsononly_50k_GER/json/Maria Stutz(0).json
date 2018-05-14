@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2017,
+                "id": 25047009,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "CABA",
+                                "postalCode": "1425",
+                                "street1": "Palermo"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Maria Belen Stutz",
+                "numFollowers": 156,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Negociaci\u00f3n",
+                        "Negociaci\u00f3n Internacional",
+                        "Ventas Internaionales",
+                        "Exportaciones",
+                        "Consultor\u00eda",
+                        "Seminarios",
+                        "Capacitaciones",
+                        "Liderazgo",
+                        "Trabajo en equipo",
+                        "confidencialidad"
+                    ]
+                }
+            }
+        ]
+    }
+}

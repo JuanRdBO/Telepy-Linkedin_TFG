@@ -1,0 +1,64 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1887,
+                "id": 13671303,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Thiruvananthapuram",
+                                "postalCode": "695039",
+                                "street1": "MG Road, Near Spencer's,"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Muthoot Pappachan Group",
+                "numFollowers": 88,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Gold Loan",
+                        "Auto Loan",
+                        "Money Transfer",
+                        "Foreign Exchange",
+                        "Mutual Fund",
+                        "Demat Services",
+                        "MSME Loans",
+                        "Travel Services"
+                    ]
+                },
+                "websiteUrl": "http://www.muthoot.com"
+            }
+        ]
+    }
+}

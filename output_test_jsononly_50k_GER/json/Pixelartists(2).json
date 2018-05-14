@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12716924,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Herxheim bei Landau (Pfalz)",
+                                "postalCode": "76863",
+                                "street1": "11 Am Herrenweg"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bernd Lischke",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.pixelartists.eu"
+            }
+        ]
+    }
+}

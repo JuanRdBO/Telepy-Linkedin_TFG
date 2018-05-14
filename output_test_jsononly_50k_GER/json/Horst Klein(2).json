@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 14,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12292470,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6nigswinter",
+                                "postalCode": "53639",
+                                "street1": "4 Im Komp"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2244870646"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kunstwerkstatt Horst Klein",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.kunstwerkstatt.net"
+            }
+        ]
+    }
+}

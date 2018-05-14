@@ -1,0 +1,45 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 29,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 24546584,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Joinville",
+                                "postalCode": "89228-270",
+                                "street1": "R Ponte Serrada, 751, Loja"
+                            },
+                            "contactInfo": {
+                                "fax": "+55 4732073386",
+                                "phone1": "+55 4732073386"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Joao Carlos Machado 75083230925",
+                "numFollowers": 0,
+                "websiteUrl": "rushpizza.com.br"
+            }
+        ]
+    }
+}

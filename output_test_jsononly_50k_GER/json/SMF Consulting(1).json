@@ -1,0 +1,54 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 20,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 10440340,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "name": "SMF Consulting S.L",
+                "numFollowers": 14,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "ERP",
+                        "Openbravo",
+                        "CRM",
+                        "IT Consulting",
+                        "BI",
+                        "Magento",
+                        "E-Commerce",
+                        "Retail",
+                        "Software"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "smfconsulting.es"
+            }
+        ]
+    }
+}

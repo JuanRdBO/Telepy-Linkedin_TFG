@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12711807,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "G\u00f6nnheim",
+                                "postalCode": "67161",
+                                "street1": "38 Bismarckstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6322979770"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Netconfirm GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.netconfirm.de"
+            }
+        ]
+    }
+}

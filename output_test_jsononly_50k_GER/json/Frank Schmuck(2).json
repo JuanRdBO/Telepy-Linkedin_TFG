@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12516801,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hessisch Lichtenau",
+                                "postalCode": "37235",
+                                "street1": "12 Poststra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 56022695"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ideenreich Frank",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.ideenreich-frank.de"
+            }
+        ]
+    }
+}

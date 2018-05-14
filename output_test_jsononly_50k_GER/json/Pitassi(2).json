@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 9159965,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rancho Cucamonga",
+                                "postalCode": "91730-3860",
+                                "street1": "8439 White Oak Ave # 105"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 9099801361"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Pitassi Architects Inc",
+                "numFollowers": 5,
+                "websiteUrl": "http://pitassiarchitects.com/"
+            }
+        ]
+    }
+}

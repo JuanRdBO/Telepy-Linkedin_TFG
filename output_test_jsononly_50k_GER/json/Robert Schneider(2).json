@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 22,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7344298,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "14",
+                            "name": "Atenci\u00f3n sanitaria y hospitalaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Heidenheim an der Brenz",
+                                "postalCode": "89518",
+                                "street1": "18 Bahnhofstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0732122292"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Robert Schneider",
+                "numFollowers": 0,
+                "websiteUrl": "zahn-zeug.de"
+            }
+        ]
+    }
+}

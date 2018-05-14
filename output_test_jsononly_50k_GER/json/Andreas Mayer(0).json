@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7544604,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Heldenstein",
+                                "postalCode": "84431",
+                                "street1": "33 Lauterbach"
+                            },
+                            "contactInfo": {
+                                "phone1": "086367892"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Andreas Mayer-Kusterer Schreinerei",
+                "numFollowers": 1,
+                "websiteUrl": "mayer-kusterer.de"
+            }
+        ]
+    }
+}

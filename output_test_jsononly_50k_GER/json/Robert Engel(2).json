@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1991,
+                "id": 27212535,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Omaha",
+                                "postalCode": "68130",
+                                "street1": "2443 S 156 Circle"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Robert W. Engel & Associates Architects",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Multi-family housing",
+                        "Commercial, new construction",
+                        "Tenant finishes"
+                    ]
+                }
+            }
+        ]
+    }
+}

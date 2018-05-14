@@ -1,0 +1,61 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1925,
+                "id": 6075523,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "26",
+                            "name": "Mobiliario"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gruibingen",
+                                "postalCode": "73344",
+                                "street1": "Rechbergstra\u00dfe 7"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7335181180"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "moll Funktionsm\u00f6bel GmbH",
+                "numFollowers": 38,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Children Furniture",
+                        "Children desks",
+                        "Homeoffice"
+                    ]
+                },
+                "websiteUrl": "http://www.moll-funktion.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 6266633,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hohenstein-Ernstthal",
+                                "postalCode": "09337",
+                                "street1": "Altmarkt 33"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3723629653"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Maklerb\u00fcro Sven Weber",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.partner-in-versicherungen.de"
+            }
+        ]
+    }
+}

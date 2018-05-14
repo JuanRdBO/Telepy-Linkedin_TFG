@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1967,
+                "id": 22449003,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "117",
+                            "name": "Pl\u00e1sticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Minden",
+                                "postalCode": "32429",
+                                "street1": "Mitteldamm 65 a"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Gerhard Weber Kunststoff-Verarbeitung GmbH",
+                "numFollowers": 11,
+                "specialties": {
+                    "_total": 16,
+                    "values": [
+                        "Kunststoffbeh\u00e4lterbau",
+                        "Kunststoffapparate",
+                        "Anlagenbau",
+                        "Lagertanks Chemikalien",
+                        "Tanklager Chemikalien",
+                        "Gefahrstofflagerung",
+                        "Kunststoffbeh\u00e4lter",
+                        "Thermoplastische Beh\u00e4lter",
+                        "Lagerbeh\u00e4lter Chemikalien",
+                        "Beh\u00e4lter Vorbehandlung Feuerverzinkung",
+                        "Beh\u00e4lter Galvano- und Eloxaltechnik",
+                        "Wasseraufbereitung",
+                        "Chemieindustrie",
+                        "Pharmaindustrie",
+                        "Automobilindustrie",
+                        "Rohrleitungsbau"
+                    ]
+                },
+                "websiteUrl": "https://weber-kunststofftechnik.de/de/"
+            }
+        ]
+    }
+}

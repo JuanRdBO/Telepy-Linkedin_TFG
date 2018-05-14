@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12252337,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70176",
+                                "street1": "44 Hasenbergstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 71165677087"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Andreas Mayer, Grafik-Design",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.andreasmayer.com"
+            }
+        ]
+    }
+}

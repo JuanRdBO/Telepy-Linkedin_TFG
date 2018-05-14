@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 17,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12463945,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "22767",
+                                "street1": "Bernstorffstr. 117 E"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 4043097151"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Oliver Frank Artistmanagement",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.oliverfrank.biz"
+            }
+        ]
+    }
+}

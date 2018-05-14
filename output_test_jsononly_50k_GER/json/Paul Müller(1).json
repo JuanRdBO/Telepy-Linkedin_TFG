@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 31,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12249758,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dettingen an der Erms",
+                                "postalCode": "72581",
+                                "street1": "16 Schneidergasse"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Paul M\u00fcller",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.heizung-in-dettingen.de"
+            }
+        ]
+    }
+}

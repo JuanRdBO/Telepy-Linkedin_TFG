@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2009,
+                "id": 5058241,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Vienna",
+                                "postalCode": "1070",
+                                "street1": "Neustiftgasse 28"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ploner Communications e.U.",
+                "numFollowers": 84,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Kommunikation",
+                        "Social Media",
+                        "Marketing",
+                        "Web Development",
+                        "Mobile App Development",
+                        "Facebook App Development",
+                        "Photography & Filming",
+                        "Online Advertising",
+                        "Graphic Design & Animation",
+                        "Digital Marketing Strategies"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.ploner-communications.com"
+            }
+        ]
+    }
+}

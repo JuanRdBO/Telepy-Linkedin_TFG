@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 45,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2002,
+                "id": 9463642,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80331",
+                                "street1": "Kaufingerstr. 20"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0) 89 189047499",
+                                "phone1": "+49 (0) 89 18904740"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "CM-Equity AG",
+                "numFollowers": 131,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Corporate Finance",
+                        "Asset Management",
+                        "Fund raising through public and private placement, including IPO, additional public offering",
+                        "Cloud-base trading platform",
+                        "Capital markets consulting",
+                        "Investor networking"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.cm-equity.de/"
+            }
+        ]
+    }
+}

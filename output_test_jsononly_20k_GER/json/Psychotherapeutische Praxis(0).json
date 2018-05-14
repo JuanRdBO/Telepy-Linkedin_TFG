@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 73,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2001,
+                "id": 1910702,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "139",
+                            "name": "Atenci\u00f3n a la salud mental"
+                        }
+                    ]
+                },
+                "name": "Psychotherapeutische Praxis",
+                "numFollowers": 301,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Verhaltenstherapie, Traumatherapie",
+                        "EMDR, Brainspotting, Energetische Psychotherapie",
+                        "Familientherapie",
+                        "Supervision"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.praxis-boeber.com"
+            }
+        ]
+    }
+}

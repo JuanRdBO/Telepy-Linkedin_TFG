@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12881711,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ahrensburg",
+                                "postalCode": "22926",
+                                "street1": "17 Lohe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Carsten Kohlsaat",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.kohlsaat-steuerberater.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2010,
+                "id": 1476896,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "107",
+                            "name": "Organizaci\u00f3n pol\u00edtica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Franklin",
+                                "postalCode": "46131",
+                                "street1": "348 W. Madison St."
+                            },
+                            "contactInfo": {
+                                "phone1": "(317) 509-3232"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Alvey For Franklin",
+                "numFollowers": 12,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "LEADERSHIP",
+                        "Fiscal Responsibility",
+                        "Integrity",
+                        "Good Government"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "http://twitter.com/#!/BrianMAlvey"
+            }
+        ]
+    }
+}

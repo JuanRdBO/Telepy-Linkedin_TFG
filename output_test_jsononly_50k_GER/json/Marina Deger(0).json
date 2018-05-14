@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1964,
+                "id": 126121,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Istanbul",
+                                "postalCode": "",
+                                "street1": "K\u0131s\u0131kl\u0131 caddesi No 26 Altunizade"
+                            },
+                            "contactInfo": {
+                                "fax": "+902123686878",
+                                "phone1": "+902165543700"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Setur",
+                "numFollowers": 6692,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Domestic and international tour operations,congress and seminar organizations,",
+                        "IATA flight tickets sales",
+                        "incoming and outgoing",
+                        "duty free operations"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.setur.com.tr"
+            }
+        ]
+    }
+}

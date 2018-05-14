@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12263588,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Binz",
+                                "postalCode": "18609",
+                                "street1": "D\u00fcnenstra\u00dfe 34C"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3839333949"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dirk Meyer Immobilien GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.meyer-immobilien24.de"
+            }
+        ]
+    }
+}

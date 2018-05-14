@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 14,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12849160,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rostock",
+                                "postalCode": "18106",
+                                "street1": "58 Kolumbusring"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3811218559"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Michael Drews",
+                "numFollowers": 1,
+                "websiteUrl": "http://michael-drews.devk.de"
+            }
+        ]
+    }
+}

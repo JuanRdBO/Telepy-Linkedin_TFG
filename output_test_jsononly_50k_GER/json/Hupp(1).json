@@ -1,0 +1,80 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 42,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 2011,
+                "id": 10339617,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "15",
+                            "name": "Industria farmac\u00e9utica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Constantine",
+                                "postalCode": "25000",
+                                "street1": "La zone industrielle PALMA N\u00b050 Wilaya de Constantine"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "031 66 97 97"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Alger",
+                                "postalCode": "16000",
+                                "street1": "Cit\u00e9 Mohamed Bouchekir Lot N\u00b008 Groupe Y DAR EL BEIDA"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "HUPP Pharma Distribution",
+                "numFollowers": 570,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Distribution pharmaceutique",
+                        "Sant\u00e9",
+                        "medecine"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.hupp-distribution.com"
+            }
+        ]
+    }
+}

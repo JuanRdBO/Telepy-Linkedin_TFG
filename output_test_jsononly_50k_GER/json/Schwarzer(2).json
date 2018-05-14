@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 163,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12280559,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Essen",
+                                "postalCode": "45141",
+                                "street1": "7 Am Lichtbogen"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 201316970"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Schwarzer Precision GmbH Co. KG",
+                "numFollowers": 12,
+                "websiteUrl": "http://www.schwarzer.com"
+            }
+        ]
+    }
+}

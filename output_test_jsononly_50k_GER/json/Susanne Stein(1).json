@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1971,
+                "id": 11370994,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Odense NV",
+                                "postalCode": "5210",
+                                "street1": "Rug\u00e5rdsvej 406"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Anl\u00e6gsgartnerfirmaet E. Stein Frandsen ApS",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 19,
+                    "values": [
+                        "Legepladser og multibaner",
+                        "Boligforeninger",
+                        "Private haver",
+                        "Erhverv og virksomheder",
+                        "Offentlige institutioner",
+                        "Gr\u00f8nne tage",
+                        "Kirker",
+                        "Glatf\u00f8rebek\u00e6mpelse",
+                        "Snerydning",
+                        "Bel\u00e6gningsarbejde",
+                        "Gr\u00f8nne omr\u00e5der",
+                        "Udend\u00f8rearealer",
+                        "Haveplanl\u00e6gning",
+                        "Trapper og st\u00f8ttemure",
+                        "Hegn",
+                        "Tr\u00e6f\u00e6ldning og stubfr\u00e6sning",
+                        "Gr\u00e6setablering",
+                        "R\u00e5dgivning",
+                        "Havetegning"
+                    ]
+                },
+                "websiteUrl": "https://www.steinfrandsen.dk/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2013,
+                "id": 10455116,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Belp",
+                                "postalCode": "3123",
+                                "street1": "Rubigenstrasse 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "M\u00fcnsingen",
+                                "postalCode": "3110",
+                                "street1": "Postfach M\u00fcnsingen"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Hexacon-mss",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Facility Services",
+                        "Liegenschaftsdienst",
+                        "Geb\u00e4udereinigung",
+                        "Gr\u00fcnfl\u00e4chenunterhalt",
+                        "Abfallbewirtschaftung",
+                        "Geb\u00e4udeunterhalt",
+                        "Business Support",
+                        "Spezialreinigungen",
+                        "Transporte",
+                        "Produkte"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.facilityservices-bern.ch"
+            }
+        ]
+    }
+}

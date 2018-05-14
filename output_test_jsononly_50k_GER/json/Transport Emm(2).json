@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2011,
+                "id": 3810234,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Tarpon Springs",
+                                "postalCode": "34685",
+                                "street1": "334 East Lake Road #359"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "727-266-5050"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "JAPEC, Inc.",
+                "numFollowers": 5,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Enterprise Technology / Software Sales",
+                        "Multi-Vertical Enterprise Mobility Strategy",
+                        "MDM / EMM / MAM / MCM (Rugged & Cons)",
+                        "Sales Channel Program Development",
+                        "Enterprise Sales Process Dev / Growth Mgmnt",
+                        "Complex Retail E-Commerce & Mobility Enablement"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.JAPECinc.com"
+            }
+        ]
+    }
+}

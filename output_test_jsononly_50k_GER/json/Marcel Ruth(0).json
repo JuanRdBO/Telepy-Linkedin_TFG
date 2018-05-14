@@ -1,0 +1,53 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "foundedYear": 2000,
+                "id": 18474293,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "90",
+                            "name": "Organizaci\u00f3n c\u00edvica y social"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lienden",
+                                "postalCode": "4033",
+                                "street1": "De Nagraaf 5"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Oranjevereniging Lienden",
+                "numFollowers": 1,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Koningsdag",
+                        "Oranjevereniging",
+                        "Lienden"
+                    ]
+                },
+                "websiteUrl": "http://www.oranjevereniginglienden.nl"
+            }
+        ]
+    }
+}

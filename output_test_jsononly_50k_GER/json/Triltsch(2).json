@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7531805,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "L\u00fcbeck",
+                                "postalCode": "23552",
+                                "street1": "6 Holstenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "045139778877"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rechtsanwalt Dr. Triltsch",
+                "numFollowers": 0,
+                "websiteUrl": "triltsch-recht.de"
+            }
+        ]
+    }
+}

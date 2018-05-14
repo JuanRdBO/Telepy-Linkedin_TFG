@@ -1,0 +1,57 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2015,
+                "id": 10204915,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "name": "Ad Venture \u0130nternet ve Pazarlama A.\u015e",
+                "numFollowers": 73,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Affiliate Marketing",
+                        "Cost Per Action (CPA)",
+                        "Mobile Marketing",
+                        "Cost Per Sale (CPS)",
+                        "Cost Per Click (CPC)",
+                        "Performance Marketing",
+                        "Cost Per Dowload (CPD)",
+                        "Digital Marketing",
+                        "Cost Per Install (CPI)",
+                        "Cost Per View (CPV)",
+                        "Cost Per Lead (CPL)"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://ad-venture.com.tr/"
+            }
+        ]
+    }
+}

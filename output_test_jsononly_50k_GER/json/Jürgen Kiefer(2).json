@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7564045,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Breuberg",
+                                "postalCode": "64747",
+                                "street1": "13 Leonhard-Herbert-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "06163912580"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hans-J\u00fcrgen Kiefer",
+                "numFollowers": 0,
+                "websiteUrl": "ms-kiefer.de"
+            }
+        ]
+    }
+}

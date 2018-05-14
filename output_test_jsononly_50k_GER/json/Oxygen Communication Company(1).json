@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 26,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2000,
+                "id": 9416576,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "4",
+                            "name": "Programas inform\u00e1ticos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Alexandria",
+                                "postalCode": "22314",
+                                "street1": "901 N. Pitt St, Suite 100"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Oxygen Forensics, Inc.",
+                "numFollowers": 457,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Mobile Forensic",
+                        "Forensic Kit",
+                        "Data extracting",
+                        "Mobile data Analyzing",
+                        "iOS, Android, Windows Phone, BlackBerry operating systems",
+                        "Cloud Services / App Data Extractions"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.oxygen-forensic.com"
+            }
+        ]
+    }
+}

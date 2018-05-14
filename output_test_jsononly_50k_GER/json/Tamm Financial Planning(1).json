@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2006,
+                "id": 9317593,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Westport",
+                                "postalCode": "06880",
+                                "street1": "88 Clapboard Hill Rd"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "917-363-2118"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "StrongOak",
+                "numFollowers": 17,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Financial Planning & Analysis",
+                        "Operational Restructuring",
+                        "Capital Raising",
+                        "Family Office"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.strongoak.com"
+            }
+        ]
+    }
+}

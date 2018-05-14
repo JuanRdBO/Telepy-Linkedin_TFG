@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 30,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 11307235,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "105",
+                            "name": "Formaci\u00f3n profesional"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "83088",
+                                "postalCode": "Kiefersfelden",
+                                "street1": "Egelseeweg 8c"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": " 81667",
+                                "street1": "Belfortstr. 3"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Demin Coaching + Consulting",
+                "numFollowers": 2,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Leadership",
+                        "systemisches Coaching",
+                        "Eignungsdiagnostik",
+                        "Coaching mit Sport",
+                        "Boxcoaching",
+                        "Systemisches Coaching",
+                        "F\u00fchrungskr\u00e4ftecoaching",
+                        "Teamentwicklung"
+                    ]
+                },
+                "websiteUrl": "www.demin-consulting.com"
+            }
+        ]
+    }
+}

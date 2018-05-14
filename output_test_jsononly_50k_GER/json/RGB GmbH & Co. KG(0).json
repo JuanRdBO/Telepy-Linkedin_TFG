@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1925,
+                "id": 3853340,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "133",
+                            "name": "Venta al por mayor"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Nuremberg",
+                                "postalCode": "90425",
+                                "street1": "Eltersdorfer Stra\u00c3\u009fe 7. Nuremberg, \u00a090425. Germany"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 911934080"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "BECK GmbH & Co. Elektronik Bauelemente KG",
+                "numFollowers": 57,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Systemintegrator",
+                        "Capacitors ",
+                        "TFT",
+                        "Relay",
+                        "Open Frame Monitor",
+                        "MLCC",
+                        "Touch",
+                        "LCD",
+                        "LVDS",
+                        "Optical Bonding",
+                        "Automotive ",
+                        "Industrial ",
+                        "PCAP",
+                        "RGB"
+                    ]
+                },
+                "websiteUrl": "www.beck-elektronik.de"
+            }
+        ]
+    }
+}

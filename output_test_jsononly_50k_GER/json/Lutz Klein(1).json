@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7493712,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Greifenstein",
+                                "postalCode": "35753",
+                                "street1": "12 Am Kl\u00f6seberg"
+                            },
+                            "contactInfo": {
+                                "phone1": "0277951010"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "OCS Telefonbau Inh. Lutz Klein",
+                "numFollowers": 2,
+                "websiteUrl": "ocs-gmbh.com"
+            }
+        ]
+    }
+}

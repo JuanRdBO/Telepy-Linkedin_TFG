@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 8355901,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "N\u00fcrnberg",
+                                "postalCode": "90443",
+                                "street1": "Ulmenstra\u00dfe 52"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 91147776"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Voigtmann GmbH",
+                "numFollowers": 13,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Apps f\u00fcr Smartphone und Tabletts",
+                        "Browser-basierte Anwendungen",
+                        "Software f\u00fcr die Medizentechnik",
+                        "Tele-medizinische Anwendungen",
+                        "Software f\u00fcr die Medizintechnik",
+                        "Augmented Reality"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.voigtmann.de"
+            }
+        ]
+    }
+}

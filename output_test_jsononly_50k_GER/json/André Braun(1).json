@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7511668,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Muenchen",
+                                "postalCode": "80339",
+                                "street1": "142 Westendstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "08932167490"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Andr\u00e9 Braun Geb\u00e4udereinigung & Service",
+                "numFollowers": 1,
+                "websiteUrl": "abg-service.com"
+            }
+        ]
+    }
+}

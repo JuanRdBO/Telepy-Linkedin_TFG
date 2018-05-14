@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12846225,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Offenburg",
+                                "postalCode": "77652",
+                                "street1": "108 Hauptstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 78124338"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Karl-Heinz Weck",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.jagdschule-weck.de"
+            }
+        ]
+    }
+}

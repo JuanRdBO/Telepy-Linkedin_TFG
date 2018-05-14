@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2017,
+                "id": 18104174,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "22765",
+                                "street1": "Max-Brauer-Allee 24"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "wsr training GbR | Gesundheit & Organisation f\u00fcr Kanzleien",
+                "numFollowers": 0,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Changemanagement ",
+                        "Zeitmanagement",
+                        "Selbstmanagement",
+                        "Gesund F\u00fchren",
+                        "Teamentwicklung",
+                        "Organisationsentwicklung",
+                        "Lern- & Wissensmanagement",
+                        "Krisenintervention",
+                        "Wiedereingliederung",
+                        "Coaching"
+                    ]
+                },
+                "websiteUrl": "http:www.wsr-training.de"
+            }
+        ]
+    }
+}

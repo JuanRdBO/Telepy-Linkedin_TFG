@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7544125,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "92",
+                            "name": "Transporte por carretera o ferrocarril"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Neunburg v. Wald",
+                                "postalCode": "92431",
+                                "street1": "4 Neunburger Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "096724264"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Michael Schindler Transporte",
+                "numFollowers": 0,
+                "websiteUrl": "transporte-schindler.de"
+            }
+        ]
+    }
+}

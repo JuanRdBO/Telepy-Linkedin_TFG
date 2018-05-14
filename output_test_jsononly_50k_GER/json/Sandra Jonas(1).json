@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2015,
+                "id": 18343574,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sion",
+                                "postalCode": "1950",
+                                "street1": "Route de la Drague 58"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "RealFly",
+                "numFollowers": 9,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Simulateur de chute-libre indoor",
+                        "Wind Tunnel",
+                        "Indoor Skydiving",
+                        "Loisirs",
+                        "Team Building",
+                        "Events",
+                        "Birthday parties",
+                        "Tourisme",
+                        "Sport",
+                        "Sorties d'entreprise"
+                    ]
+                },
+                "websiteUrl": "https://realfly.ch"
+            }
+        ]
+    }
+}

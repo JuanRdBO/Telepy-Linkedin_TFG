@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 1406,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1991,
+                "id": 1739467,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "138",
+                            "name": "Material y equipo de negocios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "R\u00f8dovre",
+                                "postalCode": "2610",
+                                "street1": "Roskildevej 260"
+                            },
+                            "contactInfo": {
+                                "fax": "+45 3672 2702",
+                                "phone1": "+45 36722700"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Sommer as",
+                "numFollowers": 21,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "iPhone diktering",
+                        "Diktering",
+                        "Digital diktering",
+                        "diktafon"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.sommer-as.dk/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 799,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2000,
+                "id": 18579584,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "ELBASAN",
+                                "postalCode": "3001",
+                                "street1": "Rruga Rinia"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Pc-Point & Smart Home",
+                "numFollowers": 3,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "hardware repair",
+                        "software installation",
+                        "android format",
+                        "network consulant",
+                        "operation system ",
+                        "ios format repair ",
+                        "back up and restore , recover OS",
+                        "computer store",
+                        "laptop store ",
+                        "electronic store ",
+                        "camera ip, wifi , security system "
+                    ]
+                },
+                "websiteUrl": "http://pc-point-smart-home.business.site/"
+            }
+        ]
+    }
+}

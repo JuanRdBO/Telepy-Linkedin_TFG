@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 2011,
+                "id": 13263730,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "146",
+                            "name": "Embalaje y contenedores\n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gaziantep",
+                                "postalCode": "27600",
+                                "street1": "2. Organize Sanayi B\u00f6lgesi 83226 Nolu Cadde No:8 Ba\u015fp\u0131nar / GAZ\u0130ANTEP / TURKEY"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "GULER SENTETIK CUVAL ",
+                "numFollowers": 32,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Polypropylene Woven Bags",
+                        "BOPP Bags",
+                        "Polypropylene Woven Fabric",
+                        "Starlinger Production line",
+                        "Six Colors printing",
+                        "Transparent, White or Colorful PP Bags"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.gulercuval.com"
+            }
+        ]
+    }
+}

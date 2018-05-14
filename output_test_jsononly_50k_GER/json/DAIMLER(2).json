@@ -1,0 +1,107 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 744,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1942,
+                "id": 2263179,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Portland",
+                                "postalCode": "97217",
+                                "street1": "4555 N Channel Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(503) 745-8000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Ft. Mill",
+                                "postalCode": "29715-6942",
+                                "street1": "2477 Deerfield Rd."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(803) 578-3000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "High Point",
+                                "postalCode": "27260",
+                                "street1": "1408 Courtesy Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(336) 889-4871"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Ft. Mill",
+                                "postalCode": "29715-6942",
+                                "street1": "2477 Deerfield Rd."
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(803) 578-3000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Daimler Trucks North America",
+                "numFollowers": 39214,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Manufacturing",
+                        "Engines",
+                        "Trucks",
+                        "Transportation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "DaimlerTrucksNA",
+                "websiteUrl": "http://www.daimler-trucksnorthamerica.com/"
+            }
+        ]
+    }
+}

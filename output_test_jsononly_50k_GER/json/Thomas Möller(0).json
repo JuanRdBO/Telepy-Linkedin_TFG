@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 13,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12730196,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dortmund",
+                                "postalCode": "44388",
+                                "street1": "Werner Str. 12A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2316180250"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas M\u00f6ller Steuerberater",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.steuerberater-moeller.de"
+            }
+        ]
+    }
+}

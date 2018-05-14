@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1994,
+                "id": 2533089,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "47",
+                            "name": "Contabilidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "W1H 2EJ",
+                                "street1": "London"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+44 (0) 20 7724 8824"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Cameron Baum",
+                "numFollowers": 142,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Tax Investigations",
+                        "Audit",
+                        "Tax Compliance",
+                        "Accounts",
+                        "Outsourced Financial Director",
+                        "Credit Analysis"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.cameronbaum.co.uk/"
+            }
+        ]
+    }
+}

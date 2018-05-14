@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12512618,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Salzgitter",
+                                "postalCode": "38259",
+                                "street1": "10 Erikastra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 534135010"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr.-Klaus-Schmidt-Hauptschule",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.dr-klaus-schmidt-hauptschule.de"
+            }
+        ]
+    }
+}

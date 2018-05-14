@@ -1,0 +1,110 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 14,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1996,
+                "id": 29833,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Z\u00fcrich",
+                                "postalCode": "8048",
+                                "street1": "Baslerstrasse 60"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "street1": "Orleansstra\u00dfe 6"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Bern",
+                                "postalCode": "3007",
+                                "street1": "Belpstrasse 48"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Karlsruhe",
+                                "postalCode": "76133",
+                                "street1": "Kaiserstra\u00dfe 201"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {},
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Unic",
+                "numFollowers": 2318,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Digital Marketing",
+                        "Brand Websites",
+                        "Corporate Portals",
+                        "Content Marketing",
+                        "Digital Campaigns",
+                        "Digital Commerce",
+                        "Omnichannel Commerce",
+                        "Onlineshops",
+                        "Conversion & Personalisation",
+                        "Product Information Management",
+                        "Digital Analytics",
+                        "Social Media",
+                        "E-Mail Marketing",
+                        "Mobile"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "unic_ag",
+                "websiteUrl": "http://www.unic.com"
+            }
+        ]
+    }
+}

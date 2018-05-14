@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1999,
+                "id": 3761938,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "26",
+                            "name": "Mobiliario"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Crawley",
+                                "postalCode": "RH10 9NT",
+                                "street1": "Unit 6, Metana House,"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "01293 510553"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wave Office LTD",
+                "numFollowers": 77,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Office Furniture",
+                        "Office Refurbishment",
+                        "Office Builds",
+                        "Office Stationery"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.wave-office.co.uk"
+            }
+        ]
+    }
+}

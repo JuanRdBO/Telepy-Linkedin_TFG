@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2003,
+                "id": 1563182,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "78",
+                            "name": "Protecci\u00f3n civil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oceanside",
+                                "postalCode": "92056",
+                                "street1": "3528 Seagate Way, Ste 100"
+                            },
+                            "contactInfo": {
+                                "fax": "760-433-3650",
+                                "phone1": "844-369-"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "FoxFury Lighting Solutions",
+                "numFollowers": 253,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Hands-Free LED Lighting Solutions",
+                        "Forensic Alternate Light Sources",
+                        "Portable Rechargeable Area-Spot Lights",
+                        "Intrinsically Safe Headlamps",
+                        "LED Riot Shield Lights",
+                        "360 degree scene lights",
+                        "Portable scene lighting",
+                        "Professional headlamps"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.foxfury.com"
+            }
+        ]
+    }
+}

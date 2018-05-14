@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 5,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12857579,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Appen",
+                                "postalCode": "25482",
+                                "street1": "12 Hasenkamp"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 4101780580"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Bernd Fischer Maschinenteile",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.fischer-maschinenteile.de"
+            }
+        ]
+    }
+}

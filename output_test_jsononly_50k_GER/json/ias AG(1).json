@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2004,
+                "id": 18335408,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "138",
+                            "name": "Material y equipo de negocios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Balerna ",
+                                "postalCode": "CH-6828",
+                                "street1": "Via San Gottardo 112"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "IAS Register AG",
+                "numFollowers": 16,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Assessment",
+                        "Inspection",
+                        "Knowledge",
+                        "Certificazione",
+                        "Ispezione",
+                        "Formazione",
+                        "Compliance"
+                    ]
+                },
+                "websiteUrl": "http://ias-register.com"
+            }
+        ]
+    }
+}

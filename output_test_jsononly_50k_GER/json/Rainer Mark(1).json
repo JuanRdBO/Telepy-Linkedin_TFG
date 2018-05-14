@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 9255032,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "86",
+                            "name": "Servicios medioambientales"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Santiago",
+                                "postalCode": "",
+                                "street1": "Domeyko 1864,"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "METEODATA",
+                "numFollowers": 124,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Pron\u00f3stico de Calidad del Aire",
+                        "Pron\u00f3stico Meteorol\u00f3gico",
+                        "Simulaci\u00f3n Atmosf\u00e9rica",
+                        "Sistemas de Observaci\u00f3n",
+                        "Evaluaci\u00f3n Ambiental"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.meteodata.cl"
+            }
+        ]
+    }
+}

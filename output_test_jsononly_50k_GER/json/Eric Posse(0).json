@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2004,
+                "id": 11014199,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "82",
+                            "name": "Publicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Roma",
+                                "postalCode": "00196",
+                                "street1": "Via Maria Adelaide, 12"
+                            },
+                            "contactInfo": {
+                                "fax": "+39 06 45439159",
+                                "phone1": "+39 06 45439018"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dragolab",
+                "numFollowers": 16,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Art",
+                        "Contemporary art",
+                        "Street art",
+                        "Street photography",
+                        "Press",
+                        "Publishing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.dragolab.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1971,
+                "id": 13232181,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "83",
+                            "name": "Imprenta"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Flintsbach",
+                                "postalCode": "83126",
+                                "street1": "Kufsteiner Stra\u00dfe 101"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rapp-Druck GmbH",
+                "numFollowers": 6,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Offsetdruck",
+                        "Druckveredelung",
+                        "Lettershop",
+                        "Versandabwicklung",
+                        "Papierberatung",
+                        "Lagerhaltung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.rapp-druck.de"
+            }
+        ]
+    }
+}

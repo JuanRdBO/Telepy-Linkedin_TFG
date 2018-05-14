@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1972,
+                "id": 2245385,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "58",
+                            "name": "Construcci\u00f3n naval"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sezze",
+                                "postalCode": "04018",
+                                "street1": "Via Aldo Manuzio"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Allufer Tempesta",
+                "numFollowers": 239,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "marine hardware",
+                        "deck doors and equipment manufacturer",
+                        "design and engineering",
+                        "commissioning and after sale services",
+                        "yacht supply",
+                        "naval and commercial supply"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.allufertempesta.com"
+            }
+        ]
+    }
+}

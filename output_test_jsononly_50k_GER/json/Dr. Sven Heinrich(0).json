@@ -1,0 +1,88 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1969,
+                "id": 2399432,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "137",
+                            "name": "Recursos humanos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70182",
+                                "street1": "Werastra\u00dfe 21"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {},
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Stuttgart",
+                                "postalCode": "70182",
+                                "street1": "Werastrasse 21"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Dr. Maier + Partner GmbH I Executive Search",
+                "numFollowers": 760,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Executive Search international",
+                        "Career Consulting",
+                        "HR Consulting",
+                        "Executive Coaching",
+                        "Personalberatung",
+                        "Unternehmensnachfolge",
+                        "Bei- und Aufsichtsr\u00e4te",
+                        "Direktansprache",
+                        "Potenzialanalyse",
+                        "Personalmarketing",
+                        "Employer Branding",
+                        "Anzeigenschaltung",
+                        "Interim Management"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.drmaier-partner.de"
+            }
+        ]
+    }
+}

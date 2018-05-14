@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 9,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12674390,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frauenstein",
+                                "postalCode": "09623",
+                                "street1": "26 Freiberger Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 373261230"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Autohaus Klaus Wolf GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.kia-wolf-frauenstein.de"
+            }
+        ]
+    }
+}

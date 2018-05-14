@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12797948,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Langenhagen",
+                                "postalCode": "30851",
+                                "street1": "73 Walsroder Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 5117633580"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Michael B\u00f6ddener",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.boeddener24.de"
+            }
+        ]
+    }
+}

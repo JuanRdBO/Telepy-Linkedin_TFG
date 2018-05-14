@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1961,
+                "id": 71885,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10001",
+                                "street1": "151 West 26th Street"
+                            },
+                            "contactInfo": {
+                                "fax": "(212) 924-5377",
+                                "phone1": "(212) 647-1100"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Theatreworks USA",
+                "numFollowers": 2261,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "theater",
+                        "children",
+                        "family",
+                        "young audiences",
+                        "arts-in-education",
+                        "teaching artists"
+                    ]
+                },
+                "websiteUrl": "www.twusa.org"
+            }
+        ]
+    }
+}

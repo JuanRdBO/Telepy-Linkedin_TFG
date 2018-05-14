@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 53,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7536977,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "N\u00fcrnberg",
+                                "postalCode": "90441",
+                                "street1": "17 Schlehdornweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "0911426463"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Thomas Walter - Containerdienst",
+                "numFollowers": 1,
+                "websiteUrl": "walter-container.de"
+            }
+        ]
+    }
+}

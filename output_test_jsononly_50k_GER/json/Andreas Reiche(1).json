@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12415671,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "6",
+                            "name": "Internet"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Trier",
+                                "postalCode": "54292",
+                                "street1": "14 Herzogenbuscher Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 65184031122"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rdts Ag",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.rdtsag.de"
+            }
+        ]
+    }
+}

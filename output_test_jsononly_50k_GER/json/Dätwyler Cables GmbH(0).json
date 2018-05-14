@@ -1,0 +1,81 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1997,
+                "id": 18513466,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "112",
+                            "name": "Manufactura el\u00e9ctrica y electr\u00f3nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sofia",
+                                "postalCode": "1000",
+                                "street1": "20 Akademik Georgi Bonchev, Sofia, Bulgaria"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Burgas",
+                                "postalCode": "8000",
+                                "street1": "37 Khan Krum, Burgas, Bulgaria"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Kimtech Bulgaria LTD",
+                "numFollowers": 11,
+                "specialties": {
+                    "_total": 15,
+                    "values": [
+                        "Pentair Thermal Management",
+                        "Tyco Electronics Raychem GmbH",
+                        "Schramm",
+                        "Seal for Life",
+                        "ELEKTRA",
+                        "D\u00e4twyler Cable GmbH",
+                        "Elprom Trafo",
+                        "EFACEC",
+                        "SIEMENS",
+                        "power cables",
+                        "TF Kable",
+                        "Doyma",
+                        "Novcabel",
+                        "anodeflex",
+                        "EAE Group"
+                    ]
+                },
+                "websiteUrl": "http://kimtech.bg/en/"
+            }
+        ]
+    }
+}

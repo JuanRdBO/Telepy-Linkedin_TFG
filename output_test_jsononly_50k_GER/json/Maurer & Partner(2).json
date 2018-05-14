@@ -1,0 +1,99 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 18,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1997,
+                "id": 3739926,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "41",
+                            "name": "Actividades bancarias"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Manitowoc",
+                                "postalCode": "54220",
+                                "street1": "860 North Rapids Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Stevens Point",
+                                "postalCode": "54482",
+                                "street1": "5517 Vern Holmes Dr."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Appleton",
+                                "postalCode": "54912",
+                                "street1": "5643 Waterford Lane"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Green Bay",
+                                "postalCode": "54305",
+                                "street1": "960 Hansen Road"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Investors Community Bank",
+                "numFollowers": 755,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Business banking",
+                        "Agricultural banking",
+                        "Relationship banking",
+                        "Remote deposit capture",
+                        "Lending services",
+                        "Agribusiness",
+                        "Cash management",
+                        "Commercial lending"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.investorscommunitybank.com"
+            }
+        ]
+    }
+}

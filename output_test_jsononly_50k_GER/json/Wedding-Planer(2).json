@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 14,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2001,
+                "id": 1706487,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "115",
+                            "name": "M\u00fasica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Minneapolis",
+                                "postalCode": "55414",
+                                "street1": "2828 University Av. SE"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "612-845-1970"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Pianist for Parties",
+                "numFollowers": 94,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "wedding pianist",
+                        "musician",
+                        "corporate event pianist",
+                        "live music",
+                        "cocktail pianist",
+                        "solo pianist",
+                        "event pianist"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "http://twitter.com/pianist4parties",
+                "websiteUrl": "http://pianistforparties.com/"
+            }
+        ]
+    }
+}

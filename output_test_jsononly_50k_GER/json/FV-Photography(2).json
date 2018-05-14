@@ -1,0 +1,81 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2013,
+                "id": 6432241,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "38",
+                            "name": "Bellas Artes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Antwerpen",
+                                "postalCode": "2018",
+                                "street1": "Sint-Jozefstraat 35"
+                            },
+                            "contactInfo": {
+                                "fax": "1993",
+                                "phone1": "+3232236970"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Antwerpen",
+                                "postalCode": "2060",
+                                "street1": "Kerkstraat 45"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+3232722541"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Creatica FV",
+                "numFollowers": 7,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Kunst en Cultuur",
+                        "Juweelontwerp | Edelsmeedkunst",
+                        "Grafisch Ontwerp",
+                        "Vrije Kunsten"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.creatica-antwerpen.be"
+            }
+        ]
+    }
+}

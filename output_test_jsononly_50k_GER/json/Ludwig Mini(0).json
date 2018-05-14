@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2000,
+                "id": 5087790,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "31",
+                            "name": "Hosteler\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Solwezi",
+                                "postalCode": "10101",
+                                "street1": "Plot 1181 Independence Avenue"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Floriana Lodge",
+                "numFollowers": 10,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Accommodation",
+                        "Spa Services",
+                        "Restaurant",
+                        "Bar",
+                        "Events",
+                        "Weddings",
+                        "Bridal Parties",
+                        "Garden",
+                        "Swimming Pool"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.florianalodges.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12427333,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "5",
+                            "name": "Interconexi\u00f3n en red"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kronau",
+                                "postalCode": "76709",
+                                "street1": "12 Hintergasse"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 72533099"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Tobias Hoffmann",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.zahnarzt-kronau.de"
+            }
+        ]
+    }
+}

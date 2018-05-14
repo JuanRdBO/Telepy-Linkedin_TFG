@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 242,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12285138,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Memmingen",
+                                "postalCode": "87700",
+                                "street1": "2 Kramerstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 83314210"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Baugesellschaft MbH Memmingen",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.bg-mm.de"
+            }
+        ]
+    }
+}

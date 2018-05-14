@@ -1,0 +1,75 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 14,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2010,
+                "id": 3361806,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "115",
+                            "name": "M\u00fasica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10018",
+                                "street1": "561 7th Avenue, 8th Floor"
+                            },
+                            "contactInfo": {
+                                "fax": "212.921.1090",
+                                "phone1": "212.921.1080"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Element Music",
+                "numFollowers": 563,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Live Music & Entertainment",
+                        "Event Production",
+                        "Weddings",
+                        "Charity Galas",
+                        "Bar/Bat Mitzvahs",
+                        "Corporate Events",
+                        "Birthday Blowouts",
+                        "Music Industry Events",
+                        "Fashion Launches",
+                        "International Events",
+                        "Anniversaries"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.elementmusic.com/"
+            }
+        ]
+    }
+}

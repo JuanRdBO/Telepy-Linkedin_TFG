@@ -1,0 +1,91 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 19,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2007,
+                "id": 849687,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sydney",
+                                "postalCode": "2021",
+                                "street1": "88 Oxford Street Paddington"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+61 2 83949779"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Stuttgart,",
+                                "postalCode": "70191",
+                                "street1": "Wolframstra\u00dfe 20B,"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "Phone:+49 71172232901"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin,",
+                                "postalCode": "10405",
+                                "street1": "Saarbr\u00fccker Strasse 24 - Haus D,"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 30 473 747 180"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "LAVA (Laboratory for Visionary Architecture)",
+                "numFollowers": 994,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Architecture"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "l-a-v-a.net"
+            }
+        ]
+    }
+}

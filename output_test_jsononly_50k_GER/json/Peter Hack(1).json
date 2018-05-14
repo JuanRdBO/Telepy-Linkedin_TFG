@@ -1,0 +1,50 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "A",
+                    "name": "myself only"
+                },
+                "foundedYear": 2016,
+                "id": 18321285,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "130",
+                            "name": "Gabinetes estrat\u00e9gicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Seoul",
+                                "postalCode": "06236",
+                                "street1": "Gangnam"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Joo Youngmin Research Insight",
+                "numFollowers": 2
+            }
+        ]
+    }
+}

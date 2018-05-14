@@ -1,0 +1,76 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10333,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1919,
+                "id": 1340681,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "63",
+                            "name": "Agricultura"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Alberti",
+                                "postalCode": "6634",
+                                "street1": "Criadero Klein, Argentina"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "02346 499701"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Klein Semillas de Trigo",
+                "numFollowers": 1794,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "SEMILLAS",
+                        "TRIGO",
+                        "REGALIA",
+                        "PROPIEDAD INTELECTUAL",
+                        "REGALIA EXTENDIDA",
+                        "TRIGO KLEIN",
+                        "KLEIN",
+                        "KLEIN SEMILLAS",
+                        "SEMILLA TRIGO",
+                        "SEMILLA SOJA",
+                        "CALIDAD INDUSTRIAL",
+                        "CALIDAD COMERCIAL"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.trigoklein.com.ar"
+            }
+        ]
+    }
+}

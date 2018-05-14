@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 30,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 5070964,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "31",
+                            "name": "Hosteler\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lugano",
+                                "postalCode": "6901",
+                                "street1": "Direzione Fam. Fadani-Eidenberger"
+                            },
+                            "contactInfo": {
+                                "fax": "+41 (0)91 922 20 45",
+                                "phone1": "+41 (0)91 921 46 46"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Hotel Pestalozzi Lugano",
+                "numFollowers": 85,
+                "specialties": {
+                    "_total": 3,
+                    "values": [
+                        "Hotel",
+                        "Seminare & Bankette",
+                        "Restaurant"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.pestalozzi-lugano.ch/"
+            }
+        ]
+    }
+}

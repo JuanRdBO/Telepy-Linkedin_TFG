@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12346016,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Regensburg",
+                                "postalCode": "93047",
+                                "street1": "Am Weinmarkt"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 94152044"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Marcus M\u00fcller Pelzdesign",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.pelze24.com"
+            }
+        ]
+    }
+}

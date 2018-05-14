@@ -1,0 +1,69 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1998,
+                "id": 4989316,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "49",
+                            "name": "Materiales de construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lommel",
+                                "postalCode": "3920",
+                                "street1": "Maatheide"
+                            },
+                            "contactInfo": {
+                                "fax": "+32 11 52 51 09",
+                                "phone1": "+32 11 52 51 10"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Cemart NV - The Art of Cement",
+                "numFollowers": 140,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Self Levelling Floor Screeds",
+                        "Cement Sub Floors",
+                        "Shrink Resistant Pre Pac Mortars",
+                        "Injection Mortars",
+                        "Self-levelling"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.cemart.eu"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7430117,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Plein",
+                                "postalCode": "54518",
+                                "street1": "25 Eifelstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "06571264122"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Barbara Baumann U. Matthias Lutz",
+                "numFollowers": 0,
+                "websiteUrl": "barbarabaumann.de"
+            }
+        ]
+    }
+}

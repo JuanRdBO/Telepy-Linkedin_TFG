@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12476168,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "14129",
+                                "street1": "33 Kaiserstuhlstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3086424349"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "An\u00e4sthesiepraxis Schultz",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.anaesthesie-schultz.de"
+            }
+        ]
+    }
+}

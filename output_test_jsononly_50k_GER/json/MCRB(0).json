@@ -1,0 +1,132 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 2014,
+                "id": 309297,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "43",
+                            "name": "Servicios financieros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 8,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Tallinn",
+                                "postalCode": "10415",
+                                "street1": "L\u00f5\u00f5tsa 8a"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Warsaw",
+                                "postalCode": "02-305",
+                                "street1": "Aleje Jerozolimskie 136"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Helsinki",
+                                "postalCode": "00100",
+                                "street1": "Malminkatu 28"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Riga",
+                                "postalCode": "LV-1050",
+                                "street1": "Mer\u0137e\u013ca iela 21"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Vilnius",
+                                "postalCode": "LT-01001",
+                                "street1": "\u0160vitrigailos g. 11M"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Madrid",
+                                "postalCode": "28038",
+                                "street1": "Avenida de la Albufera 153"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Sydney",
+                                "postalCode": "NSW 2015",
+                                "street1": "20-28 Maddox Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Mexico",
+                                "postalCode": "06700",
+                                "street1": "Av. Sonora 113"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "IPF Digital",
+                "numFollowers": 1275,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "consumer finance company"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.ipfin.co.uk/en/about-us/our-businesses.html"
+            }
+        ]
+    }
+}

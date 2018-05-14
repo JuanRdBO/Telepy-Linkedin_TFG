@@ -1,0 +1,48 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 1000,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 8795044,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wassenberg",
+                                "postalCode": "41849",
+                                "street1": "Graf-Gerhard-Str. 33"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 24328907"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Wolff A.",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.wolff-achim.de"
+            }
+        ]
+    }
+}

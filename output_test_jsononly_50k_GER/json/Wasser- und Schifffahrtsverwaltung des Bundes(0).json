@@ -1,0 +1,79 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "G",
+                    "name": "Government Agency"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1948,
+                "id": 10353601,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "70",
+                            "name": "Investigaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Karlsruhe",
+                                "postalCode": "76187",
+                                "street1": "Ku\u00dfmaulstra\u00dfe 17"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 721 9726 4540",
+                                "phone1": "+49 721 9726 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "22559",
+                                "street1": "Wedeler Landstra\u00dfe 157"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 721 9726 4540",
+                                "phone1": "+49 721 9726 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Bundesanstalt f\u00fcr Wasserbau",
+                "numFollowers": 284,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Wasserbau",
+                        "Geotechnik",
+                        "Bautechnik",
+                        "Verkehrswasserbau"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.baw.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 14417,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1981,
+                "id": 3717882,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Overland Park",
+                                "postalCode": "66212",
+                                "street1": "10561 Barkley"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "913-648-8333"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "The frank Agency, Inc.",
+                "numFollowers": 6770,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Direct Marketing",
+                        "Branding",
+                        "Direct Mail",
+                        "Web App & Development",
+                        "Email",
+                        "Social Media",
+                        "Search Engine Optimization",
+                        "Paid Search",
+                        "Display"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.thefrankagency.com"
+            }
+        ]
+    }
+}

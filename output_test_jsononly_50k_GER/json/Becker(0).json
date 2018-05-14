@@ -1,0 +1,58 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2781,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1999,
+                "id": 11279093,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "44",
+                            "name": "Bienes inmobiliarios"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Las Palmas de Gran Canaria",
+                                "postalCode": "35004",
+                                "street1": "Calle Le\u00f3n y Castillo, 96"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Becker",
+                "numFollowers": 7,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Intermediaci\u00f3n inmobiliaria",
+                        "Agente de seguros"
+                    ]
+                },
+                "websiteUrl": "Becker24.es"
+            }
+        ]
+    }
+}

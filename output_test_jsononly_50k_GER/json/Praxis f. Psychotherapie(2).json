@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12789283,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Ahrensburg",
+                                "postalCode": "22926",
+                                "street1": "35 Kremerbergredder"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 4102707698"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Praxis F&uuml;r Psychotherapie Ahrensburg",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.psychotherapie-praxis-ahrensburg.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2007,
+                "id": 18499162,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Neuried",
+                                "postalCode": "82061",
+                                "street1": "Franz-Schuster-Str. 3"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "SAM \u2013 Standards And More\u2026 GmbH & Co. KG",
+                "numFollowers": 4,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Standards Management",
+                        "Patent Research",
+                        "Non-Patent-Literature",
+                        "Digital Libraries",
+                        "Standards",
+                        "Journals",
+                        "eBooks",
+                        "Conference Proceedings",
+                        "eLearning Courses",
+                        "XML Search",
+                        "Semantic Search"
+                    ]
+                },
+                "websiteUrl": "www.standardsandmore.com"
+            }
+        ]
+    }
+}

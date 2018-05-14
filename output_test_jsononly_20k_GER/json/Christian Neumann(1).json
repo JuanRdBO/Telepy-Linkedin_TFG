@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12728658,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hannover",
+                                "postalCode": "30175",
+                                "street1": "Berliner Allee 12A"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 5113681136"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Christian J. Neumann",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.ihr-anwaltsteam.de"
+            }
+        ]
+    }
+}

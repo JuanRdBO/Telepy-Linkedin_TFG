@@ -1,0 +1,67 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1912,
+                "id": 4840924,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "115",
+                            "name": "M\u00fasica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Genova",
+                                "postalCode": "16121",
+                                "street1": "Galleria Mazzini 1"
+                            },
+                            "contactInfo": {
+                                "fax": "010 8698213",
+                                "phone1": "010 8698216"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "GOG Giovine Orchestra Genovese",
+                "numFollowers": 41,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Organizzazione di concerti musicali ed eventi culturali",
+                        "Promozione concerti musicali ed eventi culturali",
+                        "Produzione di concerti musicali ed eventi culturali",
+                        "Societ\u00e0 concertistica",
+                        "Associazione culturale"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.gog.it"
+            }
+        ]
+    }
+}

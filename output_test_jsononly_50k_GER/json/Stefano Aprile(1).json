@@ -1,0 +1,91 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2014,
+                "id": 5340998,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "10",
+                            "name": "Servicios jur\u00eddicos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Milano",
+                                "postalCode": "20121",
+                                "street1": "Via Sant'Andrea 19"
+                            },
+                            "contactInfo": {
+                                "fax": "+39 0230323190",
+                                "phone1": "+39 023032311"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Roma",
+                                "postalCode": "00187",
+                                "street1": "Via Sicilia 66"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "W1J 6BD",
+                                "street1": "Berkeley Square House"
+                            },
+                            "contactInfo": {
+                                "fax": "+44 (0) 74 7865 6807",
+                                "phone1": "+44 (0) 20 7887 1982"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "L&P - Ludovici Piccone & Partners",
+                "numFollowers": 907,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Tax Advisory"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.ludoviciandpartners.com"
+            }
+        ]
+    }
+}

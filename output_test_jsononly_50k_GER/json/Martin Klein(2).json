@@ -1,0 +1,64 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 36,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "id": 18558878,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "23",
+                            "name": "Producci\u00f3n alimentaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Graz",
+                                "postalCode": "8010",
+                                "street1": "Dietrichsteinplatz 13"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Martin Auer ",
+                "numFollowers": 4,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "Gl\u00fcckliches bio Brot",
+                        "PANE - Gutes Brot von gestern f\u00fcr einen guten Zweck",
+                        "Feines Klein- & Feingeb\u00e4ck",
+                        "Kompromisslose Qualit\u00e4t",
+                        "Vollkommener Verzicht auf chemischen Bl\u00f6dsinn",
+                        "Passion f\u00fcr Handwerk",
+                        "Soziale Verantwortung",
+                        "Respekt im Umgang mit nat\u00fcrlichen Ressourcen",
+                        "Respekt im Umgang miteinander"
+                    ]
+                },
+                "websiteUrl": "www.martinauer.at"
+            }
+        ]
+    }
+}

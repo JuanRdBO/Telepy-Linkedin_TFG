@@ -1,0 +1,42 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12751062,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Leipzig",
+                                "postalCode": "04316",
+                                "street1": "11 Hermann-L\u00f6ns-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3416512063"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ERGO Versicherung Kerstin Dietrich",
+                "numFollowers": 0,
+                "websiteUrl": "http://kerstin.dietrich.ergo.de"
+            }
+        ]
+    }
+}

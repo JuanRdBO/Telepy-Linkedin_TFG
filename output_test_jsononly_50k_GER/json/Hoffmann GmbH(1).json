@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 201,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 8931136,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "137",
+                            "name": "Recursos humanos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kreuztal",
+                                "postalCode": "57223",
+                                "street1": "Hagener Str. 10"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 2732586"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Hoffmann GmbH + Co. KG",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.bestcarwash-kreuztal.de"
+            }
+        ]
+    }
+}

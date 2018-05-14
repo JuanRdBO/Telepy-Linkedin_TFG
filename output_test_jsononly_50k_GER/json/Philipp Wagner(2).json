@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12212027,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "20459",
+                                "street1": "3 Herrengraben"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 40357441"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rechtsanwalt Philipp-Alexander Wagner",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.ra-kinderwunschrecht.de"
+            }
+        ]
+    }
+}

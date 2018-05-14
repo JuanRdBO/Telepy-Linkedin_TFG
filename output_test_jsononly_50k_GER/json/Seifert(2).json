@@ -1,0 +1,111 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 376,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1965,
+                "id": 2462567,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "135",
+                            "name": "Ingenier\u00eda industrial o mec\u00e1nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Birzebbuga",
+                                "postalCode": "BBG 3000",
+                                "street1": "HF09/10, Hal-Far Industrial Estate"
+                            },
+                            "contactInfo": {
+                                "fax": "+356 2165 9083",
+                                "phone1": "+356 2220 7000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Gevelsberg",
+                                "postalCode": "58285",
+                                "street1": "Ha\u00dflinghauser Str. 156"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0) 2332 55124-29",
+                                "phone1": "+49 (0) 2332 55124-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "North Kingstown",
+                                "postalCode": "R.I. 02852",
+                                "street1": "75 Circuit Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "+1 401 / 294-69 63",
+                                "phone1": "+1 401 / 294-69 60"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Gerlafingen",
+                                "postalCode": "CH-4563",
+                                "street1": "Wilerstra\u00dfe 16"
+                            },
+                            "contactInfo": {
+                                "fax": "+41 (0) 32 / 6754 476",
+                                "phone1": "+41 (0) 32 / 6753 551"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Victoria",
+                                "postalCode": "3152",
+                                "street1": "105 Lewis Road"
+                            },
+                            "contactInfo": {
+                                "fax": "+61 (3) 9887 0845",
+                                "phone1": "+61 (3) 9801 1906"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Seifert mtm Systems",
+                "numFollowers": 280,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.seifert-mtmsystems.com"
+            }
+        ]
+    }
+}

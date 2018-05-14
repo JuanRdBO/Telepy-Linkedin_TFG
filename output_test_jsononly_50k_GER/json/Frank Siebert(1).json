@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7389495,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "9",
+                            "name": "Derecho"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Brilon",
+                                "postalCode": "59929",
+                                "street1": "7 Tulpenweg"
+                            },
+                            "contactInfo": {
+                                "phone1": "029618053"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Frank Siebert Montagebau GmbH",
+                "numFollowers": 1,
+                "websiteUrl": "montagebau-siebert.de"
+            }
+        ]
+    }
+}

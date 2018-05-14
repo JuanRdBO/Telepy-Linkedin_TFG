@@ -1,0 +1,91 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 9342241,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "26",
+                            "name": "Mobiliario"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Heidelberg",
+                                "postalCode": "69117",
+                                "street1": "Pl\u00f6ck 64"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0049-6221-160550"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Mannheim",
+                                "postalCode": "68165",
+                                "street1": "Augustaanlage 21-23"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0049-621-4609755"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Mannheim",
+                                "postalCode": "68161",
+                                "street1": "M1, 1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "seyfarth einrichtungen",
+                "numFollowers": 11,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Furniture",
+                        "Interior Design",
+                        "M\u00f6bel",
+                        "Inneneinrichtung"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.seyfarth-einrichtungen.de"
+            }
+        ]
+    }
+}

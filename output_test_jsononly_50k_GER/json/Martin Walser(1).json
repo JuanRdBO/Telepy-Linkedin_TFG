@@ -1,0 +1,51 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1999,
+                "id": 5239432,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "30",
+                            "name": "Ocio y viajes"
+                        }
+                    ]
+                },
+                "name": "Lingua & Cultura Tours",
+                "numFollowers": 24,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Gruppenreisen f\u00fcr Individualisten",
+                        "Literaturreisen",
+                        "spirituell gepr\u00e4gte Reisen",
+                        "Reisen, die Kultur und Geniessen verbinden",
+                        "Studienreisen"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.linguacultura.de/impressum.html"
+            }
+        ]
+    }
+}

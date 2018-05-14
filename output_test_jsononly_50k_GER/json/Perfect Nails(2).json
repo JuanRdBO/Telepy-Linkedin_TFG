@@ -1,0 +1,38 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 178,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 15526256,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "COPPELL",
+                                "postalCode": "75019",
+                                "street1": "115 W SANDY LAKE RD STE 600"
+                            },
+                            "contactInfo": {
+                                "phone1": "+1 9727451343"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "PERFECT NAILS & SPA",
+                "numFollowers": 8
+            }
+        ]
+    }
+}

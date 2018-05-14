@@ -1,0 +1,76 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2014,
+                "id": 22296870,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "S\u00e3o Paulo",
+                                "postalCode": "01310-100",
+                                "street1": "Av. Paulista"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ana Silvia Schmidt Arquitetura",
+                "numFollowers": 6,
+                "specialties": {
+                    "_total": 20,
+                    "values": [
+                        "     Arquitetura Sustent\u00e1vel          ",
+                        "Arquitetura",
+                        "Design de Interiores",
+                        "Gerenciamento de Obras ",
+                        "Arquitetura Corporativa ",
+                        "Arquitetura Residencial",
+                        "Otimiza\u00e7\u00e3o de Espa\u00e7os",
+                        "Arquitetura Imobili\u00e1ria",
+                        "Acompanhamento de Obras",
+                        "Imagem 3D",
+                        "Layout",
+                        "Programa de Necessidades",
+                        "Design de escrit\u00f3rio",
+                        "Interiores",
+                        "Gest\u00e3o de obra",
+                        "office",
+                        "interiores",
+                        "consultoria",
+                        "projeto",
+                        "layout"
+                    ]
+                },
+                "websiteUrl": "anasilviaschmidt.com.br"
+            }
+        ]
+    }
+}

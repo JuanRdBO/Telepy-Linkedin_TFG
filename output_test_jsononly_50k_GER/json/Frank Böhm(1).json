@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7408567,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "121",
+                            "name": "Seguridad e investigaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Selm",
+                                "postalCode": "59379",
+                                "street1": "33 Gerhart-Hauptmann-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "08004477770"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Detektei Frank B\u00f6hm",
+                "numFollowers": 0,
+                "websiteUrl": "detektei-boehm.de"
+            }
+        ]
+    }
+}

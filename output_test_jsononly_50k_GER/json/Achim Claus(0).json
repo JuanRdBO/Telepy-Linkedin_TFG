@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1907,
+                "id": 2332699,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "33",
+                            "name": "Deportes"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wiesbaden",
+                                "postalCode": "65205",
+                                "street1": "Kreuzberger Ring 64"
+                            },
+                            "contactInfo": {
+                                "fax": "061199020170",
+                                "phone1": "0611990200"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Deutscher Golf Verband e.V.",
+                "numFollowers": 220,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Golf"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "GolfVerband",
+                "websiteUrl": "www.golf.de/dgv"
+            }
+        ]
+    }
+}

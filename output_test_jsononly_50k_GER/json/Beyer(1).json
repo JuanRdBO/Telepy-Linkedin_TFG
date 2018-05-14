@@ -1,0 +1,85 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 583,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1968,
+                "id": 31405,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10271",
+                                "street1": "120 Broadway, 20th Floor"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "212 777 7800"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Washington",
+                                "postalCode": "20007",
+                                "street1": "3307 M Street, NW, Suite 301"
+                            },
+                            "contactInfo": {
+                                "fax": "202 333 8843",
+                                "phone1": "202 333 8000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Beyer Blinder Belle",
+                "numFollowers": 3584,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Academic and Institutional",
+                        "Transportation",
+                        "Residential",
+                        "Interiors",
+                        "Historic Preservation and Adaptive Reuse",
+                        "Adaptive Reuse",
+                        "Urban Design and Planning",
+                        "Graphic and Signage Design"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.beyerblinderbelle.com/"
+            }
+        ]
+    }
+}

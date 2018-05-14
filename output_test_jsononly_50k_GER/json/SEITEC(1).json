@@ -1,0 +1,39 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 7,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "id": 24464557,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Indaiatuba",
+                                "postalCode": "13347-610",
+                                "street1": "Rua Mafalda Barnab\u00e9 Soliane 220"
+                            },
+                            "contactInfo": {
+                                "phone1": "+55 1939344660"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Seitec Tecnologia Em Equipamentos",
+                "numFollowers": 8,
+                "websiteUrl": "seitec.ind.br"
+            }
+        ]
+    }
+}

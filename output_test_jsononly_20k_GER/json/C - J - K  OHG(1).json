@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 278556,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "H",
+                    "name": "5001-10000"
+                },
+                "foundedYear": 1920,
+                "id": 26160,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "92",
+                            "name": "Transporte por carretera o ferrocarril"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Salt Lake City",
+                                "postalCode": "84120",
+                                "street1": "4701 West 2100 South"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "C.R. England",
+                "numFollowers": 7749,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Refrigerated Long Haul & Regional Freight",
+                        "Refrigerated Intermodal Container Freight",
+                        "Dedicated Contract Carriage",
+                        "Freight Brokerage (See England Logistics)"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "http://twitter.com/crengland",
+                "websiteUrl": "http://www.crengland.com"
+            }
+        ]
+    }
+}

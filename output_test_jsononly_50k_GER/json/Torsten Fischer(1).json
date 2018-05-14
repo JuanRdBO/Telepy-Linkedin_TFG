@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2010,
+                "id": 1308927,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "104",
+                            "name": "Dotaci\u00f3n y selecci\u00f3n de personal"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt",
+                                "postalCode": "",
+                                "street1": "Am Hauptbahnhof 18"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 (0) 69 15 39 254 - 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "",
+                                "street1": "Unter den Linden 21 |"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 (0) 30 20 00 941 - 99",
+                                "phone1": "+49 (0) 30 20 00 941 - 0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "element GmbH",
+                "numFollowers": 309,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Finance & Banking",
+                        "SAP",
+                        "IT",
+                        "Engineering",
+                        "Healthcare"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "element.de"
+            }
+        ]
+    }
+}

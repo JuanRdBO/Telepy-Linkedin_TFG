@@ -1,0 +1,92 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 1009,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1806,
+                "id": 10641,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "41",
+                            "name": "Actividades bancarias"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Amsterdam",
+                                "postalCode": "1101 EE",
+                                "street1": "De Entree 500"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60329",
+                                "street1": "Mainzer Landstrasse 51"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "E14 4HE",
+                                "street1": "11 Westferry Circus"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "KAS BANK",
+                "numFollowers": 6072,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Securities Services",
+                        "Clearing & Settlements",
+                        "Global Custody",
+                        "Global Fund Services",
+                        "Fund Administration",
+                        "Tax Reclaim",
+                        "Regulatory Reporting",
+                        "Compliance Monitoring",
+                        "Order Execution",
+                        "Securities Borrowing & Lending",
+                        "Collateral Management Services"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "https://www.kasbank.com"
+            }
+        ]
+    }
+}

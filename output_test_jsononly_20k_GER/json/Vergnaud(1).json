@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 30,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2008,
+                "id": 11050418,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "144",
+                            "name": "Energ\u00eda renovable y medio ambiente"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Orthez",
+                                "postalCode": "64300",
+                                "street1": "367, Chemin de Naude"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+33 5 59 694976"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Vergnaud France",
+                "numFollowers": 22,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Centrales photovolta\u00efques",
+                        "Raccordement \u00e9lectrique"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "vergnaudfrance.com"
+            }
+        ]
+    }
+}

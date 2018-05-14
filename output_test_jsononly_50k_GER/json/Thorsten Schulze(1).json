@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7520708,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "L\u00fcbeck",
+                                "postalCode": "23570",
+                                "street1": "101 Kurgartenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "045022474"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Karl Schulze Inh. Thorsten Weigel E.K.",
+                "numFollowers": 0,
+                "websiteUrl": "glaserei-schulze.de"
+            }
+        ]
+    }
+}

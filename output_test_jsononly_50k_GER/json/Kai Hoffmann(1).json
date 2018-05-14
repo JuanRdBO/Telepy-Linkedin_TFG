@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12277629,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60596",
+                                "street1": "100 Gartenstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 6991398461"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Dr. Kai Hoffmann",
+                "numFollowers": 3,
+                "websiteUrl": "http://www.drkaihoffmann.de"
+            }
+        ]
+    }
+}

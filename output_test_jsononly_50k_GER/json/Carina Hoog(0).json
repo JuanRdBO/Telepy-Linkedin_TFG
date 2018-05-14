@@ -1,0 +1,68 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1878,
+                "id": 3845278,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "143",
+                            "name": "Art\u00edculos de lujo y joyas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Leerdam",
+                                "postalCode": "4142 LD",
+                                "street1": "Lingedijk 8"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "0031 (0)345 636 545"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Royal Leerdam Crystal",
+                "numFollowers": 125,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Handgemaakte kristallen objecten",
+                        "Maatwerk",
+                        "Rondleidingen",
+                        "Workshops"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.royalleerdamcrystal.nl"
+            }
+        ]
+    }
+}

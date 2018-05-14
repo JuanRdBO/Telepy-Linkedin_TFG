@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12784860,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "N\u00fcrnberg",
+                                "postalCode": "90429",
+                                "street1": "6 Prei\u00dflerstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 911260902"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Johann-Daniel-Prei\u00dfler-Schule",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.preissler-schule.de"
+            }
+        ]
+    }
+}

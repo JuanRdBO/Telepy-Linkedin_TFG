@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 20,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 24187636,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "64",
+                            "name": "Ganader\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "H\u00d8YLANDET",
+                                "postalCode": "7977",
+                                "street1": "Okstad 42"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "LARS OTTO OKSTAD",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

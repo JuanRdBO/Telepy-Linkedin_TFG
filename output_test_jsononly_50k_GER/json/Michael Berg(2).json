@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 14,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12845103,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Grevenbroich",
+                                "postalCode": "41515",
+                                "street1": "19 Elfgener Weg"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 21811609568"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Michael Berg Kfm. Dienstleistungen",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.michaelberg.biz"
+            }
+        ]
+    }
+}

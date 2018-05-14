@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 8,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 1935,
+                "id": 1414128,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "112",
+                            "name": "Manufactura el\u00e9ctrica y electr\u00f3nica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Kirchhundem",
+                                "postalCode": "57399",
+                                "street1": "Aloys-Mennekes-Stra\u00dfe 1"
+                            },
+                            "contactInfo": {
+                                "fax": "+ 49 (0) 27 23 / 41 - 2 14",
+                                "phone1": "+ 49 (0) 27 23 / 41 - 1"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "MENNEKES Elektrotechnik GmbH & Co. KG",
+                "numFollowers": 1568,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Industrial plugs and sockets",
+                        "charging systems for e-vehicles"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "MENNEKES_tweets",
+                "websiteUrl": "http://www.MENNEKES.de"
+            }
+        ]
+    }
+}

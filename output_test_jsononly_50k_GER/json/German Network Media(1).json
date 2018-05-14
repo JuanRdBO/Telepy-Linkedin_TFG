@@ -1,0 +1,57 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 231,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "foundedYear": 2007,
+                "id": 10876983,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "74",
+                            "name": "Asuntos internacionales"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10117",
+                                "street1": "Friedrichstra\u00dfe 185 (Kontorhaus)"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "German-Arab Friendship Association (DAFG)",
+                "numFollowers": 20,
+                "specialties": {
+                    "_total": 5,
+                    "values": [
+                        "Promotion of Cultural Exchange",
+                        "Leadership in Strategic Communications",
+                        "Management of Media and Government Relations",
+                        "Support in Youth Development & Entrepreneurship Excellence",
+                        "Catalyser of Cooperation between Arab and Western Business Cultures"
+                    ]
+                },
+                "websiteUrl": "www.dafg.eu"
+            }
+        ]
+    }
+}

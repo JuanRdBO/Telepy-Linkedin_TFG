@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 174,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2010,
+                "id": 850863,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "8",
+                            "name": "Telecomunicaciones"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Barcelona",
+                                "postalCode": "08005",
+                                "street1": "C/ Llacuna 22"
+                            },
+                            "contactInfo": {
+                                "fax": "+34 902 789 891",
+                                "phone1": "+34 935 999 000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Madrid",
+                                "postalCode": "28037",
+                                "street1": "C/ Miguel Yuste 29B B-23"
+                            },
+                            "contactInfo": {
+                                "fax": "+34 902 789 891",
+                                "phone1": "+34 910 999 000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Adamo Telecom Iberia S.A.U.",
+                "numFollowers": 1522,
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.adamo.es"
+            }
+        ]
+    }
+}

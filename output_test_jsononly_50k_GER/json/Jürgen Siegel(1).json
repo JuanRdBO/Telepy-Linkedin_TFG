@@ -1,0 +1,115 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1977,
+                "id": 6316170,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "53",
+                            "name": "Sector automovil\u00edstico"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 4,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oldenburg",
+                                "postalCode": "26123",
+                                "street1": "Karlstra\u00dfe 19"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 441210200"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Atlanta",
+                                "postalCode": "",
+                                "street1": "1170 Howell Mill Road, Suite 300"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Singapore",
+                                "postalCode": "573968",
+                                "street1": "20 Sin Ming Lane"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Shanghai",
+                                "postalCode": "200122",
+                                "street1": "PINGAN Fortune Tower, 5th Floor"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "VIEROL AG",
+                "numFollowers": 282,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "car parts",
+                        "OE quality",
+                        "Engine air",
+                        "Sensors",
+                        "Transmission components",
+                        "Exhaust gas recirculation",
+                        "Small engines",
+                        "Fiters",
+                        "Motor Management",
+                        "car parts",
+                        "replacement parts",
+                        "filter"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.vierol.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12393465,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Dorsten",
+                                "postalCode": "46284",
+                                "street1": "5 Am R\u00f6hrken"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 1729793160"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Glas Markus Nowak",
+                "numFollowers": 2,
+                "websiteUrl": "http://www.glas-markus-nowak.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 10,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 23791550,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "1",
+                            "name": "Departamento de defensa y del espacio exterior"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "DRAMMEN",
+                                "postalCode": "3031",
+                                "street1": "Sophie Amalies vei 97"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ROBERT WILHELM JOHNSEN",
+                "numFollowers": 0
+            }
+        ]
+    }
+}

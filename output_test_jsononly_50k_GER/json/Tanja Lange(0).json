@@ -1,0 +1,63 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1938,
+                "id": 8483299,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "60",
+                            "name": "Sector textil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00f6ngen",
+                                "postalCode": "73257",
+                                "street1": "N\u00fcrtinger Stra\u00dfe 27"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 7024800"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Maier Sports GmbH",
+                "numFollowers": 68,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Outdoor",
+                        "Alltag/ Freizeit",
+                        "Reise",
+                        "Fernwandern",
+                        "Radwandern",
+                        "Gr\u00f6\u00dfenvielfalt",
+                        "Skibekleidung"
+                    ]
+                },
+                "websiteUrl": "https://maier-sports.de"
+            }
+        ]
+    }
+}

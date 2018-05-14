@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12417285,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Garbsen",
+                                "postalCode": "30827",
+                                "street1": "6 Heinkelstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 5131476647"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Reinhold Peter OHG",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.kies-peter.de"
+            }
+        ]
+    }
+}

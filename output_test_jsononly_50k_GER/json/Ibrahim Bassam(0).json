@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2010,
+                "id": 1625448,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "126",
+                            "name": "Producci\u00f3n multimedia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Doha",
+                                "postalCode": "25422",
+                                "street1": "Salwa Road and Katara"
+                            },
+                            "contactInfo": {
+                                "fax": "+97444366673",
+                                "phone1": "+97444023030"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Innovation Films",
+                "numFollowers": 668,
+                "specialties": {
+                    "_total": 4,
+                    "values": [
+                        "Equipment rental",
+                        "Film ( Cinema , Documentary , Adds )",
+                        "Casting and talent finding",
+                        "Photography"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "innoproduction",
+                "websiteUrl": "http://www.innovationme.com"
+            }
+        ]
+    }
+}

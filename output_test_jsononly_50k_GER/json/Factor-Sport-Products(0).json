@@ -1,0 +1,96 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 32,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "F",
+                    "name": "501-1000"
+                },
+                "foundedYear": 2010,
+                "id": 9356981,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "31",
+                            "name": "Hosteler\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Rimini",
+                                "postalCode": "47921",
+                                "street1": "via San Gottardo, 33"
+                            },
+                            "contactInfo": {
+                                "fax": "+39 0541 1780882",
+                                "phone1": "+39 0541 620122"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Milano",
+                                "postalCode": "20122",
+                                "street1": "Galleria del Corso, 1"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Polverigi",
+                                "postalCode": "60020",
+                                "street1": "Via San Giovanni 46"
+                            },
+                            "contactInfo": {
+                                "fax": "+390719069647",
+                                "phone1": "+390719068353"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "JSH Hotels & Resorts",
+                "numFollowers": 6441,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Turismo",
+                        "Ospitalit\u00e0",
+                        "hotel management",
+                        "hotel careers",
+                        "gestione alberghiera",
+                        "hotels & resorts"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.jsh-hotels.com/"
+            }
+        ]
+    }
+}

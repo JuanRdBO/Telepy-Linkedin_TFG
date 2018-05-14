@@ -1,0 +1,173 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 25,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "I",
+                    "name": "10001+"
+                },
+                "foundedYear": 1888,
+                "id": 5840,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "51",
+                            "name": "Ingenier\u00eda civil"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 11,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Amsterdam",
+                                "postalCode": "1082 MS",
+                                "street1": "'Symphony'\u200b"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "S\u00e3o Paulo",
+                                "street1": "Rua L\u00edbero Badar\u00f3, 377"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Highlands Ranch",
+                                "postalCode": "80126",
+                                "street1": "630 Plaza Drive"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Arnhem",
+                                "postalCode": "6814 DV",
+                                "street1": "Beaulieustraat 22"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "N1 9AB",
+                                "street1": "34 York Way"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Darmstadt ",
+                                "postalCode": "64293",
+                                "street1": "Europaplatz 3"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Perth",
+                                "postalCode": "6000",
+                                "street1": "225 St Georges Ter"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Paris",
+                                "postalCode": "75017",
+                                "street1": "140 Boulevard Malesherbes"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Croydon",
+                                "postalCode": "CR0 1EA",
+                                "street1": "Mint Walk"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Cebu City",
+                                "postalCode": "6000",
+                                "street1": "Osmena Blvd"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Sydney",
+                                "postalCode": "2000",
+                                "street1": "580 George St"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Arcadis",
+                "numFollowers": 220845,
+                "specialties": {
+                    "_total": 13,
+                    "values": [
+                        "Consultancy",
+                        "Architectural design",
+                        "Design & Engineering",
+                        "Natural and built assets",
+                        "Business Advisory",
+                        "Health and safety",
+                        "Environmental Remediation",
+                        "Sustainability",
+                        "Program, Project and Cost Management",
+                        "Infrastructure",
+                        "Water",
+                        "Buildings",
+                        "Environment"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.arcadis.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 10434441,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "11",
+                            "name": "Consultor\u00eda de estrategia y operaciones"
+                        }
+                    ]
+                },
+                "name": "Steuerberatungssoziet\u00e4t Jakobs & Kollegen GbR",
+                "numFollowers": 4,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Fachberater f\u00fcr Controlling und Finanzwirtschaft (DStV e.V.)",
+                        "Fachberater f\u00fcr Unternehmensnachfolge (DStV e.V.)"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.jakobs-kollegen.de/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "id": 9257679,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "96",
+                            "name": "Servicios y tecnolog\u00eda de la informaci\u00f3n "
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Graz",
+                                "postalCode": "8020",
+                                "street1": "Neubaugasse 34/5"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+43 (0) 660 7026 445"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "FACTORYMINER",
+                "numFollowers": 15,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Betriebsdatenerfassung",
+                        "BDE",
+                        "Maschinendatenerfassung",
+                        "MDE",
+                        "OEE",
+                        "Qualit\u00e4tsdatenerfassung",
+                        "MES",
+                        "Manufacturing Execution System"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.factoryminer.com"
+            }
+        ]
+    }
+}

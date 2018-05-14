@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 5,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1996,
+                "id": 294518,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "110",
+                            "name": "Servicios de eventos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Sydney",
+                                "postalCode": "2000",
+                                "street1": "Level 11, 4 Martin Place"
+                            },
+                            "contactInfo": {
+                                "fax": "+61292512209",
+                                "phone1": "+61292512205"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Lateral Event Management",
+                "numFollowers": 712,
+                "specialties": {
+                    "_total": 2,
+                    "values": [
+                        "Lateral is the event management company-of record for some of Australia's most successful blue chip corporations.",
+                        "Creating, promoting, staging and touring Public Events"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.lateralevents.com"
+            }
+        ]
+    }
+}

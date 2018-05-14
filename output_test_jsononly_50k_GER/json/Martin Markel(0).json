@@ -1,0 +1,61 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1959,
+                "id": 27026149,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "42",
+                            "name": "Seguros"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Atlanta",
+                                "postalCode": "30302-4036",
+                                "street1": "35 Broad Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "The Riskies",
+                "numFollowers": 5,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Fundraising ",
+                        "Insurance ",
+                        "Students",
+                        "Recruitment ",
+                        "Awards",
+                        "Georgia State University ",
+                        "Department of Risk Management & Insurance"
+                    ]
+                },
+                "websiteUrl": "http://robinson.gsu.edu/academic-departments/risk-management-and-insurance/riskies/"
+            }
+        ]
+    }
+}

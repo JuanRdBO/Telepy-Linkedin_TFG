@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 8150755,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "14",
+                            "name": "Atenci\u00f3n sanitaria y hospitalaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Uttenreuth",
+                                "postalCode": "91078",
+                                "street1": "Postfach 45"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 91319269207"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Dr. Michael J\u00e4ger",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.unterrichtsevaluation.de"
+            }
+        ]
+    }
+}

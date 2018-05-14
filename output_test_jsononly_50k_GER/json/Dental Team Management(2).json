@@ -1,0 +1,91 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 955,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 2004,
+                "id": 268312,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "104",
+                            "name": "Dotaci\u00f3n y selecci\u00f3n de personal"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Fulton",
+                                "postalCode": "20759",
+                                "street1": "12507 Marlow Road"
+                            },
+                            "contactInfo": {
+                                "fax": "202-917-5172",
+                                "phone1": "202-917-5172"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Arlington",
+                                "postalCode": "22201",
+                                "street1": "1100 N Glebe Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "(703) 224-8243"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "A-Team Solutions, LLC",
+                "numFollowers": 446,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Management Consulting",
+                        "Staff Augmentation",
+                        "COOP/COG",
+                        "Program Management",
+                        "IT Consulting",
+                        "Organizational Assessments/Design",
+                        "Program Audits/Evaluations",
+                        "Customized Training",
+                        "Health Care Staffing",
+                        "Recruiting",
+                        "Veterans",
+                        "Military",
+                        "Staffing",
+                        "Human Resources"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "atssdvo",
+                "websiteUrl": "www.a-teamsolutions.com"
+            }
+        ]
+    }
+}

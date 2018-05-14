@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7488702,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "postalCode": "22547",
+                                "street1": "98 L\u00fcttkamp"
+                            },
+                            "contactInfo": {
+                                "phone1": "040847767"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wolfgang Hoffmann & Co.",
+                "numFollowers": 1,
+                "websiteUrl": "jura.uni-hamburg.de"
+            }
+        ]
+    }
+}

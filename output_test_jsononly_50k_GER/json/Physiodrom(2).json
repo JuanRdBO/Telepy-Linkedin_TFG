@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12768347,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Regensburg",
+                                "postalCode": "93059",
+                                "street1": "Im Gewerbepark C10"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 94140789"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Physiodrom Regensburg",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.physiodrom-regensburg.de"
+            }
+        ]
+    }
+}

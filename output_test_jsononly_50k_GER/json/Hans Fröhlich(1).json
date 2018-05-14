@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12374522,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Schwerin",
+                                "postalCode": "19059",
+                                "street1": "118 Wittenburger Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 1741861323"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Kreativmarkt Schwerin",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.kreativmaerkte.de"
+            }
+        ]
+    }
+}

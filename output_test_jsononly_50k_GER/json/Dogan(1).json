@@ -1,0 +1,85 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 458,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "id": 74286,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "36",
+                            "name": "Medios de difusi\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Istanbul",
+                                "postalCode": "34204",
+                                "street1": "Do\u011fan Tv Center 100. Y\u0131l Mah. 34204 Ba\u011fc\u0131lar/\u0130stanbul"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Istanbul",
+                                "postalCode": "34204",
+                                "street1": "100. Y\u0131l Mahallesi"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+90 212 413 51 11"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Do\u011fan TV Holding",
+                "numFollowers": 24817,
+                "specialties": {
+                    "_total": 9,
+                    "values": [
+                        "FTA",
+                        "Pay TV",
+                        "Newspapers",
+                        "Magazines",
+                        "Books",
+                        "Media Retail",
+                        "Telecom",
+                        "Distribution",
+                        "Printing"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://doganholding.com.tr"
+            }
+        ]
+    }
+}

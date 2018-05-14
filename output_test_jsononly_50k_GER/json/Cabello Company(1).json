@@ -1,0 +1,74 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 22,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1952,
+                "id": 3189426,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "18",
+                            "name": "Cosm\u00e9tica"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Cervell\u00f3",
+                                "postalCode": "08758",
+                                "street1": "C/ GARNATXA 20-22  CERVELL\u00d3. PARC EMPRESARIAL"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+34 936 605 015"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "MartiDerm\u00ae",
+                "numFollowers": 4033,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Anti-Aging",
+                        "Tratamientos dermatol\u00f3gicos",
+                        "L\u00ednea Despigmentante",
+                        "L\u00ednea Vascular",
+                        "L\u00ednea Capilar",
+                        "Hiperhidrosis",
+                        "Iontoforesis",
+                        "Formulaci\u00f3n",
+                        "Higiene facial",
+                        "Cuidados corporales"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.martiderm.com"
+            }
+        ]
+    }
+}

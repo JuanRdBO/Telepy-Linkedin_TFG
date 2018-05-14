@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "D",
+                    "name": "Educational"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 1923,
+                "id": 3235545,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "69",
+                            "name": "Gesti\u00f3n educativa"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Seattle",
+                                "postalCode": "98107",
+                                "street1": "801 NW 42nd Street"
+                            },
+                            "contactInfo": {
+                                "fax": "1-206-667-9385",
+                                "phone1": "1-206-667-9377"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Crawford Nautical School",
+                "numFollowers": 43,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "-100/200 Ton, Inland/Near Coastal-",
+                        "-Chief Mate/Master, Oceans AGT-",
+                        "-500/1600 Ton, Near Coastal/Oceans-",
+                        "-Master/Mate, Inland AGT-",
+                        "-OUPV - 6 Pack-",
+                        "-Engineering-"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.crawfordnautical.com"
+            }
+        ]
+    }
+}

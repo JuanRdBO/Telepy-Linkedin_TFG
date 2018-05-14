@@ -1,0 +1,65 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2002,
+                "id": 3036352,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "101",
+                            "name": "Recaudaci\u00f3n de fondos"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Reading",
+                                "postalCode": "19602",
+                                "street1": "208 Chestnut Street"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "610-901-0015"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Mustang Scholars Foundation, Inc.",
+                "numFollowers": 26,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Providing Military College Scholarships"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.mustangscholars.com"
+            }
+        ]
+    }
+}

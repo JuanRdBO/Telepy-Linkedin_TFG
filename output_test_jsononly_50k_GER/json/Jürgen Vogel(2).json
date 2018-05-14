@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7388506,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pfalzdorf",
+                                "postalCode": "47574",
+                                "street1": "7 Rehmannstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "028234744"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Nicole Vogel J\u00fcrgen Werbefachberater U.",
+                "numFollowers": 0,
+                "websiteUrl": "a-z-immobilien-vogel.de"
+            }
+        ]
+    }
+}

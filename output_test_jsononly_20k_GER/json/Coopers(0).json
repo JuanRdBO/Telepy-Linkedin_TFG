@@ -1,0 +1,70 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 802,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 1982,
+                "id": 696372,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Chester",
+                                "postalCode": "CH4 9QU",
+                                "street1": "Park House"
+                            },
+                            "contactInfo": {
+                                "fax": "01244 684 911",
+                                "phone1": "01244 684 910"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Coopers",
+                "numFollowers": 483,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Structural Engineering",
+                        "Geoenvironmental Assessments",
+                        "Geotechnical Assessments",
+                        "Brownfield and Greenfield Site Appraisals",
+                        "Third Party Auditing",
+                        "Due Dilligence"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "coopers",
+                "websiteUrl": "http://www.coopers.co.uk/"
+            }
+        ]
+    }
+}

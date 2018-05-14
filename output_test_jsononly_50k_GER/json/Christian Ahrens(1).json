@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7495908,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Br\u00fchl",
+                                "postalCode": "50321",
+                                "street1": "6 Comesstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0223245278"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ernst-Christian Ahrens",
+                "numFollowers": 0,
+                "websiteUrl": "christianahrens.de"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12871079,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Oederan",
+                                "postalCode": "09569",
+                                "street1": "2 Oederaner Str."
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 3729260520"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Erzgebirgskorn Gahlenz E.G.",
+                "numFollowers": 1,
+                "websiteUrl": "http://www.erzgebirgskorn.de"
+            }
+        ]
+    }
+}

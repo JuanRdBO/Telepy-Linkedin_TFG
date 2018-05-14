@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 3,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7555378,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wei\u00dfenborn/Erzgebirge",
+                                "postalCode": "09600",
+                                "street1": "47 Bahnhofstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "0373223817"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "J\u00fcrgen Schreiber",
+                "numFollowers": 1,
+                "websiteUrl": "fotoschreiber.de"
+            }
+        ]
+    }
+}

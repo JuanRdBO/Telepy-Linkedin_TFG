@@ -1,0 +1,62 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 3,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2017,
+                "id": 18118042,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "28",
+                            "name": "Entretenimiento"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Istanbul",
+                                "postalCode": "34347",
+                                "street1": "Palanga cad. F\u0131st\u0131kl\u0131k\u00f6\u015fk Aral\u0131\u011f\u0131 sk. no:7 d:2"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Begooommm Music & Talent Management",
+                "numFollowers": 0,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "talent management",
+                        "career management",
+                        "music",
+                        "entertainment",
+                        "casting",
+                        "artist management"
+                    ]
+                },
+                "websiteUrl": "http://www.begooommm.com"
+            }
+        ]
+    }
+}

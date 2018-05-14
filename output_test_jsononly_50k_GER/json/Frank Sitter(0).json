@@ -1,0 +1,73 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1899,
+                "id": 10433357,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "31",
+                            "name": "Hosteler\u00eda"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Lund",
+                                "postalCode": "22229",
+                                "street1": "Bantorget 1"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Grand Hotel i Lund",
+                "numFollowers": 108,
+                "specialties": {
+                    "_total": 14,
+                    "values": [
+                        "Logi",
+                        "Mat & Dryck",
+                        "Konferens",
+                        "Festv\u00e5ning",
+                        "Catering",
+                        "Take Away",
+                        "Br\u00f6llop",
+                        "Hotell",
+                        "Vinprovningar",
+                        "Brunch",
+                        "Afternoontea",
+                        "Frukost",
+                        "Lunch",
+                        "Middag"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.grandilund.se"
+            }
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 22,
+        "values": [
+            {
+                "companyType": {
+                    "code": "O",
+                    "name": "Self Owned"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2015,
+                "id": 7756344,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "123",
+                            "name": "Subcontrataciones/Offshoring"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Gebenstorf",
+                                "postalCode": "5412",
+                                "street1": "Landstrasse"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+41325106530"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "London",
+                                "postalCode": "SE16 7DX",
+                                "street1": "Victoria House, Suite 41"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+41325106530"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "S & E Service Worldwide LTD.",
+                "numFollowers": 4,
+                "specialties": {
+                    "_total": 6,
+                    "values": [
+                        "Zerst\u00f6rungsfreie Leckagen und Dichtheitstest",
+                        "Mechanischer und Technischer Support",
+                        "Montagen und Installationen",
+                        "Installation`s Managment und Supervision",
+                        "Office und Sekretariat Managment",
+                        "\u00dcbersetzer/Lektor und Dolmetscher"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.s-e-service-worldwide.com/"
+            }
+        ]
+    }
+}

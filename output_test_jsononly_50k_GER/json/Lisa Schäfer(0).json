@@ -1,0 +1,114 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "id": 549749,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "34",
+                            "name": "Alimentaci\u00f3n y bebidas"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Pompano Beach",
+                                "postalCode": "33069",
+                                "street1": "1726 W Atlantic Blvd"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Burlingame",
+                                "postalCode": "94010",
+                                "street1": "1670 Rollins Road"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Downey",
+                                "postalCode": "90241",
+                                "street1": "11939 Woodruff Ave"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Richmond",
+                                "postalCode": "V7A 5E5",
+                                "street1": "11851 Hammersmith Way"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Toronto",
+                                "postalCode": "M9W 5S6",
+                                "street1": "110 # 3 Woodbine Downs"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": ""
+                            },
+                            "isActive": false,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Qzina Specialty Foods a division of The Chefs' Warehouse",
+                "numFollowers": 2036,
+                "specialties": {
+                    "_total": 1,
+                    "values": [
+                        "Chocoa, Matisse, and Crescendo"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.qzina.com"
+            }
+        ]
+    }
+}

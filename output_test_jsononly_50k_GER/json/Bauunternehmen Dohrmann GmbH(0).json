@@ -1,0 +1,82 @@
+{
+    "companies": {
+        "_total": 1,
+        "values": [
+            {
+                "companyType": {
+                    "code": "E",
+                    "name": "Self Employed"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1895,
+                "id": 16209463,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Remscheid",
+                                "postalCode": "42853",
+                                "street1": "Salemstra\u00dfe 19"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "021912080"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Saalfeld",
+                                "postalCode": "07318",
+                                "street1": "Am Hang 11"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "03671573413"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "August Dohrmann GmbH Bauunternehmung",
+                "numFollowers": 13,
+                "specialties": {
+                    "_total": 7,
+                    "values": [
+                        "Ingenieurbau",
+                        "Verkehrswegebau",
+                        "Asphaltbau",
+                        "Tiefbau",
+                        "Kanalbau",
+                        "Hochbau",
+                        "Schl\u00fcsselfertigbau"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.dohrmann.de"
+            }
+        ]
+    }
+}

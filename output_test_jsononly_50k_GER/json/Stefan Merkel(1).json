@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "id": 11158883,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Unterf\u00f6hring",
+                                "postalCode": "85774",
+                                "street1": "Medienallee 4"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "ProSiebenSat.1 Licensing GmbH",
+                "numFollowers": 57,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Brand Licensing ",
+                        "Licensing Agreements",
+                        "Licensing",
+                        "Marketing",
+                        "Management",
+                        "Consumer Products",
+                        "Promotions",
+                        "Media Cooperations",
+                        "Category Management",
+                        "Key Account Management",
+                        "Creative Development"
+                    ]
+                },
+                "websiteUrl": "http://www.prosiebensat1licensing.com"
+            }
+        ]
+    }
+}

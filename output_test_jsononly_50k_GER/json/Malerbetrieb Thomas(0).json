@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 22,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7523756,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Zarrendorf",
+                                "postalCode": "18510",
+                                "street1": "10 Teschenh\u00e4ger Weg"
+                            },
+                            "contactInfo": {
+                                "phone1": "038327509818"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Malerbetrieb Thomas He\u00df",
+                "numFollowers": 1,
+                "websiteUrl": "malerbetrieb-thomashess.de"
+            }
+        ]
+    }
+}

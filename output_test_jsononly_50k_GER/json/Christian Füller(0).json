@@ -1,0 +1,127 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 31,
+        "values": [
+            {
+                "companyType": {
+                    "code": "N",
+                    "name": "Non Profit"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "G",
+                    "name": "1001-5000"
+                },
+                "foundedYear": 1910,
+                "id": 105390,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "139",
+                            "name": "Atenci\u00f3n a la salud mental"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 5,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Grand Rapids",
+                                "postalCode": "49501",
+                                "street1": "300 68th Street SE"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "6164555000"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Urbandale",
+                                "postalCode": "50322",
+                                "street1": "6200 Aurora Avenue"
+                            },
+                            "contactInfo": {
+                                "fax": "515-331-9086",
+                                "phone1": ""
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Kalamazoo",
+                                "postalCode": "49006",
+                                "street1": "1530 Nichols Road"
+                            },
+                            "contactInfo": {
+                                "fax": "269.343.4831",
+                                "phone1": "269.343.6700"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Traverse City",
+                                "postalCode": "49684",
+                                "street1": "1050 Silver Drive"
+                            },
+                            "contactInfo": {
+                                "fax": "231.947.5982",
+                                "phone1": "231.947.2255"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Grand Rapids",
+                                "postalCode": "49544",
+                                "street1": "2118 Three Mile Rd. NW"
+                            },
+                            "contactInfo": {
+                                "fax": "616.222.3724",
+                                "phone1": "616.222.3720"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Pine Rest Christian Mental Health Services",
+                "numFollowers": 5338,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Anxiety Disorders",
+                        "Depression & Mood Disorders",
+                        "Addiction Services",
+                        "Co-occuring Disorders",
+                        "Perinatal Mood & Anxiety Disorder",
+                        "Critical Incident Response",
+                        "Employee Assistance Programs",
+                        "Behavioral Health Management & Consulting",
+                        "Forensic Psychiatry & Psychology",
+                        "Research",
+                        "Medical Education"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://www.pinerest.org"
+            }
+        ]
+    }
+}

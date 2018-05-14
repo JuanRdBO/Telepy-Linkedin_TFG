@@ -1,0 +1,102 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2012,
+                "id": 9472688,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "80",
+                            "name": "Marketing y publicidad"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Frankfurt am Main",
+                                "postalCode": "60486",
+                                "street1": "Varrentrappstra\u00dfe 40-42"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "004969407681500"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "postalCode": "80636",
+                                "street1": "Erika-Mann-Str. 53"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 (0)69 407 681 500"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "postalCode": "10707",
+                                "street1": "Kurf\u00fcrstendamm 195/196"
+                            },
+                            "contactInfo": {
+                                "fax": "",
+                                "phone1": "+49 (0)30 6108207-06"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "ADVANT Group Germany",
+                "numFollowers": 69,
+                "specialties": {
+                    "_total": 12,
+                    "values": [
+                        "Communication Strategies",
+                        "Competitive advantages",
+                        "Brand Experience (Real|Media|Digital)",
+                        "Marketing",
+                        "Advertising",
+                        "Sponsoring",
+                        "Market research",
+                        "Digital Listening",
+                        "Media research",
+                        "Competitor analyses",
+                        "Projectmanagement",
+                        "Activation"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "http://advant.com"
+            }
+        ]
+    }
+}

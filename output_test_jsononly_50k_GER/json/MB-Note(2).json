@@ -1,0 +1,66 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 6,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2014,
+                "id": 16246531,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "105",
+                            "name": "Formaci\u00f3n profesional"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Winnipeg ",
+                                "postalCode": "R3W 0L4",
+                                "street1": "20 El Tassi Drive "
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Re-Brand You ",
+                "numFollowers": 15,
+                "specialties": {
+                    "_total": 10,
+                    "values": [
+                        "Professional Speaking",
+                        "Confidence Coaching",
+                        "Faciliation",
+                        "Training",
+                        "Personal Branding ",
+                        "Image Consulting ",
+                        "Personal Styling ",
+                        "Networking Master ",
+                        "Curvy Women of Influence ",
+                        "Stylist to Influential Professionals "
+                    ]
+                },
+                "websiteUrl": "https://www.rebrandyou.ca/"
+            }
+        ]
+    }
+}

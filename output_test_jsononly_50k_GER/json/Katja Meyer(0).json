@@ -1,0 +1,91 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 0,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "C",
+                    "name": "11-50"
+                },
+                "foundedYear": 2003,
+                "id": 1017609,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "126",
+                            "name": "Producci\u00f3n multimedia"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 2,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Copenhagen",
+                                "postalCode": "1211",
+                                "street1": "Brol\u00e6ggerstr\u00e6de 6, baghuset, 1. tv."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "Aarhus",
+                                "postalCode": "8000",
+                                "street1": "Mejlgade 27"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Skrivev\u00e6rkstedet",
+                "numFollowers": 113,
+                "specialties": {
+                    "_total": 20,
+                    "values": [
+                        "Bogr\u00e5dgivning",
+                        "B\u00f8ger",
+                        "E-b\u00f8ger",
+                        "Film- og teatermanuskriptvurdering",
+                        "Forfatterkurser",
+                        "Forfattertilbeh\u00f8r",
+                        "Ghostwriting",
+                        "Foredrag ",
+                        "Journalistkurser",
+                        "Korrektur",
+                        "Kurser",
+                        "Manuskripthj\u00e6lp",
+                        "Manuskriptvejledning",
+                        "PR",
+                        "Redakt\u00f8rhj\u00e6lp",
+                        "Redigering",
+                        "Skrivekurser",
+                        "Skriveophold",
+                        "Skriveskole",
+                        "Bogudgivelser"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.skrivevaerkstedet.dk"
+            }
+        ]
+    }
+}

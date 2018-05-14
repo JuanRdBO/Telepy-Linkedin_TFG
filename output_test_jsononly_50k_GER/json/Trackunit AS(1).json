@@ -1,0 +1,90 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 2,
+        "values": [
+            {
+                "companyType": {
+                    "code": "P",
+                    "name": "Privately Held"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "B",
+                    "name": "2-10"
+                },
+                "foundedYear": 2005,
+                "id": 10789664,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "55",
+                            "name": "Maquinaria"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Spijkenisse",
+                                "postalCode": "3208KK",
+                                "street1": "Einsteinweg 18"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "STOOF technische dienstverlening",
+                "numFollowers": 13,
+                "specialties": {
+                    "_total": 29,
+                    "values": [
+                        "Aerial Work Platforms",
+                        "Breathing Air Units",
+                        "Construction",
+                        "Machine telematics",
+                        "Aichi",
+                        "JLG",
+                        "Terex",
+                        "Genie",
+                        "Haulotte",
+                        "Atlas Copco",
+                        "Deutz",
+                        "Manitou",
+                        "SkyJack",
+                        "HollandLift",
+                        "Volvo",
+                        "Demag",
+                        "Tadano",
+                        "Potain",
+                        "Vicario",
+                        "GSR",
+                        "Teupen",
+                        "Toyota",
+                        "AWP",
+                        "Victron",
+                        "Trackunit",
+                        "Ruthmann",
+                        "OmmeLift",
+                        "Hitachi",
+                        "verhuur"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.stoof.nu"
+            }
+        ]
+    }
+}

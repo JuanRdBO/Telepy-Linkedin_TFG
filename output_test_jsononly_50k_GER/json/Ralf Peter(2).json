@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 17,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12778726,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Potsdam",
+                                "postalCode": "14478",
+                                "street1": "17 Binsenhof"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 331872132"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Ralf-Peter Zwirner",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.zahnarztpraxisgemeinschaft-potsdam.de"
+            }
+        ]
+    }
+}

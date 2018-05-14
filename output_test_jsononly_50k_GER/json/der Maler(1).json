@@ -1,0 +1,35 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 291,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12557217,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wermelskirchen",
+                                "postalCode": "42929",
+                                "street1": "36 Preyersm\u00fchle"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 219691295"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Der Maler Scheithauer GmbH",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.maler-scheithauer.de"
+            }
+        ]
+    }
+}

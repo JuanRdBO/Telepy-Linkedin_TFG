@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 4,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 7539959,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "48",
+                            "name": "Construcci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Petershausen",
+                                "postalCode": "85238",
+                                "street1": "4 Kirchstra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "081372346"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Rainer Schwarz Heizung-Sanit\u00e4r",
+                "numFollowers": 0,
+                "websiteUrl": "rainer-schwarz-heizungsbau.de"
+            }
+        ]
+    }
+}

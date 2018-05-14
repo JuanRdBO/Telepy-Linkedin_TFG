@@ -1,0 +1,72 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 7,
+        "values": [
+            {
+                "companyType": {
+                    "code": "C",
+                    "name": "Public Company"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "E",
+                    "name": "201-500"
+                },
+                "foundedYear": 1977,
+                "id": 3849753,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "147",
+                            "name": "Automaci\u00f3n industrial"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Wiesbaden",
+                                "postalCode": "65205",
+                                "street1": "Berlin\u00ader Stra\u00dfe 161"
+                            },
+                            "contactInfo": {
+                                "fax": "+49 611 7103-133",
+                                "phone1": "+49 611 7103-0"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Eckelmann AG",
+                "numFollowers": 317,
+                "specialties": {
+                    "_total": 8,
+                    "values": [
+                        "Maschinenautomation",
+                        "K\u00e4ltetechnik",
+                        "Anlagenautomation",
+                        "Geb\u00e4udeleittechnik",
+                        "Mobile Automation",
+                        "Medizintechnik",
+                        "Kundenspezifische Steuerungen",
+                        "Pr\u00fcfsysteme"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.eckelmann.de"
+            }
+        ]
+    }
+}

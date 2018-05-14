@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 25,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12348162,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "K\u00fcrnbach",
+                                "postalCode": "75057",
+                                "street1": "16 Gewerbestra\u00dfe"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "\u00d6hler",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.oehler-metallbau.de"
+            }
+        ]
+    }
+}

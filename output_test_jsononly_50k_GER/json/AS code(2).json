@@ -1,0 +1,92 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 46173,
+        "values": [
+            {
+                "companyType": {
+                    "code": "S",
+                    "name": "Partnership"
+                },
+                "emailDomains": {
+                    "_total": 0
+                },
+                "employeeCountRange": {
+                    "code": "D",
+                    "name": "51-200"
+                },
+                "foundedYear": 1973,
+                "id": 113188,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "50",
+                            "name": "Arquitectura y planificaci\u00f3n"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 3,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "St. Louis",
+                                "postalCode": "63146",
+                                "street1": "2043 Woodland Parkway"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        },
+                        {
+                            "address": {
+                                "city": "New York",
+                                "postalCode": "10018",
+                                "street1": "215 West 40th Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        },
+                        {
+                            "address": {
+                                "city": "Los Angeles",
+                                "postalCode": "90071",
+                                "street1": "455 S. Figueroa Street"
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": false
+                        }
+                    ]
+                },
+                "name": "Code Consultants, Inc. | St. Louis - New York - Los Angeles",
+                "numFollowers": 1493,
+                "specialties": {
+                    "_total": 11,
+                    "values": [
+                        "Building and Fire Code Consultation",
+                        "Accessibility Consultation",
+                        "Fire Sprinkler and Fire Alarm Systems Design",
+                        "Fire, Smoke, and Egress Modeling",
+                        "Statement of Conditions",
+                        "Hazardous Materials Analysis",
+                        "Fire Sprinkler Corrosion Assesment",
+                        "Information and Communications Technology Systems Design",
+                        "Audio Visual Systems Design",
+                        "Security Systems Design",
+                        "Low Voltage Systems Design"
+                    ]
+                },
+                "status": {
+                    "code": "OPR",
+                    "name": "Operating"
+                },
+                "twitterId": "",
+                "websiteUrl": "www.codeconsultants.com"
+            }
+        ]
+    }
+}

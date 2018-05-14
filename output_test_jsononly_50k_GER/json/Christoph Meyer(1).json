@@ -1,0 +1,33 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 1,
+        "_total": 6,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12186726,
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Herford",
+                                "postalCode": "32051",
+                                "street1": "236 Bielefelder Str."
+                            },
+                            "contactInfo": {},
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Christoph Meyer Zu Hartum",
+                "numFollowers": 0,
+                "websiteUrl": "http://www.springsport.eu"
+            }
+        ]
+    }
+}

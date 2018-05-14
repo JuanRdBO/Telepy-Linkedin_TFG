@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "_count": 1,
+        "_start": 2,
+        "_total": 8,
+        "values": [
+            {
+                "emailDomains": {
+                    "_total": 0
+                },
+                "id": 12743370,
+                "industries": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "code": "26",
+                            "name": "Mobiliario"
+                        }
+                    ]
+                },
+                "locations": {
+                    "_total": 1,
+                    "values": [
+                        {
+                            "address": {
+                                "city": "Schweinfurt",
+                                "postalCode": "97424",
+                                "street1": "22 Rudolf-Diesel-Stra\u00dfe"
+                            },
+                            "contactInfo": {
+                                "phone1": "+49 97215335880"
+                            },
+                            "isActive": true,
+                            "isHeadquarters": true
+                        }
+                    ]
+                },
+                "name": "Wolf M\u00f6bel GmbH & Co. KG",
+                "numFollowers": 11,
+                "websiteUrl": "http://www.wolf-moebel.de"
+            }
+        ]
+    }
+}

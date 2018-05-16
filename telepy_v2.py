@@ -546,21 +546,21 @@ print(bcolors.WARNING + '\nIt took', humanfriendly.format_timespan(time.time() -
       len(os.listdir("output/json/")), 'JSON files, from which',
       len((df['matches (starting at 0)'] == 0).unique().astype(int)) - 1, 'are empty\n', bcolors.ENDC)
 
-bot.send_message(chat_id=330239471, text=socket.gethostname()+": Telepy_v2: Starting CSV conversion.")
+bot.send_message(chat_id=330239471, text="<b>"+socket.gethostname()+":</b> Telepy_v2: Starting CSV conversion.", parse_mode=telegram.ParseMode.HTML)
 TELEPY.convert_to_csv()
 
-bot.send_message(chat_id=330239471, text=socket.gethostname()+": Telepy_v2: Unifying all CSV files.")
+bot.send_message(chat_id=330239471, text="<b>"+socket.gethostname()+":</b> Telepy_v2: Unifying all CSV files.", parse_mode=telegram.ParseMode.HTML)
 TELEPY.unify_companies(df, rows)
 
-bot.send_message(chat_id=330239471, text=socket.gethostname()+": Telepy_v2: Creating 'final_companies.csv'.")
+bot.send_message(chat_id=330239471, text="<b>"+socket.gethostname()+":</b> Telepy_v2: Creating 'final_companies.csv'.", parse_mode=telegram.ParseMode.HTML)
 TELEPY.unify_all_csv()
 
 postal_codes = TELEPY.read_postal_codes("de")
 
-bot.send_message(chat_id=330239471, text=socket.gethostname()+": Telepy_v2: Sourcing all german locations.")
+bot.send_message(chat_id=330239471, text="<b>"+socket.gethostname()+":</b> Sourcing all german locations.", parse_mode=telegram.ParseMode.HTML)
 final_statement = TELEPY.erase_unwanted_headquarters(postal_codes)
 
-bot.send_message(chat_id=330239471, text=socket.gethostname()+": Telepy_v2: Done. "+final_statement,)
+bot.send_message(chat_id=330239471, text="<b>"+socket.gethostname()+":</b> Done. "+final_statement, parse_mode=telegram.ParseMode.HTML)
 
 
 # This only when I got all three locations from country (loc_to_keep)

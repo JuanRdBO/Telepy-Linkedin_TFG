@@ -543,7 +543,7 @@ TELEPY.unify_companies(df, rows)
 
 TELEPY.unify_all_csv()
 
-postal_codes = TELEPY.read_postal_codes("ar")
+postal_codes = TELEPY.read_postal_codes("de")
 
 TELEPY.erase_unwanted_headquarters(postal_codes)
 

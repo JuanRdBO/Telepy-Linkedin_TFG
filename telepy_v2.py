@@ -533,7 +533,7 @@ except:
     pass
 
 bot = telegram.Bot(token='544485370:AAGcj3tJlduMprdz3rpVt1Fm-GL7uDGia4Q')
-bot.send_message(chat_id=330239471, text=socket.gethostname()+": New search launched. Starting JSON query.")
+bot.send_message(chat_id=330239471, text="<b>"+socket.gethostname()+":</b> New search launched. Starting JSON query.", parse_mode=telegram.ParseMode.HTML)
 TELEPY = TELEPY()
 
 TELEPY.drop_duplicates()
@@ -560,7 +560,7 @@ postal_codes = TELEPY.read_postal_codes("de")
 bot.send_message(chat_id=330239471, text=socket.gethostname()+": Telepy_v2: Sourcing all german locations.")
 final_statement = TELEPY.erase_unwanted_headquarters(postal_codes)
 
-bot.send_message(chat_id=330239471, text=socket.gethostname()+": Telepy_v2: Done. "+final_statement)
+bot.send_message(chat_id=330239471, text=socket.gethostname()+": Telepy_v2: Done. "+final_statement,)
 
 
 # This only when I got all three locations from country (loc_to_keep)

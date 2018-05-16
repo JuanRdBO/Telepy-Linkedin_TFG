@@ -24,7 +24,7 @@ import json
 import time
 
 import telegram
-
+import socket
 import warnings
 import numpy as np
 
@@ -531,10 +531,9 @@ try:
     print("Removed output folder!")
 except:
     pass
-    
-computerName = "Juan's MacBook"
+
 bot = telegram.Bot(token='544485370:AAGcj3tJlduMprdz3rpVt1Fm-GL7uDGia4Q')
-bot.send_message(chat_id=330239471, text=computerName+": New search launched. Starting JSON query.")
+bot.send_message(chat_id=330239471, text=socket.gethostname()+": New search launched. Starting JSON query.")
 TELEPY = TELEPY()
 
 TELEPY.drop_duplicates()
@@ -547,21 +546,21 @@ print(bcolors.WARNING + '\nIt took', humanfriendly.format_timespan(time.time() -
       len(os.listdir("output/json/")), 'JSON files, from which',
       len((df['matches (starting at 0)'] == 0).unique().astype(int)) - 1, 'are empty\n', bcolors.ENDC)
 
-bot.send_message(chat_id=330239471, text=computerName+": Telepy_v2: Starting CSV conversion.")
+bot.send_message(chat_id=330239471, text=socket.gethostname()+": Telepy_v2: Starting CSV conversion.")
 TELEPY.convert_to_csv()
 
-bot.send_message(chat_id=330239471, text=computerName+": Telepy_v2: Unifying all CSV files.")
+bot.send_message(chat_id=330239471, text=socket.gethostname()+": Telepy_v2: Unifying all CSV files.")
 TELEPY.unify_companies(df, rows)
 
-bot.send_message(chat_id=330239471, text=computerName+": Telepy_v2: Creating 'final_companies.csv'.")
+bot.send_message(chat_id=330239471, text=socket.gethostname()+": Telepy_v2: Creating 'final_companies.csv'.")
 TELEPY.unify_all_csv()
 
 postal_codes = TELEPY.read_postal_codes("de")
 
-bot.send_message(chat_id=330239471, text=computerName+": Telepy_v2: Sourcing all german locations.")
+bot.send_message(chat_id=330239471, text=socket.gethostname()+": Telepy_v2: Sourcing all german locations.")
 final_statement = TELEPY.erase_unwanted_headquarters(postal_codes)
 
-bot.send_message(chat_id=330239471, text=computerName+": Telepy_v2: Done. "+final_statement)
+bot.send_message(chat_id=330239471, text=socket.gethostname()+": Telepy_v2: Done. "+final_statement)
 
 
 # This only when I got all three locations from country (loc_to_keep)

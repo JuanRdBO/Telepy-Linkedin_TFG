@@ -221,10 +221,14 @@ class TELEPY:
     def read_postal_codes(self, country):
         if country == "de":
             postal_codes = pd.read_csv("postalCodes/de_postal_codes.csv", encoding='latin-1')
-            return postal_codes
+            return postal_codes['Place Name']
         if country == "ar":
             postal_codes = pd.read_csv("postalCodes/ar_postal_codes.csv", encoding='latin-1')
-            return postal_codes
+            return postal_codes['Place Name']
+        if country == "pe":
+            postal_codes = pd.read_csv("postalCodes/Distritos.csv", encoding = "latin-1", sep=";")
+            return postal_codes['NOMBDIST']
+            
     def erase_unwanted_headquarters(self, postal_codes):
 
         start = time.time()
@@ -342,7 +346,7 @@ class TELEPY:
                 print(bcolors.OKBLUE+ 'Verifying through named locations (city) : (', counter_feedback,'of', counter_feedback_total,')',bcolors.ENDC,end='\r')
                 counter_feedback+=1
                 # print('checking row:',row,'and col:',index,':[',type(final_company.loc[row][index]),final_company.loc[row][index],']->',len(postal_codes[postal_codes['Place Name'].str.contains(final_company.loc[row][index])]) > 0)
-                if len(postal_codes[postal_codes['Place Name'].str.contains(final_company.loc[row][index])]) > 0 or len(postal_codes[postal_codes['State'].str.contains(final_company.loc[row][index])]):
+                if len(postal_codes[postal_codes.str.contains(final_company.loc[row][index])]) > 0:
                     verified_index_city.append([row, index])
                     verified_index_city_colname.append([row, city_location_cols[city_index_cols.index(index)]])
         print('\n\nCould verify the following locations through city:', verified_index_city)

@@ -127,6 +127,10 @@ class TELEPY:
                 command = "python -m libjson2csv.json_2_csv './output/json/" + filename + ".json' './output/csv/" + filename + ".csv'"
                 os.system(command)
 
+                DataFrame_name = pd.read_csv('output/csv/' + filename + '.csv', dtype='unicode')
+                DataFrame_name.insert(loc = 0, column = 'Queried Name', value = re.sub(r'\([^)]*\)', '', filename))
+                DataFrame_name.to_csv('output/csv/' + filename + '.csv', index = False)
+
     @staticmethod
     def natural_keys(text: object) -> object:
         return [atof(c) for c in re.split(r'[+-]?([0-9]+(?:[.][0-9]*)?|[.][0-9]+)', text)]
@@ -148,19 +152,22 @@ class TELEPY:
         print("\n---------------------------------\n\nUnifying now all CSV files into a big one\n")
 
         csv_unifier_index = 0
+        company_csv = pd.DataFrame()
+        final_company = pd.DataFrame()
         for filename in csv_files:
             if sub in filename:
                 if not Path("output/csv/final_company.csv").is_file():
-                    company_csv = pd.read_csv("output/csv/" + filename, dtype='unicode')
-                    company_csv.to_csv("output/csv/final_company.csv", index=False)
-                else:
-                    company_csv = pd.read_csv("output/csv/final_company.csv", dtype='unicode')
-                    pandas_csv = pd.read_csv("output/csv/" + filename, dtype='unicode')
-                    concat_csv = [company_csv, pandas_csv]
-                    final_company = pd.concat(concat_csv)
+                    final_company = pd.read_csv("output/csv/" + filename, dtype='unicode')
                     final_company.to_csv("output/csv/final_company.csv", index=False)
+                else:
+                    #company_csv = pd.read_csv("output/csv/final_company.csv", dtype='unicode')
+                    pandas_csv = pd.read_csv("output/csv/" + filename, dtype='unicode')
+                    concat_csv = [final_company, pandas_csv]
+                    final_company = pd.concat(concat_csv)
+                    #final_company.to_csv("output/csv/final_company.csv", index=False)
                 print("Unified file " + str(csv_unifier_index+1)+ " of "+str(len(csv_files)), end="\r")
                 csv_unifier_index+=1
+        final_company.to_csv("output/csv/final_company.csv", index=False)                
         print("\nFinished unifying all csv files to: 'final_company.csv'")
 
     def read_source_csv(self):
@@ -213,8 +220,9 @@ class TELEPY:
         if country == "de":
             postal_codes = pd.read_csv("postalCodes/de_postal_codes.csv", encoding='latin-1')
             return postal_codes
-
-    # work in progress
+        if country == "ar":
+            postal_codes = pd.read_csv("postalCodes/ar_postal_codes.csv", encoding='latin-1')
+            return postal_codes
     def erase_unwanted_headquarters(self, postal_codes):
 
         start = time.time()
@@ -332,7 +340,7 @@ class TELEPY:
                 print(bcolors.OKBLUE+ 'Verifying through named locations (city) : (', counter_feedback,'of', counter_feedback_total,')',bcolors.ENDC,end='\r')
                 counter_feedback+=1
                 # print('checking row:',row,'and col:',index,':[',type(final_company.loc[row][index]),final_company.loc[row][index],']->',len(postal_codes[postal_codes['Place Name'].str.contains(final_company.loc[row][index])]) > 0)
-                if len(postal_codes[postal_codes['Place Name'].str.contains(final_company.loc[row][index])]) > 0:
+                if len(postal_codes[postal_codes['Place Name'].str.contains(final_company.loc[row][index])]) > 0 or len(postal_codes[postal_codes['State'].str.contains(final_company.loc[row][index])]):
                     verified_index_city.append([row, index])
                     verified_index_city_colname.append([row, city_location_cols[city_index_cols.index(index)]])
         print('\n\nCould verify the following locations through city:', verified_index_city)
@@ -425,6 +433,10 @@ class TELEPY:
 
         verified_companies = pd.concat([item for item in companies], axis=0)
 
+        df_companyName = verified_companies.pop('companies.values[0].name')
+
+        verified_companies.insert(loc=1, column ='Returned Name', value = df_companyName)
+
         verified_companies.replace(np.nan, "N/A", regex=True).to_csv('./output/csv/TEST.csv', index=False)
 
         erase_unwanted_headquarters_finalStatement = 'It took '+ humanfriendly.format_timespan(time.time() - start)+ ' to comb through '+str(counter_feedback_total)+' entries (or '+str(len(final_company.index))+' companies) and verify  '+str(len(total_german_companies_index))+ ' matches from which '+str(len([item for item in companies]))+ ' are companies - ',"{0:.2f}".format((len([item for item in companies])/len(final_company.index))*100)+'% hit rate.'
@@ -487,7 +499,7 @@ class TELEPY:
         #print(df)
 
     def drop_duplicates(self):
-        with open("./sample_input.csv") as infile, open("outfile.csv", "w") as outfile:
+        with open("./sample_input.csv", encoding='latin-1') as infile, open("outfile.csv", "w") as outfile:
             for line in infile:
                 outfile.write(line.replace(",", ""))
         os.rename("./outfile.csv", "./sample_input.csv")
@@ -507,7 +519,7 @@ class TELEPY:
         sample_input.to_csv("./sample_input.csv", index=False)
 
 try:
-    #shutil.rmtree('./output')
+    shutil.rmtree('./output')
     print("Removed output folder!")
 except:
     pass
@@ -518,21 +530,20 @@ TELEPY.drop_duplicates()
 
 df, rows = TELEPY.read_source_csv()
 
-df['matches (starting at 0)'] = 0
 
-# df = TELEPY.doQuery(155, rows, 0, 3, 0)
+df = TELEPY.doQuery(155, rows, 0, 3, 0)
 
-# print(bcolors.WARNING + '\nIt took', humanfriendly.format_timespan(time.time() - start), 'seconds to fetch',
-#       len(os.listdir("output/json/")), 'JSON files, from which',
-#       len((df['matches (starting at 0)'] == 0).unique().astype(int)) - 1, 'are empty\n', bcolors.ENDC)
+print(bcolors.WARNING + '\nIt took', humanfriendly.format_timespan(time.time() - start), 'seconds to fetch',
+      len(os.listdir("output/json/")), 'JSON files, from which',
+      len((df['matches (starting at 0)'] == 0).unique().astype(int)) - 1, 'are empty\n', bcolors.ENDC)
 
-#TELEPY.convert_to_csv()
+TELEPY.convert_to_csv()
 
 TELEPY.unify_companies(df, rows)
 
 TELEPY.unify_all_csv()
 
-postal_codes = TELEPY.read_postal_codes("de")
+postal_codes = TELEPY.read_postal_codes("ar")
 
 TELEPY.erase_unwanted_headquarters(postal_codes)
 

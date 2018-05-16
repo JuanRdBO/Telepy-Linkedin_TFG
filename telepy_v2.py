@@ -23,6 +23,8 @@ import pandas as pd
 import json
 import time
 
+import telegram
+
 import warnings
 import numpy as np
 
@@ -447,6 +449,8 @@ class TELEPY:
 
         print('\n'+bcolors.WARNING + "".join(erase_unwanted_headquarters_finalStatement)+ bcolors.ENDC)
 
+        return "".join(erase_unwanted_headquarters_finalStatement)
+    
     def doQuery(self, app_, rows_, starting_point_, matches_to_get_, match_):
         app = app_
         zero_matches_to_get = []
@@ -524,12 +528,13 @@ try:
 except:
     pass
 
+bot = telegram.Bot(token='544485370:AAGcj3tJlduMprdz3rpVt1Fm-GL7uDGia4Q')
+bot.send_message(chat_id=330239471, text="New search launched. Starting JSON query.")
 TELEPY = TELEPY()
 
 TELEPY.drop_duplicates()
 
 df, rows = TELEPY.read_source_csv()
-
 
 df = TELEPY.doQuery(1, rows, 0, 3, 0)
 
@@ -537,15 +542,22 @@ print(bcolors.WARNING + '\nIt took', humanfriendly.format_timespan(time.time() -
       len(os.listdir("output/json/")), 'JSON files, from which',
       len((df['matches (starting at 0)'] == 0).unique().astype(int)) - 1, 'are empty\n', bcolors.ENDC)
 
+bot.send_message(chat_id=330239471, text="Telepy_v2: Starting CSV conversion.")
 TELEPY.convert_to_csv()
 
+bot.send_message(chat_id=330239471, text="Telepy_v2: Unifying all CSV files.")
 TELEPY.unify_companies(df, rows)
 
+bot.send_message(chat_id=330239471, text="Telepy_v2: Creating 'final_companies.csv'.")
 TELEPY.unify_all_csv()
 
 postal_codes = TELEPY.read_postal_codes("de")
 
-TELEPY.erase_unwanted_headquarters(postal_codes)
+bot.send_message(chat_id=330239471, text="Telepy_v2: Sourcing all german locations.")
+final_statement = TELEPY.erase_unwanted_headquarters(postal_codes)
+
+bot.send_message(chat_id=330239471, text="Telepy_v2: Done. "+final_statement)
+
 
 # This only when I got all three locations from country (loc_to_keep)
 # TELEPY.remove_location_cols(3)

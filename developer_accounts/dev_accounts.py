@@ -196,7 +196,7 @@ class NEW_ACCOUNTS:
 # book = xlrd.open_workbook("/Users/juanruizdebustillo/GitHub/Telepy-Linkedin_TFG/developer_accounts/account_names.xls")
 # sh = book.sheet_by_index(0)
 # print("Number of Apps to create: "+str(sh.nrows))
-# for rx in range(1,sh.nrows):    
+# for rx in range(300,sh.nrows):    
 
 # 	app_name = sh.row(rx)[0].value
 # 	description = sh.row(rx)[1].value

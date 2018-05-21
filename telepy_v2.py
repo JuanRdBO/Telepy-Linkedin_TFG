@@ -540,7 +540,7 @@ TELEPY.drop_duplicates()
 
 df, rows = TELEPY.read_source_csv()
 
-df = TELEPY.doQuery(1, rows, 0, 3, 0)
+df = TELEPY.doQuery(253, rows, 0, 3, 0)
 
 print(bcolors.WARNING + '\nIt took', humanfriendly.format_timespan(time.time() - start), 'seconds to fetch',
       len(os.listdir("output/json/")), 'JSON files, from which',

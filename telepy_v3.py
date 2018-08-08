@@ -195,6 +195,9 @@ class TELEPY:
         if country == "pe":
             postal_codes = pd.read_csv("postalCodes/Distritos.csv", encoding = "latin-1", sep=";")
             return postal_codes['NOMBDIST']
+        if country == "ch":
+            postal_codes = pd.read_csv("postalCodes/ch_postal_codes.csv", encoding = "latin-1", sep=";").astype(str)
+            return postal_codes['Nombre Comuna']
 
     
     
@@ -530,10 +533,10 @@ class mainThread (threading.Thread):
         print("Starting " + self.name)
         if self.mode ==1:               
             bot = telegram.Bot(token='544485370:AAGcj3tJlduMprdz3rpVt1Fm-GL7uDGia4Q')
-            bot.send_message(chat_id=330239471, text="<b>"+socket.gethostname()+":</b> New search launched. Starting JSON query.", parse_mode=telegram.ParseMode.HTML)
+            # bot.send_message(chat_id=330239471, text="<b>"+socket.gethostname()+":</b> New search launched. Starting JSON query.", parse_mode=telegram.ParseMode.HTML)
             df_new = df_input[int(self.counter*len(self.df)/self.nThreads):(self.counter+1)*int(len(df_input)/nThreads)].reset_index(drop=True)
             print(df_new) 
-            df, json_files = TELEPY.doQuery (251, len(df_new.index), 0, 3, 0, self.name, df_new)   
+            df, json_files = TELEPY.doQuery (1, len(df_new.index), 0, 3, 0, self.name, df_new)   
             print(bcolors.WARNING + '\n'+self.name+' - It took', humanfriendly.format_timespan(time.time() - start), 'seconds to fetch',
                   len(json_files), 'JSON files, from which',
                   len((df['matches (starting at 0)'] == 0).unique().astype(int)- 1), 'are empty\n', bcolors.ENDC)     
@@ -602,10 +605,10 @@ TELEPY = TELEPY()
 TELEPY.drop_duplicates()
 
 df_input, rows_input = TELEPY.read_source_csv()
-postal_codes = TELEPY.read_postal_codes("de")
+postal_codes = TELEPY.read_postal_codes("ch")
 final_company = pd.DataFrame()
 
-numberThreads = 12
+numberThreads = 4
 nThreads = len(df_input.index) if numberThreads > len(df_input.index) else numberThreads
 
 writerT = writerThread("Writer-Thread", nThreads).start()
@@ -650,7 +653,7 @@ fd.write("".join(erase_unwanted_headquarters_finalStatement))
 fd.close()
 
 print('\n'+bcolors.WARNING + "".join(erase_unwanted_headquarters_finalStatement)+ bcolors.ENDC)
-bot.send_message(chat_id=330239471, text="<b>"+socket.gethostname()+":</b> Done. "+"".join(erase_unwanted_headquarters_finalStatement), parse_mode=telegram.ParseMode.HTML)
+# bot.send_message(chat_id=330239471, text="<b>"+socket.gethostname()+":</b> Done. "+"".join(erase_unwanted_headquarters_finalStatement), parse_mode=telegram.ParseMode.HTML)
 
 print("Finished!")
 

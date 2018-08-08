@@ -57,13 +57,20 @@ class ACCESS_TOKEN:
         python_mail.send_keys('juan.ohngemach@hotmail.com')
         python_password = driver.find_element_by_name('session_password')
         python_password.send_keys('Colt123456')
-        python_button = driver.find_element_by_name('authorize')
-        python_button.click()
-
-        url = driver.current_url
+        try:
+            python_button = driver.find_element_by_name('authorize')
+            python_button.click()
+        except:
+            python_button = driver.find_element_by_name('signin')
+            python_button.click()
         #Returned URL
         #print('\nFull Return URL:\n'+url)
-
+        try:
+            python_button = driver.find_element_by_name('action')
+            python_button.click()
+        except:
+            pass
+        url = driver.current_url    
         authentication.authorization_code = url.split('code=')[1].split('&')[0]
 
         print('\nAccess code:\n'+authentication.authorization_code+'\n')
@@ -98,11 +105,11 @@ class ACCESS_TOKEN:
 
 
 
-# Use this for renewing tokens 
-#wb = xlrd.open_workbook("/Users/juanruizdebustillo/GitHub/Telepy-Linkedin_TFG/renew_token/secrets.xls")
-#sheet = wb.sheet_by_index(0)
+# # Use this for renewing tokens 
+# wb = xlrd.open_workbook("/Users/juanruizdebustillo/GitHub/Telepy-Linkedin_TFG/renew_token/secrets.xls")
+# sheet = wb.sheet_by_index(0)
 
-#for i in range(300,sheet.nrows):
+# for i in range(1,sheet.nrows):
 #    print("\n-------------------------------\nRenewing for "+str(i)+" of "+ str(sheet.nrows-1))
 #    token_juan = ACCESS_TOKEN(i)
 #    token_juan.register()

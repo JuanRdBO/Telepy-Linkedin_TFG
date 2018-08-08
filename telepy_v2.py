@@ -346,9 +346,12 @@ class TELEPY:
                 print(bcolors.OKBLUE+ 'Verifying through named locations (city) : (', counter_feedback,'of', counter_feedback_total,')',bcolors.ENDC,end='\r')
                 counter_feedback+=1
                 # print('checking row:',row,'and col:',index,':[',type(final_company.loc[row][index]),final_company.loc[row][index],']->',len(postal_codes[postal_codes['Place Name'].str.contains(final_company.loc[row][index])]) > 0)
-                if len(postal_codes[postal_codes.str.contains(final_company.loc[row][index])]) > 0:
-                    verified_index_city.append([row, index])
-                    verified_index_city_colname.append([row, city_location_cols[city_index_cols.index(index)]])
+                try:
+                    if len(postal_codes[postal_codes.str.contains(final_company.loc[row][index])]) > 0:
+                        verified_index_city.append([row, index])
+                        verified_index_city_colname.append([row, city_location_cols[city_index_cols.index(index)]])
+                except:
+                    pass
         print('\n\nCould verify the following locations through city:', verified_index_city)
 
         total_german_companies_index = sorted(verified_index_postalCode + verified_index_city,
@@ -540,7 +543,7 @@ TELEPY.drop_duplicates()
 
 df, rows = TELEPY.read_source_csv()
 
-df = TELEPY.doQuery(253, rows, 0, 3, 0)
+df = TELEPY.doQuery(500, rows, 0, 3, 0)
 
 print(bcolors.WARNING + '\nIt took', humanfriendly.format_timespan(time.time() - start), 'seconds to fetch',
       len(os.listdir("output/json/")), 'JSON files, from which',
